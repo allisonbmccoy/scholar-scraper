@@ -1,4 +1,4 @@
-var date = "Sat Oct 11 2014 20:50:13 GMT-0500 (Central Daylight Time)"
+var date = "Mon Oct 13 2014 09:03:09 GMT-0500 (Central Daylight Time)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",

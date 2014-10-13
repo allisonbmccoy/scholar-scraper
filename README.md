@@ -15,6 +15,7 @@ $ npm install request cheerio async
 $ node scrape.js ./people-ir.json > stats-ir.js
 $ node scrape.js ./people-hci.json > stats-hci.js
 $ node scrape.js ./people-stratosphere.json > stats-stratosphere.js
+$ node scrape.js ./people-bmi.json > stats-bmi.js
 ``` 
 
 Then open up `index.html` and it should display the new statistics.
