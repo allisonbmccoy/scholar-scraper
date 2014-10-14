@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var date = "Tue Oct 14 2014 08:40:27 GMT-0400 (EDT)"
 var data = [
   {
@@ -13421,3 +13422,5 @@ var data = [
     }
   }
 ];
+=======
+>>>>>>> Autoupdate
