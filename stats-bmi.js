@@ -1,4 +1,4 @@
-var date = "Tue Oct 14 2014 09:02:53 GMT-0400 (EDT)"
+var date = "Wed Oct 15 2014 10:56:32 GMT-0400 (EDT)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",
@@ -667,8 +667,8 @@ var data = [
     "year": 2001,
     "stats": {
       "citations": [
-        "4876",
-        "3561"
+        "4878",
+        "3563"
       ],
       "hindex": [
         "29",
@@ -4587,16 +4587,16 @@ var data = [
     "year": 1991,
     "stats": {
       "citations": [
-        "3661",
-        "1121"
+        "3597",
+        "1096"
       ],
       "hindex": [
-        "25",
-        "18"
+        "24",
+        "17"
       ],
       "i10index": [
-        "29",
-        "21"
+        "28",
+        "20"
       ]
     }
   },
@@ -4682,7 +4682,7 @@ var data = [
   },
   {
     "name": "Guoqian Jiang, MD, PhD",
-    "affiliation": "Associate Professor of Medical Informatics, Mayo Clinic College of Medicine",
+    "affiliation": "Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine",
     "url": "http://scholar.google.com/citations?user=eheNclEAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -5947,15 +5947,15 @@ var data = [
     "year": 1995,
     "stats": {
       "citations": [
-        "11258",
-        "6897"
+        "11362",
+        "6907"
       ],
       "hindex": [
-        "55",
+        "56",
         "41"
       ],
       "i10index": [
-        "149",
+        "151",
         "117"
       ]
     }
@@ -7747,8 +7747,8 @@ var data = [
     "year": 2000,
     "stats": {
       "citations": [
-        "58",
-        "31"
+        "52",
+        "29"
       ],
       "hindex": [
         "4",
@@ -11077,6 +11077,26 @@ var data = [
       "i10index": [
         "9",
         "6"
+      ]
+    }
+  },
+  {
+    "name": "Samuel Trent Rosenbloom ACMI",
+    "affiliation": "Vanderbilt University Medical Center",
+    "url": "http://scholar.google.com/citations?user=k2RLJ0kAAAAJ&hl=en",
+    "year": 2004,
+    "stats": {
+      "citations": [
+        "1621",
+        "1251"
+      ],
+      "hindex": [
+        "21",
+        "20"
+      ],
+      "i10index": [
+        "42",
+        "37"
       ]
     }
   },
