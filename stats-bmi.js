@@ -1,4 +1,4 @@
-var date = "Tue Oct 14 2014 09:12:13 GMT-0400 (EDT)"
+var date = "Wed Oct 15 2014 09:36:42 GMT-0500 (Central Daylight Time)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",
@@ -22,7 +22,7 @@ var data = [
   },
   {
     "name": "Aaron Cohen",
-    "affiliation": "Associate Professor, Oregon Health & Science University",
+    "affiliation": "Associate Professor, Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=XBpRLvYAAAAJ",
     "year": 2004,
     "stats": {
@@ -62,7 +62,7 @@ var data = [
   },
   {
     "name": "Abdul Roudsari",
-    "affiliation": "Director&Professor of Health Informatics , University of Victoria",
+    "affiliation": "Director&amp;Professor of Health Informatics , University of Victoria",
     "url": "http://scholar.google.com/citations?user=LHASEZIAAAAJ&hl=en",
     "year": 1992,
     "stats": {
@@ -142,7 +142,7 @@ var data = [
   },
   {
     "name": "Adam Wright",
-    "affiliation": "Assistant Professor of Medicine, Brigham and Women's Hospital, Harvard Medical School",
+    "affiliation": "Assistant Professor of Medicine, Brigham and Women&#39;s Hospital, Harvard Medical School",
     "url": "http://scholar.google.com/citations?user=bt-gHuUAAAAJ&hl=en",
     "year": 2007,
     "stats": {
@@ -402,7 +402,7 @@ var data = [
   },
   {
     "name": "Alessio Bottrighi",
-    "affiliation": "Research Assistant Professor of Computer Science, Universita' del Piemonte Orientale",
+    "affiliation": "Research Assistant Professor of Computer Science, Universita&#39; del Piemonte Orientale",
     "url": "http://scholar.google.com/citations?user=wsmjN9IAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -667,8 +667,8 @@ var data = [
     "year": 2001,
     "stats": {
       "citations": [
-        "4876",
-        "3561"
+        "4878",
+        "3563"
       ],
       "hindex": [
         "29",
@@ -842,7 +842,7 @@ var data = [
   },
   {
     "name": "Andy Spooner",
-    "affiliation": "Chief Medical Information Officer, Cincinnati Children's Hospital Medical Center",
+    "affiliation": "Chief Medical Information Officer, Cincinnati Children&#39;s Hospital Medical Center",
     "url": "http://scholar.google.com/citations?user=ffwmG20AAAAJ&hl=en",
     "year": 1996,
     "stats": {
@@ -882,7 +882,7 @@ var data = [
   },
   {
     "name": "Anil Jegga",
-    "affiliation": "Associate Professor of Biomedical Informatics, Cincinnati Children's Hospital Medical Center",
+    "affiliation": "Associate Professor of Biomedical Informatics, Cincinnati Children&#39;s Hospital Medical Center",
     "url": "http://scholar.google.com/citations?user=VcTd4isAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -1002,7 +1002,7 @@ var data = [
   },
   {
     "name": "Anurag Agrawal",
-    "affiliation": "CSIR Institute of Genomics & Integrative Biology, Center for Translational Research in Asthma & Lung",
+    "affiliation": "CSIR Institute of Genomics &amp; Integrative Biology, Center for Translational Research in Asthma &amp; Lung",
     "url": "http://scholar.google.com/citations?user=RWR2iU4AAAAJ&hl=en",
     "year": 2005,
     "stats": {
@@ -1042,7 +1042,7 @@ var data = [
   },
   {
     "name": "Arash Mostaghimi, MD MPA",
-    "affiliation": "Instructor in Dermatology and Medicine, Brigham and Women's Hospital",
+    "affiliation": "Instructor in Dermatology and Medicine, Brigham and Women&#39;s Hospital",
     "url": "http://scholar.google.com/citations?user=0VaCfdkAAAAJ&hl=en",
     "year": 2007,
     "stats": {
@@ -1362,7 +1362,7 @@ var data = [
   },
   {
     "name": "Aziz Sheikh",
-    "affiliation": "The University of Edinburgh; Harvard Medical School; Brigham & Women's Hospital",
+    "affiliation": "The University of Edinburgh; Harvard Medical School; Brigham &amp; Women&#39;s Hospital",
     "url": "http://scholar.google.com/citations?user=BWpmAZcAAAAJ&hl=en",
     "year": 2001,
     "stats": {
@@ -1422,7 +1422,7 @@ var data = [
   },
   {
     "name": "Bashar Horanieh",
-    "affiliation": "King Faisal Specialist Hospital & Research Center",
+    "affiliation": "King Faisal Specialist Hospital &amp; Research Center",
     "url": "http://scholar.google.com/citations?user=ZKv8crEAAAAJ&hl=en",
     "year": 2010,
     "stats": {
@@ -1502,7 +1502,7 @@ var data = [
   },
   {
     "name": "Bill Hersh ACMI",
-    "affiliation": "Oregon Health & Science University",
+    "affiliation": "Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=xFn_7nUAAAAJ&hl=en",
     "year": 1991,
     "stats": {
@@ -1942,7 +1942,7 @@ var data = [
   },
   {
     "name": "Caroline Johnston",
-    "affiliation": "King's College London",
+    "affiliation": "King&#39;s College London",
     "url": "http://scholar.google.com/citations?user=f-7NNFIAAAAJ&hl=en",
     "year": 2005,
     "stats": {
@@ -2622,7 +2622,7 @@ var data = [
   },
   {
     "name": "Daniel A Hirsh",
-    "affiliation": "Pediatric Emergency Medicine Associates and Children's Healthcare of Atlanta",
+    "affiliation": "Pediatric Emergency Medicine Associates and Children&#39;s Healthcare of Atlanta",
     "url": "http://scholar.google.com/citations?user=KZYqJk8AAAAJ&hl=en",
     "year": 2000,
     "stats": {
@@ -2682,7 +2682,7 @@ var data = [
   },
   {
     "name": "Daniel Nigrin",
-    "affiliation": "Chief Information Officer, Boston Children's Hospital; Assistant Professor, Harvard Medical School",
+    "affiliation": "Chief Information Officer, Boston Children&#39;s Hospital; Assistant Professor, Harvard Medical School",
     "url": "http://scholar.google.com/citations?user=RjJyha8AAAAJ&hl=en",
     "year": 1994,
     "stats": {
@@ -2862,7 +2862,7 @@ var data = [
   },
   {
     "name": "David Ameisen",
-    "affiliation": "Ph.D. - PostDoc in Biology-Biotechnology & Medical Imaging, LIAFA, Universit� Paris Diderot ",
+    "affiliation": "Ph.D. - PostDoc in Biology-Biotechnology &amp; Medical Imaging, LIAFA, Universit� Paris Diderot ",
     "url": "http://scholar.google.com/citations?user=xNVkCk4AAAAJ&hl=en",
     "year": 2008,
     "stats": {
@@ -2902,7 +2902,7 @@ var data = [
   },
   {
     "name": "David C. Kaelber",
-    "affiliation": "CMIO, The MetroHealth System; Assoc. Prof. Med-Peds & Epi-Bio at CWRU",
+    "affiliation": "CMIO, The MetroHealth System; Assoc. Prof. Med-Peds &amp; Epi-Bio at CWRU",
     "url": "http://scholar.google.com/citations?user=scmmlfQAAAAJ&hl=en",
     "year": 2004,
     "stats": {
@@ -3142,7 +3142,7 @@ var data = [
   },
   {
     "name": "Dean Karavite",
-    "affiliation": "Center for Biomedical Informatics, The Children's Hospital of Philadelphia",
+    "affiliation": "Center for Biomedical Informatics, The Children&#39;s Hospital of Philadelphia",
     "url": "http://scholar.google.com/citations?user=CyWjG3YAAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -3162,7 +3162,7 @@ var data = [
   },
   {
     "name": "Deepak K. Gupta",
-    "affiliation": "Resident, Neurology, University Hospitals & Case Western Reserve University",
+    "affiliation": "Resident, Neurology, University Hospitals &amp; Case Western Reserve University",
     "url": "http://scholar.google.com/citations?user=KpP2RagAAAAJ&hl=en",
     "year": 2011,
     "stats": {
@@ -3562,7 +3562,7 @@ var data = [
   },
   {
     "name": "Duane Steward",
-    "affiliation": "Medical Knowledge Engineering & Affiliates",
+    "affiliation": "Medical Knowledge Engineering &amp; Affiliates",
     "url": "http://scholar.google.com/citations?user=LQvtnR4AAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -3822,7 +3822,7 @@ var data = [
   },
   {
     "name": "Eric Kirkendall",
-    "affiliation": "Associate Chief Medical Information Officer, Cincinnati Children's Hospital Medical Center, Assistant Professor, University of C",
+    "affiliation": "Associate Chief Medical Information Officer, Cincinnati Children&#39;s Hospital Medical Center, Assistant Professor, University of C",
     "url": "http://scholar.google.com/citations?user=KqOr10wAAAAJ&hl=en",
     "year": 2012,
     "stats": {
@@ -3842,7 +3842,7 @@ var data = [
   },
   {
     "name": "Eric S. Hall",
-    "affiliation": "Assistant Professor, Cincinnati Children's Hospital",
+    "affiliation": "Assistant Professor, Cincinnati Children&#39;s Hospital",
     "url": "http://scholar.google.com/citations?user=LZXBCw8AAAAJ&hl=en",
     "year": 2002,
     "stats": {
@@ -4142,7 +4142,7 @@ var data = [
   },
   {
     "name": "Fred Weigel",
-    "affiliation": "Assistant Professor; Chair, Research & Faculty Development Committee, Army-Baylor Graduate Program",
+    "affiliation": "Assistant Professor; Chair, Research &amp; Faculty Development Committee, Army-Baylor Graduate Program",
     "url": "http://scholar.google.com/citations?user=MMXLvJcAAAAJ&hl=en",
     "year": 2009,
     "stats": {
@@ -4462,7 +4462,7 @@ var data = [
   },
   {
     "name": "Gio Wiederhold ACMI",
-    "affiliation": "Emeritus Professor of Computer Science, Electrical Enginering, & Medicine, Stanford University",
+    "affiliation": "Emeritus Professor of Computer Science, Electrical Enginering, &amp; Medicine, Stanford University",
     "url": "http://scholar.google.com/citations?user=fJiGhkoAAAAJ",
     "year": 1981,
     "stats": {
@@ -4587,16 +4587,16 @@ var data = [
     "year": 1991,
     "stats": {
       "citations": [
-        "3661",
-        "1121"
+        "3597",
+        "1096"
       ],
       "hindex": [
-        "25",
-        "18"
+        "24",
+        "17"
       ],
       "i10index": [
-        "29",
-        "21"
+        "28",
+        "20"
       ]
     }
   },
@@ -4682,7 +4682,7 @@ var data = [
   },
   {
     "name": "Guoqian Jiang, MD, PhD",
-    "affiliation": "Associate Professor of Medical Informatics, Mayo Clinic College of Medicine",
+    "affiliation": "Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine",
     "url": "http://scholar.google.com/citations?user=eheNclEAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -4902,7 +4902,7 @@ var data = [
   },
   {
     "name": "Henning Muller",
-    "affiliation": "Professor in computer science at HES-SO & in radiology at the University of Geneva",
+    "affiliation": "Professor in computer science at HES-SO &amp; in radiology at the University of Geneva",
     "url": "http://scholar.google.com/citations?user=UEZ9RlUAAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -5182,7 +5182,7 @@ var data = [
   },
   {
     "name": "Hyunggu Jung",
-    "affiliation": "PhD Student of Biomedical & Health Informatics, University of Washington",
+    "affiliation": "PhD Student of Biomedical &amp; Health Informatics, University of Washington",
     "url": "http://scholar.google.com/citations?user=r848FDAAAAAJ&hl=en",
     "year": 2010,
     "stats": {
@@ -5302,7 +5302,7 @@ var data = [
   },
   {
     "name": "Isaac Kohane ACMI",
-    "affiliation": "Harvard Medical School, Children's Hospital, Brigham and Women's Hospital",
+    "affiliation": "Harvard Medical School, Children&#39;s Hospital, Brigham and Women&#39;s Hospital",
     "url": "http://scholar.google.com/citations?user=xn4tmfQAAAAJ&hl=en",
     "year": 1996,
     "stats": {
@@ -5422,7 +5422,7 @@ var data = [
   },
   {
     "name": "James Hoffman",
-    "affiliation": "St. Jude Children's Research Hospital",
+    "affiliation": "St. Jude Children&#39;s Research Hospital",
     "url": "http://scholar.google.com/citations?user=ZBXb2d8AAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -5462,7 +5462,7 @@ var data = [
   },
   {
     "name": "Jan Horsky",
-    "affiliation": "Brigham & Women's Hospital, Harvard University",
+    "affiliation": "Brigham &amp; Women&#39;s Hospital, Harvard University",
     "url": "http://scholar.google.com/citations?user=aEcZzDUAAAAJ&hl=en",
     "year": 2000,
     "stats": {
@@ -5902,7 +5902,7 @@ var data = [
   },
   {
     "name": "Joan Ash ACMI",
-    "affiliation": "Professor, Oregon Health & Science University",
+    "affiliation": "Professor, Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=iNx_0UgAAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -5947,22 +5947,22 @@ var data = [
     "year": 1995,
     "stats": {
       "citations": [
-        "11258",
-        "6897"
+        "11362",
+        "6907"
       ],
       "hindex": [
-        "55",
+        "56",
         "41"
       ],
       "i10index": [
-        "149",
+        "151",
         "117"
       ]
     }
   },
   {
     "name": "Joel Dudley",
-    "affiliation": "Director of Biomedical Informatics & Assistant Professor, Mount Sinai School of Medicine",
+    "affiliation": "Director of Biomedical Informatics &amp; Assistant Professor, Mount Sinai School of Medicine",
     "url": "http://scholar.google.com/citations?user=206DEM0AAAAJ&hl=en",
     "year": 2008,
     "stats": {
@@ -5982,7 +5982,7 @@ var data = [
   },
   {
     "name": "Joel M Guthridge",
-    "affiliation": "Director of Translational Informatics & Clinical Resources, Assoc. Res. Member, Arthritis & Clinical",
+    "affiliation": "Director of Translational Informatics &amp; Clinical Resources, Assoc. Res. Member, Arthritis &amp; Clinical",
     "url": "http://scholar.google.com/citations?user=_OEUVnkAAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -6122,7 +6122,7 @@ var data = [
   },
   {
     "name": "John H Gennari",
-    "affiliation": "Biomedical & Health Informatics, University of Washington",
+    "affiliation": "Biomedical &amp; Health Informatics, University of Washington",
     "url": "http://scholar.google.com/citations?user=0Gm3vNoAAAAJ&hl=en",
     "year": 1989,
     "stats": {
@@ -6282,7 +6282,7 @@ var data = [
   },
   {
     "name": "Jonathan C. Silverstein ACMI",
-    "affiliation": "Vice President & Davis Family Chair of Informatics, NorthShore University HealthSystem and UChicago",
+    "affiliation": "Vice President &amp; Davis Family Chair of Informatics, NorthShore University HealthSystem and UChicago",
     "url": "http://scholar.google.com/citations?user=L8w3PNwAAAAJ&hl=en",
     "year": 1996,
     "stats": {
@@ -6342,7 +6342,7 @@ var data = [
   },
   {
     "name": "Jorge Galvez MD",
-    "affiliation": "Assistant Professor of Anesthesiology & Critical Care, The Children's Hospital of Philadelphia.",
+    "affiliation": "Assistant Professor of Anesthesiology &amp; Critical Care, The Children&#39;s Hospital of Philadelphia.",
     "url": "http://scholar.google.com/citations?user=pa61iqwAAAAJ&hl=en",
     "year": 2012,
     "stats": {
@@ -6502,7 +6502,7 @@ var data = [
   },
   {
     "name": "Jude Shavlik",
-    "affiliation": "Professor of Computer Science and of Biostatistics & Medical Informatics, University of Wisconsin",
+    "affiliation": "Professor of Computer Science and of Biostatistics &amp; Medical Informatics, University of Wisconsin",
     "url": "http://scholar.google.com/citations?user=okf5bmQAAAAJ&hl=en",
     "year": 1989,
     "stats": {
@@ -6562,7 +6562,7 @@ var data = [
   },
   {
     "name": "Julie Doberne",
-    "affiliation": "MD/PhD Candidate, Oregon Health & Science University",
+    "affiliation": "MD/PhD Candidate, Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=wYgr_v4AAAAJ&hl=en",
     "year": 2010,
     "stats": {
@@ -6622,7 +6622,7 @@ var data = [
   },
   {
     "name": "Justin McReynolds",
-    "affiliation": "Technology Program Manager and Biomedical Informatics Master's student, University of Washington",
+    "affiliation": "Technology Program Manager and Biomedical Informatics Master&#39;s student, University of Washington",
     "url": "http://scholar.google.com/citations?user=6uBSaioAAAAJ&hl=en",
     "year": 2011,
     "stats": {
@@ -6842,7 +6842,7 @@ var data = [
   },
   {
     "name": "Kenneth D. Mandl ACMI",
-    "affiliation": "Professor, Harvard Medical School; Director, Intelligent Laboratory, Boston Children's Hospital",
+    "affiliation": "Professor, Harvard Medical School; Director, Intelligent Laboratory, Boston Children&#39;s Hospital",
     "url": "http://scholar.google.com/citations?user=CPQdYCQAAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -7202,7 +7202,7 @@ var data = [
   },
   {
     "name": "Layan Nahlawi",
-    "affiliation": "PhD candidate, Queen's University",
+    "affiliation": "PhD candidate, Queen&#39;s University",
     "url": "http://scholar.google.com/citations?user=G58_LwoAAAAJ&hl=en",
     "year": 2012,
     "stats": {
@@ -7282,7 +7282,7 @@ var data = [
   },
   {
     "name": "Levon Utidjian",
-    "affiliation": "The Children's Hospital of Philadelphia",
+    "affiliation": "The Children&#39;s Hospital of Philadelphia",
     "url": "http://scholar.google.com/citations?user=EjsulkYAAAAJ&hl=en",
     "year": 2005,
     "stats": {
@@ -7747,8 +7747,8 @@ var data = [
     "year": 2000,
     "stats": {
       "citations": [
-        "58",
-        "31"
+        "52",
+        "29"
       ],
       "hindex": [
         "4",
@@ -8042,7 +8042,7 @@ var data = [
   },
   {
     "name": "Martin Boeker",
-    "affiliation": "Head Medical Informatics, Inst. Med. Biometry & Med. Informatics, University of Freiburg, Germany",
+    "affiliation": "Head Medical Informatics, Inst. Med. Biometry &amp; Med. Informatics, University of Freiburg, Germany",
     "url": "http://scholar.google.com/citations?user=G8O_wKkAAAAJ&hl=en",
     "year": 1997,
     "stats": {
@@ -8222,7 +8222,7 @@ var data = [
   },
   {
     "name": "Maxim Topaz",
-    "affiliation": "Harvard Medical School & Brigham and Women's Hospital",
+    "affiliation": "Harvard Medical School &amp; Brigham and Women&#39;s Hospital",
     "url": "http://scholar.google.com/citations?user=7MxxJ2UAAAAJ&hl=en",
     "year": 2012,
     "stats": {
@@ -8402,7 +8402,7 @@ var data = [
   },
   {
     "name": "Michael F. Chiang",
-    "affiliation": "Professor of Ophthalmology & Medical Informatics and Clinical Epidemiology, Oregon Health & Science",
+    "affiliation": "Professor of Ophthalmology &amp; Medical Informatics and Clinical Epidemiology, Oregon Health &amp; Science",
     "url": "http://scholar.google.com/citations?user=BX_s0WgAAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -8522,7 +8522,7 @@ var data = [
   },
   {
     "name": "Michael W. Smith",
-    "affiliation": "Health Services Research Scientist/Human Factors Engineer, Houston VA HSR&D Center of Excellence",
+    "affiliation": "Health Services Research Scientist/Human Factors Engineer, Houston VA HSR&amp;D Center of Excellence",
     "url": "http://scholar.google.com/citations?user=AvG6b8gAAAAJ&hl=en",
     "year": 2001,
     "stats": {
@@ -9002,7 +9002,7 @@ var data = [
   },
   {
     "name": "Nathalie Martin",
-    "affiliation": "Masters Student, Biomedical & Health Informatics, University of Washington",
+    "affiliation": "Masters Student, Biomedical &amp; Health Informatics, University of Washington",
     "url": "http://scholar.google.com/citations?user=ZjmBScgAAAAJ",
     "year": 2013,
     "stats": {
@@ -9442,7 +9442,7 @@ var data = [
   },
   {
     "name": "Parvaneh Modiramani",
-    "affiliation": "Medical Librarian & Educator of Mashhad University of Medical Sciences",
+    "affiliation": "Medical Librarian &amp; Educator of Mashhad University of Medical Sciences",
     "url": "http://scholar.google.com/citations?user=CMavrZoAAAAJ&hl=en",
     "year": 2010,
     "stats": {
@@ -9602,7 +9602,7 @@ var data = [
   },
   {
     "name": "Paul Gorman ACMI",
-    "affiliation": "Oregon Health & Science University",
+    "affiliation": "Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=tZpbXCMAAAAJ&hl=en",
     "year": 1995,
     "stats": {
@@ -10042,7 +10042,7 @@ var data = [
   },
   {
     "name": "Quazi Abidur Rahman",
-    "affiliation": "Doctoral Candidate, School of Computing, Queen's University",
+    "affiliation": "Doctoral Candidate, School of Computing, Queen&#39;s University",
     "url": "http://scholar.google.com/citations?user=pbqCSx8AAAAJ&hl=en",
     "year": 2005,
     "stats": {
@@ -10682,7 +10682,7 @@ var data = [
   },
   {
     "name": "Rong Chen",
-    "affiliation": "Director of Clinical Genome Informatics & Assistant Professor, Mount Sinai School of Medicine",
+    "affiliation": "Director of Clinical Genome Informatics &amp; Assistant Professor, Mount Sinai School of Medicine",
     "url": "http://scholar.google.com/citations?user=5Yjb93IAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -10722,7 +10722,7 @@ var data = [
   },
   {
     "name": "Rosma (PM Dr.) Mohd Dom",
-    "affiliation": "Mathematics Lecturer Faculty of Computer & Mathematical Sciences",
+    "affiliation": "Mathematics Lecturer Faculty of Computer &amp; Mathematical Sciences",
     "url": "http://scholar.google.com/citations?user=kkVwXm8AAAAJ&hl=en",
     "year": 2010,
     "stats": {
@@ -11081,6 +11081,26 @@ var data = [
     }
   },
   {
+    "name": "Samuel Trent Rosenbloom ACMI",
+    "affiliation": "Vanderbilt University Medical Center",
+    "url": "http://scholar.google.com/citations?user=k2RLJ0kAAAAJ&hl=en",
+    "year": 2004,
+    "stats": {
+      "citations": [
+        "1621",
+        "1251"
+      ],
+      "hindex": [
+        "21",
+        "20"
+      ],
+      "i10index": [
+        "42",
+        "37"
+      ]
+    }
+  },
+  {
     "name": "Sanda M. Harabagiu",
     "affiliation": "University of Texas at Dallas",
     "url": "http://scholar.google.com/citations?user=fEuF8EIAAAAJ&hl=en",
@@ -11242,7 +11262,7 @@ var data = [
   },
   {
     "name": "Serkan Turkeli",
-    "affiliation": "Bilgisayar M�hendisliğ Dr,İstanbul Teknik �niversitesi",
+    "affiliation": "Bilgisayar M�hendisli&#287; Dr,&#304;stanbul Teknik �niversitesi",
     "url": "http://scholar.google.com/citations?user=z_zrPkwAAAAJ&hl=en",
     "year": 2014,
     "stats": {
@@ -11542,7 +11562,7 @@ var data = [
   },
   {
     "name": "Soo-Yong Shin",
-    "affiliation": "Research Assistant Professor, Asan Medical Center & University of Ulsan College of Medicine",
+    "affiliation": "Research Assistant Professor, Asan Medical Center &amp; University of Ulsan College of Medicine",
     "url": "http://scholar.google.com/citations?user=j9aGSM4AAAAJ&hl=en",
     "year": 1999,
     "stats": {
@@ -11562,7 +11582,7 @@ var data = [
   },
   {
     "name": "Sorana D. BOLBOACA",
-    "affiliation": "\"Iuliu Hatieganu\" University of Medicine and Pharmacy, Cluj-Napoca, Romania",
+    "affiliation": "&quot;Iuliu Hatieganu&quot; University of Medicine and Pharmacy, Cluj-Napoca, Romania",
     "url": "http://scholar.google.com/citations?user=igUdSZcAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -11742,7 +11762,7 @@ var data = [
   },
   {
     "name": "Steven Bedrick",
-    "affiliation": "Oregon Health & Science University",
+    "affiliation": "Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=-DR4eoEAAAAJ&hl=en",
     "year": 2003,
     "stats": {
@@ -12222,7 +12242,7 @@ var data = [
   },
   {
     "name": "Thomas Yackel",
-    "affiliation": "Associate Profossor of Medical Informatics, Oregon Health & Science University",
+    "affiliation": "Associate Profossor of Medical Informatics, Oregon Health &amp; Science University",
     "url": "http://scholar.google.com/citations?user=g7b_NGwAAAAJ&hl=en",
     "year": 2004,
     "stats": {
@@ -12422,7 +12442,7 @@ var data = [
   },
   {
     "name": "Umit Catalyurek",
-    "affiliation": "Professor, Biomedical Informatics, Electrical & Computer Engineering, The Ohio State University",
+    "affiliation": "Professor, Biomedical Informatics, Electrical &amp; Computer Engineering, The Ohio State University",
     "url": "http://scholar.google.com/citations?user=OLDMURQAAAAJ&hl=en",
     "year": 2000,
     "stats": {
@@ -12622,7 +12642,7 @@ var data = [
   },
   {
     "name": "Vijay Jeyakumar",
-    "affiliation": "Professor of Biomedical Engineering, PSNA College of Engineering & Technology, Dindigul",
+    "affiliation": "Professor of Biomedical Engineering, PSNA College of Engineering &amp; Technology, Dindigul",
     "url": "http://scholar.google.com/citations?user=URduWDQAAAAJ&hl=en",
     "year": 2014,
     "stats": {
@@ -12742,7 +12762,7 @@ var data = [
   },
   {
     "name": "Vitaliy Vishnevskey",
-    "affiliation": "Institute Mathematical Machines and Systems ( ИПММС НАН Украины)",
+    "affiliation": "Institute Mathematical Machines and Systems ( &#1048;&#1055;&#1052;&#1052;&#1057; &#1053;&#1040;&#1053; &#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1099;)",
     "url": "http://scholar.google.com/citations?user=b0LUdfIAAAAJ&hl=en",
     "year": 2004,
     "stats": {
@@ -12802,7 +12822,7 @@ var data = [
   },
   {
     "name": "Wanda Pratt ACMI",
-    "affiliation": "Professor of Biomedical & Health Informatics and the Information School, University of Washington",
+    "affiliation": "Professor of Biomedical &amp; Health Informatics and the Information School, University of Washington",
     "url": "http://scholar.google.com/citations?user=PsvPvwgAAAAJ&hl=en",
     "year": 1996,
     "stats": {
@@ -12922,7 +12942,7 @@ var data = [
   },
   {
     "name": "William Goossen",
-    "affiliation": "Researcher health informatics & Director Results 4 Care B.V.",
+    "affiliation": "Researcher health informatics &amp; Director Results 4 Care B.V.",
     "url": "http://scholar.google.com/citations?user=HfmzRrcAAAAJ",
     "year": 1997,
     "stats": {
@@ -13222,7 +13242,7 @@ var data = [
   },
   {
     "name": "Yi-Ju Tseng",
-    "affiliation": "Boston Children's Hospital, Harvard Medical School",
+    "affiliation": "Boston Children&#39;s Hospital, Harvard Medical School",
     "url": "http://scholar.google.com/citations?user=d8N328MAAAAJ&hl=en",
     "year": 2012,
     "stats": {
@@ -13302,7 +13322,7 @@ var data = [
   },
   {
     "name": "Yves A. Lussier ACMI",
-    "affiliation": "(i) U of Arizona; (ii) Inst. for Genomics & Systems Biol. & (iii) Comput Inst @ Chicago",
+    "affiliation": "(i) U of Arizona; (ii) Inst. for Genomics &amp; Systems Biol. &amp; (iii) Comput Inst @ Chicago",
     "url": "http://scholar.google.com/citations?user=JhIiSHQAAAAJ&hl=en",
     "year": 2001,
     "stats": {
