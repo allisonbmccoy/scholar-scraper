@@ -57,7 +57,7 @@ function round(n) {
 for (var i=0; i< data.length; i++) {
   var row = $('<tr/>');
   row.append($('<td/>').html(i));
-  var y = (2014 - data[i].year);
+  var y = (data[i].year < 2014) ? (2014 - data[i].year) : 1;
   row.append($('<td style="text-align: left"/>')
 	  .html('<a href="' + data[i].url + '">' + data[i].name + '</a><br/>' + data[i].affiliation));
   row.append($('<td/>').html(data[i].year));
