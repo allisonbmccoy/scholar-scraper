@@ -49,7 +49,7 @@ var scrapeYear = function(entry, doneCallback) {
     try {
       year = $('.gsc_g_t')[0].children[0].data;
     } catch(ex) {
-      throw new Error(entry['url']);
+      year = new Date().getFullYear();
     }
 
     entry['year'] = year;
