@@ -1,4 +1,4 @@
-var date = "Sat Oct 18 2014 14:10:28 GMT-0400 (EDT)"
+var date = "Mon Oct 20 2014 14:10:28 GMT-0400 (EDT)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",
@@ -5826,15 +5826,15 @@ var data = [
     "url": "http://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5671",
-        "4933"
+        "5656",
+        "4929"
       ],
       "hindex": [
         "40",
         "38"
       ],
       "i10index": [
-        "103",
+        "102",
         "99"
       ]
     },
@@ -7066,19 +7066,19 @@ var data = [
     "url": "http://scholar.google.com/citations?user=CSzbLwUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "10903",
-        "3154"
+        "1676",
+        "1262"
       ],
       "hindex": [
-        "25",
+        "23",
         "21"
       ],
       "i10index": [
-        "52",
-        "42"
+        "48",
+        "39"
       ]
     },
-    "year": "1975"
+    "year": "2002"
   },
   {
     "name": "LR Kalankesh",
