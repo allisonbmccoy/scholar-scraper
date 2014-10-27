@@ -1,4 +1,4 @@
-var date = "Sat Oct 25 2014 16:44:54 GMT-0400 (EDT)"
+var date = "Sun Oct 26 2014 20:14:40 GMT-0400 (EDT)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",
@@ -10926,8 +10926,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=BeSQiT4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "294",
-        "214"
+        "283",
+        "208"
       ],
       "hindex": [
         "8",
