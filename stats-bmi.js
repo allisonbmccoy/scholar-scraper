@@ -1,4 +1,4 @@
-var date = "Tue Feb 10 2015 10:32:58 GMT-0500 (EST)"
+var date = "Wed Feb 11 2015 13:11:30 GMT-0500 (EST)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",
@@ -142,7 +142,7 @@ var data = [
   },
   {
     "name": "Adam Wright",
-    "affiliation": "Assistant Professor of Medicine, Brigham and Women's Hospital, Harvard Medical School",
+    "affiliation": "Associate Professor of Medicine, Brigham and Women's Hospital, Harvard Medical School",
     "url": "http://scholar.google.com/citations?user=bt-gHuUAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -1506,12 +1506,12 @@ var data = [
     "url": "http://scholar.google.com/citations?user=6FIzM9cAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "696",
-        "327"
+        "685",
+        "318"
       ],
       "hindex": [
         "11",
-        "9"
+        "8"
       ],
       "i10index": [
         "12",
@@ -5106,19 +5106,19 @@ var data = [
     "url": "http://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4367",
-        "2468"
+        "3435",
+        "1911"
       ],
       "hindex": [
-        "30",
-        "25"
+        "24",
+        "20"
       ],
       "i10index": [
-        "56",
-        "50"
+        "41",
+        "36"
       ]
     },
-    "year": "2001"
+    "year": "2002"
   },
   {
     "name": "Hongbin Wang",
@@ -6106,16 +6106,16 @@ var data = [
     "url": "http://scholar.google.com/citations?user=vRbMD4sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7168",
-        "2007"
+        "6965",
+        "1965"
       ],
       "hindex": [
-        "36",
-        "24"
+        "35",
+        "23"
       ],
       "i10index": [
-        "60",
-        "36"
+        "59",
+        "35"
       ]
     },
     "year": "1989"
