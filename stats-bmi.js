@@ -1,4 +1,4 @@
-var date = "Fri Feb 20 2015 13:11:39 GMT-0500 (EST)"
+var date = "Mon Feb 23 2015 13:12:07 GMT-0500 (EST)"
 var data = [
   {
     "name": "ADRIAN RAUL GOMEZ",
@@ -202,7 +202,7 @@ var data = [
   },
   {
     "name": "Adrien Depeursinge",
-    "affiliation": "HES-SO, EPFL",
+    "affiliation": "EPFL, HES-SO",
     "url": "http://scholar.google.com/citations?user=d6PRobAAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -7462,7 +7462,7 @@ var data = [
   },
   {
     "name": "Lichin Chen",
-    "affiliation": "Unknown affiliation",
+    "affiliation": "Institute of Biomedical Informatics, National Yang Ming University",
     "url": "http://scholar.google.com/citations?user=YTp-kfEAAAAJ&hl=en",
     "stats": {
       "citations": [
