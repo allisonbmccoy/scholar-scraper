@@ -4,6 +4,7 @@ var request = require('request');
 var cheerio = require('cheerio');
 var async = require('async');
 var people = require(process.argv[2]);
+var n = (process.argv[2]).split("\.")[1].split("-")[2];
 
 var scrapeEntry = function(person, doneCallback) {
   var url = people[person];
@@ -63,6 +64,10 @@ async.mapSeries(Object.keys(people), scrapeEntry, function (err, results) {
   async.mapSeries(results, scrapeYear, function (err, results) {
     var date = new Date();
     console.log('var date = "' + date + '"');
-    console.log('var data = ' + JSON.stringify(results, null, 2) + ';');
+    if (n) {
+	    console.log('data_array[' + n + '] = ' + JSON.stringify(results, null, 2) + ';');
+    } else {
+	console.log('data = ' + JSON.stringify(results, null, 2) + ';');
+    }
   });
 });
