@@ -1,4 +1,4 @@
-var date = "Mon Mar 23 2015 20:27:47 GMT-0500 (Central Daylight Time)"
+var date = "Thu Mar 26 2015 13:01:45 GMT-0400 (EDT)"
 data_array[2] = [
   {
     "name": "Nabeel Abdur Rehman",
@@ -102,7 +102,7 @@ data_array[2] = [
   },
   {
     "name": "Nan Liu",
-    "affiliation": "Singapore General Hospital &amp; Duke-NUS Graduate Medical School",
+    "affiliation": "Singapore General Hospital & Duke-NUS Graduate Medical School",
     "url": "http://scholar.google.com/citations?user=ceF698kAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -226,8 +226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FE08ALAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "19673",
-        "8715"
+        "19678",
+        "8718"
       ],
       "hindex": [
         "50",
@@ -242,7 +242,7 @@ data_array[2] = [
   },
   {
     "name": "Nathalie Martin",
-    "affiliation": "Masters Student, Biomedical &amp; Health Informatics, University of Washington",
+    "affiliation": "Masters Student, Biomedical & Health Informatics, University of Washington",
     "url": "http://scholar.google.com/citations?user=ZjmBScgAAAAJ",
     "stats": {
       "citations": [
@@ -306,8 +306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dLkfAQQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "371",
-        "247"
+        "372",
+        "248"
       ],
       "hindex": [
         "9",
@@ -326,16 +326,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=auY-mMoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "686",
-        "394"
+        "687",
+        "395"
       ],
       "hindex": [
         "12",
-        "9"
+        "10"
       ],
       "i10index": [
-        "18",
-        "9"
+        "19",
+        "10"
       ]
     },
     "year": "1999"
@@ -386,8 +386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ejoWKqsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "551",
-        "549"
+        "553",
+        "551"
       ],
       "hindex": [
         "11",
@@ -426,8 +426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-kKtBb8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4795",
-        "2133"
+        "4797",
+        "2135"
       ],
       "hindex": [
         "31",
@@ -438,7 +438,7 @@ data_array[2] = [
         "36"
       ]
     },
-    "year": "1994"
+    "year": "1993"
   },
   {
     "name": "Nicky Mostert-Phipps",
@@ -466,12 +466,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yigxUM4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3626",
-        "2744"
+        "3631",
+        "2749"
       ],
       "hindex": [
         "33",
-        "29"
+        "30"
       ],
       "i10index": [
         "76",
@@ -506,8 +506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=n63DmP8AAAAJ",
     "stats": {
       "citations": [
-        "4919",
-        "4013"
+        "4927",
+        "4020"
       ],
       "hindex": [
         "33",
@@ -526,8 +526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YEcBVFAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4879",
-        "4772"
+        "4911",
+        "4804"
       ],
       "hindex": [
         "19",
@@ -566,8 +566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-D2TBHUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1597",
-        "1161"
+        "1602",
+        "1166"
       ],
       "hindex": [
         "20",
@@ -646,8 +646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IVsBchQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "290",
-        "247"
+        "291",
+        "248"
       ],
       "hindex": [
         "10",
@@ -666,8 +666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-D2TBHUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1597",
-        "1161"
+        "1602",
+        "1166"
       ],
       "hindex": [
         "20",
@@ -766,8 +766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=1vmkqacAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "478",
-        "329"
+        "479",
+        "330"
       ],
       "hindex": [
         "8",
@@ -786,8 +786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KnjYamwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "685",
-        "583"
+        "687",
+        "585"
       ],
       "hindex": [
         "10",
@@ -806,7 +806,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5912",
+        "5915",
         "3280"
       ],
       "hindex": [
@@ -826,8 +826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=_6XYKXMpK34C",
     "stats": {
       "citations": [
-        "1311",
-        "1123"
+        "1318",
+        "1129"
       ],
       "hindex": [
         "20",
@@ -906,8 +906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lEE6I4MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "258",
-        "254"
+        "260",
+        "256"
       ],
       "hindex": [
         "10",
@@ -946,8 +946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=64EiCA0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "167",
-        "73"
+        "168",
+        "74"
       ],
       "hindex": [
         "5",
@@ -986,12 +986,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KlPc9LgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "832",
-        "458"
+        "834",
+        "460"
       ],
       "hindex": [
         "17",
-        "11"
+        "12"
       ],
       "i10index": [
         "27",
@@ -1026,8 +1026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j-W_RNYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7651",
-        "3556"
+        "7653",
+        "3557"
       ],
       "hindex": [
         "45",
@@ -1066,8 +1066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7QnhPugAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "271",
-        "210"
+        "272",
+        "211"
       ],
       "hindex": [
         "7",
@@ -1182,7 +1182,7 @@ data_array[2] = [
   },
   {
     "name": "Parvaneh Modiramani",
-    "affiliation": "Medical Librarian &amp; Educator of Mashhad University of Medical Sciences",
+    "affiliation": "Medical Librarian & Educator of Mashhad University of Medical Sciences",
     "url": "http://scholar.google.com/citations?user=CMavrZoAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -1202,12 +1202,12 @@ data_array[2] = [
   },
   {
     "name": "Pascal Staccini",
-    "affiliation": "Professeur de biostatistique et d&#39;informatique m�dicale, UFR M�decine, Universit� Nice-Sophia Antipolis",
+    "affiliation": "Professeur de biostatistique et d'informatique m�dicale, UFR M�decine, Universit� Nice-Sophia Antipolis",
     "url": "http://scholar.google.com/citations?user=jeW-uvMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1623",
-        "723"
+        "1625",
+        "725"
       ],
       "hindex": [
         "26",
@@ -1226,7 +1226,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=H3IbUnwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4323",
+        "4324",
         "1000"
       ],
       "hindex": [
@@ -1266,8 +1266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=PDm-smwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4774",
-        "1668"
+        "4778",
+        "1673"
       ],
       "hindex": [
         "37",
@@ -1286,8 +1286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GtIlEfoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "87",
-        "84"
+        "89",
+        "86"
       ],
       "hindex": [
         "6",
@@ -1326,8 +1326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eoxNiMkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3256",
-        "1724"
+        "3263",
+        "1732"
       ],
       "hindex": [
         "27",
@@ -1386,8 +1386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6dncqlIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2769",
-        "1133"
+        "2770",
+        "1134"
       ],
       "hindex": [
         "22",
@@ -1442,12 +1442,12 @@ data_array[2] = [
   },
   {
     "name": "Paul Gorman ACMI",
-    "affiliation": "Oregon Health &amp; Science University",
+    "affiliation": "Oregon Health & Science University",
     "url": "http://scholar.google.com/citations?user=tZpbXCMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4531",
-        "1888"
+        "4532",
+        "1889"
       ],
       "hindex": [
         "33",
@@ -1466,8 +1466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IHiF5gMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1369",
-        "1051"
+        "1370",
+        "1052"
       ],
       "hindex": [
         "19",
@@ -1506,8 +1506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=QmJurRMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2729",
-        "1172"
+        "2732",
+        "1174"
       ],
       "hindex": [
         "26",
@@ -1515,7 +1515,7 @@ data_array[2] = [
       ],
       "i10index": [
         "40",
-        "25"
+        "24"
       ]
     },
     "year": "1995"
@@ -1526,8 +1526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=unZTMfwAAAAJ",
     "stats": {
       "citations": [
-        "419",
-        "275"
+        "420",
+        "276"
       ],
       "hindex": [
         "11",
@@ -1606,8 +1606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fY_rafIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "487",
-        "478"
+        "488",
+        "479"
       ],
       "hindex": [
         "12",
@@ -1646,7 +1646,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XbbLvBAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "251",
+        "252",
         "120"
       ],
       "hindex": [
@@ -1706,8 +1706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eMywJ4sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3825",
-        "1436"
+        "3826",
+        "1437"
       ],
       "hindex": [
         "34",
@@ -1746,8 +1746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-ExSN_IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2653",
-        "1274"
+        "2657",
+        "1277"
       ],
       "hindex": [
         "30",
@@ -1762,11 +1762,11 @@ data_array[2] = [
   },
   {
     "name": "Peter Adebayo Idowu",
-    "affiliation": "Senior Lecturer, Computer science &amp; Engineering Department,  Obafemi Awolowo University, Ile-Ife",
+    "affiliation": "Senior Lecturer, Computer science & Engineering Department,  Obafemi Awolowo University, Ile-Ife",
     "url": "http://scholar.google.com/citations?user=hTd-q8MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "255",
+        "254",
         "191"
       ],
       "hindex": [
@@ -1786,8 +1786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=mV929KQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2892",
-        "1567"
+        "2894",
+        "1569"
       ],
       "hindex": [
         "33",
@@ -1806,8 +1806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sBFHQmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1025",
-        "779"
+        "1027",
+        "780"
       ],
       "hindex": [
         "17",
@@ -1826,8 +1826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=h_Mg9IAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4013",
-        "1673"
+        "4020",
+        "1679"
       ],
       "hindex": [
         "38",
@@ -1866,8 +1866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6w8Of0oAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1732",
-        "724"
+        "1734",
+        "726"
       ],
       "hindex": [
         "18",
@@ -1906,8 +1906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=asu1aZMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2134",
-        "890"
+        "2135",
+        "891"
       ],
       "hindex": [
         "28",
@@ -1946,16 +1946,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kYypRqUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "760",
-        "629"
+        "766",
+        "632"
       ],
       "hindex": [
         "14",
         "13"
       ],
       "i10index": [
-        "21",
-        "16"
+        "22",
+        "17"
       ]
     },
     "year": "2005"
@@ -2026,8 +2026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=0LjUNAsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3079",
-        "1346"
+        "3082",
+        "1349"
       ],
       "hindex": [
         "29",
@@ -2035,7 +2035,7 @@ data_array[2] = [
       ],
       "i10index": [
         "91",
-        "40"
+        "41"
       ]
     },
     "year": "1994"
@@ -2046,8 +2046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6U4AouYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "562",
-        "491"
+        "563",
+        "492"
       ],
       "hindex": [
         "12",
@@ -2066,8 +2066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=wpBkHPAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "431",
-        "319"
+        "432",
+        "320"
       ],
       "hindex": [
         "10",
@@ -2126,8 +2126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=o_yiGqwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "716",
-        "330"
+        "717",
+        "331"
       ],
       "hindex": [
         "11",
@@ -2146,8 +2146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XKqzS2oAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2307",
-        "2093"
+        "2310",
+        "2096"
       ],
       "hindex": [
         "18",
@@ -2202,12 +2202,12 @@ data_array[2] = [
   },
   {
     "name": "Professor Chris Chatwin",
-    "affiliation": "University of Sussex, School of Engineering &amp; Informatics",
+    "affiliation": "University of Sussex, School of Engineering & Informatics",
     "url": "http://scholar.google.com/citations?user=qWQjtogAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2230",
-        "1117"
+        "2234",
+        "1121"
       ],
       "hindex": [
         "23",
@@ -2246,8 +2246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hLCaPfAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "809",
-        "470"
+        "810",
+        "471"
       ],
       "hindex": [
         "15",
@@ -2266,8 +2266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kFduPiIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4876",
-        "2787"
+        "4878",
+        "2789"
       ],
       "hindex": [
         "23",
@@ -2326,8 +2326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=zr22WkQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3282",
-        "2666"
+        "3288",
+        "2672"
       ],
       "hindex": [
         "29",
@@ -2342,7 +2342,7 @@ data_array[2] = [
   },
   {
     "name": "Quazi Abidur Rahman",
-    "affiliation": "Doctoral Candidate, School of Computing, Queen&#39;s University",
+    "affiliation": "Doctoral Candidate, School of Computing, Queen's University",
     "url": "http://scholar.google.com/citations?user=pbqCSx8AAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -2366,8 +2366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=42_na4QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "78292",
-        "25728"
+        "78320",
+        "25758"
       ],
       "hindex": [
         "95",
@@ -2446,8 +2446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=vEIMoZEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "487",
-        "387"
+        "488",
+        "388"
       ],
       "hindex": [
         "13",
@@ -2486,8 +2486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ImHDtJsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "557",
-        "540"
+        "558",
+        "541"
       ],
       "hindex": [
         "13",
@@ -2566,8 +2566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=W4t8B20AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6603",
-        "2561"
+        "6605",
+        "2562"
       ],
       "hindex": [
         "45",
@@ -2666,8 +2666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IJLURXkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6755",
-        "4457"
+        "6760",
+        "4462"
       ],
       "hindex": [
         "40",
@@ -2686,8 +2686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=biSq9LgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3589",
-        "1612"
+        "3592",
+        "1615"
       ],
       "hindex": [
         "30",
@@ -2706,8 +2706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fi4HWW8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3978",
-        "2304"
+        "3979",
+        "2305"
       ],
       "hindex": [
         "22",
@@ -2786,7 +2786,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sacC1FAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "961",
+        "962",
         "247"
       ],
       "hindex": [
@@ -2806,8 +2806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aC-0LkAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "832",
-        "712"
+        "840",
+        "720"
       ],
       "hindex": [
         "15",
@@ -2894,8 +2894,8 @@ data_array[2] = [
         "13"
       ],
       "i10index": [
-        "17",
-        "15"
+        "18",
+        "16"
       ]
     },
     "year": "2005"
@@ -2906,7 +2906,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=263M6WUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4618",
+        "4619",
         "2450"
       ],
       "hindex": [
@@ -2922,7 +2922,7 @@ data_array[2] = [
   },
   {
     "name": "Richard Bache",
-    "affiliation": "King&#39;s College London",
+    "affiliation": "King's College London",
     "url": "http://scholar.google.com/citations?user=AqLgfEEAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -2946,8 +2946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cmWWPNcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "263",
-        "248"
+        "264",
+        "250"
       ],
       "hindex": [
         "9",
@@ -2966,16 +2966,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5XXBTc8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "11296",
-        "9361"
+        "11428",
+        "9503"
       ],
       "hindex": [
         "26",
-        "14"
+        "15"
       ],
       "i10index": [
-        "83",
-        "23"
+        "84",
+        "24"
       ]
     },
     "year": "1984"
@@ -3006,8 +3006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UxiABUwAAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "4555",
-        "2505"
+        "4563",
+        "2512"
       ],
       "hindex": [
         "28",
@@ -3126,8 +3126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IH2TPkkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3926",
-        "2180"
+        "3933",
+        "2187"
       ],
       "hindex": [
         "32",
@@ -3147,7 +3147,7 @@ data_array[2] = [
     "stats": {
       "citations": [
         "1383",
-        "394"
+        "395"
       ],
       "hindex": [
         "17",
@@ -3166,8 +3166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Njryy0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7199",
-        "2101"
+        "7202",
+        "2105"
       ],
       "hindex": [
         "42",
@@ -3186,7 +3186,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=xAgBXAoAAAAJ",
     "stats": {
       "citations": [
-        "5548",
+        "5549",
         "911"
       ],
       "hindex": [
@@ -3306,8 +3306,8 @@ data_array[2] = [
     "url": "http://scholar.google.nl/citations?user=fEWSFjkAAAAJ&hl=nl",
     "stats": {
       "citations": [
-        "2165",
-        "1130"
+        "2168",
+        "1133"
       ],
       "hindex": [
         "18",
@@ -3322,12 +3322,12 @@ data_array[2] = [
   },
   {
     "name": "Rong Chen",
-    "affiliation": "Director of Clinical Genome Informatics &amp; Assistant Professor, Mount Sinai School of Medicine",
+    "affiliation": "Director of Clinical Genome Informatics & Assistant Professor, Mount Sinai School of Medicine",
     "url": "http://scholar.google.com/citations?user=5Yjb93IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5314",
-        "4106"
+        "5326",
+        "4117"
       ],
       "hindex": [
         "32",
@@ -3346,8 +3346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=o7Lf2bcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "132",
-        "62"
+        "133",
+        "63"
       ],
       "hindex": [
         "7",
@@ -3382,7 +3382,7 @@ data_array[2] = [
   },
   {
     "name": "Rosma (PM Dr.) Mohd Dom",
-    "affiliation": "Mathematics Lecturer Faculty of Computer &amp; Mathematical Sciences",
+    "affiliation": "Mathematics Lecturer Faculty of Computer & Mathematical Sciences",
     "url": "http://scholar.google.com/citations?user=kkVwXm8AAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -3426,8 +3426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_OZMoS0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "508",
-        "290"
+        "510",
+        "292"
       ],
       "hindex": [
         "12",
@@ -3446,8 +3446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jZoDCSsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "20739",
-        "11466"
+        "20754",
+        "11477"
       ],
       "hindex": [
         "66",
@@ -3466,8 +3466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Rn7APGIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9079",
-        "5008"
+        "9091",
+        "5019"
       ],
       "hindex": [
         "42",
@@ -3586,8 +3586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=24DaEZwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "317",
-        "313"
+        "319",
+        "315"
       ],
       "hindex": [
         "10",
@@ -3746,8 +3746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_hDqFSUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "440",
-        "367"
+        "442",
+        "369"
       ],
       "hindex": [
         "9",
@@ -3786,8 +3786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_e88pTgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9453",
-        "3017"
+        "9461",
+        "3020"
       ],
       "hindex": [
         "46",
@@ -3806,8 +3806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Iqs464wAAAAJ&hl=es",
     "stats": {
       "citations": [
-        "512",
-        "138"
+        "513",
+        "139"
       ],
       "hindex": [
         "9",
@@ -3826,8 +3826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=pz3TfbEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "256",
-        "239"
+        "257",
+        "240"
       ],
       "hindex": [
         "7",
@@ -3846,8 +3846,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=k2RLJ0kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1738",
-        "1205"
+        "1739",
+        "1206"
       ],
       "hindex": [
         "21",
@@ -3886,8 +3886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Xle7R64AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1390",
-        "711"
+        "1392",
+        "713"
       ],
       "hindex": [
         "9",
@@ -3906,8 +3906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7l9y1KQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "589",
-        "490"
+        "584",
+        "485"
       ],
       "hindex": [
         "10",
@@ -3966,8 +3966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Lmj2JBUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1449",
-        "1214"
+        "1455",
+        "1220"
       ],
       "hindex": [
         "17",
@@ -3982,7 +3982,7 @@ data_array[2] = [
   },
   {
     "name": "Sayem Ahmed",
-    "affiliation": "Research Investigator, Health Economics &amp; Financing Reserch Group, icddr,b",
+    "affiliation": "Research Investigator, Health Economics & Financing Reserch Group, icddr,b",
     "url": "http://scholar.google.com/citations?user=Zp4cQbMAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -4026,7 +4026,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=63CxAxwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "666",
+        "665",
         "400"
       ],
       "hindex": [
@@ -4046,8 +4046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yUkK-mgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "514",
-        "503"
+        "515",
+        "504"
       ],
       "hindex": [
         "11",
@@ -4066,8 +4066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gw6b3KgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1470",
-        "946"
+        "1472",
+        "948"
       ],
       "hindex": [
         "13",
@@ -4146,8 +4146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hMVznZ8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "149",
-        "106"
+        "151",
+        "108"
       ],
       "hindex": [
         "6",
@@ -4162,7 +4162,7 @@ data_array[2] = [
   },
   {
     "name": "Serkan Turkeli",
-    "affiliation": "Bilgisayar M�hendisli&#287; Dr,&#304;stanbul Teknik �niversitesi",
+    "affiliation": "Bilgisayar M�hendisliğ Dr,İstanbul Teknik �niversitesi",
     "url": "http://scholar.google.com/citations?user=z_zrPkwAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -4226,8 +4226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=OYc22IoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3580",
-        "1685"
+        "3584",
+        "1689"
       ],
       "hindex": [
         "7",
@@ -4246,8 +4246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xQM4BlMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "555",
-        "479"
+        "558",
+        "482"
       ],
       "hindex": [
         "12",
@@ -4286,8 +4286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=9GA_8uMAAAAJ",
     "stats": {
       "citations": [
-        "3727",
-        "2326"
+        "3730",
+        "2329"
       ],
       "hindex": [
         "30",
@@ -4306,8 +4306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Plgb3FgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "117",
-        "74"
+        "118",
+        "75"
       ],
       "hindex": [
         "3",
@@ -4326,8 +4326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=f1znT0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1295",
-        "841"
+        "1296",
+        "842"
       ],
       "hindex": [
         "17",
@@ -4346,8 +4346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=vR8uEJgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "526",
-        "417"
+        "527",
+        "418"
       ],
       "hindex": [
         "6",
@@ -4386,8 +4386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FlyW15EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "69",
-        "69"
+        "73",
+        "73"
       ],
       "hindex": [
         "4",
@@ -4406,8 +4406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=PdWvYwEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "27",
-        "27"
+        "28",
+        "28"
       ],
       "hindex": [
         "2",
@@ -4606,8 +4606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eOMJNxsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "20620",
-        "10703"
+        "20628",
+        "10713"
       ],
       "hindex": [
         "66",
@@ -4686,8 +4686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BuIwRbIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "586",
-        "358"
+        "589",
+        "361"
       ],
       "hindex": [
         "13",
@@ -4722,12 +4722,12 @@ data_array[2] = [
   },
   {
     "name": "Soo-Yong Shin",
-    "affiliation": "Research Assistant Professor, Asan Medical Center &amp; University of Ulsan College of Medicine",
+    "affiliation": "Research Assistant Professor, Asan Medical Center & University of Ulsan College of Medicine",
     "url": "http://scholar.google.com/citations?user=j9aGSM4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "875",
-        "412"
+        "876",
+        "413"
       ],
       "hindex": [
         "13",
@@ -4762,20 +4762,20 @@ data_array[2] = [
   },
   {
     "name": "Sorana D. BOLBOACA",
-    "affiliation": "&quot;Iuliu Hatieganu&quot; University of Medicine and Pharmacy, Cluj-Napoca, Romania",
+    "affiliation": "\"Iuliu Hatieganu\" University of Medicine and Pharmacy, Cluj-Napoca, Romania",
     "url": "http://scholar.google.com/citations?user=igUdSZcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1048",
-        "664"
+        "1049",
+        "665"
       ],
       "hindex": [
         "15",
         "11"
       ],
       "i10index": [
-        "28",
-        "15"
+        "29",
+        "16"
       ]
     },
     "year": "2003"
@@ -4786,12 +4786,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=K982eaUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1536",
-        "701"
+        "1538",
+        "704"
       ],
       "hindex": [
         "19",
-        "13"
+        "14"
       ],
       "i10index": [
         "32",
@@ -4846,8 +4846,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=NzepvDIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1549",
-        "1098"
+        "1556",
+        "1106"
       ],
       "hindex": [
         "22",
@@ -4866,8 +4866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=TP4BrNQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "206",
-        "203"
+        "208",
+        "205"
       ],
       "hindex": [
         "6",
@@ -4946,7 +4946,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=O2ariVIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4053",
+        "4052",
         "2018"
       ],
       "hindex": [
@@ -5046,8 +5046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ozbKydkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "52",
-        "52"
+        "53",
+        "53"
       ],
       "hindex": [
         "3",
@@ -5062,12 +5062,12 @@ data_array[2] = [
   },
   {
     "name": "Steven Bedrick",
-    "affiliation": "Oregon Health &amp; Science University",
+    "affiliation": "Oregon Health & Science University",
     "url": "http://scholar.google.com/citations?user=-DR4eoEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "389",
-        "318"
+        "391",
+        "320"
       ],
       "hindex": [
         "9",
@@ -5106,8 +5106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yKUaXNAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1393",
-        "1223"
+        "1395",
+        "1225"
       ],
       "hindex": [
         "22",
@@ -5126,8 +5126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jIzuZr4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3784",
-        "2331"
+        "3786",
+        "2335"
       ],
       "hindex": [
         "33",
@@ -5146,7 +5146,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=JOyC9e0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1808",
+        "1809",
         "546"
       ],
       "hindex": [
@@ -5166,8 +5166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=DL65dIMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "184",
-        "166"
+        "185",
+        "167"
       ],
       "hindex": [
         "6",
@@ -5186,11 +5186,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=B5UIE1MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1602",
-        "1381"
+        "1606",
+        "1384"
       ],
       "hindex": [
-        "12",
+        "13",
         "12"
       ],
       "i10index": [
@@ -5286,8 +5286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FhfK6awAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "335",
-        "318"
+        "336",
+        "319"
       ],
       "hindex": [
         "10",
@@ -5326,8 +5326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2347",
-        "2084"
+        "2349",
+        "2086"
       ],
       "hindex": [
         "27",
@@ -5346,8 +5346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gjVSV14AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "208",
-        "152"
+        "209",
+        "153"
       ],
       "hindex": [
         "7",
@@ -5366,8 +5366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=zwr9wPEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6476",
-        "3165"
+        "6481",
+        "3170"
       ],
       "hindex": [
         "41",
@@ -5426,7 +5426,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=tlhHr-QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1465",
+        "1464",
         "319"
       ],
       "hindex": [
@@ -5462,7 +5462,7 @@ data_array[2] = [
   },
   {
     "name": "Taghreed Justinia",
-    "affiliation": "Asst Professor of Health Informatics &amp; Regional Director IT Services, &amp; Health Informatics",
+    "affiliation": "Asst Professor of Health Informatics & Regional Director IT Services, & Health Informatics",
     "url": "http://scholar.google.com/citations?user=3kKQSb4AAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -5566,16 +5566,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sfyaaW0AAAAJ",
     "stats": {
       "citations": [
-        "404",
-        "326"
+        "406",
+        "327"
       ],
       "hindex": [
         "10",
         "8"
       ],
       "i10index": [
-        "10",
-        "6"
+        "11",
+        "7"
       ]
     },
     "year": "2006"
@@ -5646,8 +5646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GwJdLSAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6544",
-        "3573"
+        "6542",
+        "3571"
       ],
       "hindex": [
         "33",
@@ -5666,8 +5666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KIv0fKQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "24757",
-        "4673"
+        "24768",
+        "4683"
       ],
       "hindex": [
         "63",
@@ -5686,8 +5686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XJvLrVAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1814",
-        "1476"
+        "1818",
+        "1480"
       ],
       "hindex": [
         "21",
@@ -5706,12 +5706,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=3yCig6AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7097",
-        "5448"
+        "7105",
+        "5455"
       ],
       "hindex": [
         "41",
-        "36"
+        "37"
       ],
       "i10index": [
         "112",
@@ -5742,7 +5742,7 @@ data_array[2] = [
   },
   {
     "name": "Thant Syn",
-    "affiliation": "Texas A&amp;M International University",
+    "affiliation": "Texas A&M International University",
     "url": "http://scholar.google.com/citations?user=XVtYO6AAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -5846,16 +5846,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Zd4CIUsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "56",
-        "56"
+        "57",
+        "57"
       ],
       "hindex": [
         "5",
         "5"
       ],
       "i10index": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     "year": "2012"
@@ -5886,7 +5886,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xAUemeoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1750",
+        "1751",
         "883"
       ],
       "hindex": [
@@ -5926,23 +5926,23 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bdq2WakAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "151",
-        "130"
+        "154",
+        "133"
       ],
       "hindex": [
         "8",
         "8"
       ],
       "i10index": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     "year": "2005"
   },
   {
     "name": "Thomas Yackel",
-    "affiliation": "Associate Profossor of Medical Informatics, Oregon Health &amp; Science University",
+    "affiliation": "Associate Profossor of Medical Informatics, Oregon Health & Science University",
     "url": "http://scholar.google.com/citations?user=g7b_NGwAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -5986,8 +5986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hsFo_8UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "570",
-        "329"
+        "571",
+        "330"
       ],
       "hindex": [
         "8",
@@ -6066,16 +6066,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hLQW-T0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "65",
-        "39"
+        "66",
+        "40"
       ],
       "hindex": [
         "5",
         "5"
       ],
       "i10index": [
-        "2",
-        "1"
+        "3",
+        "2"
       ]
     },
     "year": "2000"
@@ -6126,8 +6126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7c0QVPkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2653",
-        "1214"
+        "2655",
+        "1216"
       ],
       "hindex": [
         "25",
@@ -6226,8 +6226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2b1-ZLAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3212",
-        "2223"
+        "3217",
+        "2226"
       ],
       "hindex": [
         "16",
@@ -6266,8 +6266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SXara0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "144",
-        "144"
+        "145",
+        "145"
       ],
       "hindex": [
         "4",
@@ -6302,12 +6302,12 @@ data_array[2] = [
   },
   {
     "name": "Umit Catalyurek",
-    "affiliation": "Professor, Biomedical Informatics, Electrical &amp; Computer Engineering, The Ohio State University",
+    "affiliation": "Professor, Biomedical Informatics, Electrical & Computer Engineering, The Ohio State University",
     "url": "http://scholar.google.com/citations?user=OLDMURQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4777",
-        "3002"
+        "4781",
+        "3008"
       ],
       "hindex": [
         "34",
@@ -6326,7 +6326,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=OhJrkBQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "146",
+        "147",
         "79"
       ],
       "hindex": [
@@ -6386,8 +6386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_-GqsbMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "414",
-        "290"
+        "415",
+        "291"
       ],
       "hindex": [
         "10",
@@ -6426,8 +6426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=nKR2tGvMLFMC&hl=en",
     "stats": {
       "citations": [
-        "4617",
-        "2836"
+        "4619",
+        "2838"
       ],
       "hindex": [
         "29",
@@ -6466,8 +6466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ZpjPSRIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1936",
-        "757"
+        "1935",
+        "756"
       ],
       "hindex": [
         "6",
@@ -6522,7 +6522,7 @@ data_array[2] = [
   },
   {
     "name": "Vasa Curcin",
-    "affiliation": "Lecturer in health informatics, King&#39;s College London",
+    "affiliation": "Lecturer in health informatics, King's College London",
     "url": "http://scholar.google.com/citations?user=X9VrDxkAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -6566,15 +6566,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6sPuxnwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "804",
-        "469"
+        "805",
+        "470"
       ],
       "hindex": [
         "14",
         "11"
       ],
       "i10index": [
-        "18",
+        "19",
         "12"
       ]
     },
@@ -6606,8 +6606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ic_LuzQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "683",
-        "681"
+        "684",
+        "682"
       ],
       "hindex": [
         "11",
@@ -6626,8 +6626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GdIjtSMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1406",
-        "741"
+        "1407",
+        "742"
       ],
       "hindex": [
         "18",
@@ -6642,7 +6642,7 @@ data_array[2] = [
   },
   {
     "name": "Vijay Jeyakumar",
-    "affiliation": "Professor of Biomedical Engineering, PSNA College of Engineering &amp; Technology, Dindigul",
+    "affiliation": "Professor of Biomedical Engineering, PSNA College of Engineering & Technology, Dindigul",
     "url": "http://scholar.google.com/citations?user=URduWDQAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -6706,11 +6706,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=blg0nusAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "14638",
-        "5802"
+        "14643",
+        "5806"
       ],
       "hindex": [
-        "69",
+        "68",
         "41"
       ],
       "i10index": [
@@ -6726,8 +6726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BF3B4KAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1230",
-        "511"
+        "1231",
+        "512"
       ],
       "hindex": [
         "21",
@@ -6746,8 +6746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YKcX4D0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "973",
-        "967"
+        "975",
+        "969"
       ],
       "hindex": [
         "18",
@@ -6766,8 +6766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=igSmY2QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4935",
-        "1282"
+        "4939",
+        "1285"
       ],
       "hindex": [
         "26",
@@ -6782,7 +6782,7 @@ data_array[2] = [
   },
   {
     "name": "Vitaliy Vishnevskey",
-    "affiliation": "Institute Mathematical Machines and Systems ( &#1048;&#1055;&#1052;&#1052;&#1057; &#1053;&#1040;&#1053; &#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1099;)",
+    "affiliation": "Institute Mathematical Machines and Systems ( ИПММС НАН Украины)",
     "url": "http://scholar.google.com/citations?user=b0LUdfIAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -6846,15 +6846,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Pnev7hAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1322",
-        "612"
+        "1327",
+        "617"
       ],
       "hindex": [
         "17",
         "13"
       ],
       "i10index": [
-        "30",
+        "31",
         "16"
       ]
     },
@@ -6862,12 +6862,12 @@ data_array[2] = [
   },
   {
     "name": "Wanda Pratt ACMI",
-    "affiliation": "Professor of Biomedical &amp; Health Informatics and the Information School, University of Washington",
+    "affiliation": "Professor of Biomedical & Health Informatics and the Information School, University of Washington",
     "url": "http://scholar.google.com/citations?user=PsvPvwgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3030",
-        "1677"
+        "3034",
+        "1681"
       ],
       "hindex": [
         "32",
@@ -6886,8 +6886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=e82keSQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2164",
-        "1158"
+        "2166",
+        "1160"
       ],
       "hindex": [
         "27",
@@ -6986,8 +6986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FYmyACUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3271",
-        "2182"
+        "3277",
+        "2188"
       ],
       "hindex": [
         "32",
@@ -6995,7 +6995,7 @@ data_array[2] = [
       ],
       "i10index": [
         "63",
-        "55"
+        "56"
       ]
     },
     "year": "2000"
@@ -7026,8 +7026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dVKICiMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4704",
-        "2765"
+        "4713",
+        "2771"
       ],
       "hindex": [
         "25",
@@ -7062,12 +7062,12 @@ data_array[2] = [
   },
   {
     "name": "William Goossen",
-    "affiliation": "Researcher health informatics &amp; Director Results 4 Care B.V.",
+    "affiliation": "Researcher health informatics & Director Results 4 Care B.V.",
     "url": "http://scholar.google.com/citations?user=HfmzRrcAAAAJ",
     "stats": {
       "citations": [
-        "950",
-        "461"
+        "953",
+        "464"
       ],
       "hindex": [
         "16",
@@ -7086,8 +7086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gf7B120AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "17591",
-        "5117"
+        "17595",
+        "5120"
       ],
       "hindex": [
         "72",
@@ -7146,8 +7146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=32_3l-8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "43",
-        "41"
+        "44",
+        "42"
       ],
       "hindex": [
         "4",
@@ -7206,8 +7206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=EBeIYOwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9399",
-        "6812"
+        "9405",
+        "6818"
       ],
       "hindex": [
         "36",
@@ -7226,8 +7226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jb-bYtIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2609",
-        "1863"
+        "2610",
+        "1864"
       ],
       "hindex": [
         "19",
@@ -7246,8 +7246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=LXCugLcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "610",
-        "341"
+        "611",
+        "342"
       ],
       "hindex": [
         "11",
@@ -7286,12 +7286,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=67tRHTYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "388",
-        "252"
+        "389",
+        "253"
       ],
       "hindex": [
         "9",
-        "8"
+        "9"
       ],
       "i10index": [
         "8",
@@ -7306,8 +7306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=G9UHfbwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "14719",
-        "11084"
+        "14734",
+        "11099"
       ],
       "hindex": [
         "59",
@@ -7386,8 +7386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=qmkKxLwAAAAJ&hl=es",
     "stats": {
       "citations": [
-        "854",
-        "389"
+        "855",
+        "390"
       ],
       "hindex": [
         "15",
@@ -7406,8 +7406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=LDHICsUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1461",
-        "1183"
+        "1462",
+        "1184"
       ],
       "hindex": [
         "18",
@@ -7426,8 +7426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=WJr1S-4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "224",
-        "185"
+        "225",
+        "186"
       ],
       "hindex": [
         "7",
@@ -7446,8 +7446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-eQ3brcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "394",
-        "297"
+        "395",
+        "298"
       ],
       "hindex": [
         "8",
@@ -7466,16 +7466,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Z6oy0YIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6738",
-        "3842"
+        "7093",
+        "4153"
       ],
       "hindex": [
         "29",
-        "23"
+        "24"
       ],
       "i10index": [
-        "99",
-        "62"
+        "108",
+        "71"
       ]
     },
     "year": "1996"
@@ -7526,8 +7526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SK6wCRoAAAAJ",
     "stats": {
       "citations": [
-        "648",
-        "607"
+        "652",
+        "611"
       ],
       "hindex": [
         "13",
@@ -7566,7 +7566,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jVLGHGQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3469",
+        "3470",
         "965"
       ],
       "hindex": [
@@ -7586,8 +7586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j88o8jQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "171",
-        "167"
+        "172",
+        "168"
       ],
       "hindex": [
         "6",
@@ -7602,7 +7602,7 @@ data_array[2] = [
   },
   {
     "name": "Yi-Ju Tseng",
-    "affiliation": "Boston Children&#39;s Hospital, Harvard Medical School",
+    "affiliation": "Boston Children's Hospital, Harvard Medical School",
     "url": "http://scholar.google.com/citations?user=d8N328MAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -7646,8 +7646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SmwXEvcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "171",
-        "162"
+        "172",
+        "163"
       ],
       "hindex": [
         "6",
@@ -7666,8 +7666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=rfD0QCkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "11028",
-        "7727"
+        "11044",
+        "7743"
       ],
       "hindex": [
         "22",
@@ -7746,8 +7746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=le5YyBQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5495",
-        "1697"
+        "5497",
+        "1698"
       ],
       "hindex": [
         "35",
@@ -7762,12 +7762,12 @@ data_array[2] = [
   },
   {
     "name": "Yves A. Lussier ACMI",
-    "affiliation": "Assoc. VP of Health Sc. (CKO), Assoc. Director of UACC &amp; BIO5,  Prof. Medicine @ U of Arizona",
+    "affiliation": "Assoc. VP of Health Sc. (CKO), Assoc. Director of UACC & BIO5,  Prof. Medicine @ U of Arizona",
     "url": "http://scholar.google.com/citations?user=JhIiSHQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2813",
-        "1865"
+        "2817",
+        "1867"
       ],
       "hindex": [
         "27",
@@ -7946,13 +7946,13 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lJAkLo8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4268",
-        "3629"
+        "4272",
+        "3633"
       ],
       "hindex": [
         "27",
         "24"
-     ],
+      ],
       "i10index": [
         "55",
         "51"
@@ -7962,12 +7962,12 @@ data_array[2] = [
   },
   {
     "name": "Zhuowen Tu",
-    "affiliation": "Assistant Professor, Department of Cognitive Science, UCSD",
+    "affiliation": "Department of Cognitive Science, UCSD",
     "url": "http://scholar.google.com/citations?user=9oz-dvgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5484",
-        "4052"
+        "5497",
+        "4065"
       ],
       "hindex": [
         "32",
