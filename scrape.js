@@ -63,7 +63,7 @@ var scrapeYear = function(entry, doneCallback) {
 async.mapSeries(Object.keys(people), scrapeEntry, function (err, results) {
   async.mapSeries(results, scrapeYear, function (err, results) {
     var date = new Date();
-    console.log('var date = "' + date + '"');
+    console.log('date_array[' + n + '] = "' + date + '";');
     if (n) {
 	    console.log('data_array[' + n + '] = ' + JSON.stringify(results, null, 2) + ';');
     } else {

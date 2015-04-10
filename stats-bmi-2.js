@@ -1,4 +1,4 @@
-var date = "Thu Apr 09 2015 13:02:03 GMT-0400 (EDT)"
+date_array[2] = "Thu Apr 09 2015 13:02:03 GMT-0400 (EDT)"
 data_array[2] = [
   {
     "name": "Nabeel Abdur Rehman",
