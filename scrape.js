@@ -14,7 +14,8 @@ var scrapeEntry = function(person, doneCallback) {
     $ = cheerio.load(body);
 
     try {
-      var affiliation = $('.gsc_prf_il', '#gsc_prf_i')[0].children[0].data;
+      //var affiliation = $('.gsc_prf_il', '#gsc_prf_i')[0].children[0].data;
+      var affiliation = $('.gsc_prf_il', '#gsc_prf_i').first().text();
 
       var rawStats = $('#gsc_rsb_st');
       var stats = {
