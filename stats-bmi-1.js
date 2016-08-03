@@ -4921,7 +4921,7 @@ data_array[1] = [
     "year": "2008"
   },
   {
-    "name": "David Bates ACMI",
+    "name": "David Bates ACMI Collen 2016",
     "affiliation": "Professor of Medicine, Harvard Medical School",
     "url": "http://scholar.google.com/citations?user=fQFJcdQAAAAJ&hl=en",
     "stats": {
@@ -12099,26 +12099,6 @@ data_array[1] = [
       ]
     },
     "year": "2003"
-  },
-  {
-    "name": "KiYoung Lee",
-    "affiliation": "professor of shool  of  medicine, ajou  university",
-    "url": "http://scholar.google.com/citations?user=rdtGvRsAAAAJ&hl=en",
-    "stats": {
-      "citations": [
-        "107687",
-        "82063"
-      ],
-      "hindex": [
-        "136",
-        "119"
-      ],
-      "i10index": [
-        "955",
-        "715"
-      ]
-    },
-    "year": "1998"
   },
   {
     "name": "Kieran McGlade",
