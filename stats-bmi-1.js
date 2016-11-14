@@ -1,4 +1,4 @@
-date_array[1] = "Sun Nov 13 2016 09:57:50 GMT-0500 (EST)";
+date_array[1] = "Mon Nov 14 2016 13:05:04 GMT-0500 (EST)";
 data_array[1] = [
   {
     "name": "A.Karim Jabali",
@@ -8646,8 +8646,8 @@ data_array[1] = [
     "url": "http://scholar.google.com/citations?user=JJsBmhYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "446",
-        "446"
+        "441",
+        "441"
       ],
       "hindex": [
         "11",
@@ -9062,7 +9062,7 @@ data_array[1] = [
   },
   {
     "name": "In cheol Jeong",
-    "affiliation": "Johns Hopkins University",
+    "affiliation": "Johns Hopkins University inHealth Initiative",
     "url": "http://scholar.google.com/citations?user=kIdinQIAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -15346,8 +15346,8 @@ data_array[1] = [
     "url": "http://scholar.google.com/citations?user=xDDQA6UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "243",
-        "233"
+        "260",
+        "250"
       ],
       "hindex": [
         "10",
