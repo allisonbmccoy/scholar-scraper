@@ -1,4 +1,4 @@
-date_array[2] = "Thu Feb 16 2017 13:01:59 GMT-0500 (EST)";
+date_array[2] = "Thu Feb 23 2017 13:01:58 GMT-0500 (EST)";
 data_array[2] = [
   {
     "name": "Nabeel Abdur Rehman",
@@ -26,8 +26,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GruiaM8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "622",
-        "474"
+        "623",
+        "475"
       ],
       "hindex": [
         "12",
@@ -106,8 +106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ceF698kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "488",
-        "454"
+        "491",
+        "457"
       ],
       "hindex": [
         "9",
@@ -146,8 +146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6CM-dSwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "25",
-        "25"
+        "26",
+        "26"
       ],
       "hindex": [
         "2",
@@ -186,8 +186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=89wQ5iMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "257",
-        "255"
+        "261",
+        "259"
       ],
       "hindex": [
         "9",
@@ -206,8 +206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=A0pR3_UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "310",
-        "257"
+        "314",
+        "261"
       ],
       "hindex": [
         "9",
@@ -226,8 +226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FE08ALAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "23782",
-        "8691"
+        "23820",
+        "8727"
       ],
       "hindex": [
         "52",
@@ -246,8 +246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ZjmBScgAAAAJ",
     "stats": {
       "citations": [
-        "103",
-        "103"
+        "106",
+        "106"
       ],
       "hindex": [
         "3",
@@ -286,8 +286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=JP2CO1EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "45",
-        "42"
+        "46",
+        "43"
       ],
       "hindex": [
         "4",
@@ -306,8 +306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dLkfAQQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "591",
-        "381"
+        "594",
+        "384"
       ],
       "hindex": [
         "11",
@@ -326,8 +326,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=GUkGmR4AAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "2027",
-        "1209"
+        "2031",
+        "1213"
       ],
       "hindex": [
         "24",
@@ -346,8 +346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=auY-mMoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "936",
-        "494"
+        "940",
+        "498"
       ],
       "hindex": [
         "15",
@@ -366,8 +366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=0jUyuFAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "152",
-        "150"
+        "159",
+        "157"
       ],
       "hindex": [
         "8",
@@ -386,8 +386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bnNxLB4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "234",
-        "214"
+        "235",
+        "215"
       ],
       "hindex": [
         "9",
@@ -406,8 +406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ejoWKqsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1324",
-        "1296"
+        "1331",
+        "1303"
       ],
       "hindex": [
         "19",
@@ -446,8 +446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-kKtBb8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5947",
-        "2402"
+        "5962",
+        "2414"
       ],
       "hindex": [
         "33",
@@ -466,8 +466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BZ2h6t8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "23",
-        "23"
+        "25",
+        "25"
       ],
       "hindex": [
         "3",
@@ -486,8 +486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yigxUM4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5502",
-        "3785"
+        "5526",
+        "3807"
       ],
       "hindex": [
         "40",
@@ -506,8 +506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=wU188KoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1714",
-        "1276"
+        "1724",
+        "1286"
       ],
       "hindex": [
         "22",
@@ -526,16 +526,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=n63DmP8AAAAJ",
     "stats": {
       "citations": [
-        "7329",
-        "5232"
+        "7356",
+        "5258"
       ],
       "hindex": [
         "38",
         "32"
       ],
       "i10index": [
-        "83",
-        "75"
+        "84",
+        "76"
       ]
     },
     "year": "2004"
@@ -546,11 +546,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YEcBVFAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "13009",
-        "12634"
+        "13093",
+        "12716"
       ],
       "hindex": [
-        "26",
+        "27",
         "25"
       ],
       "i10index": [
@@ -566,8 +566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gjTTmP0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "110",
-        "97"
+        "112",
+        "99"
       ],
       "hindex": [
         "5",
@@ -586,16 +586,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-D2TBHUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2790",
-        "2076"
+        "2801",
+        "2087"
       ],
       "hindex": [
         "26",
         "23"
       ],
       "i10index": [
-        "48",
-        "45"
+        "49",
+        "46"
       ]
     },
     "year": "2001"
@@ -626,8 +626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kOWrypIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "50",
-        "49"
+        "51",
+        "50"
       ],
       "hindex": [
         "4",
@@ -646,8 +646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=q7N2sUcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1528",
-        "1506"
+        "1547",
+        "1525"
       ],
       "hindex": [
         "8",
@@ -666,8 +666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eyJxiQMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "532",
-        "387"
+        "533",
+        "388"
       ],
       "hindex": [
         "12",
@@ -686,16 +686,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-D2TBHUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2790",
-        "2076"
+        "2801",
+        "2087"
       ],
       "hindex": [
         "26",
         "23"
       ],
       "i10index": [
-        "48",
-        "45"
+        "49",
+        "46"
       ]
     },
     "year": "2001"
@@ -726,8 +726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KkLctVgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "60",
-        "53"
+        "61",
+        "54"
       ],
       "hindex": [
         "5",
@@ -766,8 +766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UKAGJEgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "105",
-        "94"
+        "104",
+        "93"
       ],
       "hindex": [
         "5",
@@ -806,8 +806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KnjYamwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1085",
-        "811"
+        "1088",
+        "814"
       ],
       "hindex": [
         "13",
@@ -826,16 +826,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7660",
-        "3516"
+        "7678",
+        "3532"
       ],
       "hindex": [
         "39",
         "25"
       ],
       "i10index": [
-        "131",
-        "65"
+        "132",
+        "66"
       ]
     },
     "year": "2000"
@@ -846,16 +846,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=_6XYKXMpK34C",
     "stats": {
       "citations": [
-        "2126",
-        "1641"
+        "2135",
+        "1650"
       ],
       "hindex": [
         "25",
         "22"
       ],
       "i10index": [
-        "38",
-        "35"
+        "39",
+        "36"
       ]
     },
     "year": "2006"
@@ -866,8 +866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gOkucCcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "351",
-        "152"
+        "352",
+        "153"
       ],
       "hindex": [
         "10",
@@ -906,8 +906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aAdfSC0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "551",
-        "225"
+        "553",
+        "227"
       ],
       "hindex": [
         "12",
@@ -926,8 +926,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lEE6I4MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "520",
-        "493"
+        "522",
+        "495"
       ],
       "hindex": [
         "11",
@@ -946,8 +946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xISIY5IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "89",
-        "86"
+        "90",
+        "87"
       ],
       "hindex": [
         "5",
@@ -986,8 +986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sRD9KzUAAAAJ",
     "stats": {
       "citations": [
-        "1289",
-        "411"
+        "1292",
+        "414"
       ],
       "hindex": [
         "15",
@@ -1026,8 +1026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_hRBjRkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "311",
-        "157"
+        "312",
+        "158"
       ],
       "hindex": [
         "10",
@@ -1046,8 +1046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j-W_RNYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9760",
-        "3760"
+        "9775",
+        "3775"
       ],
       "hindex": [
         "50",
@@ -1086,8 +1086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7QnhPugAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "445",
-        "314"
+        "447",
+        "316"
       ],
       "hindex": [
         "8",
@@ -1126,8 +1126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cpCRmb0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "761",
-        "393"
+        "764",
+        "396"
       ],
       "hindex": [
         "15",
@@ -1146,8 +1146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gDCFa8QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "98",
-        "98"
+        "100",
+        "100"
       ],
       "hindex": [
         "6",
@@ -1206,8 +1206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=CMavrZoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "15",
-        "14"
+        "16",
+        "15"
       ],
       "hindex": [
         "1",
@@ -1226,8 +1226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gcmGLGQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1969",
-        "803"
+        "1970",
+        "804"
       ],
       "hindex": [
         "28",
@@ -1246,8 +1246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=H3IbUnwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4896",
-        "1047"
+        "4897",
+        "1046"
       ],
       "hindex": [
         "37",
@@ -1266,8 +1266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bdvp7GQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "434",
-        "269"
+        "435",
+        "270"
       ],
       "hindex": [
         "10",
@@ -1286,8 +1286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=PDm-smwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6200",
-        "2065"
+        "6212",
+        "2070"
       ],
       "hindex": [
         "40",
@@ -1326,16 +1326,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gFAjt2kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2438",
-        "2174"
+        "2449",
+        "2185"
       ],
       "hindex": [
         "25",
         "24"
       ],
       "i10index": [
-        "61",
-        "53"
+        "62",
+        "54"
       ]
     },
     "year": "2005"
@@ -1346,8 +1346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eoxNiMkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3659",
-        "1491"
+        "3670",
+        "1502"
       ],
       "hindex": [
         "27",
@@ -1386,8 +1386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=YdagwRsAAAAJ",
     "stats": {
       "citations": [
-        "637",
-        "587"
+        "640",
+        "590"
       ],
       "hindex": [
         "16",
@@ -1406,8 +1406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6dncqlIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3487",
-        "1189"
+        "3494",
+        "1194"
       ],
       "hindex": [
         "26",
@@ -1446,12 +1446,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yDdCuNEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1429",
-        "913"
+        "1440",
+        "924"
       ],
       "hindex": [
         "23",
-        "19"
+        "20"
       ],
       "i10index": [
         "29",
@@ -1466,8 +1466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=tZpbXCMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7159",
-        "2925"
+        "7175",
+        "2939"
       ],
       "hindex": [
         "37",
@@ -1486,8 +1486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IHiF5gMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1960",
-        "1224"
+        "1962",
+        "1226"
       ],
       "hindex": [
         "21",
@@ -1506,8 +1506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=R6z_rKsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "335",
-        "329"
+        "340",
+        "334"
       ],
       "hindex": [
         "8",
@@ -1526,8 +1526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=QmJurRMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3562",
-        "1264"
+        "3570",
+        "1272"
       ],
       "hindex": [
         "30",
@@ -1586,8 +1586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fYnocfwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1438",
-        "668"
+        "1442",
+        "671"
       ],
       "hindex": [
         "18",
@@ -1606,8 +1606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=0IpW8yYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1324",
-        "691"
+        "1327",
+        "694"
       ],
       "hindex": [
         "19",
@@ -1626,8 +1626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fY_rafIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1013",
-        "965"
+        "1015",
+        "967"
       ],
       "hindex": [
         "13",
@@ -1686,8 +1686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=W5Mhkz4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "314",
-        "138"
+        "315",
+        "139"
       ],
       "hindex": [
         "7",
@@ -1706,8 +1706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ELAje0cAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "32",
-        "31"
+        "33",
+        "32"
       ],
       "hindex": [
         "3",
@@ -1726,16 +1726,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eMywJ4sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4871",
-        "1779"
+        "4879",
+        "1787"
       ],
       "hindex": [
-        "37",
+        "38",
         "24"
       ],
       "i10index": [
-        "97",
-        "46"
+        "98",
+        "47"
       ]
     },
     "year": "1989"
@@ -1746,7 +1746,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=V9BMzgsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "652",
+        "653",
         "242"
       ],
       "hindex": [
@@ -1766,8 +1766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-ExSN_IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3444",
-        "1559"
+        "3449",
+        "1564"
       ],
       "hindex": [
         "34",
@@ -1786,8 +1786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hTd-q8MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "323",
-        "213"
+        "325",
+        "215"
       ],
       "hindex": [
         "8",
@@ -1806,8 +1806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=mV929KQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3576",
-        "1656"
+        "3584",
+        "1659"
       ],
       "hindex": [
         "34",
@@ -1826,8 +1826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sBFHQmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1623",
-        "1181"
+        "1633",
+        "1190"
       ],
       "hindex": [
         "23",
@@ -1846,8 +1846,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=h_Mg9IAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5039",
-        "2035"
+        "5048",
+        "2043"
       ],
       "hindex": [
         "40",
@@ -1866,7 +1866,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ixrIo1wAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1627",
+        "1628",
         "190"
       ],
       "hindex": [
@@ -1886,8 +1886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6w8Of0oAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2159",
-        "805"
+        "2162",
+        "806"
       ],
       "hindex": [
         "22",
@@ -1906,8 +1906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GSnIrqwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "177",
-        "176"
+        "178",
+        "177"
       ],
       "hindex": [
         "8",
@@ -1926,8 +1926,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=asu1aZMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2821",
-        "1149"
+        "2825",
+        "1153"
       ],
       "hindex": [
         "33",
@@ -1966,8 +1966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kYypRqUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1132",
-        "828"
+        "1136",
+        "832"
       ],
       "hindex": [
         "17",
@@ -2026,8 +2026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=L4rUd2EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1695",
-        "609"
+        "1697",
+        "611"
       ],
       "hindex": [
         "20",
@@ -2046,8 +2046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=0LjUNAsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3912",
-        "1702"
+        "3917",
+        "1707"
       ],
       "hindex": [
         "34",
@@ -2066,8 +2066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6U4AouYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1036",
-        "837"
+        "1041",
+        "841"
       ],
       "hindex": [
         "15",
@@ -2086,8 +2086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=wpBkHPAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "591",
-        "344"
+        "593",
+        "345"
       ],
       "hindex": [
         "13",
@@ -2106,8 +2106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=vpIYarMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2",
-        "2"
+        "3",
+        "3"
       ],
       "hindex": [
         "1",
@@ -2126,8 +2126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2h-DttAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "548",
-        "459"
+        "551",
+        "462"
       ],
       "hindex": [
         "13",
@@ -2166,8 +2166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XKqzS2oAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3739",
-        "2918"
+        "3746",
+        "2925"
       ],
       "hindex": [
         "21",
@@ -2186,8 +2186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=CpKgwIUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "197",
-        "197"
+        "200",
+        "200"
       ],
       "hindex": [
         "4",
@@ -2226,8 +2226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=qWQjtogAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3768",
-        "1631"
+        "3777",
+        "1640"
       ],
       "hindex": [
         "28",
@@ -2286,16 +2286,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kFduPiIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6649",
-        "3596"
+        "6660",
+        "3606"
       ],
       "hindex": [
         "28",
         "26"
       ],
       "i10index": [
-        "40",
-        "36"
+        "41",
+        "37"
       ]
     },
     "year": "2003"
@@ -2326,8 +2326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=l6PrRTYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "813",
-        "584"
+        "816",
+        "587"
       ],
       "hindex": [
         "16",
@@ -2346,8 +2346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=zr22WkQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5126",
-        "3663"
+        "5139",
+        "3676"
       ],
       "hindex": [
         "33",
@@ -2366,8 +2366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=pbqCSx8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "26",
-        "15"
+        "27",
+        "16"
       ],
       "hindex": [
         "3",
@@ -2382,20 +2382,20 @@ data_array[2] = [
   },
   {
     "name": "R Brian Haynes ACMI",
-    "affiliation": "Professor, McMaster University",
+    "affiliation": "Professor Emeritus, McMaster University",
     "url": "http://scholar.google.com/citations?user=42_na4QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "96330",
-        "29028"
+        "95960",
+        "29093"
       ],
       "hindex": [
         "103",
         "63"
       ],
       "i10index": [
-        "346",
-        "203"
+        "341",
+        "202"
       ]
     },
     "year": "1984"
@@ -2406,8 +2406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dOPLWCAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "86",
-        "86"
+        "87",
+        "87"
       ],
       "hindex": [
         "5",
@@ -2466,11 +2466,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=vEIMoZEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "945",
-        "722"
+        "950",
+        "727"
       ],
       "hindex": [
-        "16",
+        "17",
         "15"
       ],
       "i10index": [
@@ -2506,8 +2506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ImHDtJsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1255",
-        "1153"
+        "1263",
+        "1161"
       ],
       "hindex": [
         "18",
@@ -2526,8 +2526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=TvD2RRQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "988",
-        "598"
+        "993",
+        "603"
       ],
       "hindex": [
         "16",
@@ -2586,8 +2586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=W4t8B20AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8134",
-        "2785"
+        "8142",
+        "2793"
       ],
       "hindex": [
         "48",
@@ -2686,8 +2686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IJLURXkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "10322",
-        "7128"
+        "10364",
+        "7170"
       ],
       "hindex": [
         "49",
@@ -2706,8 +2706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=biSq9LgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4418",
-        "2040"
+        "4428",
+        "2049"
       ],
       "hindex": [
         "33",
@@ -2726,8 +2726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fi4HWW8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5151",
-        "2476"
+        "5153",
+        "2477"
       ],
       "hindex": [
         "24",
@@ -2766,8 +2766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yCtvlA8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "939",
-        "609"
+        "941",
+        "611"
       ],
       "hindex": [
         "17",
@@ -2826,8 +2826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aC-0LkAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1180",
-        "920"
+        "1186",
+        "926"
       ],
       "hindex": [
         "15",
@@ -2866,8 +2866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=oKNJ1k4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "448",
-        "382"
+        "449",
+        "383"
       ],
       "hindex": [
         "9",
@@ -2906,8 +2906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=uEK3sEkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1627",
-        "1238"
+        "1630",
+        "1241"
       ],
       "hindex": [
         "17",
@@ -2926,16 +2926,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=263M6WUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6144",
-        "3014"
+        "6165",
+        "3035"
       ],
       "hindex": [
         "43",
         "27"
       ],
       "i10index": [
-        "147",
-        "78"
+        "148",
+        "80"
       ]
     },
     "year": "1992"
@@ -2966,8 +2966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cmWWPNcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "507",
-        "462"
+        "509",
+        "464"
       ],
       "hindex": [
         "15",
@@ -2986,8 +2986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5XXBTc8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "17038",
-        "13731"
+        "17091",
+        "13785"
       ],
       "hindex": [
         "29",
@@ -3006,8 +3006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yl5ZvysAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "41",
-        "34"
+        "42",
+        "35"
       ],
       "hindex": [
         "4",
@@ -3026,15 +3026,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UxiABUwAAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "6199",
-        "3173"
+        "6215",
+        "3185"
       ],
       "hindex": [
         "33",
         "21"
       ],
       "i10index": [
-        "61",
+        "62",
         "34"
       ]
     },
@@ -3146,8 +3146,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=s3aMOHIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "342",
-        "283"
+        "344",
+        "285"
       ],
       "hindex": [
         "10",
@@ -3166,8 +3166,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=en&user=POd5vWkAAAAJ",
     "stats": {
       "citations": [
-        "1579",
-        "1470"
+        "1581",
+        "1472"
       ],
       "hindex": [
         "17",
@@ -3206,16 +3206,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IH2TPkkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5597",
-        "3046"
+        "5615",
+        "3064"
       ],
       "hindex": [
         "37",
-        "23"
+        "24"
       ],
       "i10index": [
         "115",
-        "56"
+        "57"
       ]
     },
     "year": "1996"
@@ -3226,8 +3226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Sr-8DPoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1556",
-        "369"
+        "1557",
+        "370"
       ],
       "hindex": [
         "17",
@@ -3246,8 +3246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Njryy0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8669",
-        "2258"
+        "8683",
+        "2272"
       ],
       "hindex": [
         "45",
@@ -3266,8 +3266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aYEVCBwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1633",
-        "1165"
+        "1639",
+        "1170"
       ],
       "hindex": [
         "23",
@@ -3286,7 +3286,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=xAgBXAoAAAAJ",
     "stats": {
       "citations": [
-        "6260",
+        "6263",
         "951"
       ],
       "hindex": [
@@ -3306,8 +3306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=crRnwpYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "321",
-        "317"
+        "322",
+        "318"
       ],
       "hindex": [
         "10",
@@ -3406,8 +3406,8 @@ data_array[2] = [
     "url": "http://scholar.google.nl/citations?user=fEWSFjkAAAAJ&hl=nl",
     "stats": {
       "citations": [
-        "2787",
-        "1293"
+        "2798",
+        "1304"
       ],
       "hindex": [
         "22",
@@ -3426,8 +3426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5Yjb93IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7684",
-        "5340"
+        "7703",
+        "5354"
       ],
       "hindex": [
         "41",
@@ -3446,8 +3446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=o7Lf2bcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "203",
-        "107"
+        "202",
+        "106"
       ],
       "hindex": [
         "8",
@@ -3526,8 +3526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_OZMoS0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "723",
-        "329"
+        "724",
+        "330"
       ],
       "hindex": [
         "15",
@@ -3546,15 +3546,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=s6XjtCMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "28166",
-        "14514"
+        "28214",
+        "14560"
       ],
       "hindex": [
         "75",
         "52"
       ],
       "i10index": [
-        "302",
+        "303",
         "217"
       ]
     },
@@ -3566,8 +3566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Rn7APGIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "12095",
-        "6268"
+        "12130",
+        "6303"
       ],
       "hindex": [
         "47",
@@ -3606,8 +3606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=d9ZlTjUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "94",
-        "94"
+        "95",
+        "95"
       ],
       "hindex": [
         "3",
@@ -3630,8 +3630,8 @@ data_array[2] = [
         "144"
       ],
       "hindex": [
-        "6",
-        "6"
+        "5",
+        "5"
       ],
       "i10index": [
         "4",
@@ -3686,8 +3686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BeSQiT4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "512",
-        "321"
+        "513",
+        "322"
       ],
       "hindex": [
         "11",
@@ -3706,8 +3706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=AQKGDZYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "207",
-        "178"
+        "208",
+        "179"
       ],
       "hindex": [
         "9",
@@ -3766,8 +3766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jVXwIPsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "207",
-        "207"
+        "209",
+        "209"
       ],
       "hindex": [
         "5",
@@ -3826,8 +3826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_hDqFSUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "875",
-        "729"
+        "879",
+        "733"
       ],
       "hindex": [
         "14",
@@ -3866,8 +3866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_e88pTgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "10755",
-        "2753"
+        "10771",
+        "2768"
       ],
       "hindex": [
         "50",
@@ -3906,8 +3906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=pz3TfbEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "542",
-        "455"
+        "544",
+        "457"
       ],
       "hindex": [
         "10",
@@ -3926,16 +3926,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=k2RLJ0kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2453",
-        "1491"
+        "2488",
+        "1505"
       ],
       "hindex": [
         "26",
         "20"
       ],
       "i10index": [
-        "46",
-        "31"
+        "47",
+        "32"
       ]
     },
     "year": "2004"
@@ -3946,8 +3946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fkyBx9EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6282",
-        "2046"
+        "6287",
+        "2052"
       ],
       "hindex": [
         "40",
@@ -3966,8 +3966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Xle7R64AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1651",
-        "642"
+        "1654",
+        "645"
       ],
       "hindex": [
         "11",
@@ -3986,8 +3986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7l9y1KQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "934",
-        "696"
+        "936",
+        "698"
       ],
       "hindex": [
         "14",
@@ -4026,8 +4026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=MbCKkBEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "100",
-        "100"
+        "102",
+        "102"
       ],
       "hindex": [
         "5",
@@ -4086,16 +4086,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=drBAzN8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "500",
-        "338"
+        "503",
+        "340"
       ],
       "hindex": [
         "13",
         "10"
       ],
       "i10index": [
-        "17",
-        "11"
+        "18",
+        "12"
       ]
     },
     "year": "1999"
@@ -4126,8 +4126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yUkK-mgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "937",
-        "845"
+        "956",
+        "864"
       ],
       "hindex": [
         "13",
@@ -4146,8 +4146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gw6b3KgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1872",
-        "987"
+        "1876",
+        "991"
       ],
       "hindex": [
         "14",
@@ -4166,11 +4166,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=O125w4cAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1431",
-        "1018"
+        "1437",
+        "1024"
       ],
       "hindex": [
-        "16",
+        "17",
         "16"
       ],
       "i10index": [
@@ -4186,8 +4186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=CgGenVoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "61",
-        "43"
+        "62",
+        "45"
       ],
       "hindex": [
         "5",
@@ -4306,12 +4306,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=OYc22IoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4687",
-        "2107"
+        "4697",
+        "2115"
       ],
       "hindex": [
         "15",
-        "13"
+        "14"
       ],
       "i10index": [
         "21",
@@ -4326,8 +4326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xQM4BlMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "867",
-        "639"
+        "868",
+        "640"
       ],
       "hindex": [
         "14",
@@ -4346,8 +4346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=iWiXGWMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1365",
-        "982"
+        "1369",
+        "986"
       ],
       "hindex": [
         "20",
@@ -4366,8 +4366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=9GA_8uMAAAAJ",
     "stats": {
       "citations": [
-        "5216",
-        "2983"
+        "5229",
+        "2996"
       ],
       "hindex": [
         "37",
@@ -4406,8 +4406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=f1znT0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1749",
-        "993"
+        "1751",
+        "995"
       ],
       "hindex": [
         "20",
@@ -4446,16 +4446,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=9A2sDMQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "371",
-        "364"
+        "375",
+        "368"
       ],
       "hindex": [
         "11",
         "11"
       ],
       "i10index": [
-        "12",
-        "12"
+        "13",
+        "13"
       ]
     },
     "year": "2011"
@@ -4466,8 +4466,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=en&user=pJleQtAAAAAJ",
     "stats": {
       "citations": [
-        "696",
-        "201"
+        "698",
+        "203"
       ],
       "hindex": [
         "13",
@@ -4486,12 +4486,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FlyW15EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "137",
-        "125"
+        "140",
+        "128"
       ],
       "hindex": [
         "6",
-        "5"
+        "6"
       ],
       "i10index": [
         "3",
@@ -4506,12 +4506,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=PdWvYwEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "58",
-        "58"
+        "60",
+        "60"
       ],
       "hindex": [
-        "3",
-        "3"
+        "4",
+        "4"
       ],
       "i10index": [
         "2",
@@ -4586,7 +4586,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XatwpmsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "113",
+        "112",
         "109"
       ],
       "hindex": [
@@ -4626,15 +4626,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=i4k8HmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "810",
-        "656"
+        "814",
+        "660"
       ],
       "hindex": [
         "17",
         "15"
       ],
       "i10index": [
-        "26",
+        "27",
         "20"
       ]
     },
@@ -4666,8 +4666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=pIOfxxMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "312",
-        "238"
+        "313",
+        "239"
       ],
       "hindex": [
         "9",
@@ -4686,8 +4686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yiuDZzwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "667",
-        "469"
+        "670",
+        "472"
       ],
       "hindex": [
         "10",
@@ -4706,12 +4706,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eOMJNxsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "27588",
-        "13838"
+        "27644",
+        "13891"
       ],
       "hindex": [
         "78",
-        "54"
+        "55"
       ],
       "i10index": [
         "266",
@@ -4746,16 +4746,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=I4CKCK8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6298",
-        "3563"
+        "6319",
+        "3582"
       ],
       "hindex": [
         "41",
         "29"
       ],
       "i10index": [
-        "151",
-        "108"
+        "152",
+        "109"
       ]
     },
     "year": "2000"
@@ -4766,8 +4766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=3ykobdcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "131",
-        "131"
+        "134",
+        "134"
       ],
       "hindex": [
         "4",
@@ -4786,8 +4786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BuIwRbIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "805",
-        "504"
+        "812",
+        "510"
       ],
       "hindex": [
         "15",
@@ -4826,8 +4826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j9aGSM4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1115",
-        "481"
+        "1123",
+        "486"
       ],
       "hindex": [
         "15",
@@ -4866,8 +4866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=igUdSZcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1480",
-        "850"
+        "1483",
+        "853"
       ],
       "hindex": [
         "17",
@@ -4886,8 +4886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=K982eaUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1961",
-        "717"
+        "1962",
+        "718"
       ],
       "hindex": [
         "21",
@@ -4906,8 +4906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GFAAheYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "36",
-        "36"
+        "37",
+        "37"
       ],
       "hindex": [
         "3",
@@ -4946,8 +4946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=JOrIsmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1891",
-        "1297"
+        "1895",
+        "1301"
       ],
       "hindex": [
         "21",
@@ -4966,8 +4966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=TP4BrNQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1082",
-        "1061"
+        "1089",
+        "1068"
       ],
       "hindex": [
         "15",
@@ -4986,8 +4986,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=blDhRfMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "180",
-        "164"
+        "182",
+        "166"
       ],
       "hindex": [
         "6",
@@ -5066,16 +5066,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=O2ariVIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3875",
-        "1514"
+        "3881",
+        "1521"
       ],
       "hindex": [
         "33",
         "18"
       ],
       "i10index": [
-        "111",
-        "49"
+        "112",
+        "50"
       ]
     },
     "year": "1999"
@@ -5086,8 +5086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ppDWSI0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "149",
-        "123"
+        "150",
+        "124"
       ],
       "hindex": [
         "4",
@@ -5106,8 +5106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=AtFItVQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1509",
-        "1062"
+        "1511",
+        "1064"
       ],
       "hindex": [
         "16",
@@ -5146,12 +5146,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=8Uxl3nsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4024",
-        "2038"
+        "4046",
+        "2059"
       ],
       "hindex": [
         "33",
-        "23"
+        "24"
       ],
       "i10index": [
         "75",
@@ -5206,8 +5206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=igTxFH0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "572",
-        "273"
+        "574",
+        "274"
       ],
       "hindex": [
         "11",
@@ -5226,8 +5226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yKUaXNAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2313",
-        "1824"
+        "2322",
+        "1833"
       ],
       "hindex": [
         "27",
@@ -5246,8 +5246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jIzuZr4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4912",
-        "2533"
+        "4919",
+        "2540"
       ],
       "hindex": [
         "38",
@@ -5266,8 +5266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=JOyC9e0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2123",
-        "593"
+        "2124",
+        "594"
       ],
       "hindex": [
         "21",
@@ -5286,8 +5286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=DL65dIMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "828",
-        "689"
+        "831",
+        "692"
       ],
       "hindex": [
         "10",
@@ -5306,8 +5306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=B5UIE1MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2681",
-        "2184"
+        "2684",
+        "2187"
       ],
       "hindex": [
         "16",
@@ -5366,8 +5366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Y7DkpoYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "55",
-        "55"
+        "58",
+        "58"
       ],
       "hindex": [
         "4",
@@ -5446,16 +5446,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3767",
-        "3125"
+        "3782",
+        "3140"
       ],
       "hindex": [
-        "33",
+        "34",
         "32"
       ],
       "i10index": [
         "80",
-        "72"
+        "73"
       ]
     },
     "year": "2005"
@@ -5466,8 +5466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gjVSV14AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "303",
-        "187"
+        "304",
+        "188"
       ],
       "hindex": [
         "8",
@@ -5486,8 +5486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=zwr9wPEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8761",
-        "4117"
+        "8779",
+        "4134"
       ],
       "hindex": [
         "49",
@@ -5506,8 +5506,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=AHcaOKoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5315",
-        "2585"
+        "5323",
+        "2593"
       ],
       "hindex": [
         "31",
@@ -5526,8 +5526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aozXOfMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "217",
-        "85"
+        "218",
+        "86"
       ],
       "hindex": [
         "9",
@@ -5546,8 +5546,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6DISHLIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1396",
-        "774"
+        "1398",
+        "776"
       ],
       "hindex": [
         "19",
@@ -5626,8 +5626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5PgoVjAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "21",
-        "21"
+        "22",
+        "22"
       ],
       "hindex": [
         "2",
@@ -5646,8 +5646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=uDGxjjUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "270",
-        "115"
+        "272",
+        "117"
       ],
       "hindex": [
         "7",
@@ -5655,7 +5655,7 @@ data_array[2] = [
       ],
       "i10index": [
         "7",
-        "4"
+        "5"
       ]
     },
     "year": "2004"
@@ -5726,8 +5726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hvvIje5YhtYC&hl=en",
     "stats": {
       "citations": [
-        "489",
-        "476"
+        "491",
+        "478"
       ],
       "hindex": [
         "6",
@@ -5746,8 +5746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_qqMRkoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "704",
-        "521"
+        "707",
+        "524"
       ],
       "hindex": [
         "10",
@@ -5786,8 +5786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GwJdLSAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8181",
-        "3861"
+        "8192",
+        "3872"
       ],
       "hindex": [
         "35",
@@ -5806,8 +5806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KIv0fKQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "28407",
-        "5139"
+        "28430",
+        "5158"
       ],
       "hindex": [
         "67",
@@ -5815,7 +5815,7 @@ data_array[2] = [
       ],
       "i10index": [
         "186",
-        "78"
+        "79"
       ]
     },
     "year": "1978"
@@ -5826,8 +5826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XJvLrVAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3043",
-        "2171"
+        "3052",
+        "2180"
       ],
       "hindex": [
         "29",
@@ -5846,16 +5846,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=3yCig6AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "11574",
-        "8761"
+        "11620",
+        "8807"
       ],
       "hindex": [
-        "53",
+        "54",
         "44"
       ],
       "i10index": [
-        "153",
-        "123"
+        "154",
+        "124"
       ]
     },
     "year": "1991"
@@ -5866,8 +5866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gdBlolsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3",
-        "3"
+        "4",
+        "4"
       ],
       "hindex": [
         "1",
@@ -5886,8 +5886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XVtYO6AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "149",
-        "113"
+        "150",
+        "114"
       ],
       "hindex": [
         "7",
@@ -5906,8 +5906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Cu14lwUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4069",
-        "1137"
+        "4074",
+        "1140"
       ],
       "hindex": [
         "18",
@@ -5966,8 +5966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ByiAe9sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "970",
-        "736"
+        "975",
+        "741"
       ],
       "hindex": [
         "14",
@@ -5986,8 +5986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Zd4CIUsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "255",
-        "255"
+        "257",
+        "257"
       ],
       "hindex": [
         "9",
@@ -6026,8 +6026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xAUemeoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2513",
-        "1185"
+        "2515",
+        "1187"
       ],
       "hindex": [
         "26",
@@ -6046,8 +6046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kM95eWgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1627",
-        "1282"
+        "1638",
+        "1293"
       ],
       "hindex": [
         "22",
@@ -6086,8 +6086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=g7b_NGwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "398",
-        "279"
+        "400",
+        "281"
       ],
       "hindex": [
         "10",
@@ -6126,8 +6126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hsFo_8UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "803",
-        "459"
+        "805",
+        "461"
       ],
       "hindex": [
         "11",
@@ -6146,8 +6146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=THsfmA8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1721",
-        "811"
+        "1723",
+        "812"
       ],
       "hindex": [
         "20",
@@ -6166,8 +6166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=x9kzObUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8339",
-        "3609"
+        "8351",
+        "3621"
       ],
       "hindex": [
         "42",
@@ -6206,8 +6206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5LCpwUsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2019",
-        "941"
+        "2026",
+        "948"
       ],
       "hindex": [
         "25",
@@ -6226,8 +6226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cKv0bKQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "861",
-        "705"
+        "862",
+        "706"
       ],
       "hindex": [
         "17",
@@ -6246,8 +6246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7c0QVPkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3298",
-        "1347"
+        "3304",
+        "1352"
       ],
       "hindex": [
         "26",
@@ -6286,8 +6286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=I7D7D5sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "219",
-        "171"
+        "221",
+        "173"
       ],
       "hindex": [
         "7",
@@ -6306,16 +6306,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=mWmmDMwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1373",
-        "1135"
+        "1375",
+        "1137"
       ],
       "hindex": [
         "18",
         "17"
       ],
       "i10index": [
-        "38",
-        "33"
+        "39",
+        "34"
       ]
     },
     "year": "2006"
@@ -6326,8 +6326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2b1-ZLAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4134",
-        "2320"
+        "4141",
+        "2327"
       ],
       "hindex": [
         "19",
@@ -6386,8 +6386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=OLDMURQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6620",
-        "3804"
+        "6640",
+        "3824"
       ],
       "hindex": [
         "42",
@@ -6426,8 +6426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xe_vclAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "153",
-        "151"
+        "154",
+        "152"
       ],
       "hindex": [
         "7",
@@ -6446,8 +6446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_-GqsbMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "611",
-        "376"
+        "612",
+        "377"
       ],
       "hindex": [
         "11",
@@ -6486,8 +6486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=nKR2tGvMLFMC&hl=en",
     "stats": {
       "citations": [
-        "5833",
-        "2898"
+        "5840",
+        "2905"
       ],
       "hindex": [
         "31",
@@ -6526,8 +6526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ZpjPSRIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2289",
-        "838"
+        "2291",
+        "840"
       ],
       "hindex": [
         "7",
@@ -6546,8 +6546,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Z04LX_8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "59",
-        "41"
+        "60",
+        "42"
       ],
       "hindex": [
         "4",
@@ -6566,8 +6566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jbNc6kQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "134",
-        "118"
+        "135",
+        "119"
       ],
       "hindex": [
         "7",
@@ -6586,8 +6586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=X9VrDxkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1391",
-        "920"
+        "1397",
+        "925"
       ],
       "hindex": [
         "16",
@@ -6626,8 +6626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6sPuxnwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1072",
-        "511"
+        "1075",
+        "514"
       ],
       "hindex": [
         "16",
@@ -6646,8 +6646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=29e4oWUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "198",
-        "157"
+        "199",
+        "158"
       ],
       "hindex": [
         "7",
@@ -6666,8 +6666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hC02ZnsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1456",
-        "1426"
+        "1462",
+        "1432"
       ],
       "hindex": [
         "13",
@@ -6746,8 +6746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eb1x1lcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1085",
-        "493"
+        "1086",
+        "494"
       ],
       "hindex": [
         "17",
@@ -6766,8 +6766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=blg0nusAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "17423",
-        "5995"
+        "17443",
+        "6012"
       ],
       "hindex": [
         "76",
@@ -6786,8 +6786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BF3B4KAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1566",
-        "610"
+        "1568",
+        "612"
       ],
       "hindex": [
         "23",
@@ -6806,8 +6806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YKcX4D0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2126",
-        "2078"
+        "2132",
+        "2084"
       ],
       "hindex": [
         "24",
@@ -6826,8 +6826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=igSmY2QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6523",
-        "1718"
+        "6535",
+        "1722"
       ],
       "hindex": [
         "29",
@@ -6866,12 +6866,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FkJjdq4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1239",
-        "1106"
+        "1246",
+        "1113"
       ],
       "hindex": [
         "19",
-        "17"
+        "18"
       ],
       "i10index": [
         "30",
@@ -6886,8 +6886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=DI11XkYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "187",
-        "181"
+        "188",
+        "182"
       ],
       "hindex": [
         "7",
@@ -6906,8 +6906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Pnev7hAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1644",
-        "640"
+        "1649",
+        "645"
       ],
       "hindex": [
         "19",
@@ -6926,8 +6926,8 @@ data_array[2] = [
     "url": "https://scholar.google.com.pe/citations?user=aWRsww4AAAAJ&hl=es&oi=ao",
     "stats": {
       "citations": [
-        "1457",
-        "865"
+        "1460",
+        "868"
       ],
       "hindex": [
         "20",
@@ -6946,11 +6946,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=PsvPvwgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4543",
-        "2634"
+        "4574",
+        "2665"
       ],
       "hindex": [
-        "35",
+        "36",
         "26"
       ],
       "i10index": [
@@ -6966,8 +6966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=e82keSQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2835",
-        "1447"
+        "2853",
+        "1464"
       ],
       "hindex": [
         "31",
@@ -7006,8 +7006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xuw6dakAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "594",
-        "568"
+        "598",
+        "572"
       ],
       "hindex": [
         "13",
@@ -7026,8 +7026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xhNLJlgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "965",
-        "538"
+        "966",
+        "539"
       ],
       "hindex": [
         "13",
@@ -7046,8 +7046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=l1rdsXUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "589",
-        "546"
+        "588",
+        "545"
       ],
       "hindex": [
         "10",
@@ -7066,8 +7066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FYmyACUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4811",
-        "2987"
+        "4823",
+        "2996"
       ],
       "hindex": [
         "37",
@@ -7075,7 +7075,7 @@ data_array[2] = [
       ],
       "i10index": [
         "80",
-        "64"
+        "65"
       ]
     },
     "year": "2000"
@@ -7086,8 +7086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YlZFhnsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "622",
-        "511"
+        "623",
+        "512"
       ],
       "hindex": [
         "12",
@@ -7106,8 +7106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dVKICiMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6175",
-        "2903"
+        "6193",
+        "2918"
       ],
       "hindex": [
         "28",
@@ -7126,8 +7126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Jz8ZnUgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1235",
-        "642"
+        "1239",
+        "645"
       ],
       "hindex": [
         "13",
@@ -7146,8 +7146,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=us&user=KPMUSnIAAAAJ",
     "stats": {
       "citations": [
-        "816",
-        "513"
+        "820",
+        "517"
       ],
       "hindex": [
         "15",
@@ -7166,8 +7166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=HfmzRrcAAAAJ",
     "stats": {
       "citations": [
-        "1216",
-        "540"
+        "1218",
+        "542"
       ],
       "hindex": [
         "16",
@@ -7186,16 +7186,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gf7B120AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "21853",
-        "5993"
+        "21868",
+        "6006"
       ],
       "hindex": [
         "77",
         "40"
       ],
       "i10index": [
-        "275",
-        "175"
+        "276",
+        "176"
       ]
     },
     "year": "1988"
@@ -7206,16 +7206,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=NmQIjpAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "40",
-        "40"
+        "43",
+        "43"
       ],
       "hindex": [
         "4",
         "4"
       ],
       "i10index": [
-        "1",
-        "1"
+        "2",
+        "2"
       ]
     },
     "year": "2014"
@@ -7246,8 +7246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=32_3l-8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "79",
-        "74"
+        "80",
+        "75"
       ],
       "hindex": [
         "5",
@@ -7266,12 +7266,12 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=cQz8z1gAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "17830",
-        "11829"
+        "17876",
+        "11874"
       ],
       "hindex": [
         "53",
-        "40"
+        "41"
       ],
       "i10index": [
         "422",
@@ -7306,8 +7306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=or0oVL0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "511",
-        "462"
+        "516",
+        "467"
       ],
       "hindex": [
         "11",
@@ -7326,12 +7326,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=EBeIYOwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "14355",
-        "9743"
+        "14392",
+        "9781"
       ],
       "hindex": [
         "46",
-        "41"
+        "42"
       ],
       "i10index": [
         "393",
@@ -7346,16 +7346,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jb-bYtIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4633",
-        "3358"
+        "4651",
+        "3374"
       ],
       "hindex": [
         "23",
         "19"
       ],
       "i10index": [
-        "47",
-        "33"
+        "48",
+        "34"
       ]
     },
     "year": "1996"
@@ -7366,8 +7366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=LXCugLcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "782",
-        "384"
+        "783",
+        "386"
       ],
       "hindex": [
         "13",
@@ -7386,8 +7386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=1Mwj0aoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "79",
-        "78"
+        "80",
+        "79"
       ],
       "hindex": [
         "5",
@@ -7406,8 +7406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=67tRHTYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "566",
-        "323"
+        "574",
+        "331"
       ],
       "hindex": [
         "12",
@@ -7426,8 +7426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=G9UHfbwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "27336",
-        "16795"
+        "27391",
+        "16850"
       ],
       "hindex": [
         "69",
@@ -7446,8 +7446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ubIpZ9AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7821",
-        "4971"
+        "7868",
+        "5017"
       ],
       "hindex": [
         "21",
@@ -7455,7 +7455,7 @@ data_array[2] = [
       ],
       "i10index": [
         "152",
-        "105"
+        "106"
       ]
     },
     "year": "1995"
@@ -7466,12 +7466,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KuxtBPUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "276",
-        "266"
+        "277",
+        "267"
       ],
       "hindex": [
-        "8",
-        "8"
+        "9",
+        "9"
       ],
       "i10index": [
         "8",
@@ -7486,11 +7486,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=z14Bm0kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "502",
-        "381"
+        "503",
+        "382"
       ],
       "hindex": [
-        "12",
+        "13",
         "11"
       ],
       "i10index": [
@@ -7506,8 +7506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=qmkKxLwAAAAJ&hl=es",
     "stats": {
       "citations": [
-        "1084",
-        "434"
+        "1087",
+        "437"
       ],
       "hindex": [
         "16",
@@ -7526,8 +7526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=LDHICsUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4008",
-        "2658"
+        "4016",
+        "2666"
       ],
       "hindex": [
         "21",
@@ -7546,8 +7546,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=WJr1S-4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "366",
-        "292"
+        "367",
+        "293"
       ],
       "hindex": [
         "8",
@@ -7566,8 +7566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-eQ3brcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "670",
-        "518"
+        "675",
+        "523"
       ],
       "hindex": [
         "11",
@@ -7586,16 +7586,16 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=en&user=uAhdJNAAAAAJ",
     "stats": {
       "citations": [
-        "394",
-        "278"
+        "402",
+        "286"
       ],
       "hindex": [
         "12",
         "11"
       ],
       "i10index": [
-        "14",
-        "12"
+        "15",
+        "13"
       ]
     },
     "year": "2007"
@@ -7606,8 +7606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Z6oy0YIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "10061",
-        "4756"
+        "10144",
+        "4784"
       ],
       "hindex": [
         "36",
@@ -7662,12 +7662,12 @@ data_array[2] = [
   },
   {
     "name": "Yang Xiang",
-    "affiliation": "Some Stealth Mode Big Data Startup",
+    "affiliation": "GraphSQL, Inc.",
     "url": "http://scholar.google.com/citations?user=SK6wCRoAAAAJ",
     "stats": {
       "citations": [
-        "935",
-        "733"
+        "937",
+        "735"
       ],
       "hindex": [
         "15",
@@ -7686,11 +7686,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FqMy16AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "216",
-        "128"
+        "218",
+        "130"
       ],
       "hindex": [
-        "8",
+        "9",
         "7"
       ],
       "i10index": [
@@ -7706,16 +7706,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jVLGHGQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4137",
-        "1157"
+        "4156",
+        "1175"
       ],
       "hindex": [
         "32",
         "16"
       ],
       "i10index": [
-        "98",
-        "38"
+        "99",
+        "40"
       ]
     },
     "year": "1980"
@@ -7726,8 +7726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j88o8jQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "423",
-        "376"
+        "425",
+        "378"
       ],
       "hindex": [
         "8",
@@ -7746,8 +7746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=d8N328MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "69",
-        "68"
+        "72",
+        "71"
       ],
       "hindex": [
         "5",
@@ -7766,8 +7766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xnr14lcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "361",
-        "255"
+        "364",
+        "258"
       ],
       "hindex": [
         "7",
@@ -7786,8 +7786,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=X2AnQRAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "308",
-        "264"
+        "309",
+        "265"
       ],
       "hindex": [
         "10",
@@ -7806,8 +7806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SmwXEvcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "349",
-        "288"
+        "352",
+        "291"
       ],
       "hindex": [
         "9",
@@ -7826,16 +7826,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=rfD0QCkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "13010",
-        "7984"
+        "13063",
+        "8035"
       ],
       "hindex": [
         "42",
         "31"
       ],
       "i10index": [
-        "264",
-        "186"
+        "265",
+        "187"
       ]
     },
     "year": "1998"
@@ -7866,8 +7866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=h1NXfKYAAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "960",
-        "930"
+        "964",
+        "934"
       ],
       "hindex": [
         "13",
@@ -7886,8 +7886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=QjbgoY8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "538",
-        "501"
+        "554",
+        "517"
       ],
       "hindex": [
         "13",
@@ -7906,8 +7906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=le5YyBQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6488",
-        "1900"
+        "6495",
+        "1906"
       ],
       "hindex": [
         "38",
@@ -7926,16 +7926,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=JhIiSHQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3809",
-        "2211"
+        "3822",
+        "2224"
       ],
       "hindex": [
         "33",
         "26"
       ],
       "i10index": [
-        "81",
-        "55"
+        "82",
+        "56"
       ]
     },
     "year": "2001"
@@ -7966,8 +7966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=U5HAWlcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "95",
-        "92"
+        "96",
+        "93"
       ],
       "hindex": [
         "4",
@@ -7986,8 +7986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=mywiMV0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "547",
-        "386"
+        "550",
+        "389"
       ],
       "hindex": [
         "10",
@@ -8006,8 +8006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=I9TjVWEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "50",
-        "49"
+        "51",
+        "50"
       ],
       "hindex": [
         "3",
@@ -8086,8 +8086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lJAkLo8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9321",
-        "5800"
+        "9348",
+        "5823"
       ],
       "hindex": [
         "36",
@@ -8095,7 +8095,7 @@ data_array[2] = [
       ],
       "i10index": [
         "81",
-        "74"
+        "75"
       ]
     },
     "year": "2001"
@@ -8106,16 +8106,16 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=eDRMnHQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6400",
-        "5016"
+        "6421",
+        "5037"
       ],
       "hindex": [
         "41",
         "39"
       ],
       "i10index": [
-        "142",
-        "122"
+        "143",
+        "123"
       ]
     },
     "year": "2001"
@@ -8126,8 +8126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=9oz-dvgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8830",
-        "6107"
+        "8849",
+        "6126"
       ],
       "hindex": [
         "46",
@@ -8146,8 +8146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=MlttDfgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "82",
-        "52"
+        "83",
+        "53"
       ],
       "hindex": [
         "5",
