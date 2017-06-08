@@ -1,4 +1,4 @@
-date_array[2] = "Thu Jun 01 2017 13:02:12 GMT-0400 (EDT)";
+date_array[2] = "Thu Jun 08 2017 13:02:51 GMT-0400 (EDT)";
 data_array[2] = [
   {
     "name": "Nabeel Abdur Rehman",
@@ -26,8 +26,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GruiaM8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "678",
-        "524"
+        "679",
+        "525"
       ],
       "hindex": [
         "14",
@@ -81,13 +81,13 @@ data_array[2] = [
     "year": "2013"
   },
   {
-    "name": "Najeeb Al-Shorbaji",
+    "name": "Najeeb Al-Shorbaji, IAHSI",
     "affiliation": "Director, Knowledge, Knowledge and Research",
     "url": "http://scholar.google.com/citations?user=BSBVF-YAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "350",
-        "304"
+        "352",
+        "306"
       ],
       "hindex": [
         "11",
@@ -106,8 +106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ceF698kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "583",
-        "549"
+        "589",
+        "555"
       ],
       "hindex": [
         "9",
@@ -126,12 +126,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UIFoQJEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "321",
-        "110"
+        "323",
+        "112"
       ],
       "hindex": [
         "9",
-        "3"
+        "4"
       ],
       "i10index": [
         "9",
@@ -186,8 +186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=89wQ5iMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "300",
-        "298"
+        "306",
+        "304"
       ],
       "hindex": [
         "10",
@@ -226,8 +226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FE08ALAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "24452",
-        "9246"
+        "24487",
+        "9274"
       ],
       "hindex": [
         "54",
@@ -321,13 +321,13 @@ data_array[2] = [
     "year": "2001"
   },
   {
-    "name": "Neil Sarkar ACMI",
+    "name": "Neil Sarkar, ACMI",
     "affiliation": "Director, Center for Biomedical Informatics, Warren Alpert Medical School of Brown University",
     "url": "https://scholar.google.com/citations?user=GUkGmR4AAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "2166",
-        "1339"
+        "2180",
+        "1353"
       ],
       "hindex": [
         "24",
@@ -335,7 +335,7 @@ data_array[2] = [
       ],
       "i10index": [
         "47",
-        "37"
+        "38"
       ]
     },
     "year": "2002"
@@ -346,8 +346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=auY-mMoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "990",
-        "537"
+        "992",
+        "539"
       ],
       "hindex": [
         "15",
@@ -386,8 +386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bnNxLB4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "262",
-        "242"
+        "264",
+        "244"
       ],
       "hindex": [
         "9",
@@ -406,8 +406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ejoWKqsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1520",
-        "1490"
+        "1529",
+        "1499"
       ],
       "hindex": [
         "20",
@@ -446,8 +446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-kKtBb8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6157",
-        "2568"
+        "6162",
+        "2574"
       ],
       "hindex": [
         "33",
@@ -486,16 +486,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yigxUM4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5868",
-        "4132"
+        "5891",
+        "4156"
       ],
       "hindex": [
         "40",
         "33"
       ],
       "i10index": [
-        "110",
-        "93"
+        "111",
+        "95"
       ]
     },
     "year": "2002"
@@ -506,8 +506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=wU188KoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1885",
-        "1439"
+        "1890",
+        "1443"
       ],
       "hindex": [
         "24",
@@ -521,13 +521,13 @@ data_array[2] = [
     "year": "1999"
   },
   {
-    "name": "Nigam Shah ACMI",
+    "name": "Nigam Shah, ACMI",
     "affiliation": "Associate Professor of Medicine, Stanford University",
     "url": "http://scholar.google.com/citations?hl=en&user=n63DmP8AAAAJ",
     "stats": {
       "citations": [
-        "7811",
-        "5708"
+        "7847",
+        "5746"
       ],
       "hindex": [
         "41",
@@ -546,8 +546,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YEcBVFAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "14948",
-        "14567"
+        "15022",
+        "14637"
       ],
       "hindex": [
         "27",
@@ -566,8 +566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gjTTmP0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "127",
-        "113"
+        "128",
+        "114"
       ],
       "hindex": [
         "6",
@@ -586,8 +586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-D2TBHUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3340",
-        "2494"
+        "3359",
+        "2515"
       ],
       "hindex": [
         "30",
@@ -627,7 +627,7 @@ data_array[2] = [
     "stats": {
       "citations": [
         "63",
-        "62"
+        "61"
       ],
       "hindex": [
         "5",
@@ -646,8 +646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=q7N2sUcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1828",
-        "1807"
+        "1849",
+        "1828"
       ],
       "hindex": [
         "8",
@@ -666,8 +666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eyJxiQMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "579",
-        "433"
+        "586",
+        "440"
       ],
       "hindex": [
         "13",
@@ -686,8 +686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-D2TBHUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3340",
-        "2494"
+        "3359",
+        "2515"
       ],
       "hindex": [
         "30",
@@ -766,8 +766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=UKAGJEgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "118",
-        "107"
+        "119",
+        "108"
       ],
       "hindex": [
         "6",
@@ -787,14 +787,14 @@ data_array[2] = [
     "stats": {
       "citations": [
         "659",
-        "403"
+        "404"
       ],
       "hindex": [
-        "10",
+        "9",
         "7"
       ],
       "i10index": [
-        "10",
+        "9",
         "6"
       ]
     },
@@ -806,8 +806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KnjYamwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1155",
-        "876"
+        "1162",
+        "883"
       ],
       "hindex": [
         "14",
@@ -821,16 +821,16 @@ data_array[2] = [
     "year": "2005"
   },
   {
-    "name": "Olivier Bodenreider ACMI",
+    "name": "Olivier Bodenreider, ACMI",
     "affiliation": "Senior Scientist, National Library of Medicine",
     "url": "http://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7964",
-        "3780"
+        "7989",
+        "3809"
       ],
       "hindex": [
-        "40",
+        "41",
         "25"
       ],
       "i10index": [
@@ -846,16 +846,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=_6XYKXMpK34C",
     "stats": {
       "citations": [
-        "2321",
-        "1828"
+        "2333",
+        "1837"
       ],
       "hindex": [
         "26",
         "25"
       ],
       "i10index": [
-        "41",
-        "37"
+        "42",
+        "38"
       ]
     },
     "year": "2006"
@@ -906,8 +906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aAdfSC0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "566",
-        "240"
+        "567",
+        "241"
       ],
       "hindex": [
         "12",
@@ -926,8 +926,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lEE6I4MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "560",
-        "533"
+        "562",
+        "535"
       ],
       "hindex": [
         "11",
@@ -946,8 +946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xISIY5IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "107",
-        "104"
+        "108",
+        "105"
       ],
       "hindex": [
         "6",
@@ -966,8 +966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=64EiCA0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "258",
-        "130"
+        "259",
+        "131"
       ],
       "hindex": [
         "6",
@@ -986,8 +986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sRD9KzUAAAAJ",
     "stats": {
       "citations": [
-        "1338",
-        "448"
+        "1343",
+        "453"
       ],
       "hindex": [
         "15",
@@ -1006,7 +1006,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KlPc9LgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1066",
+        "1062",
         "466"
       ],
       "hindex": [
@@ -1026,11 +1026,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_hRBjRkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "328",
-        "176"
+        "330",
+        "178"
       ],
       "hindex": [
-        "10",
+        "11",
         "7"
       ],
       "i10index": [
@@ -1046,8 +1046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j-W_RNYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "10081",
-        "4021"
+        "10095",
+        "4033"
       ],
       "hindex": [
         "51",
@@ -1066,8 +1066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fJPo9vsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "164",
-        "147"
+        "166",
+        "148"
       ],
       "hindex": [
         "5",
@@ -1086,8 +1086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7QnhPugAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "477",
-        "346"
+        "480",
+        "349"
       ],
       "hindex": [
         "8",
@@ -1126,15 +1126,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cpCRmb0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "799",
-        "427"
+        "803",
+        "430"
       ],
       "hindex": [
         "16",
         "13"
       ],
       "i10index": [
-        "25",
+        "26",
         "13"
       ]
     },
@@ -1226,28 +1226,28 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gcmGLGQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2056",
-        "881"
+        "2059",
+        "884"
       ],
       "hindex": [
         "28",
         "18"
       ],
       "i10index": [
-        "45",
-        "32"
+        "44",
+        "33"
       ]
     },
     "year": "1999"
   },
   {
-    "name": "Patrice Degoulet ACMI",
+    "name": "Patrice Degoulet, ACMI, IAHSI",
     "affiliation": "Professor of Medical Informatics Paris Descartes University",
     "url": "http://scholar.google.com/citations?user=H3IbUnwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4985",
-        "1119"
+        "4986",
+        "1122"
       ],
       "hindex": [
         "38",
@@ -1281,13 +1281,13 @@ data_array[2] = [
     "year": "2002"
   },
   {
-    "name": "Patricia F. Brennan ACMI",
+    "name": "Patricia F. Brennan, ACMI, IAHSI",
     "affiliation": "University of Wisconsin-Madison, Wisconsin Institute for Discovery",
     "url": "http://scholar.google.com/citations?user=PDm-smwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6527",
-        "2313"
+        "6540",
+        "2325"
       ],
       "hindex": [
         "41",
@@ -1306,15 +1306,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GtIlEfoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "225",
-        "216"
+        "226",
+        "217"
       ],
       "hindex": [
         "8",
         "7"
       ],
       "i10index": [
-        "6",
+        "7",
         "5"
       ]
     },
@@ -1326,8 +1326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gFAjt2kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1907",
-        "1854"
+        "1916",
+        "1862"
       ],
       "hindex": [
         "21",
@@ -1346,8 +1346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eoxNiMkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3748",
-        "1573"
+        "3756",
+        "1581"
       ],
       "hindex": [
         "27",
@@ -1386,8 +1386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=YdagwRsAAAAJ",
     "stats": {
       "citations": [
-        "718",
-        "668"
+        "719",
+        "669"
       ],
       "hindex": [
         "17",
@@ -1406,8 +1406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6dncqlIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3611",
-        "1284"
+        "3621",
+        "1292"
       ],
       "hindex": [
         "27",
@@ -1447,7 +1447,7 @@ data_array[2] = [
     "stats": {
       "citations": [
         "1520",
-        "978"
+        "979"
       ],
       "hindex": [
         "23",
@@ -1461,13 +1461,13 @@ data_array[2] = [
     "year": "2004"
   },
   {
-    "name": "Paul Gorman ACMI",
+    "name": "Paul Gorman, ACMI",
     "affiliation": "Oregon Health & Science University",
     "url": "http://scholar.google.com/citations?user=tZpbXCMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7509",
-        "3207"
+        "7526",
+        "3223"
       ],
       "hindex": [
         "37",
@@ -1486,8 +1486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IHiF5gMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2058",
-        "1317"
+        "2061",
+        "1321"
       ],
       "hindex": [
         "22",
@@ -1506,8 +1506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=R6z_rKsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "383",
-        "377"
+        "385",
+        "379"
       ],
       "hindex": [
         "9",
@@ -1526,8 +1526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=QmJurRMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3725",
-        "1376"
+        "3731",
+        "1379"
       ],
       "hindex": [
         "31",
@@ -1541,13 +1541,13 @@ data_array[2] = [
     "year": "1994"
   },
   {
-    "name": "Paula Otero",
+    "name": "Paula Otero, IAHSI",
     "affiliation": "Hospital Italiano de Buenos Aires",
     "url": "http://scholar.google.com/citations?user=unZTMfwAAAAJ",
     "stats": {
       "citations": [
-        "613",
-        "371"
+        "615",
+        "372"
       ],
       "hindex": [
         "12",
@@ -1566,8 +1566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yl8MPHsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "36",
-        "36"
+        "38",
+        "38"
       ],
       "hindex": [
         "3",
@@ -1586,12 +1586,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fYnocfwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1500",
-        "728"
+        "1504",
+        "731"
       ],
       "hindex": [
-        "18",
-        "13"
+        "19",
+        "14"
       ],
       "i10index": [
         "40",
@@ -1606,8 +1606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=0IpW8yYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1391",
-        "752"
+        "1402",
+        "763"
       ],
       "hindex": [
         "19",
@@ -1626,8 +1626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fY_rafIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1126",
-        "1078"
+        "1132",
+        "1084"
       ],
       "hindex": [
         "13",
@@ -1646,8 +1646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=t2p_uPUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "326",
-        "258"
+        "327",
+        "259"
       ],
       "hindex": [
         "10",
@@ -1686,8 +1686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=W5Mhkz4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "327",
-        "150"
+        "330",
+        "153"
       ],
       "hindex": [
         "7",
@@ -1726,8 +1726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eMywJ4sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5018",
-        "1907"
+        "5025",
+        "1919"
       ],
       "hindex": [
         "38",
@@ -1746,8 +1746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=V9BMzgsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "668",
-        "248"
+        "670",
+        "251"
       ],
       "hindex": [
         "6",
@@ -1766,8 +1766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-ExSN_IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3602",
-        "1695"
+        "3613",
+        "1702"
       ],
       "hindex": [
         "34",
@@ -1775,7 +1775,7 @@ data_array[2] = [
       ],
       "i10index": [
         "73",
-        "56"
+        "57"
       ]
     },
     "year": "1995"
@@ -1786,8 +1786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hTd-q8MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "342",
-        "229"
+        "344",
+        "230"
       ],
       "hindex": [
         "8",
@@ -1801,17 +1801,17 @@ data_array[2] = [
     "year": "2003"
   },
   {
-    "name": "Peter Elkin ACMI",
+    "name": "Peter Elkin, ACMI",
     "affiliation": "Professor and Chair, Biomedical Informatics, University at Buffalo",
     "url": "http://scholar.google.com/citations?user=mV929KQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3709",
-        "1774"
+        "3717",
+        "1783"
       ],
       "hindex": [
         "35",
-        "23"
+        "24"
       ],
       "i10index": [
         "86",
@@ -1821,16 +1821,16 @@ data_array[2] = [
     "year": "1998"
   },
   {
-    "name": "Peter Embi ACMI",
+    "name": "Peter Embi, ACMI",
     "affiliation": "President & CEO, Regenstrief Institute",
     "url": "http://scholar.google.com/citations?user=sBFHQmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1743",
-        "1296"
+        "1747",
+        "1302"
       ],
       "hindex": [
-        "24",
+        "23",
         "21"
       ],
       "i10index": [
@@ -1841,13 +1841,13 @@ data_array[2] = [
     "year": "2003"
   },
   {
-    "name": "Peter Haug ACMI",
+    "name": "Peter Haug, ACMI",
     "affiliation": "Professor of Biomedical Informatics, University of Utah",
     "url": "http://scholar.google.com/citations?user=h_Mg9IAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5227",
-        "2184"
+        "5232",
+        "2187"
       ],
       "hindex": [
         "40",
@@ -1867,7 +1867,7 @@ data_array[2] = [
     "stats": {
       "citations": [
         "1648",
-        "203"
+        "204"
       ],
       "hindex": [
         "7",
@@ -1886,15 +1886,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6w8Of0oAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2222",
-        "865"
+        "2245",
+        "876"
       ],
       "hindex": [
         "22",
         "13"
       ],
       "i10index": [
-        "62",
+        "63",
         "19"
       ]
     },
@@ -1921,12 +1921,12 @@ data_array[2] = [
     "year": "2012"
   },
   {
-    "name": "Peter Tarczy-Hornoch ACMI",
+    "name": "Peter Tarczy-Hornoch, ACMI",
     "affiliation": "Professor of Biomedical Informatics, Computer Science, Neonatology, University of Washington, Seattle WA",
     "url": "http://scholar.google.com/citations?user=asu1aZMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2966",
+        "2969",
         "1265"
       ],
       "hindex": [
@@ -1946,8 +1946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XnVdE0IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "240",
-        "203"
+        "238",
+        "201"
       ],
       "hindex": [
         "10",
@@ -1961,17 +1961,17 @@ data_array[2] = [
     "year": "2009"
   },
   {
-    "name": "Philip Payne ACMI",
+    "name": "Philip Payne, ACMI",
     "affiliation": "Professor and Director, Institute for Informatics, Washington University School of Medicine",
     "url": "http://scholar.google.com/citations?user=kYypRqUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1204",
-        "899"
+        "1209",
+        "907"
       ],
       "hindex": [
         "17",
-        "15"
+        "16"
       ],
       "i10index": [
         "38",
@@ -2006,8 +2006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7YilOHoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "214",
-        "206"
+        "215",
+        "207"
       ],
       "hindex": [
         "7",
@@ -2026,28 +2026,28 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=L4rUd2EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1740",
-        "650"
+        "1752",
+        "655"
       ],
       "hindex": [
         "20",
         "13"
       ],
       "i10index": [
-        "37",
-        "19"
+        "38",
+        "20"
       ]
     },
     "year": "2000"
   },
   {
-    "name": "Pierre Zweigenbaum ACMI",
+    "name": "Pierre Zweigenbaum, ACMI",
     "affiliation": "Senior Researcher, LIMSI, CNRS, Universit� Paris-Saclay, Orsay, France",
     "url": "http://scholar.google.com/citations?user=0LjUNAsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4035",
-        "1817"
+        "4052",
+        "1832"
       ],
       "hindex": [
         "34",
@@ -2066,8 +2066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6U4AouYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1112",
-        "910"
+        "1120",
+        "918"
       ],
       "hindex": [
         "17",
@@ -2086,12 +2086,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=wpBkHPAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "625",
-        "374"
+        "627",
+        "376"
       ],
       "hindex": [
         "13",
-        "10"
+        "11"
       ],
       "i10index": [
         "16",
@@ -2126,8 +2126,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2h-DttAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "614",
-        "524"
+        "618",
+        "527"
       ],
       "hindex": [
         "13",
@@ -2166,8 +2166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XKqzS2oAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4088",
-        "3241"
+        "4099",
+        "3253"
       ],
       "hindex": [
         "22",
@@ -2186,8 +2186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=CpKgwIUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "226",
-        "226"
+        "229",
+        "229"
       ],
       "hindex": [
         "4",
@@ -2206,8 +2206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2fCjBREAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "474",
-        "156"
+        "475",
+        "157"
       ],
       "hindex": [
         "11",
@@ -2226,8 +2226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=qWQjtogAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3954",
-        "1803"
+        "3968",
+        "1817"
       ],
       "hindex": [
         "28",
@@ -2266,8 +2266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hLCaPfAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1129",
-        "558"
+        "1132",
+        "561"
       ],
       "hindex": [
         "19",
@@ -2286,8 +2286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kFduPiIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7071",
-        "3949"
+        "7090",
+        "3976"
       ],
       "hindex": [
         "28",
@@ -2326,8 +2326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=l6PrRTYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "456",
-        "381"
+        "457",
+        "382"
       ],
       "hindex": [
         "10",
@@ -2346,12 +2346,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=zr22WkQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5556",
-        "4067"
+        "5572",
+        "4084"
       ],
       "hindex": [
         "35",
-        "31"
+        "30"
       ],
       "i10index": [
         "61",
@@ -2381,13 +2381,13 @@ data_array[2] = [
     "year": "2005"
   },
   {
-    "name": "R Brian Haynes ACMI",
+    "name": "R Brian Haynes, ACMI",
     "affiliation": "Professor Emeritus, McMaster University",
     "url": "http://scholar.google.com/citations?user=42_na4QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "98721",
-        "31226"
+        "98917",
+        "31385"
       ],
       "hindex": [
         "103",
@@ -2406,8 +2406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dOPLWCAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "121",
-        "121"
+        "122",
+        "122"
       ],
       "hindex": [
         "6",
@@ -2421,13 +2421,13 @@ data_array[2] = [
     "year": "2012"
   },
   {
-    "name": "Rada Hussein",
+    "name": "Rada Hussein, IAHSI",
     "affiliation": "Biomedical Informatics Center of Excellence Director, Information Technology Institute",
     "url": "http://scholar.google.com/citations?user=gIfDIYwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "206",
-        "117"
+        "209",
+        "119"
       ],
       "hindex": [
         "6",
@@ -2446,8 +2446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lq1FOhgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "36",
-        "36"
+        "38",
+        "38"
       ],
       "hindex": [
         "3",
@@ -2466,8 +2466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=vEIMoZEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "963",
-        "788"
+        "967",
+        "792"
       ],
       "hindex": [
         "17",
@@ -2506,8 +2506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ImHDtJsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1427",
-        "1321"
+        "1437",
+        "1331"
       ],
       "hindex": [
         "18",
@@ -2526,16 +2526,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=TvD2RRQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1063",
-        "670"
+        "1068",
+        "675"
       ],
       "hindex": [
         "17",
         "13"
       ],
       "i10index": [
-        "31",
-        "16"
+        "32",
+        "17"
       ]
     },
     "year": "2002"
@@ -2586,15 +2586,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=W4t8B20AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8379",
-        "2945"
+        "8401",
+        "2958"
       ],
       "hindex": [
         "49",
         "28"
       ],
       "i10index": [
-        "138",
+        "139",
         "66"
       ]
     },
@@ -2646,8 +2646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=3cw_k1UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "125",
-        "123"
+        "128",
+        "126"
       ],
       "hindex": [
         "7",
@@ -2686,8 +2686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IJLURXkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "11112",
-        "7902"
+        "11157",
+        "7947"
       ],
       "hindex": [
         "49",
@@ -2706,15 +2706,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=biSq9LgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4605",
-        "2194"
+        "4666",
+        "2210"
       ],
       "hindex": [
         "34",
         "24"
       ],
       "i10index": [
-        "92",
+        "94",
         "49"
       ]
     },
@@ -2726,8 +2726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fi4HWW8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5363",
-        "2657"
+        "5372",
+        "2666"
       ],
       "hindex": [
         "24",
@@ -2741,13 +2741,13 @@ data_array[2] = [
     "year": "2001"
   },
   {
-    "name": "Rebecca Crowley ACMI",
+    "name": "Rebecca Crowley, ACMI",
     "affiliation": "Professor of Biomedical Informatics",
     "url": "http://scholar.google.com/citations?user=JISJCF0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2225",
-        "996"
+        "2241",
+        "1014"
       ],
       "hindex": [
         "29",
@@ -2766,8 +2766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yCtvlA8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1006",
-        "671"
+        "1005",
+        "670"
       ],
       "hindex": [
         "17",
@@ -2786,11 +2786,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=t1M-bQsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "489",
-        "368"
+        "492",
+        "371"
       ],
       "hindex": [
-        "12",
+        "13",
         "11"
       ],
       "i10index": [
@@ -2806,8 +2806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=sacC1FAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1168",
-        "289"
+        "1171",
+        "290"
       ],
       "hindex": [
         "15",
@@ -2866,8 +2866,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=oKNJ1k4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "480",
-        "414"
+        "484",
+        "417"
       ],
       "hindex": [
         "10",
@@ -2906,8 +2906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=uEK3sEkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1766",
-        "1375"
+        "1785",
+        "1394"
       ],
       "hindex": [
         "18",
@@ -2915,19 +2915,19 @@ data_array[2] = [
       ],
       "i10index": [
         "35",
-        "29"
+        "31"
       ]
     },
     "year": "2005"
   },
   {
-    "name": "Riccardo Bellazzi ACMI",
+    "name": "Riccardo Bellazzi, ACMI, IAHSI",
     "affiliation": "Professor of Bioengineering and Medical Informatics, University of Pavia",
     "url": "http://scholar.google.com/citations?user=263M6WUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6440",
-        "3294"
+        "6454",
+        "3306"
       ],
       "hindex": [
         "43",
@@ -2966,8 +2966,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cmWWPNcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "580",
-        "535"
+        "586",
+        "540"
       ],
       "hindex": [
         "16",
@@ -2986,11 +2986,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5XXBTc8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "18073",
-        "14743"
+        "18141",
+        "14801"
       ],
       "hindex": [
-        "29",
+        "30",
         "15"
       ],
       "i10index": [
@@ -3021,13 +3021,13 @@ data_array[2] = [
     "year": "2002"
   },
   {
-    "name": "Richard N. Shiffman ACMI",
+    "name": "Richard N. Shiffman, ACMI",
     "affiliation": "Professor of Pediatrics, Yale University",
     "url": "http://scholar.google.com/citations?user=UxiABUwAAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "6594",
-        "3475"
+        "6611",
+        "3486"
       ],
       "hindex": [
         "33",
@@ -3066,8 +3066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?hl=en&user=ZmOe_qkAAAAJ",
     "stats": {
       "citations": [
-        "15",
-        "13"
+        "16",
+        "14"
       ],
       "hindex": [
         "2",
@@ -3086,8 +3086,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=zRFaxjsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "82",
-        "55"
+        "83",
+        "56"
       ],
       "hindex": [
         "4",
@@ -3166,12 +3166,12 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=en&user=POd5vWkAAAAJ",
     "stats": {
       "citations": [
-        "1705",
-        "1597"
+        "1723",
+        "1615"
       ],
       "hindex": [
         "18",
-        "17"
+        "18"
       ],
       "i10index": [
         "28",
@@ -3186,8 +3186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=kpEdIXYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "395",
-        "163"
+        "397",
+        "164"
       ],
       "hindex": [
         "9",
@@ -3206,16 +3206,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=IH2TPkkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5871",
-        "3306"
+        "5890",
+        "3324"
       ],
       "hindex": [
         "37",
         "25"
       ],
       "i10index": [
-        "116",
-        "59"
+        "117",
+        "62"
       ]
     },
     "year": "1996"
@@ -3241,13 +3241,13 @@ data_array[2] = [
     "year": "1994"
   },
   {
-    "name": "Robert Greenes ACMI Collen 2008",
+    "name": "Robert Greenes, ACMI, IAHSI, Collen 2008",
     "affiliation": "Unknown affiliation",
     "url": "http://scholar.google.com/citations?user=Njryy0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8887",
-        "2425"
+        "8918",
+        "2442"
       ],
       "hindex": [
         "46",
@@ -3255,7 +3255,7 @@ data_array[2] = [
       ],
       "i10index": [
         "124",
-        "40"
+        "41"
       ]
     },
     "year": "1984"
@@ -3266,8 +3266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=aYEVCBwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1574",
-        "1127"
+        "1578",
+        "1132"
       ],
       "hindex": [
         "23",
@@ -3281,13 +3281,13 @@ data_array[2] = [
     "year": "2003"
   },
   {
-    "name": "Robert S. Ledley ACMI Collen 1998",
+    "name": "Robert S. Ledley, ACMI, Collen 1998",
     "affiliation": "Professor Emeritus, Georgetown University School of Medicine",
     "url": "http://scholar.google.com/citations?hl=en&user=xAgBXAoAAAAJ",
     "stats": {
       "citations": [
-        "6335",
-        "993"
+        "6339",
+        "997"
       ],
       "hindex": [
         "36",
@@ -3306,8 +3306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=crRnwpYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "354",
-        "351"
+        "356",
+        "353"
       ],
       "hindex": [
         "11",
@@ -3326,8 +3326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=k8QxXOoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "38",
-        "38"
+        "39",
+        "39"
       ],
       "hindex": [
         "4",
@@ -3406,8 +3406,8 @@ data_array[2] = [
     "url": "http://scholar.google.nl/citations?user=fEWSFjkAAAAJ&hl=nl",
     "stats": {
       "citations": [
-        "2918",
-        "1414"
+        "2920",
+        "1419"
       ],
       "hindex": [
         "22",
@@ -3415,7 +3415,7 @@ data_array[2] = [
       ],
       "i10index": [
         "46",
-        "28"
+        "29"
       ]
     },
     "year": "1995"
@@ -3426,8 +3426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5Yjb93IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7788",
-        "5445"
+        "7798",
+        "5459"
       ],
       "hindex": [
         "41",
@@ -3442,7 +3442,7 @@ data_array[2] = [
   },
   {
     "name": "Rose-Mharie Åhlfeldt",
-    "affiliation": "Senior Lecturer in Computer Scence with specialisation in information security, University of Sk�vde",
+    "affiliation": "Associated Professor in Informatics, University of Sk�vde",
     "url": "http://scholar.google.com/citations?user=o7Lf2bcAAAAJ&hl=en",
     "stats": {
       "citations": [
@@ -3466,8 +3466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GVmzDu4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9",
-        "9"
+        "10",
+        "10"
       ],
       "hindex": [
         "2",
@@ -3506,8 +3506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7kSr88YAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "766",
-        "445"
+        "775",
+        "453"
       ],
       "hindex": [
         "15",
@@ -3541,13 +3541,13 @@ data_array[2] = [
     "year": "2004"
   },
   {
-    "name": "Russ Altman ACMI",
+    "name": "Russ Altman, ACMI",
     "affiliation": "Professor Stanford University",
     "url": "http://scholar.google.com/citations?user=s6XjtCMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "29735",
-        "15828"
+        "29777",
+        "15882"
       ],
       "hindex": [
         "78",
@@ -3566,8 +3566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Rn7APGIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "12680",
-        "6793"
+        "12709",
+        "6824"
       ],
       "hindex": [
         "47",
@@ -3641,6 +3641,26 @@ data_array[2] = [
     "year": "2010"
   },
   {
+    "name": "S. Joshua Swamidass",
+    "affiliation": "Assistant Professor of Pathology and Immunology, Washington University in St. Louis",
+    "url": "https://scholar.google.com/citations?user=oWGEj78AAAAJ&hl=en",
+    "stats": {
+      "citations": [
+        "1592",
+        "928"
+      ],
+      "hindex": [
+        "18",
+        "17"
+      ],
+      "i10index": [
+        "23",
+        "21"
+      ]
+    },
+    "year": "2005"
+  },
+  {
     "name": "SJSyed Ali Fathima",
     "affiliation": "Kumaraguru College of Technology",
     "url": "http://scholar.google.com/citations?user=kMFyTscAAAAJ&hl=en",
@@ -3666,12 +3686,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=24DaEZwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "714",
-        "607"
+        "716",
+        "609"
       ],
       "hindex": [
         "15",
-        "13"
+        "14"
       ],
       "i10index": [
         "18",
@@ -3686,8 +3706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BeSQiT4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "541",
-        "349"
+        "543",
+        "351"
       ],
       "hindex": [
         "12",
@@ -3706,8 +3726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=AQKGDZYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "244",
-        "215"
+        "245",
+        "216"
       ],
       "hindex": [
         "10",
@@ -3826,16 +3846,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_hDqFSUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "837",
-        "692"
+        "814",
+        "669"
       ],
       "hindex": [
         "14",
-        "13"
+        "12"
       ],
       "i10index": [
-        "25",
-        "22"
+        "24",
+        "21"
       ]
     },
     "year": "2003"
@@ -3861,13 +3881,13 @@ data_array[2] = [
     "year": "2009"
   },
   {
-    "name": "Samson Tu ACMI",
+    "name": "Samson Tu, ACMI",
     "affiliation": "Senior Research Engineer, Biomedical Informatics, Stanford University",
     "url": "http://scholar.google.com/citations?user=_e88pTgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "11109",
-        "2950"
+        "11128",
+        "2968"
       ],
       "hindex": [
         "51",
@@ -3886,8 +3906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Iqs464wAAAAJ&hl=es",
     "stats": {
       "citations": [
-        "664",
-        "153"
+        "665",
+        "154"
       ],
       "hindex": [
         "11",
@@ -3906,8 +3926,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=pz3TfbEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "596",
-        "507"
+        "598",
+        "509"
       ],
       "hindex": [
         "10",
@@ -3921,21 +3941,21 @@ data_array[2] = [
     "year": "2008"
   },
   {
-    "name": "Samuel Trent Rosenbloom ACMI",
+    "name": "Samuel Trent Rosenbloom, ACMI",
     "affiliation": "Vanderbilt University Medical Center",
     "url": "http://scholar.google.com/citations?user=k2RLJ0kAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2640",
-        "1646"
+        "2645",
+        "1652"
       ],
       "hindex": [
         "28",
         "20"
       ],
       "i10index": [
-        "50",
-        "35"
+        "51",
+        "36"
       ]
     },
     "year": "2004"
@@ -3946,16 +3966,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=fkyBx9EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6448",
-        "2184"
+        "6462",
+        "2199"
       ],
       "hindex": [
         "41",
         "26"
       ],
       "i10index": [
-        "92",
-        "58"
+        "93",
+        "59"
       ]
     },
     "year": "2000"
@@ -3966,12 +3986,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Xle7R64AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1733",
-        "710"
+        "1734",
+        "713"
       ],
       "hindex": [
-        "11",
-        "10"
+        "12",
+        "11"
       ],
       "i10index": [
         "12",
@@ -3986,7 +4006,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7l9y1KQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "996",
+        "999",
         "765"
       ],
       "hindex": [
@@ -4006,8 +4026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=M9WfrXIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "84",
-        "84"
+        "86",
+        "86"
       ],
       "hindex": [
         "4",
@@ -4046,8 +4066,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Lmj2JBUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2349",
-        "1733"
+        "2354",
+        "1739"
       ],
       "hindex": [
         "21",
@@ -4066,8 +4086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Zp4cQbMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "73",
-        "73"
+        "74",
+        "74"
       ],
       "hindex": [
         "5",
@@ -4086,8 +4106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=drBAzN8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "544",
-        "382"
+        "546",
+        "383"
       ],
       "hindex": [
         "13",
@@ -4106,8 +4126,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=VL2uM0IAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "126",
-        "119"
+        "128",
+        "121"
       ],
       "hindex": [
         "5",
@@ -4126,8 +4146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=63CxAxwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "903",
-        "469"
+        "905",
+        "470"
       ],
       "hindex": [
         "16",
@@ -4146,8 +4166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yUkK-mgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1038",
-        "945"
+        "1051",
+        "958"
       ],
       "hindex": [
         "14",
@@ -4166,8 +4186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gw6b3KgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1936",
-        "1044"
+        "1943",
+        "1051"
       ],
       "hindex": [
         "15",
@@ -4186,8 +4206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=O125w4cAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1618",
-        "1204"
+        "1624",
+        "1208"
       ],
       "hindex": [
         "17",
@@ -4246,8 +4266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hMVznZ8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "263",
-        "190"
+        "266",
+        "193"
       ],
       "hindex": [
         "7",
@@ -4286,12 +4306,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=AmTY2owAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "20",
-        "20"
+        "21",
+        "21"
       ],
       "hindex": [
-        "2",
-        "2"
+        "3",
+        "3"
       ],
       "i10index": [
         "1",
@@ -4326,8 +4346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=OYc22IoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4922",
-        "2313"
+        "4931",
+        "2329"
       ],
       "hindex": [
         "16",
@@ -4346,8 +4366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xQM4BlMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "942",
-        "706"
+        "944",
+        "708"
       ],
       "hindex": [
         "16",
@@ -4366,8 +4386,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=iWiXGWMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1341",
-        "961"
+        "1346",
+        "966"
       ],
       "hindex": [
         "20",
@@ -4386,11 +4406,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=9GA_8uMAAAAJ",
     "stats": {
       "citations": [
-        "5519",
-        "3257"
+        "5523",
+        "3266"
       ],
       "hindex": [
-        "37",
+        "38",
         "29"
       ],
       "i10index": [
@@ -4406,28 +4426,28 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Plgb3FgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "160",
-        "81"
+        "162",
+        "82"
       ],
       "hindex": [
         "4",
         "4"
       ],
       "i10index": [
-        "2",
+        "3",
         "2"
       ]
     },
     "year": "1998"
   },
   {
-    "name": "Shaun Granniss ACMI",
+    "name": "Shaun Granniss, ACMI",
     "affiliation": "Associate Professor of Family Medicine, Indiana University School of Medicine",
     "url": "http://scholar.google.com/citations?user=f1znT0MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1859",
-        "1087"
+        "1863",
+        "1092"
       ],
       "hindex": [
         "20",
@@ -4446,8 +4466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=vR8uEJgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "903",
-        "660"
+        "904",
+        "661"
       ],
       "hindex": [
         "8",
@@ -4486,8 +4506,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=en&user=pJleQtAAAAAJ",
     "stats": {
       "citations": [
-        "718",
-        "218"
+        "719",
+        "219"
       ],
       "hindex": [
         "13",
@@ -4506,8 +4526,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FlyW15EAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "154",
-        "143"
+        "155",
+        "144"
       ],
       "hindex": [
         "6",
@@ -4526,8 +4546,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=PdWvYwEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "72",
-        "72"
+        "73",
+        "73"
       ],
       "hindex": [
         "4",
@@ -4546,8 +4566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=tr7Q7h0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "113",
-        "61"
+        "115",
+        "63"
       ],
       "hindex": [
         "6",
@@ -4566,8 +4586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bLSIt9UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "299",
-        "112"
+        "300",
+        "113"
       ],
       "hindex": [
         "3",
@@ -4586,12 +4606,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xeZUJWoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "56",
-        "56"
+        "59",
+        "59"
       ],
       "hindex": [
-        "2",
-        "2"
+        "3",
+        "3"
       ],
       "i10index": [
         "2",
@@ -4606,8 +4626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XatwpmsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "119",
-        "116"
+        "123",
+        "120"
       ],
       "hindex": [
         "5",
@@ -4646,16 +4666,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=i4k8HmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "867",
-        "713"
+        "884",
+        "729"
       ],
       "hindex": [
-        "17",
-        "15"
+        "18",
+        "16"
       ],
       "i10index": [
-        "29",
-        "23"
+        "31",
+        "25"
       ]
     },
     "year": "2003"
@@ -4686,8 +4706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=pIOfxxMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "328",
-        "252"
+        "330",
+        "254"
       ],
       "hindex": [
         "9",
@@ -4706,8 +4726,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yiuDZzwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "720",
-        "524"
+        "722",
+        "526"
       ],
       "hindex": [
         "10",
@@ -4726,16 +4746,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eOMJNxsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "29012",
-        "15104"
+        "29139",
+        "15227"
       ],
       "hindex": [
-        "80",
+        "81",
         "59"
       ],
       "i10index": [
-        "270",
-        "212"
+        "272",
+        "214"
       ]
     },
     "year": "1996"
@@ -4766,15 +4786,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=I4CKCK8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6769",
-        "4007"
+        "6798",
+        "4035"
       ],
       "hindex": [
         "42",
         "32"
       ],
       "i10index": [
-        "158",
+        "160",
         "116"
       ]
     },
@@ -4806,8 +4826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BuIwRbIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "855",
-        "552"
+        "858",
+        "554"
       ],
       "hindex": [
         "15",
@@ -4854,8 +4874,8 @@ data_array[2] = [
         "12"
       ],
       "i10index": [
-        "23",
-        "16"
+        "22",
+        "15"
       ]
     },
     "year": "1999"
@@ -4886,8 +4906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=igUdSZcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1542",
-        "922"
+        "1551",
+        "931"
       ],
       "hindex": [
         "18",
@@ -4906,19 +4926,19 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=K982eaUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2003",
-        "755"
+        "2043",
+        "758"
       ],
       "hindex": [
-        "21",
+        "22",
         "13"
       ],
       "i10index": [
-        "37",
+        "38",
         "17"
       ]
     },
-    "year": "1996"
+    "year": "1992"
   },
   {
     "name": "Soudabeh Khodambashi",
@@ -4966,8 +4986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=JOrIsmEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1910",
-        "1416"
+        "1920",
+        "1430"
       ],
       "hindex": [
         "19",
@@ -4986,8 +5006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=TP4BrNQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1265",
-        "1244"
+        "1272",
+        "1251"
       ],
       "hindex": [
         "15",
@@ -5001,13 +5021,13 @@ data_array[2] = [
     "year": "2011"
   },
   {
-    "name": "Spyros Kitsiou ACMI",
+    "name": "Spyros Kitsiou, ACMI",
     "affiliation": "Assistant Professor, University of Illinois at Chicago",
     "url": "https://scholar.google.com/citations?user=blDhRfMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "218",
-        "201"
+        "219",
+        "202"
       ],
       "hindex": [
         "6",
@@ -5086,8 +5106,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=O2ariVIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4003",
-        "1604"
+        "4009",
+        "1614"
       ],
       "hindex": [
         "33",
@@ -5126,8 +5146,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=AtFItVQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1602",
-        "1146"
+        "1606",
+        "1150"
       ],
       "hindex": [
         "16",
@@ -5166,8 +5186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=8Uxl3nsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4193",
-        "2192"
+        "4195",
+        "2195"
       ],
       "hindex": [
         "34",
@@ -5206,8 +5226,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-DR4eoEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "578",
-        "375"
+        "580",
+        "377"
       ],
       "hindex": [
         "10",
@@ -5227,7 +5247,7 @@ data_array[2] = [
     "stats": {
       "citations": [
         "596",
-        "292"
+        "293"
       ],
       "hindex": [
         "11",
@@ -5246,8 +5266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=yKUaXNAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2518",
-        "2021"
+        "2525",
+        "2028"
       ],
       "hindex": [
         "28",
@@ -5266,32 +5286,32 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jIzuZr4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5195",
-        "2782"
+        "5208",
+        "2796"
       ],
       "hindex": [
         "39",
         "30"
       ],
       "i10index": [
-        "99",
+        "100",
         "77"
       ]
     },
     "year": "1999"
   },
   {
-    "name": "Stuart Nelson ACMI",
+    "name": "Stuart Nelson, ACMI",
     "affiliation": "Visiting Faculty, University of New Mexico",
     "url": "http://scholar.google.com/citations?user=JOyC9e0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2115",
-        "613"
+        "2123",
+        "618"
       ],
       "hindex": [
         "22",
-        "11"
+        "12"
       ],
       "i10index": [
         "43",
@@ -5306,8 +5326,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=DL65dIMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "898",
-        "752"
+        "900",
+        "753"
       ],
       "hindex": [
         "10",
@@ -5326,8 +5346,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=B5UIE1MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2868",
-        "2361"
+        "2877",
+        "2370"
       ],
       "hindex": [
         "16",
@@ -5386,8 +5406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Y7DkpoYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "227",
-        "227"
+        "238",
+        "237"
       ],
       "hindex": [
         "6",
@@ -5398,7 +5418,7 @@ data_array[2] = [
         "6"
       ]
     },
-    "year": "2014"
+    "year": "2015"
   },
   {
     "name": "Sumantra Dutta Roy",
@@ -5406,8 +5426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=RbV7OYgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "694",
-        "327"
+        "699",
+        "331"
       ],
       "hindex": [
         "14",
@@ -5426,8 +5446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FhfK6awAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "658",
-        "573"
+        "662",
+        "577"
       ],
       "hindex": [
         "12",
@@ -5438,7 +5458,7 @@ data_array[2] = [
         "14"
       ]
     },
-    "year": "2008"
+    "year": "2007"
   },
   {
     "name": "Surahyo Sumarsono",
@@ -5466,8 +5486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=5iAMbhMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3957",
-        "3296"
+        "3967",
+        "3306"
       ],
       "hindex": [
         "34",
@@ -5486,11 +5506,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=gjVSV14AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "341",
-        "220"
+        "343",
+        "222"
       ],
       "hindex": [
-        "8",
+        "9",
         "7"
       ],
       "i10index": [
@@ -5501,13 +5521,13 @@ data_array[2] = [
     "year": "2000"
   },
   {
-    "name": "Suzanne Bakken ACMI",
+    "name": "Suzanne Bakken, ACMI, IAHSI",
     "affiliation": "Columbia University",
     "url": "http://scholar.google.com/citations?user=zwr9wPEAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9385",
-        "4628"
+        "9408",
+        "4649"
       ],
       "hindex": [
         "50",
@@ -5515,7 +5535,7 @@ data_array[2] = [
       ],
       "i10index": [
         "193",
-        "111"
+        "112"
       ]
     },
     "year": "1995"
@@ -5526,8 +5546,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=AHcaOKoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5606",
-        "2827"
+        "5619",
+        "2842"
       ],
       "hindex": [
         "33",
@@ -5566,7 +5586,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6DISHLIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1450",
+        "1451",
         "826"
       ],
       "hindex": [
@@ -5586,8 +5606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=tlhHr-QAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1588",
-        "350"
+        "1591",
+        "351"
       ],
       "hindex": [
         "12",
@@ -5606,8 +5626,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=uLzIMjoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "402",
-        "370"
+        "403",
+        "371"
       ],
       "hindex": [
         "11",
@@ -5666,8 +5686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=uDGxjjUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "294",
-        "138"
+        "295",
+        "139"
       ],
       "hindex": [
         "8",
@@ -5686,7 +5706,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SdfPSjwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "95",
+        "94",
         "31"
       ],
       "hindex": [
@@ -5746,8 +5766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hvvIje5YhtYC&hl=en",
     "stats": {
       "citations": [
-        "540",
-        "525"
+        "542",
+        "526"
       ],
       "hindex": [
         "7",
@@ -5766,11 +5786,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_qqMRkoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "759",
-        "576"
+        "765",
+        "582"
       ],
       "hindex": [
-        "10",
+        "11",
         "10"
       ],
       "i10index": [
@@ -5778,7 +5798,7 @@ data_array[2] = [
         "10"
       ]
     },
-    "year": "2007"
+    "year": "2005"
   },
   {
     "name": "Tayeb Merabti",
@@ -5806,8 +5826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=GwJdLSAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8494",
-        "4130"
+        "8506",
+        "4143"
       ],
       "hindex": [
         "36",
@@ -5821,13 +5841,13 @@ data_array[2] = [
     "year": "1997"
   },
   {
-    "name": "Ted Shortliffe ACMI Collen 2006",
+    "name": "Ted Shortliffe, ACMI, IAHSI, Collen 2006",
     "affiliation": "Professor and Senior Advisor, Health Solutions, Arizona State University",
     "url": "http://scholar.google.com/citations?user=KIv0fKQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "28892",
-        "5501"
+        "28937",
+        "5534"
       ],
       "hindex": [
         "67",
@@ -5846,16 +5866,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=XJvLrVAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3171",
-        "2289"
+        "3181",
+        "2300"
       ],
       "hindex": [
         "29",
         "27"
       ],
       "i10index": [
-        "63",
-        "53"
+        "62",
+        "52"
       ]
     },
     "year": "2004"
@@ -5866,8 +5886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=3yCig6AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "12627",
-        "9795"
+        "12660",
+        "9825"
       ],
       "hindex": [
         "55",
@@ -5926,8 +5946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Cu14lwUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4219",
-        "1222"
+        "4223",
+        "1228"
       ],
       "hindex": [
         "19",
@@ -5986,12 +6006,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ByiAe9sAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1039",
-        "802"
+        "1045",
+        "808"
       ],
       "hindex": [
-        "15",
-        "15"
+        "16",
+        "16"
       ],
       "i10index": [
         "24",
@@ -6006,8 +6026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Zd4CIUsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "293",
-        "293"
+        "297",
+        "296"
       ],
       "hindex": [
         "9",
@@ -6026,7 +6046,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eJ2ipToAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "382",
+        "383",
         "43"
       ],
       "hindex": [
@@ -6041,13 +6061,13 @@ data_array[2] = [
     "year": "1979"
   },
   {
-    "name": "Thomas Payne ACMI",
+    "name": "Thomas Payne, ACMI",
     "affiliation": "University of Washington",
     "url": "http://scholar.google.com/citations?user=xAUemeoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2660",
-        "1316"
+        "2663",
+        "1319"
       ],
       "hindex": [
         "27",
@@ -6075,7 +6095,7 @@ data_array[2] = [
       ],
       "i10index": [
         "53",
-        "41"
+        "42"
       ]
     },
     "year": "2003"
@@ -6086,7 +6106,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bdq2WakAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "309",
+        "310",
         "257"
       ],
       "hindex": [
@@ -6126,16 +6146,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dgZ-ypwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "269",
-        "170"
+        "270",
+        "171"
       ],
       "hindex": [
         "9",
         "7"
       ],
       "i10index": [
-        "8",
-        "6"
+        "9",
+        "7"
       ]
     },
     "year": "2007"
@@ -6146,8 +6166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hsFo_8UAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "847",
-        "502"
+        "852",
+        "507"
       ],
       "hindex": [
         "11",
@@ -6166,8 +6186,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=THsfmA8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1780",
-        "857"
+        "1781",
+        "860"
       ],
       "hindex": [
         "20",
@@ -6186,8 +6206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=x9kzObUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "8672",
-        "3914"
+        "8684",
+        "3927"
       ],
       "hindex": [
         "43",
@@ -6221,13 +6241,13 @@ data_array[2] = [
     "year": "1996"
   },
   {
-    "name": "Titus Schleyer ACMI",
+    "name": "Titus Schleyer, ACMI",
     "affiliation": "Clem McDonald Professor of Biomedical Informatics",
     "url": "http://scholar.google.com/citations?user=5LCpwUsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2107",
-        "1001"
+        "2111",
+        "1004"
       ],
       "hindex": [
         "26",
@@ -6246,8 +6266,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=cKv0bKQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "924",
-        "765"
+        "928",
+        "769"
       ],
       "hindex": [
         "17",
@@ -6266,8 +6286,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=7c0QVPkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "3448",
-        "1461"
+        "3452",
+        "1464"
       ],
       "hindex": [
         "27",
@@ -6286,8 +6306,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=bdKMzcwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1124",
-        "596"
+        "1129",
+        "599"
       ],
       "hindex": [
         "15",
@@ -6326,11 +6346,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=mWmmDMwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1498",
-        "1254"
+        "1516",
+        "1272"
       ],
       "hindex": [
-        "19",
+        "20",
         "18"
       ],
       "i10index": [
@@ -6346,8 +6366,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2b1-ZLAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4292",
-        "2462"
+        "4313",
+        "2483"
       ],
       "hindex": [
         "20",
@@ -6386,8 +6406,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=lqJE7CcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "7",
-        "7"
+        "8",
+        "8"
       ],
       "hindex": [
         "2",
@@ -6406,8 +6426,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=OLDMURQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6918",
-        "4075"
+        "6943",
+        "4097"
       ],
       "hindex": [
         "43",
@@ -6426,11 +6446,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=2hrXWYQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "621",
-        "586"
+        "624",
+        "589"
       ],
       "hindex": [
-        "13",
+        "14",
         "13"
       ],
       "i10index": [
@@ -6466,8 +6486,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_-GqsbMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "645",
-        "409"
+        "647",
+        "411"
       ],
       "hindex": [
         "12",
@@ -6506,12 +6526,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=nKR2tGvMLFMC&hl=en",
     "stats": {
       "citations": [
-        "6112",
-        "3136"
+        "6131",
+        "3152"
       ],
       "hindex": [
         "31",
-        "24"
+        "25"
       ],
       "i10index": [
         "57",
@@ -6546,8 +6566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ZpjPSRIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2352",
-        "897"
+        "2362",
+        "907"
       ],
       "hindex": [
         "7",
@@ -6586,16 +6606,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jbNc6kQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "147",
-        "131"
+        "150",
+        "134"
       ],
       "hindex": [
         "7",
         "7"
       ],
       "i10index": [
-        "4",
-        "4"
+        "5",
+        "5"
       ]
     },
     "year": "2007"
@@ -6606,16 +6626,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=X9VrDxkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1471",
-        "994"
+        "1480",
+        "1002"
       ],
       "hindex": [
         "17",
         "15"
       ],
       "i10index": [
-        "26",
-        "18"
+        "27",
+        "19"
       ]
     },
     "year": "2003"
@@ -6626,8 +6646,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Mv9lHRQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "32",
-        "32"
+        "31",
+        "31"
       ],
       "hindex": [
         "3",
@@ -6646,16 +6666,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=6sPuxnwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1108",
-        "546"
+        "1114",
+        "552"
       ],
       "hindex": [
         "17",
         "12"
       ],
       "i10index": [
-        "24",
-        "15"
+        "25",
+        "16"
       ]
     },
     "year": "2002"
@@ -6666,8 +6686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=29e4oWUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "208",
-        "168"
+        "209",
+        "169"
       ],
       "hindex": [
         "8",
@@ -6686,28 +6706,28 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=hC02ZnsAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1611",
-        "1576"
+        "1630",
+        "1596"
       ],
       "hindex": [
         "15",
-        "14"
+        "15"
       ],
       "i10index": [
-        "16",
-        "16"
+        "17",
+        "17"
       ]
     },
     "year": "2010"
   },
   {
-    "name": "Victor Maojo ACMI",
+    "name": "Victor Maojo, ACMI, IAHSI",
     "affiliation": "Biomedical Informatics Group, Universidad Politecnica de Madrid",
     "url": "http://scholar.google.com/citations?user=GdIjtSMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1763",
-        "735"
+        "1764",
+        "737"
       ],
       "hindex": [
         "21",
@@ -6726,8 +6746,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=URduWDQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "31",
-        "30"
+        "32",
+        "31"
       ],
       "hindex": [
         "4",
@@ -6766,8 +6786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=eb1x1lcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1135",
-        "540"
+        "1138",
+        "543"
       ],
       "hindex": [
         "17",
@@ -6781,21 +6801,21 @@ data_array[2] = [
     "year": "1994"
   },
   {
-    "name": "Vimla Patel ACMI",
+    "name": "Vimla Patel, ACMI, IAHSI",
     "affiliation": "Senior Research Scientist, New York Academy of Medicine",
     "url": "http://scholar.google.com/citations?user=blg0nusAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "18121",
-        "6460"
+        "18202",
+        "6540"
       ],
       "hindex": [
         "77",
         "44"
       ],
       "i10index": [
-        "238",
-        "146"
+        "240",
+        "148"
       ]
     },
     "year": "1989"
@@ -6806,8 +6826,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=BF3B4KAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1608",
-        "649"
+        "1610",
+        "651"
       ],
       "hindex": [
         "24",
@@ -6826,8 +6846,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=YKcX4D0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2314",
-        "2267"
+        "2342",
+        "2296"
       ],
       "hindex": [
         "25",
@@ -6847,7 +6867,7 @@ data_array[2] = [
     "stats": {
       "citations": [
         "6640",
-        "1807"
+        "1802"
       ],
       "hindex": [
         "30",
@@ -6866,8 +6886,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=b0LUdfIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "215",
-        "100"
+        "216",
+        "102"
       ],
       "hindex": [
         "7",
@@ -6886,8 +6906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=FkJjdq4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1413",
-        "1269"
+        "1421",
+        "1277"
       ],
       "hindex": [
         "20",
@@ -6926,8 +6946,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Pnev7hAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1709",
-        "687"
+        "1723",
+        "696"
       ],
       "hindex": [
         "19",
@@ -6946,8 +6966,8 @@ data_array[2] = [
     "url": "https://scholar.google.com.pe/citations?user=aWRsww4AAAAJ&hl=es&oi=ao",
     "stats": {
       "citations": [
-        "1517",
-        "920"
+        "1520",
+        "922"
       ],
       "hindex": [
         "20",
@@ -6961,13 +6981,13 @@ data_array[2] = [
     "year": "2002"
   },
   {
-    "name": "Wanda Pratt ACMI",
+    "name": "Wanda Pratt, ACMI",
     "affiliation": "Professor of Biomedical & Health Informatics and the Information School, University of Washington",
     "url": "http://scholar.google.com/citations?user=PsvPvwgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4985",
-        "3044"
+        "5003",
+        "3062"
       ],
       "hindex": [
         "37",
@@ -6975,7 +6995,7 @@ data_array[2] = [
       ],
       "i10index": [
         "73",
-        "56"
+        "57"
       ]
     },
     "year": "1996"
@@ -6986,8 +7006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=e82keSQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2990",
-        "1584"
+        "2993",
+        "1588"
       ],
       "hindex": [
         "32",
@@ -7026,8 +7046,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xuw6dakAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "657",
-        "632"
+        "661",
+        "636"
       ],
       "hindex": [
         "13",
@@ -7046,12 +7066,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xhNLJlgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "416",
-        "206"
+        "420",
+        "210"
       ],
       "hindex": [
-        "5",
-        "5"
+        "6",
+        "6"
       ],
       "i10index": [
         "4",
@@ -7066,8 +7086,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=l1rdsXUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "631",
-        "588"
+        "632",
+        "589"
       ],
       "hindex": [
         "10",
@@ -7081,21 +7101,21 @@ data_array[2] = [
     "year": "2009"
   },
   {
-    "name": "Wendy Chapman ACMI",
+    "name": "Wendy Chapman, ACMI",
     "affiliation": "Professor of Biomedical Informatics, University of Utah",
     "url": "http://scholar.google.com/citations?user=FYmyACUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "5047",
-        "3194"
+        "5072",
+        "3222"
       ],
       "hindex": [
-        "38",
+        "39",
         "28"
       ],
       "i10index": [
-        "80",
-        "68"
+        "81",
+        "69"
       ]
     },
     "year": "2000"
@@ -7126,15 +7146,15 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=dVKICiMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6483",
-        "3192"
+        "6499",
+        "3212"
       ],
       "hindex": [
         "28",
         "20"
       ],
       "i10index": [
-        "73",
+        "74",
         "35"
       ]
     },
@@ -7146,8 +7166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Jz8ZnUgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "1290",
-        "686"
+        "1292",
+        "689"
       ],
       "hindex": [
         "13",
@@ -7166,8 +7186,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=us&user=KPMUSnIAAAAJ",
     "stats": {
       "citations": [
-        "875",
-        "571"
+        "877",
+        "572"
       ],
       "hindex": [
         "16",
@@ -7186,8 +7206,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=HfmzRrcAAAAJ",
     "stats": {
       "citations": [
-        "1278",
-        "594"
+        "1280",
+        "596"
       ],
       "hindex": [
         "16",
@@ -7201,20 +7221,20 @@ data_array[2] = [
     "year": "1996"
   },
   {
-    "name": "William M. Tierney ACMI Collen 2011",
+    "name": "William M. Tierney, ACMI, IAHSI, Collen 2011",
     "affiliation": "Department of Population Health, Dell Medical School, University of Texas at Austin",
     "url": "http://scholar.google.com/citations?user=gf7B120AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "22433",
-        "6421"
+        "22458",
+        "6450"
       ],
       "hindex": [
         "78",
         "41"
       ],
       "i10index": [
-        "278",
+        "279",
         "181"
       ]
     },
@@ -7226,8 +7246,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=NmQIjpAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "45",
-        "45"
+        "46",
+        "46"
       ],
       "hindex": [
         "4",
@@ -7246,7 +7266,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=C2kh2UAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "135",
+        "136",
         "103"
       ],
       "hindex": [
@@ -7279,26 +7299,6 @@ data_array[2] = [
       ]
     },
     "year": "2007"
-  },
-  {
-    "name": "Xiaobo Zhou",
-    "affiliation": "Professor of Radiology, Bioinformatics and Systems Biology, Wake Forest University School of",
-    "url": "https://scholar.google.com/citations?user=cQz8z1gAAAAJ&hl=en",
-    "stats": {
-      "citations": [
-        "7671",
-        "4856"
-      ],
-      "hindex": [
-        "42",
-        "32"
-      ],
-      "i10index": [
-        "151",
-        "112"
-      ]
-    },
-    "year": "2004"
   },
   {
     "name": "Xiang Ji",
@@ -7346,16 +7346,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=EBeIYOwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "15377",
-        "10722"
+        "15395",
+        "10740"
       ],
       "hindex": [
         "49",
         "44"
       ],
       "i10index": [
-        "411",
-        "298"
+        "410",
+        "297"
       ]
     },
     "year": "1997"
@@ -7366,11 +7366,11 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=jb-bYtIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4977",
-        "3703"
+        "5005",
+        "3730"
       ],
       "hindex": [
-        "23",
+        "24",
         "20"
       ],
       "i10index": [
@@ -7381,13 +7381,33 @@ data_array[2] = [
     "year": "1996"
   },
   {
+    "name": "Xiaobo Zhou",
+    "affiliation": "Professor of Radiology, Bioinformatics and Systems Biology, Wake Forest University School of",
+    "url": "https://scholar.google.com/citations?user=cQz8z1gAAAAJ&hl=en",
+    "stats": {
+      "citations": [
+        "7699",
+        "4886"
+      ],
+      "hindex": [
+        "42",
+        "32"
+      ],
+      "i10index": [
+        "151",
+        "111"
+      ]
+    },
+    "year": "2004"
+  },
+  {
     "name": "Xiaodong Tao",
     "affiliation": "Chief Solutions Architect, Philips Healthcare",
     "url": "http://scholar.google.com/citations?user=LXCugLcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "814",
-        "413"
+        "813",
+        "412"
       ],
       "hindex": [
         "13",
@@ -7406,12 +7426,12 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=1Mwj0aoAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "97",
-        "96"
+        "98",
+        "97"
       ],
       "hindex": [
-        "5",
-        "5"
+        "6",
+        "6"
       ],
       "i10index": [
         "3",
@@ -7426,8 +7446,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=67tRHTYAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "603",
-        "360"
+        "604",
+        "361"
       ],
       "hindex": [
         "12",
@@ -7446,8 +7466,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=G9UHfbwAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "15211",
-        "9398"
+        "15250",
+        "9442"
       ],
       "hindex": [
         "64",
@@ -7466,7 +7486,7 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=ubIpZ9AAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "482",
+        "483",
         "326"
       ],
       "hindex": [
@@ -7486,8 +7506,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=KuxtBPUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "292",
-        "281"
+        "294",
+        "283"
       ],
       "hindex": [
         "9",
@@ -7526,8 +7546,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=qmkKxLwAAAAJ&hl=es",
     "stats": {
       "citations": [
-        "1128",
-        "478"
+        "1127",
+        "475"
       ],
       "hindex": [
         "16",
@@ -7546,8 +7566,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=LDHICsUAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "2475",
-        "1897"
+        "2490",
+        "1911"
       ],
       "hindex": [
         "21",
@@ -7566,8 +7586,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=WJr1S-4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "393",
-        "319"
+        "395",
+        "321"
       ],
       "hindex": [
         "8",
@@ -7586,8 +7606,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=-eQ3brcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "741",
-        "585"
+        "745",
+        "589"
       ],
       "hindex": [
         "13",
@@ -7595,7 +7615,7 @@ data_array[2] = [
       ],
       "i10index": [
         "18",
-        "16"
+        "15"
       ]
     },
     "year": "2006"
@@ -7606,15 +7626,15 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?hl=en&user=uAhdJNAAAAAJ",
     "stats": {
       "citations": [
-        "456",
-        "341"
+        "465",
+        "350"
       ],
       "hindex": [
         "13",
         "12"
       ],
       "i10index": [
-        "16",
+        "17",
         "15"
       ]
     },
@@ -7626,16 +7646,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=Z6oy0YIAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4901",
-        "2068"
+        "5091",
+        "2158"
       ],
       "hindex": [
         "36",
         "24"
       ],
       "i10index": [
-        "104",
-        "58"
+        "114",
+        "61"
       ]
     },
     "year": "1996"
@@ -7646,8 +7666,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=CyW5zesAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "279",
-        "173"
+        "280",
+        "174"
       ],
       "hindex": [
         "9",
@@ -7666,8 +7686,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j6cZk58AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "71",
-        "70"
+        "72",
+        "71"
       ],
       "hindex": [
         "4",
@@ -7686,8 +7706,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SK6wCRoAAAAJ",
     "stats": {
       "citations": [
-        "982",
-        "778"
+        "984",
+        "780"
       ],
       "hindex": [
         "15",
@@ -7721,21 +7741,21 @@ data_array[2] = [
     "year": "2004"
   },
   {
-    "name": "Yehoshua Perl ACMI",
+    "name": "Yehoshua Perl, ACMI",
     "affiliation": "Director of SABOC research center . Professor of computer science NJIT",
     "url": "http://scholar.google.com/citations?user=jVLGHGQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4330",
-        "1323"
+        "4363",
+        "1355"
       ],
       "hindex": [
         "34",
-        "18"
+        "19"
       ],
       "i10index": [
-        "101",
-        "43"
+        "103",
+        "44"
       ]
     },
     "year": "1980"
@@ -7746,8 +7766,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=j88o8jQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "454",
-        "406"
+        "457",
+        "409"
       ],
       "hindex": [
         "8",
@@ -7766,8 +7786,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=d8N328MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "80",
-        "79"
+        "81",
+        "80"
       ],
       "hindex": [
         "6",
@@ -7786,8 +7806,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=xnr14lcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "391",
-        "284"
+        "397",
+        "289"
       ],
       "hindex": [
         "7",
@@ -7806,8 +7826,8 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=X2AnQRAAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "354",
-        "305"
+        "350",
+        "306"
       ],
       "hindex": [
         "11",
@@ -7826,36 +7846,36 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=SmwXEvcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "392",
-        "327"
+        "394",
+        "330"
       ],
       "hindex": [
         "10",
         "9"
       ],
       "i10index": [
-        "10",
-        "8"
+        "11",
+        "9"
       ]
     },
     "year": "2007"
   },
   {
-    "name": "Yu-Chuan (Jack) Li, MD, Ph.D. ACMI",
+    "name": "Yu-Chuan (Jack) Li, MD, Ph.D., ACMI, IAHSI",
     "affiliation": "Dean, College of Medical Science and Technology; Professor, Dept. Biomedical Informatics, Taipei",
     "url": "http://scholar.google.com/citations?user=rfD0QCkAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "14090",
-        "9012"
+        "14252",
+        "9096"
       ],
       "hindex": [
         "43",
         "33"
       ],
       "i10index": [
-        "287",
-        "211"
+        "290",
+        "214"
       ]
     },
     "year": "1998"
@@ -7886,8 +7906,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=h1NXfKYAAAAJ&hl=en&oi=ao",
     "stats": {
       "citations": [
-        "1058",
-        "1025"
+        "1062",
+        "1029"
       ],
       "hindex": [
         "14",
@@ -7906,8 +7926,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=QjbgoY8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "629",
-        "589"
+        "631",
+        "591"
       ],
       "hindex": [
         "15",
@@ -7921,13 +7941,13 @@ data_array[2] = [
     "year": "2007"
   },
   {
-    "name": "Yuval Shahar ACMI",
+    "name": "Yuval Shahar, ACMI, IAHSI",
     "affiliation": "Professor of software and information systems engineering, Ben Gurion University",
     "url": "http://scholar.google.com/citations?user=le5YyBQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6647",
-        "2047"
+        "6656",
+        "2053"
       ],
       "hindex": [
         "38",
@@ -7941,21 +7961,21 @@ data_array[2] = [
     "year": "1992"
   },
   {
-    "name": "Yves A. Lussier ACMI",
+    "name": "Yves A. Lussier, ACMI",
     "affiliation": "Assoc. VP of Health Sc. (CKO), Assoc. Director of UACC & BIO5,  Prof. Medicine @ U of Arizona",
     "url": "http://scholar.google.com/citations?user=JhIiSHQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "4025",
-        "2397"
+        "4042",
+        "2415"
       ],
       "hindex": [
         "34",
         "27"
       ],
       "i10index": [
-        "83",
-        "56"
+        "84",
+        "58"
       ]
     },
     "year": "2001"
@@ -7966,8 +7986,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=_ANZt3MAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "258",
-        "193"
+        "260",
+        "195"
       ],
       "hindex": [
         "7",
@@ -7986,8 +8006,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=U5HAWlcAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "105",
-        "102"
+        "107",
+        "104"
       ],
       "hindex": [
         "5",
@@ -8006,8 +8026,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=mywiMV0AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "593",
-        "427"
+        "600",
+        "432"
       ],
       "hindex": [
         "10",
@@ -8066,16 +8086,16 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=soAYl14AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "134",
-        "134"
+        "143",
+        "143"
       ],
       "hindex": [
         "7",
         "7"
       ],
       "i10index": [
-        "5",
-        "5"
+        "6",
+        "6"
       ]
     },
     "year": "2013"
@@ -8102,12 +8122,12 @@ data_array[2] = [
   },
   {
     "name": "Zhiyong Lu",
-    "affiliation": "Senior Investigator at NCBI, NLM",
+    "affiliation": "Deputy Director for Literature Search, NCBI; Senior Investigator, NCBI-NLM",
     "url": "http://scholar.google.com/citations?user=lJAkLo8AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9835",
-        "6278"
+        "9856",
+        "6303"
       ],
       "hindex": [
         "37",
@@ -8126,16 +8146,16 @@ data_array[2] = [
     "url": "https://scholar.google.com/citations?user=eDRMnHQAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "6978",
-        "5579"
+        "7006",
+        "5605"
       ],
       "hindex": [
         "43",
         "41"
       ],
       "i10index": [
-        "155",
-        "138"
+        "156",
+        "139"
       ]
     },
     "year": "2001"
@@ -8146,8 +8166,8 @@ data_array[2] = [
     "url": "http://scholar.google.com/citations?user=9oz-dvgAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "9547",
-        "6732"
+        "9571",
+        "6753"
       ],
       "hindex": [
         "49",
