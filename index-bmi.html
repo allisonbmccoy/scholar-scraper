@@ -4,9 +4,7 @@
 <link rel="stylesheet" href="tablesorter/style.css" type="text/css" media="print, projection, screen" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="tablesorter/jquery.tablesorter.min.js"></script>
-<script>var date_array = []; var data_array = [];</script>
-<script type="text/javascript" src="stats-bmi-1.js"></script>
-<script type="text/javascript" src="stats-bmi-2.js"></script>
+<script type="text/javascript" src="stats-bmi.js"></script>
 </head>
 <body>
 
@@ -30,7 +28,6 @@ and <a href="http://tulane.edu/publichealth/bio/faculty_mccoy.cfm">Allison McCoy
 <div id="date"><small>Data scraped from Google Scholar: "name",
 "citations", "h-index", and "i10-index" are from author profile;
 "year" denotes year of first citation.</small>
-<small>** Updating is temporarily suspended until the script can be updated to scrape the new Google Scholar layout. **</small>
 </div>
 
 <p/>
@@ -59,29 +56,25 @@ function round(n) {
 }
 
 var rank = 1;
-for (var d = 1; d < data_array.length; d++) {
-	var data = data_array[d];
-	for (var i=0; i< data.length; i++) {
-  	var row = $('<tr/>');
-	  row.append($('<td/>').html(rank)); rank++;
-	  var currentYear = new Date().getFullYear();
-	  var y = (data[i].year < currentYear) ? (currentYear - data[i].year) : 1;
-	  row.append($('<td style="text-align: left"/>')
-		  .html('<a href="' + data[i].url + '">' + data[i].name + '</a><br/>' + data[i].affiliation));
-	  row.append($('<td/>').html(data[i].year));
-	  row.append($('<td/>').html(data[i].stats.citations[0]));
-	  row.append($('<td/>').html(Math.round(data[i].stats.citations[0]/y)));
-	  row.append($('<td/>').html(data[i].stats.hindex[0]));
-	  row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
-	  row.append($('<td/>').html(data[i].stats.i10index[0]));
-	  row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
-	  $("#stats").append(row);
-	}
+for (var i=0; i< data.length; i++) {
+	var row = $('<tr/>');
+	row.append($('<td/>').html(rank)); rank++;
+	var currentYear = new Date().getFullYear();
+	var y = (data[i].year < currentYear) ? (currentYear - data[i].year) : 1;
+	row.append($('<td style="text-align: left"/>')
+		.html('<a href="' + data[i].url + '">' + data[i].name + '</a><br/>' + data[i].affiliation));
+	row.append($('<td/>').html(data[i].year));
+	row.append($('<td/>').html(data[i].stats.citations[0]));
+	row.append($('<td/>').html(Math.round(data[i].stats.citations[0]/y)));
+	row.append($('<td/>').html(data[i].stats.hindex[0]));
+	row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
+	row.append($('<td/>').html(data[i].stats.i10index[0]));
+	row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
+	$("#stats").append(row);
 }
 
 // http://tablesorter.com/docs/
 $(document).ready(function() { 
-  var date = date_array.reduce(function (a,b) { return Date(a) < Date(b) ? a : b; });
   $("#date").append("<br/><small>Last updated: " + date + "</small>");
   $("#stats").tablesorter({sortList: [[5,1], [3,1]]});  $("#stats").bind("sortEnd", function() {
 	  var i = 1;
