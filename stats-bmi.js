@@ -1,4 +1,4 @@
-var date = "Sun Sep 02 2018 13:29:50 GMT-0400 (EDT)"
+var date = "Mon Sep 03 2018 13:25:25 GMT-0400 (EDT)"
 var data = [
   {
     "name": "A.Karim Jabali",
@@ -1106,16 +1106,16 @@ var data = [
     "affiliation": "Faculty Fellow, Institute of Health and Society, Newcastle University",
     "stats": {
       "citations": [
-        "632",
-        "615"
+        "559",
+        "542"
       ],
       "hindex": [
         "10",
-        "10"
+        "9"
       ],
       "i10index": [
-        "11",
-        "10"
+        "10",
+        "9"
       ]
     },
     "year": "2011"
@@ -4526,8 +4526,8 @@ var data = [
     "affiliation": "CIO - Hospital Italiano de Buenos Aires",
     "stats": {
       "citations": [
-        "922",
-        "473"
+        "924",
+        "475"
       ],
       "hindex": [
         "14",
@@ -7579,6 +7579,26 @@ var data = [
       ]
     },
     "year": "2000"
+  },
+  {
+    "name": "Gordon Schiff",
+    "url": "https://scholar.google.com/citations?user=yLW7VBMAAAAJ&hl=en",
+    "affiliation": "Associate Director Center for Patient Safety Research and Practice",
+    "stats": {
+      "citations": [
+        "4200",
+        "2476"
+      ],
+      "hindex": [
+        "33",
+        "23"
+      ],
+      "i10index": [
+        "68",
+        "49"
+      ]
+    },
+    "year": "1993"
   },
   {
     "name": "Graciella Gonzalaz",
