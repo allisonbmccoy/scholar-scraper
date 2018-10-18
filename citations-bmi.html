@@ -1,0 +1,112 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="tablesorter/style.css" type="text/css" media="print, projection, screen" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="tablesorter/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="citations-bmi.js"></script>
+</head>
+<body>
+
+<a href="https://github.com/allisonbmccoy/scholar-scraper/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github-camo.global.ssl.fastly.net/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
+
+<h1>Top Citations of Biomedical Informatics Researchers</h1>
+
+<p>by <a href="https://www.vumc.org/dbmi/person/allison-mccoy-phd-ms">Allison McCoy</a> (Vanderbilt University Medical Center)</p>
+
+<div style="width:800px">
+<p><b>Editorial note:</b> This list contains only citations by researchers who have a Google Scholar profile; names were identified by snowball sampling and various other <i>ad hoc</i> techniques.
+<p>If you wish to see a name added, please <a href="https://docs.google.com/forms/d/14G10JO2pHPp67S7BLWa66v7vBC6xkuVF77R3S-KHCwQ/viewform">submit a request</a>.
+<p>View more of our work at <a href="http://circleinformatics.org" title="CIRCLE: Clinical Informatics Research Collaborative Link">http://circleinformatics.org</a>.
+<p>
+</div>
+
+<div id="date"><small>Citations scraped from Google Scholar.</small>
+</div>
+
+<p/>
+
+Find: <input size="35" type="text" id="FilterTextBox" name="FilterTextBox" placeholder="e.g., keyword, author, journal title" />
+
+<table id="stats" border="0" class="tablesorter filterable" width="300">
+<thead> 
+<tr>
+    <th>rank</th>	
+    <th>citation</th>	
+    <th>count</th> 
+    <th>year</th> 
+    <th>/y</th> 
+</tr> 
+</thead> 
+</table>
+
+<script>
+function round(n) {
+  return Math.round(n*10)/10;
+}
+
+var rank = 1;
+var titles = [];
+for (var i=0; i< data.length; i++) {
+	for (var j=0; j < data[i].citations.length; j++) {
+		if (titles.indexOf(data[i].citations[j].title) < 0) {
+		titles.push(data[i].citations[j].title);
+		var row = $('<tr/>');
+		row.append($('<td/>').html(rank)); rank++;
+		var currentYear = new Date().getFullYear();
+		var y = (data[i].citations[j].year < currentYear) ? (currentYear - data[i].citations[j].year) : 1;
+		row.append($('<td style="text-align: left"/>')
+			.html(data[i].citations[j].title + '<br/>' + data[i].citations[j].authors + '<br/>' + data[i].citations[j].journal));
+		row.append($('<td/>').html(data[i].citations[j].counts));
+		row.append($('<td/>').html(data[i].citations[j].year));
+		row.append($('<td/>').html(Math.round(data[i].citations[j].counts/y)));
+		$("#stats").append(row);
+		}
+	}
+}
+
+// http://tablesorter.com/docs/
+$(document).ready(function() { 
+  $("#date").append("<br/><small>Last updated: " + date + "</small>");
+  $("#stats").tablesorter({sortList: [[2,1]]});  $("#stats").bind("sortEnd", function() {
+	  var i = 1;
+	  $("#stats").find("tr:gt(0)").each(function(){
+		  $(this).find("td:eq(0)").text(i);
+		  i++;
+		  });
+	});
+
+  //add index column with all content.
+ $(".filterable tr:has(td)").each(function(){
+   var t = $(this).text().toLowerCase(); //all row text
+   $("<td class='indexColumn'></td>")
+    .hide().text(t).appendTo(this);
+ });//each tr
+ $("#FilterTextBox").keyup(function(){
+   var s = $(this).val().toLowerCase().split(" ");
+   //show all rows.
+   $(".filterable tr:hidden").show();
+   $.each(s, function(){
+       $(".filterable tr:visible .indexColumn:not(:contains('"
+          + this + "'))").parent().hide();
+   });//each
+ });//key up.
+}); 
+
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51046922-1', 'allisonbmccoy.github.io');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+</html>
