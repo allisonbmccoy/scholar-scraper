@@ -1,4 +1,4 @@
-var date = "Wed Oct 17 2018 12:24:54 GMT-0500 (Central Daylight Time)"
+var date = "Thu Oct 18 2018 15:32:31 GMT-0500 (Central Daylight Time)"
 var data = [
   {
     "citations": []
@@ -30,7 +30,7 @@ var data = [
         "title": "A categorization and analysis of the criticisms of evidence-based medicine",
         "authors": "AM Cohen, PZ Stavri, WR Hersh",
         "journal": "International journal of medical informatics 73 (1), 35-43, 2004",
-        "counts": "292",
+        "counts": "293",
         "year": "2004"
       },
       {
@@ -305,7 +305,7 @@ var data = [
         "title": "Feeler: Emotion classification of text using vector space model",
         "authors": "T Danisman, A Alpkocak",
         "journal": "AISB 2008 Convention Communication, Interaction and Social Intelligence 1, 53, 2008",
-        "counts": "129",
+        "counts": "130",
         "year": "2008"
       }
     ]
@@ -316,7 +316,7 @@ var data = [
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl_2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
@@ -389,6 +389,122 @@ var data = [
   {
     "citations": [
       {
+        "title": "Patient-derived tumour xenografts as models for oncology drug development",
+        "authors": "JJ Tentler, AC Tan, CD Weekes, A Jimeno, S Leong, TM Pitts, JJ Arcaroli, ...",
+        "journal": "Nature reviews Clinical oncology 9 (6), 338, 2012",
+        "counts": "642",
+        "year": "2012"
+      },
+      {
+        "title": "Caspase 3–mediated stimulation of tumor cell repopulation during cancer radiotherapy",
+        "authors": "Q Huang, F Li, X Liu, W Li, W Shi, FF Liu, B O'sullivan, Z He, Y Peng, ...",
+        "journal": "Nature medicine 17 (7), 860, 2011",
+        "counts": "438",
+        "year": "2011"
+      },
+      {
+        "title": "Ensemble machine learning on gene expression data for cancer classification",
+        "authors": "AC Tan, D Gilbert",
+        "journal": "University of Glasgow, 2003",
+        "counts": "330",
+        "year": "2003"
+      },
+      {
+        "title": "Simple decision rules for classifying human cancers from gene expression profiles",
+        "authors": "AC Tan, DQ Naiman, L Xu, RL Winslow, D Geman",
+        "journal": "Bioinformatics 21 (20), 3896-3904, 2005",
+        "counts": "329",
+        "year": "2005"
+      },
+      {
+        "title": "Optimizing the detection of lung cancer patients harboring anaplastic lymphoma kinase (ALK) gene rearrangements potentially suitable for ALK inhibitor treatment",
+        "authors": "DR Camidge, SA Kono, A Flacco, AC Tan, RC Doebele, Q Zhou, L Crino, ...",
+        "journal": "Clinical Cancer Research, 1078-0432. CCR-10-0851, 2010",
+        "counts": "320",
+        "year": "2010"
+      },
+      {
+        "title": "The miR-106b-25 cluster targets Smad7, activates TGF-β signaling, and induces EMT and tumor initiating cell characteristics downstream of Six1 in human breast cancer",
+        "authors": "AL Smith, R Iwanaga, DJ Drasin, DS Micalizzi, RL Vartuli, AC Tan, ...",
+        "journal": "Oncogene 31 (50), 5162, 2012",
+        "counts": "254",
+        "year": "2012"
+      },
+      {
+        "title": "A DNA methylation fingerprint of 1628 human samples",
+        "authors": "AF Fernandez, Y Assenov, JI Martin-Subero, B Balint, R Siebert, ...",
+        "journal": "Genome research 22 (2), 407-419, 2012",
+        "counts": "236",
+        "year": "2012"
+      },
+      {
+        "title": "Postpartum mammary gland involution drives progression of ductal carcinoma in situ through collagen and COX-2",
+        "authors": "TR Lyons, J O'brien, VF Borges, MW Conklin, PJ Keely, KW Eliceiri, ...",
+        "journal": "Nature medicine 17 (9), 1109, 2011",
+        "counts": "230",
+        "year": "2011"
+      },
+      {
+        "title": "Robust prostate cancer marker genes emerge from direct integration of inter-study microarray data",
+        "authors": "L Xu, AC Tan, DQ Naiman, D Geman, RL Winslow",
+        "journal": "Bioinformatics 21 (20), 3905-3911, 2005",
+        "counts": "154",
+        "year": "2005"
+      },
+      {
+        "title": "A mechanism of resistance to gefitinib mediated by cellular reprogramming and the acquisition of an FGF2-FGFR1 autocrine growth loop",
+        "authors": "KE Ware, TK Hinz, E Kleczko, KR Singleton, LA Marek, BA Helfrich, ...",
+        "journal": "Oncogenesis 2 (3), e39, 2014",
+        "counts": "150",
+        "year": "2014"
+      },
+      {
+        "title": "Direct reprogramming of human fibroblasts into dopaminergic neuron-like cells",
+        "authors": "X Liu, F Li, EA Stubblefield, B Blanchard, TL Richards, GA Larson, Y He, ...",
+        "journal": "Cell research 22 (2), 321, 2012",
+        "counts": "135",
+        "year": "2012"
+      },
+      {
+        "title": "Tumor engraftment in nude mice and enrichment in stroma-related gene pathways predicts poor survival and resistance to gemcitabine in patients with pancreatic cancer",
+        "authors": "I Garrido-Laguna, M Uson, NV Rajeshkumar, AC Tan, E De Oliveira, ...",
+        "journal": "Clinical Cancer Research, clincanres. 0341.2011, 2011",
+        "counts": "133",
+        "year": "2011"
+      },
+      {
+        "title": "A resource for analysis of microRNA expression and function in pancreatic ductal adenocarcinoma cells",
+        "authors": "OA Kent, ME Mullendore, EA Wentzel, P López-Romero, AC Tan, ...",
+        "journal": "Cancer biology & therapy 8 (21), 2013-2024, 2009",
+        "counts": "119",
+        "year": "2009"
+      },
+      {
+        "title": "Characterizing DNA methylation patterns in pancreatic cancer genome",
+        "authors": "AC Tan, A Jimeno, SH Lin, J Wheelhouse, F Chan, A Solomon, ...",
+        "journal": "Molecular oncology 3 (5-6), 425-438, 2009",
+        "counts": "117",
+        "year": "2009"
+      },
+      {
+        "title": "Multi-class protein fold classification using a new ensemble machine learning approach",
+        "authors": "AC Tan, D Gilbert, Y Deville",
+        "journal": "Genome Informatics 14, 206-217, 2003",
+        "counts": "116",
+        "year": "2003"
+      },
+      {
+        "title": "Coordinated epidermal growth factor receptor pathway gene overexpression predicts epidermal growth factor receptor inhibitor sensitivity in pancreatic cancer",
+        "authors": "A Jimeno, AC Tan, J Coffa, NV Rajeshkumar, P Kulesza, ...",
+        "journal": "Cancer research 68 (8), 2841-2849, 2008",
+        "counts": "101",
+        "year": "2008"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Targeting MEK induces myeloma-cell cytotoxicity and inhibits osteoclastogenesis",
         "authors": "YT Tai, M Fulciniti, T Hideshima, W Song, M Leiba, XF Li, M Rumizen, ...",
         "journal": "Blood 110 (5), 1656-1663, 2007",
@@ -431,7 +547,7 @@ var data = [
         "title": "A Practical Guide To Building OWL Ontologies Using The Protégé-OWL Plugin and CO-ODE Tools Edition 1.0",
         "authors": "M Horridge, H Knublauch, A Rector, R Stevens, C Wroe",
         "journal": "University of Manchester, 2004",
-        "counts": "1140",
+        "counts": "1141",
         "year": "2004"
       },
       {
@@ -445,7 +561,7 @@ var data = [
         "title": "The GRAIL concept modelling language for medical terminology",
         "authors": "AL Rector, S Bechhofer, CA Goble, I Horrocks, WA Nowlan, WD Solomon",
         "journal": "Artificial intelligence in medicine 9 (2), 139-171, 1997",
-        "counts": "387",
+        "counts": "388",
         "year": "1997"
       },
       {
@@ -473,7 +589,7 @@ var data = [
         "title": "Clinical terminology: why is it so hard?",
         "authors": "AL Rector",
         "journal": "Methods of information in medicine 38 (4/5), 239-252, 1999",
-        "counts": "347",
+        "counts": "348",
         "year": "1999"
       },
       {
@@ -494,7 +610,7 @@ var data = [
         "title": "Defining n-ary relations on the semantic web",
         "authors": "N Noy, A Rector, P Hayes, C Welty",
         "journal": "W3C working group note 12 (4), 2006",
-        "counts": "284",
+        "counts": "283",
         "year": "2006"
       },
       {
@@ -620,7 +736,7 @@ var data = [
         "title": "GALEN's model of parts and wholes: experience and comparisons.",
         "authors": "J Rogers, A Rector",
         "journal": "Proceedings of the AMIA symposium, 714, 2000",
-        "counts": "103",
+        "counts": "104",
         "year": "2000"
       },
       {
@@ -704,14 +820,14 @@ var data = [
         "title": "Epileptic seizure detection using multiwavelet transform based approximate entropy and artificial neural networks",
         "authors": "L Guo, D Rivero, A Pazos",
         "journal": "Journal of neuroscience methods 193 (1), 156-163, 2010",
-        "counts": "271",
+        "counts": "272",
         "year": "2010"
       },
       {
         "title": "Automatic epileptic seizure detection in EEGs based on line length feature and artificial neural networks",
         "authors": "L Guo, D Rivero, J Dorado, JR Rabunal, A Pazos",
         "journal": "Journal of neuroscience methods 191 (1), 101-109, 2010",
-        "counts": "222",
+        "counts": "223",
         "year": "2010"
       },
       {
@@ -725,7 +841,7 @@ var data = [
         "title": "Automatic feature extraction using genetic programming: An application to epileptic EEG classification",
         "authors": "L Guo, D Rivero, J Dorado, CR Munteanu, A Pazos",
         "journal": "Expert Systems with Applications 38 (8), 10425-10436, 2011",
-        "counts": "154",
+        "counts": "155",
         "year": "2011"
       },
       {
@@ -763,6 +879,336 @@ var data = [
         "journal": "Springer, 2003",
         "counts": "173",
         "year": "2003"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "The genetic association database",
+        "authors": "KG Becker, KC Barnes, TJ Bright, SA Wang",
+        "journal": "Nature genetics 36 (5), 431, 2004",
+        "counts": "774",
+        "year": "2004"
+      },
+      {
+        "title": "The Epstein-Barr virus LMP1 gene product induces A20 zinc finger protein expression by activating nuclear factor kappa B.",
+        "authors": "CD Laherty, HM Hu, AW Opipari, F Wang, VM Dixit",
+        "journal": "Journal of Biological Chemistry 267 (34), 24157-24160, 1992",
+        "counts": "456",
+        "year": "1992"
+      },
+      {
+        "title": "Preparation and functional properties of rice bran protein isolate",
+        "authors": "M Wang, NS Hettiarachchy, M Qi, W Burks, T Siebenmorgen",
+        "journal": "Journal of Agricultural and Food Chemistry 47 (2), 411-416, 1999",
+        "counts": "441",
+        "year": "1999"
+      },
+      {
+        "title": "The large sky area multi-object fiber spectroscopic telescope (LAMOST)",
+        "authors": "XQ Cui, YH Zhao, YQ Chu, GP Li, Q Li, LP Zhang, HJ Su, ZQ Yao, ...",
+        "journal": "Research in Astronomy and Astrophysics 12 (9), 1197, 2012",
+        "counts": "429",
+        "year": "2012"
+      },
+      {
+        "title": "Early origin and recent expansion of Plasmodium falciparum",
+        "authors": "DA Joy, X Feng, J Mu, T Furuya, K Chotivanich, AU Krettli, M Ho, A Wang, ...",
+        "journal": "science 300 (5617), 318-321, 2003",
+        "counts": "415",
+        "year": "2003"
+      },
+      {
+        "title": "Comparative study of methylene blue dye adsorption onto activated carbon, graphene oxide, and carbon nanotubes",
+        "authors": "Y Li, Q Du, T Liu, X Peng, J Wang, J Sun, Y Wang, S Wu, Z Wang, Y Xia, ...",
+        "journal": "Chemical Engineering Research and Design 91 (2), 361-368, 2013",
+        "counts": "360",
+        "year": "2013"
+      },
+      {
+        "title": "The first man-loading high temperature superconducting Maglev test vehicle in the world",
+        "authors": "J Wang, S Wang, Y Zeng, H Huang, F Luo, Z Xu, Q Tang, G Lin, C Zhang, ...",
+        "journal": "Physica C: Superconductivity 378, 809-814, 2002",
+        "counts": "357",
+        "year": "2002"
+      },
+      {
+        "title": "SIRT1 deacetylation and repression of P300 involves lysine residues 1020/1024 within the cell-cycle regulatory domain 1",
+        "authors": "T Bouras, M Fu, AA Sauve, F Wang, AA Quong, ND Perkins, RT Hay, ...",
+        "journal": "Journal of Biological Chemistry, 2005",
+        "counts": "324",
+        "year": "2005"
+      },
+      {
+        "title": "Minerals",
+        "authors": "WT Lee, SS Leung, SH Wang, YC Xu, WP Zeng, J Lau, SJ Oppenheimer, ...",
+        "journal": "The American journal of clinical nutrition 60 (5), 744-750, 1994",
+        "counts": "302",
+        "year": "1994"
+      },
+      {
+        "title": "Lapatinib (Tykerb, GW572016) reverses multidrug resistance in cancer cells by inhibiting the activity of ATP-binding cassette subfamily B member 1 and G member 2",
+        "authors": "C Dai, AK Tiwari, CP Wu, X Su, SR Wang, D Liu, CR Ashby, Y Huang, ...",
+        "journal": "Cancer research 68 (19), 7905-7914, 2008",
+        "counts": "288",
+        "year": "2008"
+      },
+      {
+        "title": "Air quality during the 2008 Beijing Olympics: secondary pollutants and regional impact",
+        "authors": "T Wang, W Nie, J Gao, LK Xue, XM Gao, XF Wang, J Qiu, CN Poon, ...",
+        "journal": "Atmospheric Chemistry and Physics 10 (16), 7603-7615, 2010",
+        "counts": "221",
+        "year": "2010"
+      },
+      {
+        "title": "The biomolecular corona is retained during nanoparticle uptake and protects the cells from the damage induced by cationic nanoparticles until degraded in the lysosomes",
+        "authors": "F Wang, L Yu, MP Monopoli, P Sandin, E Mahon, A Salvati, KA Dawson",
+        "journal": "Nanomedicine: Nanotechnology, Biology and Medicine 9 (8), 1159-1168, 2013",
+        "counts": "217",
+        "year": "2013"
+      },
+      {
+        "title": "The influences of electronic word-of-mouth message appeal and message source credibility on brand attitude",
+        "authors": "PCS Wu, YC Wang",
+        "journal": "Asia Pacific Journal of Marketing and Logistics 23 (4), 448-472, 2011",
+        "counts": "212",
+        "year": "2011"
+      },
+      {
+        "title": "Hormonal control of androgen receptor function through SIRT1",
+        "authors": "M Fu, M Liu, AA Sauve, X Jiao, X Zhang, X Wu, MJ Powell, T Yang, W Gu, ...",
+        "journal": "Molecular and cellular biology 26 (21), 8122-8135, 2006",
+        "counts": "208",
+        "year": "2006"
+      },
+      {
+        "title": "Chiral separations using micellar electrokinetic capillary chromatography and a polymerized chiral micelle",
+        "authors": "J Wang, IM Warner",
+        "journal": "Analytical Chemistry 66 (21), 3773-3776, 1994",
+        "counts": "206",
+        "year": "1994"
+      },
+      {
+        "title": "Stochastic resonance in a bistable system subject to multiplicative and additive noise",
+        "authors": "Y Jia, S Yu, J Li",
+        "journal": "Physical Review E 62 (2), 1869, 2000",
+        "counts": "182",
+        "year": "2000"
+      },
+      {
+        "title": "Evaluation of Gd-DTPA-labeled dextran as an intravascular MR contrast agent: imaging characteristics in normal rat tissues.",
+        "authors": "SC Wang, MG Wikström, DL White, J Klaveness, E Holtz, P Rongved, ...",
+        "journal": "Radiology 175 (2), 483-488, 1990",
+        "counts": "182",
+        "year": "1990"
+      },
+      {
+        "title": "Data release of the LAMOST pilot survey",
+        "authors": "AL Luo, HT Zhang, YH Zhao, G Zhao, XQ Cui, GP Li, YQ Chu, JR Shi, ...",
+        "journal": "Research in Astronomy and Astrophysics 12 (9), 1243, 2012",
+        "counts": "156",
+        "year": "2012"
+      },
+      {
+        "title": "Effect on infant mortality of iodination of irrigation water in a severely iodine-deficient area of China",
+        "authors": "GR DeLong, PW Leslie, SH Wang, XM Jiang, ML Zhang, ...",
+        "journal": "The Lancet 350 (9080), 771-773, 1997",
+        "counts": "155",
+        "year": "1997"
+      },
+      {
+        "title": "Broadband high-efficiency half-wave plate: a supercell-based plasmonic metasurface approach",
+        "authors": "F Ding, Z Wang, S He, VM Shalaev, AV Kildishev",
+        "journal": "ACS nano 9 (4), 4111-4119, 2015",
+        "counts": "152",
+        "year": "2015"
+      },
+      {
+        "title": "Using stacked generalization to predict membrane protein types based on pseudo-amino acid composition",
+        "authors": "SQ Wang, J Yang, KC Chou",
+        "journal": "Journal of theoretical biology 242 (4), 941-946, 2006",
+        "counts": "152",
+        "year": "2006"
+      },
+      {
+        "title": "Super-hydrophobic surfaces to condensed micro-droplets at temperatures below the freezing point retard ice/frost formation",
+        "authors": "M He, J Wang, H Li, Y Song",
+        "journal": "Soft Matter 7 (8), 3993-4000, 2011",
+        "counts": "136",
+        "year": "2011"
+      },
+      {
+        "title": "Accelerometer based transportation mode recognition on mobile phones",
+        "authors": "S Wang, C Chen, J Ma",
+        "journal": "Wearable Computing Systems (APWCS), 2010 Asia-Pacific Conference on, 44-46, 2010",
+        "counts": "131",
+        "year": "2010"
+      },
+      {
+        "title": "Thermal conductivity of silicon nanowire by nonequilibrium molecular dynamics simulations",
+        "authors": "S Wang, X Liang, X Xu",
+        "journal": "ASME 2008 First International Conference on Micro/Nanoscale Heat Transfer …, 2008",
+        "counts": "130",
+        "year": "2008"
+      },
+      {
+        "title": "An expanded evaluation of protein function prediction methods shows an improvement in accuracy",
+        "authors": "Y Jiang, TR Oron, WT Clark, AR Bankapur, D D’Andrea, R Lepore, ...",
+        "journal": "Genome biology 17 (1), 184, 2016",
+        "counts": "123",
+        "year": "2016"
+      },
+      {
+        "title": "Human activity recognition with user-free accelerometers in the sensor networks",
+        "authors": "S Wang, J Yang, N Chen, X Chen, Q Zhang",
+        "journal": "Neural Networks and Brain, 2005. ICNN&B'05. International Conference on 2 …, 2005",
+        "counts": "121",
+        "year": "2005"
+      },
+      {
+        "title": "Preparation of multilayered trimodal colloid crystals and binary inverse opals",
+        "authors": "J Wang, Q Li, W Knoll, U Jonas",
+        "journal": "Journal of the American Chemical Society 128 (49), 15606-15607, 2006",
+        "counts": "115",
+        "year": "2006"
+      },
+      {
+        "title": "Systematic analysis, comparison, and integration of disease based human genetic association data and mouse genetic phenotypic information",
+        "authors": "Y Zhang, S De, JR Garner, K Smith, SA Wang, KG Becker",
+        "journal": "BMC medical genomics 3 (1), 1, 2010",
+        "counts": "114",
+        "year": "2010"
+      },
+      {
+        "title": "On solving the face recognition problem with one training sample per subject",
+        "authors": "J Wang, KN Plataniotis, J Lu, AN Venetsanopoulos",
+        "journal": "Pattern recognition 39 (9), 1746-1762, 2006",
+        "counts": "111",
+        "year": "2006"
+      },
+      {
+        "title": "Macroporous free-standing nano-sulfur/reduced graphene oxide paper as stable cathode for lithium-sulfur battery",
+        "authors": "C Wang, X Wang, Y Wang, J Chen, H Zhou, Y Huang",
+        "journal": "Nano Energy 11, 678-686, 2015",
+        "counts": "110",
+        "year": "2015"
+      },
+      {
+        "title": "The ethylene response factor AtERF98 enhances tolerance to salt through the transcriptional activation of ascorbic acid synthesis in Arabidopsis",
+        "authors": "Z Zhang, J Wang, R Zhang, R Huang",
+        "journal": "The Plant Journal 71 (2), 273-287, 2012",
+        "counts": "110",
+        "year": "2012"
+      },
+      {
+        "title": "Research on relationship between soil enzyme activities and soil fertility [J]",
+        "authors": "L QIU, J LIU, Y WANG, H SUN, W HE",
+        "journal": "Plant Nutrition and Fertilizing Science 3, 11-16, 2004",
+        "counts": "110",
+        "year": "2004"
+      },
+      {
+        "title": "QTL mapping and the genetic basis of heterosis in maize and rice",
+        "authors": "AAF Garcia, S Wang, AE Melchinger, ZB Zeng",
+        "journal": "Genetics, 2008",
+        "counts": "109",
+        "year": "2008"
+      },
+      {
+        "title": "Experimental techniques of plant physiology",
+        "authors": "JF Gao",
+        "journal": "Xi’an, China: World Publishing Corporation, 2000",
+        "counts": "108",
+        "year": "2000"
+      },
+      {
+        "title": "Formulation of superparamagnetic iron oxides by nanoparticles of biodegradable polymers for magnetic resonance imaging",
+        "authors": "Y Wang, YW Ng, Y Chen, B Shuter, J Yi, J Ding, S Wang, SS Feng",
+        "journal": "Advanced Functional Materials 18 (2), 308-318, 2008",
+        "counts": "104",
+        "year": "2008"
+      },
+      {
+        "title": "cIAP1 and cIAP2 limit macrophage necroptosis by inhibiting Rip1 and Rip3 activation",
+        "authors": "S McComb, HH Cheung, RG Korneluk, S Wang, L Krishnan, S Sad",
+        "journal": "Cell death and differentiation 19 (11), 1791, 2012",
+        "counts": "101",
+        "year": "2012"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "A promoter-level mammalian expression atlas",
+        "authors": "ARR Forrest, H Kawaji, M Rehli, JK Baillie, MJL De Hoon, V Haberle, ...",
+        "journal": "Nature 507 (7493), 462, 2014",
+        "counts": "780",
+        "year": "2014"
+      },
+      {
+        "title": "The gene ontology (GO) project in 2006",
+        "authors": "Gene Ontology Consortium",
+        "journal": "Nucleic Acids Res 34 (1), D322-D326, 2006",
+        "counts": "604",
+        "year": "2006"
+      },
+      {
+        "title": "OBO-Edit—an ontology editor for biologists",
+        "authors": "J Day-Richter, MA Harris, M Haendel, S Lewis",
+        "journal": "Bioinformatics 23 (16), 2198, 2007",
+        "counts": "290",
+        "year": "2007"
+      },
+      {
+        "title": "Transcribed enhancers lead waves of coordinated transcription in transitioning mammalian cells",
+        "authors": "E Arner, CO Daub, K Vitting-Seerup, R Andersson, B Lilje, F Drabløs, ...",
+        "journal": "Science 347 (6225), 1010-1014, 2015",
+        "counts": "260",
+        "year": "2015"
+      },
+      {
+        "title": "Impaired immune responses and altered peptide repertoire in tapasin-deficient mice",
+        "authors": "N Garbi, P Tan, AD Diehl, BJ Chambers, HG Ljunggren, F Momburg, ...",
+        "journal": "Nature immunology 1 (3), 234, 2000",
+        "counts": "212",
+        "year": "2000"
+      },
+      {
+        "title": "Gateways to the FANTOM5 promoter level mammalian expression atlas",
+        "authors": "M Lizio, J Harshbarger, H Shimoji, J Severin, T Kasukawa, S Sahin, ...",
+        "journal": "Genome biology 16 (1), 22, 2015",
+        "counts": "204",
+        "year": "2015"
+      },
+      {
+        "title": "Altered expression of Ly49 inhibitory receptors on natural killer cells from MHC class I-deficient mice.",
+        "authors": "M Salcedo, AD Diehl, MY Olsson-Alheim, J Sundbäck, L Van Kaer, ...",
+        "journal": "The Journal of Immunology 158 (7), 3174-3180, 1997",
+        "counts": "134",
+        "year": "1997"
+      },
+      {
+        "title": "The Gene Ontology's Reference Genome Project: a unified framework for functional annotation across species",
+        "authors": "P Gaudet, R Chisholm, T Berardini, E Dimmer, SR Engel, P Fey, DP Hill, ...",
+        "journal": "PLoS Computational Biology 5 (7), e1000431, 2009",
+        "counts": "132",
+        "year": "2009"
+      },
+      {
+        "title": "Emergence of CD8+ T cells expressing NK cell receptors in influenza A virus-infected mice",
+        "authors": "T Kambayashi, E Assarsson, J Michaëlsson, P Berglund, AD Diehl, ...",
+        "journal": "The Journal of Immunology 165 (9), 4964-4969, 2000",
+        "counts": "115",
+        "year": "2000"
+      },
+      {
+        "title": "Logical development of the cell ontology",
+        "authors": "TF Meehan, AM Masci, A Abdulla, LG Cowell, JA Blake, CJ Mungall, ...",
+        "journal": "BMC bioinformatics 12 (1), 6, 2011",
+        "counts": "110",
+        "year": "2011"
       }
     ]
   },
@@ -914,7 +1360,7 @@ var data = [
         "title": "The influence of social networking sites on health behavior change: a systematic review and meta-analysis",
         "authors": "L Laranjo, A Arguel, AL Neves, AM Gallagher, R Kaplan, N Mortimer, ...",
         "journal": "Journal of the American Medical Informatics Association 22 (1), 243-256, 2014",
-        "counts": "235",
+        "counts": "236",
         "year": "2014"
       },
       {
@@ -1130,7 +1576,7 @@ var data = [
         "title": "Broadcast gossip algorithms for consensus",
         "authors": "TC Aysal, ME Yildiz, AD Sarwate, A Scaglione",
         "journal": "Signal Processing, IEEE Transactions on 57 (7), 2748-2761, 2009",
-        "counts": "406",
+        "counts": "407",
         "year": "2009"
       },
       {
@@ -1176,7 +1622,7 @@ var data = [
         "title": "Radiomics: the process and the challenges",
         "authors": "V Kumar, Y Gu, S Basu, A Berglund, SA Eschrich, MB Schabath, K Forster, ...",
         "journal": "Magnetic resonance imaging 30 (9), 1234-1248, 2012",
-        "counts": "476",
+        "counts": "474",
         "year": "2012"
       },
       {
@@ -1225,7 +1671,7 @@ var data = [
         "title": "Identification of residual metabolic-active areas within individual NSCLC tumours using a pre-radiotherapy 18Fluorodeoxyglucose-PET-CT scan",
         "authors": "HJWL Aerts, AAW van Baardwijk, SF Petit, C Offermann, J van Loon, ...",
         "journal": "Radiotherapy and oncology 91 (3), 386-392, 2009",
-        "counts": "167",
+        "counts": "168",
         "year": "2009"
       },
       {
@@ -1285,7 +1731,7 @@ var data = [
         "title": "Cognitive and usability engineering methods for the evaluation of clinical information systems",
         "authors": "AW Kushniruk, VL Patel",
         "journal": "Journal of biomedical informatics 37 (1), 56-76, 2004",
-        "counts": "610",
+        "counts": "611",
         "year": "2004"
       },
       {
@@ -1299,7 +1745,7 @@ var data = [
         "title": "Evaluation in the design of health information systems: application of approaches emerging from usability engineering",
         "authors": "A Kushniruk",
         "journal": "Computers in biology and medicine 32 (3), 141-149, 2002",
-        "counts": "240",
+        "counts": "241",
         "year": "2002"
       },
       {
@@ -1383,7 +1829,7 @@ var data = [
         "title": "Prediction of central nervous system embryonal tumour outcome based on gene expression",
         "authors": "SL Pomeroy, P Tamayo, M Gaasenbeek, LM Sturla, M Angelo, ...",
         "journal": "Nature 415 (6870), 436, 2002",
-        "counts": "2370",
+        "counts": "2372",
         "year": "2002"
       },
       {
@@ -1411,7 +1857,7 @@ var data = [
         "title": "The transcriptional network for mesenchymal transformation of brain tumours",
         "authors": "MS Carro, WK Lim, MJ Alvarez, RJ Bollo, X Zhao, EY Snyder, EP Sulman, ...",
         "journal": "Nature 463 (7279), 318, 2010",
-        "counts": "854",
+        "counts": "853",
         "year": "2010"
       },
       {
@@ -1425,7 +1871,7 @@ var data = [
         "title": "A promoter-level mammalian expression atlas",
         "authors": "ARR Forrest, H Kawaji, M Rehli, JK Baillie, MJL De Hoon, V Haberle, ...",
         "journal": "Nature 507 (7493), 462, 2014",
-        "counts": "777",
+        "counts": "780",
         "year": "2014"
       },
       {
@@ -1439,21 +1885,21 @@ var data = [
         "title": "The DLEU2/miR-15a/16-1 cluster controls B cell proliferation and its deletion leads to chronic lymphocytic leukemia",
         "authors": "U Klein, M Lia, M Crespo, R Siegel, Q Shen, T Mo, A Ambesi-Impiombato, ...",
         "journal": "Cancer cell 17 (1), 28-40, 2010",
-        "counts": "657",
+        "counts": "658",
         "year": "2010"
       },
       {
         "title": "An extensive microRNA-mediated network of RNA-RNA interactions regulates established oncogenic pathways in glioblastoma",
         "authors": "P Sumazin, X Yang, HS Chiu, WJ Chung, A Iyer, D Llobet-Navas, ...",
         "journal": "Cell 147 (2), 370-381, 2011",
-        "counts": "500",
+        "counts": "502",
         "year": "2011"
       },
       {
         "title": "Structure-based prediction of protein–protein interactions on a genome-wide scale",
         "authors": "QC Zhang, D Petrey, L Deng, L Qiang, Y Shi, CA Thu, B Bisikirska, ...",
         "journal": "Nature 490 (7421), 556, 2012",
-        "counts": "416",
+        "counts": "418",
         "year": "2012"
       },
       {
@@ -1572,7 +2018,7 @@ var data = [
         "title": "Quantitative and systems pharmacology in the post-genomic era: new approaches to discovering drugs and understanding therapeutic mechanisms",
         "authors": "PK Sorger, SRB Allerheiligen, DR Abernethy, RB Altman, KLR Brouwer, ...",
         "journal": "An NIH white paper by the QSP workshop group 48, 2011",
-        "counts": "184",
+        "counts": "185",
         "year": "2011"
       },
       {
@@ -1889,7 +2335,7 @@ var data = [
         "title": "Evolving gene/transcript definitions significantly alter the interpretation of GeneChip data",
         "authors": "M Dai, P Wang, AD Boyd, G Kostov, B Athey, EG Jones, WE Bunney, ...",
         "journal": "Nucleic acids research 33 (20), e175-e175, 2005",
-        "counts": "1529",
+        "counts": "1530",
         "year": "2005"
       }
     ]
@@ -1946,21 +2392,21 @@ var data = [
         "title": "A gene atlas of the mouse and human protein-encoding transcriptomes",
         "authors": "AI Su, T Wiltshire, S Batalov, H Lapp, KA Ching, D Block, J Zhang, ...",
         "journal": "Proceedings of the National Academy of Sciences 101 (16), 6062-6067, 2004",
-        "counts": "3391",
+        "counts": "3392",
         "year": "2004"
       },
       {
         "title": "Coordinated transcription of key pathways in the mouse by the circadian clock",
         "authors": "S Panda, MP Antoch, BH Miller, AI Su, AB Schook, M Straume, PG Schultz, ...",
         "journal": "Cell 109 (3), 307-320, 2002",
-        "counts": "1932",
+        "counts": "1933",
         "year": "2002"
       },
       {
         "title": "Large-scale analysis of the human and mouse transcriptomes",
         "authors": "AI Su, MP Cooke, KA Ching, Y Hakak, JR Walker, T Wiltshire, AP Orth, ...",
         "journal": "Proceedings of the National Academy of Sciences 99 (7), 4465-4470, 2002",
-        "counts": "1572",
+        "counts": "1571",
         "year": "2002"
       },
       {
@@ -1981,7 +2427,7 @@ var data = [
         "title": "Molecular classification of human carcinomas by use of gene expression signatures",
         "authors": "AI Su, JB Welsh, LM Sapinoso, SG Kern, P Dimitrov, H Lapp, PG Schultz, ...",
         "journal": "Cancer research 61 (20), 7388-7393, 2001",
-        "counts": "710",
+        "counts": "711",
         "year": "2001"
       },
       {
@@ -2118,7 +2564,7 @@ var data = [
         "title": "10-year follow-up of diabetes incidence and weight loss in the Diabetes Prevention Program Outcomes Study",
         "authors": "Diabetes Prevention Program Research Group",
         "journal": "The Lancet 374 (9702), 1677-1686, 2009",
-        "counts": "2027",
+        "counts": "2026",
         "year": "2009"
       },
       {
@@ -2164,7 +2610,7 @@ var data = [
         "title": "GOR V server for protein secondary structure prediction",
         "authors": "TZ Sen, RL Jernigan, J Garnier, A Kloczkowski",
         "journal": "Bioinformatics 21 (11), 2787-2788, 2005",
-        "counts": "166",
+        "counts": "167",
         "year": "2005"
       },
       {
@@ -2294,7 +2740,7 @@ var data = [
         "title": "Conceptual modelling of genomic information",
         "authors": "NW Paton, SA Khan, A Hayes, F Moussouni, A Brass, K Eilbeck, ...",
         "journal": "Bioinformatics 16 (6), 548-557, 2000",
-        "counts": "122",
+        "counts": "123",
         "year": "2000"
       },
       {
@@ -2312,7 +2758,7 @@ var data = [
         "title": "Special requirements of electronic health record systems in pediatrics",
         "authors": "SA Spooner",
         "journal": "Pediatrics 119 (3), 631-637, 2007",
-        "counts": "115",
+        "counts": "116",
         "year": "2007"
       }
     ]
@@ -2362,7 +2808,7 @@ var data = [
         "title": "Disease candidate gene identification and prioritization using protein interaction networks",
         "authors": "J Chen, B Aronow, A Jegga",
         "journal": "BMC bioinformatics 10 (1), 73, 2009",
-        "counts": "290",
+        "counts": "291",
         "year": "2009"
       },
       {
@@ -2468,6 +2914,45 @@ var data = [
   {
     "citations": [
       {
+        "title": "Aggregating UMLS semantic types for reducing conceptual complexity",
+        "authors": "AT McCray, A Burgun, O Bodenreider",
+        "journal": "Studies in health technology and informatics 84 (0 1), 216, 2001",
+        "counts": "260",
+        "year": "2001"
+      },
+      {
+        "title": "Non-lexical approaches to identifying associative relations in the gene ontology",
+        "authors": "O Bodenreider, M Aubry, A Burgun",
+        "journal": "Biocomputing 2005, 91-102, 2005",
+        "counts": "130",
+        "year": "2005"
+      },
+      {
+        "title": "The ontology-epistemology divide: A case study in medical terminology",
+        "authors": "O Bodenreider, B Smith, A Burgun",
+        "journal": "Formal ontology in information systems: proceedings of the... International …, 2004",
+        "counts": "123",
+        "year": "2004"
+      },
+      {
+        "title": "Desiderata for domain reference ontologies in biomedicine",
+        "authors": "A Burgun",
+        "journal": "Journal of biomedical informatics 39 (3), 307-313, 2006",
+        "counts": "119",
+        "year": "2006"
+      },
+      {
+        "title": "Investigating subsumption in SNOMED CT: An exploration into large description logic-based biomedical terminologies",
+        "authors": "O Bodenreider, B Smith, A Kumar, A Burgun",
+        "journal": "Artificial intelligence in medicine 39 (3), 183-195, 2007",
+        "counts": "103",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Survey of network on chip (noc) architectures & contributions",
         "authors": "A Agarwal, C Iskander, R Shankar",
         "journal": "Journal of engineering, Computing and Architecture 3 (1), 21-27, 2009",
@@ -2481,6 +2966,73 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Simlex-999: Evaluating semantic models with (genuine) similarity estimation",
+        "authors": "F Hill, R Reichart, A Korhonen",
+        "journal": "Computational Linguistics 41 (4), 665-695, 2015",
+        "counts": "437",
+        "year": "2015"
+      },
+      {
+        "title": "A large-scale classification of English verbs",
+        "authors": "K Kipper, A Korhonen, N Ryant, M Palmer",
+        "journal": "Language Resources and Evaluation 42 (1), 21-40, 2008",
+        "counts": "293",
+        "year": "2008"
+      },
+      {
+        "title": "Semantically motivated subcategorization acquisition",
+        "authors": "A Korhonen",
+        "journal": "Proceedings of the ACL-02 workshop on Unsupervised lexical acquisition …, 2002",
+        "counts": "242",
+        "year": "2002"
+      },
+      {
+        "title": "Extending VerbNet with novel verb classes",
+        "authors": "K Kipper, A Korhonen, N Ryant, M Palmer",
+        "journal": "Proceedings of LREC 2006 (2.2), 1, 2006",
+        "counts": "169",
+        "year": "2006"
+      },
+      {
+        "title": "Learning distributed representations of sentences from unlabelled data",
+        "authors": "F Hill, K Cho, A Korhonen",
+        "journal": "arXiv preprint arXiv:1602.03483, 2016",
+        "counts": "139",
+        "year": "2016"
+      },
+      {
+        "title": "Metaphor identification using verb and noun clustering",
+        "authors": "E Shutova, L Sun, A Korhonen",
+        "journal": "Proceedings of the 23rd International Conference on Computational …, 2010",
+        "counts": "121",
+        "year": "2010"
+      },
+      {
+        "title": "Zone analysis in biology articles as a basis for information extraction",
+        "authors": "Y Mizuta, A Korhonen, T Mullen, N Collier",
+        "journal": "International journal of medical informatics 75 (6), 468-487, 2006",
+        "counts": "108",
+        "year": "2006"
+      },
+      {
+        "title": "Improving verb clustering with automatically acquired selectional preferences",
+        "authors": "L Sun, A Korhonen",
+        "journal": "Proceedings of the 2009 Conference on Empirical Methods in Natural Language …, 2009",
+        "counts": "106",
+        "year": "2009"
+      },
+      {
+        "title": "A large subcategorization lexicon for natural language processing applications",
+        "authors": "A Korhonen, Y Krymolowski, T Briscoe",
+        "journal": "Proceedings of LREC 6, 1015-1020, 2006",
+        "counts": "104",
+        "year": "2006"
+      }
+    ]
   },
   {
     "citations": [
@@ -2537,7 +3089,7 @@ var data = [
         "title": "Health@ Home: the work of health information management in the household (HIMH): implications for consumer health informatics (CHI) innovations",
         "authors": "A Moen, PF Brennan",
         "journal": "Journal of the American Medical Informatics Association 12 (6), 648-656, 2005",
-        "counts": "151",
+        "counts": "152",
         "year": "2005"
       }
     ]
@@ -2555,7 +3107,7 @@ var data = [
         "title": "Enterprise modeling",
         "authors": "K Sandkuhl, J Stirna, A Persson, M Wißotzki",
         "journal": "Tackling Business Challenges with the 4EM Method. Springer 309, 2014",
-        "counts": "147",
+        "counts": "146",
         "year": "2014"
       },
       {
@@ -2569,7 +3121,7 @@ var data = [
         "title": "Participative enterprise modeling: experiences and recommendations",
         "authors": "J Stirna, A Persson, K Sandkuhl",
         "journal": "International Conference on Advanced Information Systems Engineering, 546-560, 2007",
-        "counts": "128",
+        "counts": "129",
         "year": "2007"
       },
       {
@@ -2639,7 +3191,7 @@ var data = [
         "title": "Genetics of dementia",
         "authors": "CT Loy, PR Schofield, AM Turner, JBJ Kwok",
         "journal": "The Lancet 383 (9919), 828-840, 2014",
-        "counts": "135",
+        "counts": "136",
         "year": "2014"
       },
       {
@@ -2657,7 +3209,7 @@ var data = [
         "title": "The influence of social networking sites on health behavior change: a systematic review and meta-analysis",
         "authors": "L Laranjo, A Arguel, AL Neves, AM Gallagher, R Kaplan, N Mortimer, ...",
         "journal": "Journal of the American Medical Informatics Association 22 (1), 243-256, 2014",
-        "counts": "235",
+        "counts": "236",
         "year": "2014"
       }
     ]
@@ -2668,14 +3220,14 @@ var data = [
         "title": "Understanding information systems continuance: an expectation-confirmation model",
         "authors": "A Bhattacherjee",
         "journal": "MIS quarterly, 351-370, 2001",
-        "counts": "5276",
+        "counts": "5279",
         "year": "2001"
       },
       {
         "title": "Social science research: Principles, methods, and practices",
         "authors": "A Bhattacherjee",
         "journal": "Global text project, 2012",
-        "counts": "1596",
+        "counts": "1595",
         "year": "2012"
       },
       {
@@ -2689,7 +3241,7 @@ var data = [
         "title": "Individual trust in online firms: Scale development and initial test",
         "authors": "A Bhattacherjee",
         "journal": "Journal of management information systems 19 (1), 211-241, 2002",
-        "counts": "1412",
+        "counts": "1413",
         "year": "2002"
       },
       {
@@ -2710,7 +3262,7 @@ var data = [
         "title": "Influence processes for information technology acceptance: An elaboration likelihood model",
         "authors": "A Bhattacherjee, C Sanford",
         "journal": "MIS quarterly, 805-825, 2006",
-        "counts": "840",
+        "counts": "839",
         "year": "2006"
       },
       {
@@ -2911,7 +3463,7 @@ var data = [
         "title": "The RAFT network: 5 years of distance continuing medical education and tele-consultations over the Internet in French-speaking Africa",
         "authors": "A Geissbuhler, CO Bagayoko, O Ly",
         "journal": "International journal of medical informatics 76 (5-6), 351-356, 2007",
-        "counts": "154",
+        "counts": "153",
         "year": "2007"
       },
       {
@@ -2966,7 +3518,7 @@ var data = [
         "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global …",
         "authors": "H Wang, M Naghavi, C Allen, RM Barber, ZA Bhutta, A Carter, DC Casey, ...",
         "journal": "The lancet 388 (10053), 1459-1544, 2016",
-        "counts": "845",
+        "counts": "846",
         "year": "2016"
       },
       {
@@ -2980,7 +3532,7 @@ var data = [
         "title": "Global, regional, and national age-sex specific mortality for 264 causes of death, 1980–2016: a systematic analysis for the Global Burden of Disease Study 2016",
         "authors": "M Naghavi, AA Abajobir, C Abbafati, KM Abbas, F Abd-Allah, SF Abera, ...",
         "journal": "The Lancet 390 (10100), 1151-1210, 2017",
-        "counts": "187",
+        "counts": "193",
         "year": "2017"
       },
       {
@@ -2994,14 +3546,14 @@ var data = [
         "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the …",
         "authors": "T Vos, AA Abajobir, KH Abate, C Abbafati, KM Abbas, F Abd-Allah, ...",
         "journal": "The Lancet 390 (10100), 1211-1259, 2017",
-        "counts": "168",
+        "counts": "179",
         "year": "2017"
       },
       {
         "title": "Miro1 regulates intercellular mitochondrial transport & enhances mesenchymal stem cell rescue efficacy",
         "authors": "T Ahmad, S Mukherjee, B Pattnaik, M Kumar, S Singh, R Rehman, ...",
         "journal": "The EMBO journal, e201386030, 2014",
-        "counts": "162",
+        "counts": "163",
         "year": "2014"
       },
       {
@@ -3032,7 +3584,7 @@ var data = [
         "title": "Clinical characteristics of Merkel cell carcinoma at diagnosis in 195 patients: the AEIOU features",
         "authors": "M Heath, N Jaimes, B Lemos, A Mostaghimi, LC Wang, PF Peñas, ...",
         "journal": "Journal of the American Academy of Dermatology 58 (3), 375-381, 2008",
-        "counts": "595",
+        "counts": "596",
         "year": "2008"
       },
       {
@@ -3099,7 +3651,7 @@ var data = [
         "title": "Use of electronic health records in US hospitals",
         "authors": "AK Jha, CM DesRoches, EG Campbell, K Donelan, SR Rao, TG Ferris, ...",
         "journal": "New England Journal of Medicine 360 (16), 1628-1638, 2009",
-        "counts": "1496",
+        "counts": "1497",
         "year": "2009"
       },
       {
@@ -3120,7 +3672,7 @@ var data = [
         "title": "Patients' perception of hospital care in the United States",
         "authors": "AK Jha, EJ Orav, J Zheng, AM Epstein",
         "journal": "New England Journal of Medicine 359 (18), 1921-1931, 2008",
-        "counts": "697",
+        "counts": "698",
         "year": "2008"
       },
       {
@@ -3148,14 +3700,14 @@ var data = [
         "title": "A research agenda for personal health records (PHRs)",
         "authors": "DC Kaelber, AK Jha, D Johnston, B Middleton, DW Bates",
         "journal": "Journal of the American Medical Informatics Association 15 (6), 729-736, 2008",
-        "counts": "439",
+        "counts": "440",
         "year": "2008"
       },
       {
         "title": "The use of health information technology in seven nations",
         "authors": "AK Jha, D Doolan, D Grandt, T Scott, DW Bates",
         "journal": "International journal of medical informatics 77 (12), 848-854, 2008",
-        "counts": "426",
+        "counts": "427",
         "year": "2008"
       },
       {
@@ -3190,7 +3742,7 @@ var data = [
         "title": "Characteristics of hospitals receiving penalties under the Hospital Readmissions Reduction Program",
         "authors": "KE Joynt, AK Jha",
         "journal": "Jama 309 (4), 342-343, 2013",
-        "counts": "303",
+        "counts": "304",
         "year": "2013"
       },
       {
@@ -3243,18 +3795,18 @@ var data = [
         "year": "2010"
       },
       {
+        "title": "A path forward on Medicare readmissions",
+        "authors": "KE Joynt, AK Jha",
+        "journal": "New England Journal of Medicine 368 (13), 1175-1177, 2013",
+        "counts": "236",
+        "year": "2013"
+      },
+      {
         "title": "The relationship between hospital admission rates and rehospitalizations",
         "authors": "AM Epstein, AK Jha, EJ Orav",
         "journal": "New England Journal of Medicine 365 (24), 2287-2295, 2011",
         "counts": "236",
         "year": "2011"
-      },
-      {
-        "title": "A path forward on Medicare readmissions",
-        "authors": "KE Joynt, AK Jha",
-        "journal": "New England Journal of Medicine 368 (13), 1175-1177, 2013",
-        "counts": "235",
-        "year": "2013"
       },
       {
         "title": "Pediatric readmission prevalence and variability across hospitals",
@@ -3285,18 +3837,18 @@ var data = [
         "year": "2010"
       },
       {
+        "title": "Meaningful use of electronic health records: the road ahead",
+        "authors": "AK Jha",
+        "journal": "Jama 304 (15), 1709-1710, 2010",
+        "counts": "208",
+        "year": "2010"
+      },
+      {
         "title": "Predicting bacteremia in patients with sepsis syndrome",
         "authors": "DW Bates, K Sands, E Miller, PN Lanken, PL Hibberd, PS Graman, ...",
         "journal": "Journal of Infectious Diseases 176 (6), 1538-1551, 1997",
         "counts": "208",
         "year": "1997"
-      },
-      {
-        "title": "Meaningful use of electronic health records: the road ahead",
-        "authors": "AK Jha",
-        "journal": "Jama 304 (15), 1709-1710, 2010",
-        "counts": "207",
-        "year": "2010"
       },
       {
         "title": "The intensity and variation of surgical care at the end of life: a retrospective cohort study",
@@ -3435,7 +3987,7 @@ var data = [
         "title": "Patient satisfaction and quality of surgical care in US hospitals",
         "authors": "TC Tsai, EJ Orav, AK Jha",
         "journal": "Annals of surgery 261 (1), 2, 2015",
-        "counts": "142",
+        "counts": "143",
         "year": "2015"
       },
       {
@@ -3577,7 +4129,85 @@ var data = [
     "citations": []
   },
   {
+    "citations": [
+      {
+        "title": "Diagnostic performance of stress cardiac magnetic resonance imaging in the detection of coronary artery disease: a meta-analysis",
+        "authors": "KR Nandalur, BA Dwamena, AF Choudhri, MR Nandalur, RC Carlos",
+        "journal": "Journal of the American College of Cardiology 50 (14), 1343-1353, 2007",
+        "counts": "553",
+        "year": "2007"
+      },
+      {
+        "title": "Management of vasodilatory shock after cardiac surgery: Identification of predisposing factors and use of a novel pressor agent",
+        "authors": "M Argenziano, JM Chen, AF Choudhri, S Cullinane, E Garfein, ...",
+        "journal": "Journal of Thoracic and Cardiovascular Surgery 116 (6), 973-980, 1998",
+        "counts": "377",
+        "year": "1998"
+      },
+      {
+        "title": "A prospective randomized trial of arginine vasopressin in the treatment of vasodilatory shock after left ventricular assist device placement",
+        "authors": "M Argenziano, AF Choudhri, MC Oz, EA Rose, CR Smith, DW Landry",
+        "journal": "Circulation 96 (9), II-286, 1997",
+        "counts": "283",
+        "year": "1997"
+      },
+      {
+        "title": "Multicenter review of preoperative risk factors for stroke after coronary artery bypass grafting",
+        "authors": "R John, AF Choudhri, AD Weinberg, W Ting, EA Rose, CR Smith, MC Oz",
+        "journal": "The Annals of thoracic surgery 69 (1), 30-35, 2000",
+        "counts": "264",
+        "year": "2000"
+      },
+      {
+        "title": "Randomized, double-blind trial of inhaled nitric oxide in LVAD recipients with pulmonary hypertension",
+        "authors": "M Argenziano, AF Choudhri, N Moazami, EA Rose, CR Smith, HR Levin, ...",
+        "journal": "The Annals of thoracic surgery 65 (2), 340-345, 1998",
+        "counts": "202",
+        "year": "1998"
+      },
+      {
+        "title": "Time course of reverse remodeling of the left ventricle during support with a left ventricular assist device",
+        "authors": "JD Madigan, A Barbone, AF Choudhri, DLS Morales, B Cai, MC Oz, ...",
+        "journal": "The Journal of thoracic and cardiovascular surgery 121 (5), 902-908, 2001",
+        "counts": "141",
+        "year": "2001"
+      },
+      {
+        "title": "Diagnostic Performance of Positron Emission Tomography in the Detection of Coronary Artery Disease:: A Meta-analysis",
+        "authors": "KR Nandalur, BA Dwamena, AF Choudhri, SR Nandalur, P Reddy, ...",
+        "journal": "Academic radiology 15 (4), 444-451, 2008",
+        "counts": "119",
+        "year": "2008"
+      },
+      {
+        "title": "Surgical management of the patient with an implanted cardiac device: implications of electromagnetic interference",
+        "authors": "JD Madigan, AF Choudhri, J Chen, HM Spotnitz, MC Oz, N Edwards",
+        "journal": "Annals of surgery 230 (5), 639, 1999",
+        "counts": "112",
+        "year": "1999"
+      }
+    ]
+  },
+  {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Investigation of vocal jitter and glottal flow spectrum as possible cues for depression and near-term suicidal risk",
+        "authors": "A Ozdas, RG Shiavi, SE Silverman, MK Silverman, DM Wilkes",
+        "journal": "IEEE Transactions on Biomedical Engineering 51 (9), 1530-1540, 2004",
+        "counts": "144",
+        "year": "2004"
+      },
+      {
+        "title": "Heart rate variability predicts trauma patient outcome as early as 12 h: implications for military and civilian triage",
+        "authors": "PR Norris, JA Morris Jr, A Ozdas, EL Grogan, AE Williams",
+        "journal": "Journal of Surgical Research 129 (1), 122-128, 2005",
+        "counts": "103",
+        "year": "2005"
+      }
+    ]
   },
   {
     "citations": [
@@ -3646,7 +4276,7 @@ var data = [
         "title": "Coordinated reduction of genes of oxidative metabolism in humans with insulin resistance and diabetes: Potential role of PGC1 and NRF1",
         "authors": "ME Patti, AJ Butte, S Crunkhorn, K Cusi, R Berria, S Kashyap, Y Miyazaki, ...",
         "journal": "Proceedings of the National Academy of Sciences 100 (14), 8466-8471, 2003",
-        "counts": "1832",
+        "counts": "1831",
         "year": "2003"
       },
       {
@@ -3667,7 +4297,7 @@ var data = [
         "title": "Personal omics profiling reveals dynamic molecular and medical phenotypes",
         "authors": "R Chen, GI Mias, J Li-Pook-Than, L Jiang, HYK Lam, R Chen, E Miriami, ...",
         "journal": "Cell 148 (6), 1293-1307, 2012",
-        "counts": "867",
+        "counts": "868",
         "year": "2012"
       },
       {
@@ -3716,7 +4346,7 @@ var data = [
         "title": "Performance comparison of exome DNA sequencing technologies",
         "authors": "MJ Clark, R Chen, HYK Lam, KJ Karczewski, R Chen, G Euskirchen, ...",
         "journal": "Nature biotechnology 29 (10), 908, 2011",
-        "counts": "410",
+        "counts": "411",
         "year": "2011"
       },
       {
@@ -3741,18 +4371,18 @@ var data = [
         "year": "2011"
       },
       {
+        "title": "Variation in the human immune system is largely driven by non-heritable influences",
+        "authors": "P Brodin, V Jojic, T Gao, S Bhattacharya, CJL Angel, D Furman, ...",
+        "journal": "Cell 160 (1-2), 37-47, 2015",
+        "counts": "330",
+        "year": "2015"
+      },
+      {
         "title": "Clinical interpretation and implications of whole-genome sequencing",
         "authors": "FE Dewey, ME Grove, C Pan, BA Goldstein, JA Bernstein, H Chaib, ...",
         "journal": "Jama 311 (10), 1035-1045, 2014",
         "counts": "330",
         "year": "2014"
-      },
-      {
-        "title": "Variation in the human immune system is largely driven by non-heritable influences",
-        "authors": "P Brodin, V Jojic, T Gao, S Bhattacharya, CJL Angel, D Furman, ...",
-        "journal": "Cell 160 (1-2), 37-47, 2015",
-        "counts": "329",
-        "year": "2015"
       },
       {
         "title": "ClinGen--the Clinical Genome Resource",
@@ -3870,7 +4500,7 @@ var data = [
         "title": "Systematic pan-cancer analysis of tumour purity",
         "authors": "D Aran, M Sirota, AJ Butte",
         "journal": "Nature communications 6, 8971, 2015",
-        "counts": "177",
+        "counts": "176",
         "year": "2015"
       },
       {
@@ -3905,7 +4535,7 @@ var data = [
         "title": "SMYD3 links lysine methylation of MAP3K2 to Ras-driven cancer",
         "authors": "PK Mazur, N Reynoird, P Khatri, PWTC Jansen, AW Wilkinson, S Liu, ...",
         "journal": "Nature 510 (7504), 283, 2014",
-        "counts": "156",
+        "counts": "155",
         "year": "2014"
       },
       {
@@ -4094,14 +4724,14 @@ var data = [
         "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global …",
         "authors": "H Wang, M Naghavi, C Allen, RM Barber, ZA Bhutta, A Carter, DC Casey, ...",
         "journal": "The lancet 388 (10053), 1459-1544, 2016",
-        "counts": "845",
+        "counts": "846",
         "year": "2016"
       },
       {
         "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of …",
         "authors": "T Vos, C Allen, M Arora, RM Barber, ZA Bhutta, A Brown, A Carter, ...",
         "journal": "The Lancet 388 (10053), 1545-1602, 2016",
-        "counts": "590",
+        "counts": "592",
         "year": "2016"
       },
       {
@@ -4122,15 +4752,22 @@ var data = [
         "title": "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990–2015: a systematic analysis for the …",
         "authors": "NJ Kassebaum, M Arora, RM Barber, ZA Bhutta, J Brown, A Carter, ...",
         "journal": "The Lancet 388 (10053), 1603-1658, 2016",
-        "counts": "357",
+        "counts": "358",
         "year": "2016"
       },
       {
         "title": "Recent trends in admissions and mortality due to peptic ulcer in England: increasing frequency of haemorrhage among older subjects",
         "authors": "J Higham, JY Kang, A Majeed",
         "journal": "Gut 50 (4), 460-464, 2002",
-        "counts": "341",
+        "counts": "340",
         "year": "2002"
+      },
+      {
+        "title": "Trends in the prevalence and management of atrial fibrillation in general practice in England and Wales, 1994–1998: analysis of data from the general practice research database",
+        "authors": "A Majeed, K Moser, K Carroll",
+        "journal": "Heart 86 (3), 284-288, 2001",
+        "counts": "287",
+        "year": "2001"
       },
       {
         "title": "Use of administrative data or clinical databases as predictors of risk of death in hospital: comparison of models",
@@ -4138,13 +4775,6 @@ var data = [
         "journal": "Bmj 334 (7602), 1044, 2007",
         "counts": "286",
         "year": "2007"
-      },
-      {
-        "title": "Trends in the prevalence and management of atrial fibrillation in general practice in England and Wales, 1994–1998: analysis of data from the general practice research database",
-        "authors": "A Majeed, K Moser, K Carroll",
-        "journal": "Heart 86 (3), 284-288, 2001",
-        "counts": "286",
-        "year": "2001"
       },
       {
         "title": "Technologies for global health",
@@ -4168,18 +4798,25 @@ var data = [
         "year": "2003"
       },
       {
-        "title": "Estimates of global, regional, and national incidence, prevalence, and mortality of HIV, 1980–2015: the Global Burden of Disease Study 2015",
-        "authors": "H Wang, TM Wolock, A Carter, G Nguyen, HH Kyu, E Gakidou, SI Hay, ...",
-        "journal": "The lancet HIV 3 (8), e361-e387, 2016",
-        "counts": "203",
-        "year": "2016"
-      },
-      {
         "title": "Weekend mortality for emergency admissions. A large, multicentre study",
         "authors": "P Aylin, A Yunus, A Bottle, A Majeed, D Bell",
         "journal": "BMJ Quality & Safety 19 (3), 213-217, 2010",
         "counts": "200",
         "year": "2010"
+      },
+      {
+        "title": "Estimates of global, regional, and national incidence, prevalence, and mortality of HIV, 1980–2015: the Global Burden of Disease Study 2015",
+        "authors": "H Wang, TM Wolock, A Carter, G Nguyen, HH Kyu, E Gakidou, SI Hay, ...",
+        "journal": "The lancet HIV 3 (8), e361-e387, 2016",
+        "counts": "199",
+        "year": "2016"
+      },
+      {
+        "title": "Global, regional, and national age-sex specific mortality for 264 causes of death, 1980–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+        "authors": "M Naghavi, AA Abajobir, C Abbafati, KM Abbas, F Abd-Allah, SF Abera, ...",
+        "journal": "The Lancet 390 (10100), 1151-1210, 2017",
+        "counts": "193",
+        "year": "2017"
       },
       {
         "title": "Impact of the population at risk of diabetes on projections of diabetes burden in the United States: an epidemic on the way",
@@ -4189,10 +4826,10 @@ var data = [
         "year": "2007"
       },
       {
-        "title": "Global, regional, and national age-sex specific mortality for 264 causes of death, 1980–2016: a systematic analysis for the Global Burden of Disease Study 2016",
-        "authors": "M Naghavi, AA Abajobir, C Abbafati, KM Abbas, F Abd-Allah, SF Abera, ...",
-        "journal": "The Lancet 390 (10100), 1151-1210, 2017",
-        "counts": "187",
+        "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the …",
+        "authors": "T Vos, AA Abajobir, KH Abate, C Abbafati, KM Abbas, F Abd-Allah, ...",
+        "journal": "The Lancet 390 (10100), 1211-1259, 2017",
+        "counts": "179",
         "year": "2017"
       },
       {
@@ -4215,13 +4852,6 @@ var data = [
         "journal": "The Lancet Diabetes & Endocrinology 1 (3), 191-198, 2013",
         "counts": "169",
         "year": "2013"
-      },
-      {
-        "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the …",
-        "authors": "T Vos, AA Abajobir, KH Abate, C Abbafati, KM Abbas, F Abd-Allah, ...",
-        "journal": "The Lancet 390 (10100), 1211-1259, 2017",
-        "counts": "168",
-        "year": "2017"
       },
       {
         "title": "Diverticular disease of the colon—on the rise: a study of hospital admissions in England between 1989/1990 and 1999/2000",
@@ -4248,7 +4878,7 @@ var data = [
         "title": "Ten-year trends in hospital admissions for adverse drug reactions in England 1999–2009",
         "authors": "TY Wu, MH Jen, A Bottle, M Molokhia, P Aylin, D Bell, A Majeed",
         "journal": "Journal of the Royal Society of Medicine 103 (6), 239-250, 2010",
-        "counts": "142",
+        "counts": "143",
         "year": "2010"
       },
       {
@@ -4501,7 +5131,7 @@ var data = [
         "title": "The case study approach",
         "authors": "S Crowe, K Cresswell, A Robertson, G Huby, A Avery, A Sheikh",
         "journal": "BMC medical research methodology 11 (1), 100, 2011",
-        "counts": "624",
+        "counts": "623",
         "year": "2011"
       },
       {
@@ -4519,18 +5149,18 @@ var data = [
         "year": "2010"
       },
       {
+        "title": "EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy",
+        "authors": "A Muraro, T Werfel, K Hoffmann‐Sommergruber, G Roberts, K Beyer, ...",
+        "journal": "Allergy 69 (8), 1008-1025, 2014",
+        "counts": "532",
+        "year": "2014"
+      },
+      {
         "title": "World Allergy Organization anaphylaxis guidelines: summary",
         "authors": "FER Simons, LRF Ardusso, MB Bilò, YM El-Gamal, DK Ledford, J Ring, ...",
         "journal": "Journal of Allergy and Clinical Immunology 127 (3), 587-593. e22, 2011",
         "counts": "532",
         "year": "2011"
-      },
-      {
-        "title": "EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy",
-        "authors": "A Muraro, T Werfel, K Hoffmann‐Sommergruber, G Roberts, K Beyer, ...",
-        "journal": "Allergy 69 (8), 1008-1025, 2014",
-        "counts": "528",
-        "year": "2014"
       },
       {
         "title": "Time trends in allergic disorders in the UK",
@@ -4543,7 +5173,7 @@ var data = [
         "title": "Internet‐based interventions for smoking cessation",
         "authors": "GMJ Taylor, MN Dalili, M Semwal, M Civljak, A Sheikh, J Car",
         "journal": "The Cochrane Library, 2017",
-        "counts": "468",
+        "counts": "467",
         "year": "2017"
       },
       {
@@ -4557,14 +5187,14 @@ var data = [
         "title": "Epidemiology of anaphylaxis: findings of the American college of allergy, asthma and immunology epidemiology of anaphylaxis working group",
         "authors": "P Lieberman, CA Camargo Jr, K Bohlke, H Jick, RL Miller, A Sheikh, ...",
         "journal": "Annals of Allergy, Asthma & Immunology 97 (5), 596-602, 2006",
-        "counts": "403",
+        "counts": "404",
         "year": "2006"
       },
       {
         "title": "Filaggrin gene defects and risk of developing allergic sensitisation and allergic disorders: systematic review and meta-analysis",
         "authors": "RAHM van den Oord, A Sheikh",
         "journal": "Bmj 339, b2433, 2009",
-        "counts": "401",
+        "counts": "400",
         "year": "2009"
       },
       {
@@ -4641,7 +5271,7 @@ var data = [
         "title": "EAACI food allergy and anaphylaxis guidelines. Primary prevention of food allergy",
         "authors": "A Muraro, S Halken, SH Arshad, K Beyer, AEJ Dubois, G Du Toit, ...",
         "journal": "Allergy 69 (5), 590-601, 2014",
-        "counts": "256",
+        "counts": "257",
         "year": "2014"
       },
       {
@@ -4652,18 +5282,18 @@ var data = [
         "year": "2012"
       },
       {
+        "title": "Global and regional estimates of COPD prevalence: Systematic review and meta–analysis",
+        "authors": "D Adeloye, S Chua, C Lee, C Basquill, A Papana, E Theodoratou, H Nair, ...",
+        "journal": "Journal of global health 5 (2), 2015",
+        "counts": "252",
+        "year": "2015"
+      },
+      {
         "title": "Telephone consultations",
         "authors": "J Car, A Sheikh",
         "journal": "Bmj 326 (7396), 966-969, 2003",
         "counts": "252",
         "year": "2003"
-      },
-      {
-        "title": "Global and regional estimates of COPD prevalence: Systematic review and meta–analysis",
-        "authors": "D Adeloye, S Chua, C Lee, C Basquill, A Papana, E Theodoratou, H Nair, ...",
-        "journal": "Journal of global health 5 (2), 2015",
-        "counts": "251",
-        "year": "2015"
       },
       {
         "title": "2012 Update: World Allergy Organization Guidelines for the assessment and management of anaphylaxis",
@@ -4676,22 +5306,15 @@ var data = [
         "title": "Interventions in primary care to reduce medication related adverse events and hospital admissions: systematic review and meta-analysis",
         "authors": "S Royal, L Smeaton, AJ Avery, B Hurwitz, A Sheikh",
         "journal": "BMJ Quality & Safety 15 (1), 23-31, 2006",
-        "counts": "233",
+        "counts": "231",
         "year": "2006"
       },
       {
         "title": "International consensus on (ICON) anaphylaxis",
         "authors": "FER Simons, LRF Ardusso, MB Bilò, V Cardona, M Ebisawa, ...",
         "journal": "World Allergy Organization Journal 7 (1), 1, 2014",
-        "counts": "225",
+        "counts": "224",
         "year": "2014"
-      },
-      {
-        "title": "Implementation and adoption of nationwide electronic health records in secondary care in England: final qualitative results from prospective national evaluation in “early …",
-        "authors": "A Sheikh, T Cornford, N Barber, A Avery, A Takian, V Lichtner, D Petrakaki, ...",
-        "journal": "Bmj 343, d6054, 2011",
-        "counts": "225",
-        "year": "2011"
       },
       {
         "title": "World Allergy Organization Anaphylaxis Guidelines: 2013 update of the evidence base",
@@ -4699,6 +5322,13 @@ var data = [
         "journal": "International archives of allergy and immunology 162 (3), 193-204, 2013",
         "counts": "224",
         "year": "2013"
+      },
+      {
+        "title": "Implementation and adoption of nationwide electronic health records in secondary care in England: final qualitative results from prospective national evaluation in “early …",
+        "authors": "A Sheikh, T Cornford, N Barber, A Avery, A Takian, V Lichtner, D Petrakaki, ...",
+        "journal": "Bmj 343, d6054, 2011",
+        "counts": "224",
+        "year": "2011"
       },
       {
         "title": "Hospital admissions for acute anaphylaxis: time trend study",
@@ -4739,7 +5369,7 @@ var data = [
         "title": "H1‐antihistamines for the treatment of anaphylaxis: Cochrane systematic review",
         "authors": "A Sheikh, V Ten Broek, SGA Brown, FER Simons",
         "journal": "Allergy 62 (8), 830-837, 2007",
-        "counts": "202",
+        "counts": "203",
         "year": "2007"
       },
       {
@@ -4788,7 +5418,7 @@ var data = [
         "title": "Effectiveness of telemonitoring integrated into existing clinical services on hospital admission for exacerbation of chronic obstructive pulmonary disease: researcher blind …",
         "authors": "H Pinnock, J Hanley, L McCloughan, A Todd, A Krishan, S Lewis, ...",
         "journal": "Bmj 347, f6070, 2013",
-        "counts": "182",
+        "counts": "183",
         "year": "2013"
       },
       {
@@ -4855,18 +5485,18 @@ var data = [
         "year": "2011"
       },
       {
+        "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology",
+        "authors": "KM Cresswell, DW Bates, A Sheikh",
+        "journal": "Journal of the American Medical Informatics Association 20 (e1), e9-e13, 2013",
+        "counts": "163",
+        "year": "2013"
+      },
+      {
         "title": "The psychosocial impact of anaphylaxis on young people and their parents",
         "authors": "N Akeson, A Worth, A Sheikh",
         "journal": "Clinical & Experimental Allergy 37 (8), 1213-1220, 2007",
         "counts": "163",
         "year": "2007"
-      },
-      {
-        "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology",
-        "authors": "KM Cresswell, DW Bates, A Sheikh",
-        "journal": "Journal of the American Medical Informatics Association 20 (e1), e9-e13, 2013",
-        "counts": "162",
-        "year": "2013"
       },
       {
         "title": "Clinical decision support systems could be modified to reduce ‘alert fatigue’while still minimizing the risk of litigation",
@@ -4893,7 +5523,7 @@ var data = [
         "title": "Adrenaline for the treatment of anaphylaxis: Cochrane systematic review",
         "authors": "A Sheikh, YA Shehata, SGA Brown, FER Simons",
         "journal": "Allergy 64 (2), 204-212, 2009",
-        "counts": "154",
+        "counts": "155",
         "year": "2009"
       },
       {
@@ -4935,7 +5565,7 @@ var data = [
         "title": "Care for all at the end of life",
         "authors": "SA Murray, A Sheikh",
         "journal": "Bmj 336 (7650), 958-959, 2008",
-        "counts": "136",
+        "counts": "135",
         "year": "2008"
       },
       {
@@ -4963,7 +5593,7 @@ var data = [
         "title": "The impact of telehealthcare on the quality and safety of care: a systematic overview",
         "authors": "S McLean, A Sheikh, K Cresswell, U Nurmatov, M Mukherjee, A Hemmi, ...",
         "journal": "PloS one 8 (8), e71238, 2013",
-        "counts": "131",
+        "counts": "132",
         "year": "2013"
       },
       {
@@ -5030,18 +5660,18 @@ var data = [
         "year": "2012"
       },
       {
+        "title": "Telehealthcare for chronic obstructive pulmonary disease: Cochrane Review and meta-analysis",
+        "authors": "S McLean, U Nurmatov, JLY Liu, C Pagliari, J Car, A Sheikh",
+        "journal": "Br J Gen Pract 62 (604), e739-e749, 2012",
+        "counts": "116",
+        "year": "2012"
+      },
+      {
         "title": "MACVIA‐ARIA Sentinel NetworK for allergic rhinitis (MASK‐rhinitis): the new generation guideline implementation",
         "authors": "J Bousquet, HJ Schunemann, J Fonseca, B Samolinski, C Bachert, ...",
         "journal": "Allergy 70 (11), 1372-1392, 2015",
         "counts": "115",
         "year": "2015"
-      },
-      {
-        "title": "Telehealthcare for chronic obstructive pulmonary disease: Cochrane Review and meta-analysis",
-        "authors": "S McLean, U Nurmatov, JLY Liu, C Pagliari, J Car, A Sheikh",
-        "journal": "Br J Gen Pract 62 (604), e739-e749, 2012",
-        "counts": "115",
-        "year": "2012"
       },
       {
         "title": "Approaches to recruiting ‘hard-to-reach’populations into research: a review of the literature",
@@ -5145,7 +5775,7 @@ var data = [
         "title": "An investigation of participatory design with children-informant, balanced and facilitated design",
         "authors": "JC Read, P Gregory, S MacFarlane, B McManus, P Gray, R Patel",
         "journal": "Interaction design and Children, 53-64, 2002",
-        "counts": "129",
+        "counts": "130",
         "year": "2002"
       }
     ]
@@ -5219,7 +5849,7 @@ var data = [
         "title": "Fiat and bona fide boundaries",
         "authors": "B Smith, A Varzi",
         "journal": "Philosophy and Phenomenological Research 60, 401-420, 2000",
-        "counts": "365",
+        "counts": "366",
         "year": "2000"
       },
       {
@@ -5254,7 +5884,7 @@ var data = [
         "title": "Fiat objects",
         "authors": "B Smith",
         "journal": "Topoi 20 (2), 131-148, 2001",
-        "counts": "275",
+        "counts": "276",
         "year": "2001"
       },
       {
@@ -5275,7 +5905,7 @@ var data = [
         "title": "Building Ontologies with Basic Formal Ontology",
         "authors": "R Arp, B Smith, AD Spear",
         "journal": "Cambridge, Mass.: MIT Press, 2015",
-        "counts": "223",
+        "counts": "224",
         "year": "2015"
       },
       {
@@ -5296,7 +5926,7 @@ var data = [
         "title": "Basic concepts of formal ontology",
         "authors": "B Smith",
         "journal": "Formal Ontology in Information Systems, 19-28, 1998",
-        "counts": "195",
+        "counts": "194",
         "year": "1998"
       },
       {
@@ -5356,18 +5986,18 @@ var data = [
         "year": "2003"
       },
       {
+        "title": "A terminological and ontological analysis of the NCI Thesaurus",
+        "authors": "W Ceusters, B Smith, L Goldberg",
+        "journal": "Methods of Information in Medicine 44 (4), 498, 2005",
+        "counts": "157",
+        "year": "2005"
+      },
+      {
         "title": "Towards a history of speech act theory",
         "authors": "B Smith",
         "journal": "Speech Acts, Meaning, and Intentions: Critical Approaches to the Philosophy …, 1990",
         "counts": "157",
         "year": "1990"
-      },
-      {
-        "title": "A terminological and ontological analysis of the NCI Thesaurus",
-        "authors": "W Ceusters, B Smith, L Goldberg",
-        "journal": "Methods of Information in Medicine 44 (4), 498, 2005",
-        "counts": "156",
-        "year": "2005"
       },
       {
         "title": "Pieces of a theory",
@@ -5447,18 +6077,18 @@ var data = [
         "year": "2004"
       },
       {
+        "title": "Fiat and bona fide boundaries: Towards an ontology of spatially extended objects",
+        "authors": "B Smith, AC Varzi",
+        "journal": "International Conference on Spatial Information Theory, 103-119, 1997",
+        "counts": "120",
+        "year": "1997"
+      },
+      {
         "title": "Framework for a protein ontology",
         "authors": "DA Natale, CN Arighi, WC Barker, J Blake, TC Chang, Z Hu, H Liu, ...",
         "journal": "BMC Bioinformatics 8 (Suppl 9), S1, 2007",
         "counts": "119",
         "year": "2007"
-      },
-      {
-        "title": "Fiat and bona fide boundaries: Towards an ontology of spatially extended objects",
-        "authors": "B Smith, AC Varzi",
-        "journal": "International Conference on Spatial Information Theory, 103-119, 1997",
-        "counts": "119",
-        "year": "1997"
       },
       {
         "title": "Handbook of Metaphysics and Ontology",
@@ -5604,6 +6234,38 @@ var data = [
   {
     "citations": [
       {
+        "title": "Carvedilol for children and adolescents with heart failure: a randomized controlled trial",
+        "authors": "RE Shaddy, MM Boucek, DT Hsu, RJ Boucek, CE Canter, L Mahony, ...",
+        "journal": "Jama 298 (10), 1171-1179, 2007",
+        "counts": "392",
+        "year": "2007"
+      },
+      {
+        "title": "Disease-related conditions in relatives of patients with hemochromatosis",
+        "authors": "ZJ Bulaj, RS Ajioka, JD Phillips, BA LaSalle, LB Jorde, LM Griffen, ...",
+        "journal": "New England Journal of Medicine 343 (21), 1529-1535, 2000",
+        "counts": "238",
+        "year": "2000"
+      },
+      {
+        "title": "Phase II open label study of valproic acid in spinal muscular atrophy",
+        "authors": "KJ Swoboda, CB Scott, SP Reyna, TW Prior, B LaSalle, SL Sorenson, ...",
+        "journal": "PloS one 4 (5), e5268, 2009",
+        "counts": "165",
+        "year": "2009"
+      },
+      {
+        "title": "SMA CARNI-VAL trial part I: double-blind, randomized, placebo-controlled trial of L-carnitine and valproic acid in spinal muscular atrophy",
+        "authors": "KJ Swoboda, CB Scott, TO Crawford, LR Simard, SP Reyna, ...",
+        "journal": "PLos one 5 (8), e12140, 2010",
+        "counts": "122",
+        "year": "2010"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "PreBIND and Textomy–mining the biomedical literature for protein-protein interactions using a support vector machine",
         "authors": "I Donaldson, J Martin, B De Bruijn, C Wolting, V Lay, B Tuekam, S Zhang, ...",
         "journal": "BMC bioinformatics 4 (1), 11, 2003",
@@ -5681,7 +6343,7 @@ var data = [
         "title": "A categorization and analysis of the criticisms of evidence-based medicine",
         "authors": "AM Cohen, PZ Stavri, WR Hersh",
         "journal": "International journal of medical informatics 73 (1), 35-43, 2004",
-        "counts": "292",
+        "counts": "293",
         "year": "2004"
       },
       {
@@ -5716,7 +6378,7 @@ var data = [
         "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
         "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
         "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -6046,7 +6708,7 @@ var data = [
         "title": "Exhaust emissions from a Diesel engine fueled with transesterified waste olive oil☆",
         "authors": "MP Dorado, E Ballesteros, JM Arnal, J Gomez, FJ Lopez",
         "journal": "Fuel 82 (11), 1311-1315, 2003",
-        "counts": "707",
+        "counts": "706",
         "year": "2003"
       },
       {
@@ -6144,7 +6806,7 @@ var data = [
         "title": "Comparative efficacy of alternative hand-washing agents in reducing nosocomial infections in intensive care units",
         "authors": "BN Doebbeling, GL Stanley, CT Sheetz, MA Pfaller, AK Houston, L Annis, ...",
         "journal": "New England Journal of Medicine 327 (2), 88-93, 1992",
-        "counts": "646",
+        "counts": "645",
         "year": "1992"
       },
       {
@@ -6228,7 +6890,7 @@ var data = [
         "title": "Health-related consequences of physical and sexual violence: women in the military",
         "authors": "AG Sadler, BM Booth, D Nielson, BN Doebbeling",
         "journal": "Obstetrics & Gynecology 96 (3), 473-480, 2000",
-        "counts": "203",
+        "counts": "204",
         "year": "2000"
       },
       {
@@ -6281,13 +6943,6 @@ var data = [
         "year": "2009"
       },
       {
-        "title": "Psychometric evaluation of the restructured clinical scales of the MMPI-2.",
-        "authors": "LJ Simms, A Casillas, LA Clark, D Watson, BN Doebbeling",
-        "journal": "Psychological assessment 17 (3), 345, 2005",
-        "counts": "132",
-        "year": "2005"
-      },
-      {
         "title": "Life span and repeated violence against women during military service: Effects on health status and outpatient utilization",
         "authors": "AG Sadler, BM Booth, MA Mengeling, BN Doebbeling",
         "journal": "Journal of Women's Health 13 (7), 799-811, 2004",
@@ -6307,6 +6962,13 @@ var data = [
         "journal": "Journal of Nursing Administration 40 (2), 82-91, 2010",
         "counts": "131",
         "year": "2010"
+      },
+      {
+        "title": "Psychometric evaluation of the restructured clinical scales of the MMPI-2.",
+        "authors": "LJ Simms, A Casillas, LA Clark, D Watson, BN Doebbeling",
+        "journal": "Psychological assessment 17 (3), 345, 2005",
+        "counts": "131",
+        "year": "2005"
       },
       {
         "title": "Monitoring adherence to standard precautions",
@@ -6365,7 +7027,7 @@ var data = [
         "title": "Preserving privacy by de-identifying face images",
         "authors": "EM Newton, L Sweeney, B Malin",
         "journal": "Knowledge and Data Engineering, IEEE Transactions on 17 (2), 232-243, 2005",
-        "counts": "389",
+        "counts": "390",
         "year": "2005"
       },
       {
@@ -6379,7 +7041,7 @@ var data = [
         "title": "Evaluating re-identification risks with respect to the HIPAA privacy rule",
         "authors": "K Benitez, B Malin",
         "journal": "Journal of the American Medical Informatics Association 17 (2), 169-177, 2010",
-        "counts": "176",
+        "counts": "175",
         "year": "2010"
       },
       {
@@ -6393,7 +7055,7 @@ var data = [
         "title": "A systematic review of re-identification attacks on health data",
         "authors": "K El Emam, E Jonker, L Arbuckle, B Malin",
         "journal": "PloS one 6 (12), e28071, 2011",
-        "counts": "149",
+        "counts": "150",
         "year": "2011"
       },
       {
@@ -6497,6 +7159,24 @@ var data = [
     "citations": []
   },
   {
+    "citations": [
+      {
+        "title": "Prostate cancer and sexually transmitted diseases: a meta-analysis",
+        "authors": "ML Taylor, AG Mainous, BJ Wells",
+        "journal": "FAMILY MEDICINE-KANSAS CITY- 37 (7), 506, 2005",
+        "counts": "158",
+        "year": "2005"
+      },
+      {
+        "title": "The risk of overall mortality in patients with type 2 diabetes receiving glipizide, glyburide, or glimepiride monotherapy: a retrospective analysis",
+        "authors": "KM Pantalone, MW Kattan, C Yu, BJ Wells, S Arrigain, A Jain, A Atreja, ...",
+        "journal": "Diabetes care, 2010",
+        "counts": "101",
+        "year": "2010"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -6512,7 +7192,7 @@ var data = [
         "title": "Beyond Regression:\" New Tools for Prediction and Analysis in the Behavioral Sciences",
         "authors": "P Werbos",
         "journal": "Ph. D. dissertation, Harvard University, 1974",
-        "counts": "4668",
+        "counts": "4667",
         "year": "1974"
       },
       {
@@ -6526,7 +7206,7 @@ var data = [
         "title": "Solution of incorrectly formaulated problems and the regularization method",
         "authors": "AN Tikhonov",
         "journal": "Dokl. Akad. Nauk. 151, 1035-1038, 1963",
-        "counts": "2700",
+        "counts": "2668",
         "year": "1963"
       },
       {
@@ -6596,7 +7276,7 @@ var data = [
         "title": "Production rules as a representation for a knowledge-based consultation program",
         "authors": "R Davis, B Buchanan, E Shortliffe",
         "journal": "Computer-Assisted Medical Decision Making, 3-37, 1977",
-        "counts": "880",
+        "counts": "879",
         "year": "1977"
       },
       {
@@ -6953,7 +7633,7 @@ var data = [
         "title": "Histopathological image analysis: A review",
         "authors": "MN Gurcan, L Boucheron, A Can, A Madabhushi, N Rajpoot, B Yener",
         "journal": "IEEE reviews in biomedical engineering 2, 147, 2009",
-        "counts": "870",
+        "counts": "869",
         "year": "2009"
       },
       {
@@ -7030,7 +7710,7 @@ var data = [
         "title": "The cell graphs of cancer",
         "authors": "C Gunduz, B Yener, SH Gultekin",
         "journal": "Bioinformatics 20 (suppl_1), i145-i151, 2004",
-        "counts": "143",
+        "counts": "144",
         "year": "2004"
       },
       {
@@ -7143,7 +7823,7 @@ var data = [
         "title": "Meta-Analyst: software for meta-analysis of binary, continuous and diagnostic data",
         "authors": "BC Wallace, CH Schmid, J Lau, TA Trikalinos",
         "journal": "BMC medical research methodology 9 (1), 80, 2009",
-        "counts": "348",
+        "counts": "349",
         "year": "2009"
       },
       {
@@ -7192,7 +7872,7 @@ var data = [
         "title": "Analysis of categorical data by linear models",
         "authors": "JE Grizzle, CF Starmer, GG Koch",
         "journal": "Biometrics, 489-504, 1969",
-        "counts": "1922",
+        "counts": "1923",
         "year": "1969"
       },
       {
@@ -7213,7 +7893,7 @@ var data = [
         "title": "Channel specificity in antiarrhythmic drug action. Mechanism of potassium channel block and its role in suppressing and aggravating cardiac arrhythmias.",
         "authors": "TJ Colatsky, CH Follmer, CF Starmer",
         "journal": "Circulation 82 (6), 2235-2242, 1990",
-        "counts": "337",
+        "counts": "336",
         "year": "1990"
       },
       {
@@ -7269,7 +7949,7 @@ var data = [
         "title": "Proarrhythmic response to sodium channel blockade. Theoretical model and numerical experiments.",
         "authors": "CF Starmer, AA Lastra, VV Nesterenko, AO Grant",
         "journal": "Circulation 84 (3), 1364-1377, 1991",
-        "counts": "148",
+        "counts": "147",
         "year": "1991"
       },
       {
@@ -7420,7 +8100,7 @@ var data = [
         "title": "Temporal reasoning and temporal data maintenance in medicine: issues and challenges",
         "authors": "C Combi, Y Shahar",
         "journal": "Computers in biology and medicine 27 (5), 353-368, 1997",
-        "counts": "135",
+        "counts": "136",
         "year": "1997"
       },
       {
@@ -7493,7 +8173,7 @@ var data = [
         "title": "GeneWays: a system for extracting, analyzing, visualizing, and integrating molecular pathway data",
         "authors": "A Rzhetsky, I Iossifov, T Koike, M Krauthammer, P Kra, M Morris, H Yu, ...",
         "journal": "Journal of biomedical informatics 37 (1), 43-53, 2004",
-        "counts": "318",
+        "counts": "319",
         "year": "2004"
       },
       {
@@ -7731,14 +8411,14 @@ var data = [
         "title": "An atlas of active enhancers across human cell types and tissues",
         "authors": "R Andersson, C Gebhard, I Miguel-Escalada, I Hoof, J Bornholdt, M Boyd, ...",
         "journal": "Nature 507 (7493), 455, 2014",
-        "counts": "1019",
+        "counts": "1020",
         "year": "2014"
       },
       {
         "title": "A promoter-level mammalian expression atlas",
         "authors": "ARR Forrest, H Kawaji, M Rehli, JK Baillie, MJL De Hoon, V Haberle, ...",
         "journal": "Nature 507 (7493), 462, 2014",
-        "counts": "777",
+        "counts": "780",
         "year": "2014"
       },
       {
@@ -7759,7 +8439,7 @@ var data = [
         "title": "An atlas of combinatorial transcriptional regulation in mouse and man",
         "authors": "T Ravasi, H Suzuki, CV Cannistraci, S Katayama, VB Bajic, K Tan, ...",
         "journal": "Cell 140 (5), 744-752, 2010",
-        "counts": "548",
+        "counts": "549",
         "year": "2010"
       },
       {
@@ -7899,8 +8579,19 @@ var data = [
         "title": "SAMStat: monitoring biases in next generation sequencing data",
         "authors": "T Lassmann, Y Hayashizaki, CO Daub",
         "journal": "Bioinformatics 27 (1), 130-131, 2010",
-        "counts": "107",
+        "counts": "108",
         "year": "2010"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Artificial intelligence framework for simulating clinical decision-making: A Markov decision process approach",
+        "authors": "CC Bennett, K Hauser",
+        "journal": "Artificial intelligence in medicine 57 (1), 9-19, 2013",
+        "counts": "117",
+        "year": "2013"
       }
     ]
   },
@@ -8005,6 +8696,199 @@ var data = [
   {
     "citations": [
       {
+        "title": "Use of electronic health records in US hospitals",
+        "authors": "AK Jha, CM DesRoches, EG Campbell, K Donelan, SR Rao, TG Ferris, ...",
+        "journal": "New England Journal of Medicine 360 (16), 1628-1638, 2009",
+        "counts": "1497",
+        "year": "2009"
+      },
+      {
+        "title": "Electronic health records in ambulatory care—a national survey of physicians",
+        "authors": "CM DesRoches, EG Campbell, SR Rao, K Donelan, TG Ferris, A Jha, ...",
+        "journal": "New England Journal of Medicine 359 (1), 50-60, 2008",
+        "counts": "1274",
+        "year": "2008"
+      },
+      {
+        "title": "Defensive medicine among high-risk specialist physicians in a volatile malpractice environment",
+        "authors": "DM Studdert, MM Mello, WM Sage, CM DesRoches, J Peugh, K Zapert, ...",
+        "journal": "Jama 293 (21), 2609-2617, 2005",
+        "counts": "972",
+        "year": "2005"
+      },
+      {
+        "title": "Views of practicing physicians and the public on medical errors",
+        "authors": "RJ Blendon, CM DesRoches, M Brodie, JM Benson, AB Rosen, ...",
+        "journal": "New England Journal of Medicine 347 (24), 1933-1940, 2002",
+        "counts": "958",
+        "year": "2002"
+      },
+      {
+        "title": "Research Commentary—The Digital Transformation of Healthcare: Current Status and the Road Ahead",
+        "authors": "R Agarwal, G Gao, C DesRoches, AK Jha",
+        "journal": "Information Systems Research 21 (4), 796-809, 2010",
+        "counts": "393",
+        "year": "2010"
+      },
+      {
+        "title": "How common are electronic health records in the United States? A summary of the evidence",
+        "authors": "AK Jha, TG Ferris, K Donelan, C DesRoches, A Shields, S Rosenbaum, ...",
+        "journal": "Health Affairs 25 (6), w496-w507, 2006",
+        "counts": "391",
+        "year": "2006"
+      },
+      {
+        "title": "Americans' views on the use and regulation of dietary supplements",
+        "authors": "RJ Blendon, CM DesRoches, JM Benson, M Brodie, DE Altman",
+        "journal": "Archives of Internal Medicine 161 (6), 805-810, 2001",
+        "counts": "355",
+        "year": "2001"
+      },
+      {
+        "title": "Common concerns amid diverse systems: health care experiences in five countries",
+        "authors": "RJ Blendon, C Schoen, C DesRoches, R Osborn, K Zapert",
+        "journal": "Health Affairs 22 (3), 106-121, 2003",
+        "counts": "330",
+        "year": "2003"
+      },
+      {
+        "title": "Inequities in health care: a five-country survey",
+        "authors": "RJ Blendon, C Schoen, CM DesRoches, R Osborn, KL Scoles, K Zapert",
+        "journal": "Health Affairs 21 (3), 182-191, 2002",
+        "counts": "316",
+        "year": "2002"
+      },
+      {
+        "title": "A progress report on electronic health records in US hospitals",
+        "authors": "AK Jha, CM DesRoches, PD Kralovec, MS Joshi",
+        "journal": "Health affairs 29 (10), 1951-1957, 2010",
+        "counts": "278",
+        "year": "2010"
+      },
+      {
+        "title": "Electronic health records’ limited successes suggest more targeted uses",
+        "authors": "CM DesRoches, EG Campbell, C Vogeli, J Zheng, SR Rao, AE Shields, ...",
+        "journal": "Health affairs 29 (4), 639-646, 2010",
+        "counts": "214",
+        "year": "2010"
+      },
+      {
+        "title": "Uninsured and unstably insured: the importance of continuous insurance coverage.",
+        "authors": "C Schoen, C DesRoches",
+        "journal": "Health services research 35 (1 Pt 2), 187, 2000",
+        "counts": "200",
+        "year": "2000"
+      },
+      {
+        "title": "Adoption of electronic health records grows rapidly, but fewer than half of US hospitals had at least a basic system in 2012",
+        "authors": "CM DesRoches, D Charles, MF Furukawa, MS Joshi, P Kralovec, ...",
+        "journal": "Health Affairs 32 (8), 1478-1485, 2013",
+        "counts": "191",
+        "year": "2013"
+      },
+      {
+        "title": "Impact of the nurse shortage on hospital patient care: Comparative perspectives",
+        "authors": "PI Buerhaus, K Donelan, BT Ulrich, L Norman, C DesRoches, R Dittus",
+        "journal": "Health affairs 26 (3), 853-862, 2007",
+        "counts": "187",
+        "year": "2007"
+      },
+      {
+        "title": "Perspectives of physicians and nurse practitioners on primary care practice",
+        "authors": "K Donelan, CM DesRoches, RS Dittus, P Buerhaus",
+        "journal": "New England Journal of Medicine 368 (20), 1898-1906, 2013",
+        "counts": "144",
+        "year": "2013"
+      },
+      {
+        "title": "Physicians’ views on quality of care: a five-country comparison",
+        "authors": "RJ Blendon, C Schoen, K Donelan, R Osborn, CM DesRoches, K Scoles, ...",
+        "journal": "Health Affairs 20 (3), 233-243, 2001",
+        "counts": "143",
+        "year": "2001"
+      },
+      {
+        "title": "The public's response to severe acute respiratory syndrome in Toronto and the United States",
+        "authors": "RJ Blendon, JM Benson, CM DesRoches, E Raleigh, K Taylor-Clark",
+        "journal": "Clinical infectious diseases 38 (7), 925-931, 2004",
+        "counts": "142",
+        "year": "2004"
+      },
+      {
+        "title": "Physicians' perceptions, preparedness for reporting, and experiences related to impaired and incompetent colleagues",
+        "authors": "CM DesRoches, SR Rao, JA Fromson, RJ Birnbaum, L Iezzoni, C Vogeli, ...",
+        "journal": "JAMA 304 (2), 187-193, 2010",
+        "counts": "141",
+        "year": "2010"
+      },
+      {
+        "title": "Electronic health records in small physician practices: availability, use, and perceived benefits",
+        "authors": "SR Rao, CM DesRoches, K Donelan, EG Campbell, PD Miralles, AK Jha",
+        "journal": "Journal of the American Medical Informatics Association 18 (3), 271-275, 2011",
+        "counts": "128",
+        "year": "2011"
+      },
+      {
+        "title": "Physician professionalism and changes in physician-industry relationships from 2004 to 2009",
+        "authors": "EG Campbell, SR Rao, CM DesRoches, LI Iezzoni, C Vogeli, ...",
+        "journal": "Archives of internal medicine 170 (20), 1820-1826, 2010",
+        "counts": "127",
+        "year": "2010"
+      },
+      {
+        "title": "More than half of US hospitals have at least a basic EHR, but stage 2 criteria remain challenging for most",
+        "authors": "J Adler-Milstein, CM DesRoches, MF Furukawa, C Worzala, D Charles, ...",
+        "journal": "Health Affairs 33 (9), 1664-1671, 2014",
+        "counts": "126",
+        "year": "2014"
+      },
+      {
+        "title": "Public perceptions of nursing careers: The influence of the media and nursing shortages",
+        "authors": "K Donelan, P Buerhaus, C DesRoches, R Dittus, D Dutwin",
+        "journal": "Nursing Economics 26 (3), 143, 2008",
+        "counts": "124",
+        "year": "2008"
+      },
+      {
+        "title": "Small, nonteaching, and rural hospitals continue to be slow in adopting electronic health record systems",
+        "authors": "CM DesRoches, C Worzala, MS Joshi, PD Kralovec, AK Jha",
+        "journal": "Health Affairs 31 (5), 1092-1099, 2012",
+        "counts": "119",
+        "year": "2012"
+      },
+      {
+        "title": "Health insurance markets and income inequality: findings from an international health policy survey",
+        "authors": "C Schoen, K Davis, C DesRoches, K Donelan, R Blendon",
+        "journal": "Health policy 51 (2), 67-85, 2000",
+        "counts": "115",
+        "year": "2000"
+      },
+      {
+        "title": "Caring for patients in a malpractice crisis: physician satisfaction and quality of care",
+        "authors": "MM Mello, DM Studdert, CM DesRoches, J Peugh, K Zapert, TA Brennan, ...",
+        "journal": "Health Affairs 23 (4), 42-53, 2004",
+        "counts": "111",
+        "year": "2004"
+      },
+      {
+        "title": "Trends in the experiences of hospital-employed registered nurses: Results from three national surveys",
+        "authors": "PI Buerhaus, K Donelan, BT Ulrich, C DesRoches, R Dittus",
+        "journal": "Nursing Economics 25 (2), 69, 2007",
+        "counts": "103",
+        "year": "2007"
+      },
+      {
+        "title": "The public and the smallpox threat",
+        "authors": "RJ Blendon, CM DesRoches, JM Benson, MJ Herrmann, K Taylor-Clark, ...",
+        "journal": "New England Journal of Medicine 348 (5), 426-432, 2003",
+        "counts": "103",
+        "year": "2003"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Husbands’ and wives’ reports of women's decision-making power in Western Guatemala and their effects on preventive health behaviors",
         "authors": "S Becker, F Fonseca-Becker, C Schenck-Yglesias",
         "journal": "Social Science & Medicine 62 (9), 2313-2326, 2006",
@@ -8093,7 +8977,7 @@ var data = [
         "title": "Consumer animosity, economic hardship, and normative influence: How do they affect consumers' purchase intention?",
         "authors": "YA Huang, I Phau, C Lin",
         "journal": "European Journal of Marketing 44 (7/8), 909-937, 2010",
-        "counts": "108",
+        "counts": "109",
         "year": "2010"
       },
       {
@@ -8263,7 +9147,7 @@ var data = [
         "title": "Development of visual diagnostic expertise in pathology: an information-processing study",
         "authors": "RS Crowley, GJ Naus, J Stewart III, CP Friedman",
         "journal": "Journal of the American Medical Informatics Association 10 (1), 39-51, 2003",
-        "counts": "196",
+        "counts": "197",
         "year": "2003"
       },
       {
@@ -8383,7 +9267,7 @@ var data = [
         "title": "Toward a national framework for the secondary use of health data: an American Medical Informatics Association white paper",
         "authors": "C Safran, M Bloomrosen, WE Hammond, S Labkoff, S Markel-Fox, ...",
         "journal": "Journal of the American Medical Informatics Association 14 (1), 1, 2007",
-        "counts": "537",
+        "counts": "538",
         "year": "2007"
       },
       {
@@ -8554,7 +9438,7 @@ var data = [
         "title": "Context-sensitive information retrieval using implicit feedback",
         "authors": "X Shen, B Tan, CX Zhai",
         "journal": "Proceedings of the 28th annual international ACM SIGIR conference on …, 2005",
-        "counts": "580",
+        "counts": "582",
         "year": "2005"
       },
       {
@@ -8575,7 +9459,7 @@ var data = [
         "title": "Big data: astronomical or genomical?",
         "authors": "ZD Stephens, SY Lee, F Faghri, RH Campbell, C Zhai, MJ Efron, R Iyer, ...",
         "journal": "PLoS biology 13 (7), e1002195, 2015",
-        "counts": "485",
+        "counts": "486",
         "year": "2015"
       },
       {
@@ -8589,7 +9473,7 @@ var data = [
         "title": "A survey of text classification algorithms",
         "authors": "CC Aggarwal, CX Zhai",
         "journal": "Mining text data, 163-222, 2012",
-        "counts": "442",
+        "counts": "441",
         "year": "2012"
       },
       {
@@ -8652,7 +9536,7 @@ var data = [
         "title": "Challenges in information retrieval and language modeling: report of a workshop held at the center for intelligent information retrieval, University of Massachusetts Amherst …",
         "authors": "J Allan, J Aslam, N Belkin, C Buckley, J Callan, B Croft, S Dumais, N Fuhr, ...",
         "journal": "ACM SIGIR Forum 37 (1), 31-47, 2003",
-        "counts": "294",
+        "counts": "295",
         "year": "2003"
       },
       {
@@ -8869,7 +9753,7 @@ var data = [
         "title": "Robust Unsupervised Feature Selection.",
         "authors": "M Qian, C Zhai",
         "journal": "IJCAI, 1621-1627, 2013",
-        "counts": "117",
+        "counts": "118",
         "year": "2013"
       },
       {
@@ -8953,7 +9837,7 @@ var data = [
         "title": "Artificial neural network based epileptic detection using time-domain and frequency-domain features",
         "authors": "V Srinivasan, C Eswaran, N Sriraam",
         "journal": "Journal of Medical Systems 29 (6), 647-660, 2005",
-        "counts": "311",
+        "counts": "312",
         "year": "2005"
       }
     ]
@@ -9000,7 +9884,7 @@ var data = [
         "title": "A prospective study of dietary fat and risk of prostate cancer",
         "authors": "E Giovannucci, EB Rimm, GA Colditz, MJ Stampfer, A Ascherio, CC Chute, ...",
         "journal": "JNCI: Journal of the National Cancer Institute 85 (19), 1571-1579, 1993",
-        "counts": "934",
+        "counts": "935",
         "year": "1993"
       },
       {
@@ -9028,7 +9912,7 @@ var data = [
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl_2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
@@ -9063,7 +9947,7 @@ var data = [
         "title": "Trends in mastectomy rates at the Mayo Clinic Rochester: effect of surgical year and preoperative magnetic resonance imaging",
         "authors": "R Katipamula, AC Degnim, T Hoskin, JC Boughey, C Loprinzi, CS Grant, ...",
         "journal": "Journal of Clinical Oncology 27 (25), 4082, 2009",
-        "counts": "362",
+        "counts": "363",
         "year": "2009"
       },
       {
@@ -9396,7 +10280,7 @@ var data = [
         "title": "A Practical Guide To Building OWL Ontologies Using The Protégé-OWL Plugin and CO-ODE Tools Edition 1.0",
         "authors": "M Horridge, H Knublauch, A Rector, R Stevens, C Wroe",
         "journal": "University of Manchester, 2004",
-        "counts": "1140",
+        "counts": "1141",
         "year": "2004"
       },
       {
@@ -9438,7 +10322,7 @@ var data = [
         "title": "Learning domain ontologies for web service descriptions: an experiment in bioinformatics",
         "authors": "M Sabou, C Wroe, C Goble, G Mishne",
         "journal": "Proceedings of the 14th international conference on World Wide Web, 190-198, 2005",
-        "counts": "159",
+        "counts": "160",
         "year": "2005"
       },
       {
@@ -9621,8 +10505,15 @@ var data = [
         "title": "Special requirements of electronic health record systems in pediatrics",
         "authors": "SA Spooner, MM Simonian, JH Schneider, KA Benson, DM D’Alessandro, ...",
         "journal": "Pediatrics 119 (3), 631-637, 2007",
-        "counts": "115",
+        "counts": "116",
         "year": "2007"
+      },
+      {
+        "title": "Impact of consumer health informatics applications",
+        "authors": "MC Gibbons, RF Wilson, CU Lehmann, K Dickersin, HP Lehmann, ...",
+        "journal": "US Dept. of Health and Human Services, Public Health Service, Agency for …, 2009",
+        "counts": "101",
+        "year": "2009"
       }
     ]
   },
@@ -9850,7 +10741,7 @@ var data = [
         "title": "American Society of Clinical Oncology guideline: recommendations for venous thromboembolism prophylaxis and treatment in patients with cancer",
         "authors": "GH Lyman, AA Khorana, A Falanga, D Clarke-Pearson, C Flowers, ...",
         "journal": "Journal of clinical oncology 25 (34), 5490-5505, 2007",
-        "counts": "1091",
+        "counts": "1090",
         "year": "2007"
       },
       {
@@ -9871,7 +10762,7 @@ var data = [
         "title": "Breast cancer screening for women at average risk: 2015 guideline update from the American Cancer Society",
         "authors": "KC Oeffinger, ETH Fontham, R Etzioni, A Herzig, JS Michaelson, ...",
         "journal": "Jama 314 (15), 1599-1614, 2015",
-        "counts": "559",
+        "counts": "557",
         "year": "2015"
       },
       {
@@ -9885,7 +10776,7 @@ var data = [
         "title": "Venous thromboembolism prophylaxis and treatment in patients with cancer: American Society of Clinical Oncology clinical practice guideline update 2014",
         "authors": "GH Lyman, K Bohlke, AA Khorana, NM Kuderer, AY Lee, JI Arcelus, ...",
         "journal": "Journal of Clinical Oncology 33 (6), 654, 2015",
-        "counts": "389",
+        "counts": "390",
         "year": "2015"
       },
       {
@@ -9906,7 +10797,7 @@ var data = [
         "title": "The genetic landscape of mutations in Burkitt lymphoma",
         "authors": "C Love, Z Sun, D Jima, G Li, J Zhang, R Miles, KL Richards, CH Dunphy, ...",
         "journal": "Nature genetics 44 (12), 1321, 2012",
-        "counts": "321",
+        "counts": "322",
         "year": "2012"
       },
       {
@@ -9962,7 +10853,7 @@ var data = [
         "title": "Improving outcomes for patients with diffuse large B‐cell lymphoma",
         "authors": "CR Flowers, R Sinha, JM Vose",
         "journal": "CA: a cancer journal for clinicians 60 (6), 393-408, 2010",
-        "counts": "176",
+        "counts": "177",
         "year": "2010"
       },
       {
@@ -10074,7 +10965,7 @@ var data = [
         "title": "Application of genetic algorithms to software testing",
         "authors": "S Xanthakis, C Ellis, C Skourlas, A Le Gall, S Katsikas, K Karapoulios",
         "journal": "Proceedings of the 5th International Conference on Software Engineering and …, 1992",
-        "counts": "216",
+        "counts": "217",
         "year": "1992"
       }
     ]
@@ -10117,7 +11008,7 @@ var data = [
         "title": "PaDEL‐descriptor: An open source software to calculate molecular descriptors and fingerprints",
         "authors": "CW Yap",
         "journal": "Journal of computational chemistry 32 (7), 1466-1474, 2011",
-        "counts": "748",
+        "counts": "749",
         "year": "2011"
       },
       {
@@ -10138,7 +11029,7 @@ var data = [
         "title": "Prediction of cytochrome P450 3A4, 2D6, and 2C9 inhibitors and substrates by using support vector machines",
         "authors": "CW Yap, YZ Chen",
         "journal": "Journal of chemical information and modeling 45 (4), 982-992, 2005",
-        "counts": "170",
+        "counts": "171",
         "year": "2005"
       },
       {
@@ -10274,6 +11165,9 @@ var data = [
     ]
   },
   {
+    "citations": []
+  },
+  {
     "citations": [
       {
         "title": "Mobility work: The spatial dimension of collaboration at a hospital",
@@ -10360,7 +11254,7 @@ var data = [
         "title": "Deaths due to medical errors are exaggerated in Institute of Medicine report",
         "authors": "CJ McDonald, M Weiner, SL Hui",
         "journal": "Jama 284 (1), 93-95, 2000",
-        "counts": "424",
+        "counts": "422",
         "year": "2000"
       },
       {
@@ -10441,18 +11335,18 @@ var data = [
         "year": "1980"
       },
       {
-        "title": "Effectiveness of pharmacist care for patients with reactive airways disease: a randomized controlled trial",
-        "authors": "M Weinberger, MD Murray, DG Marrero, N Brewer, M Lykens, LE Harris, ...",
-        "journal": "Jama 288 (13), 1594-1602, 2002",
-        "counts": "237",
-        "year": "2002"
-      },
-      {
         "title": "Development of the logical observation identifier names and codes (LOINC) vocabulary",
         "authors": "SM Huff, RA Rocha, CJ McDonald, GJE De Moor, T Fiers, WD Bidgood Jr, ...",
         "journal": "Journal of the American Medical Informatics Association 5 (3), 276-292, 1998",
         "counts": "237",
         "year": "1998"
+      },
+      {
+        "title": "Effectiveness of pharmacist care for patients with reactive airways disease: a randomized controlled trial",
+        "authors": "M Weinberger, MD Murray, DG Marrero, N Brewer, M Lykens, LE Harris, ...",
+        "journal": "Jama 288 (13), 1594-1602, 2002",
+        "counts": "236",
+        "year": "2002"
       },
       {
         "title": "The Indiana network for patient care: a working local health information infrastructure",
@@ -10577,7 +11471,7 @@ var data = [
         "title": "Failure of computerized treatment suggestions to improve health outcomes of outpatients with uncomplicated hypertension: results of a randomized controlled trial",
         "authors": "MD Murray, LE Harris, JM Overhage, XH Zhou, GJ Eckert, FE Smith, ...",
         "journal": "Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy 24 (3 …, 2004",
-        "counts": "123",
+        "counts": "122",
         "year": "2004"
       },
       {
@@ -10658,6 +11552,52 @@ var data = [
   {
     "citations": [
       {
+        "title": "Long-term trends in first hospitalization for heart failure and subsequent survival between 1986 and 2003: a population study of 5.1 million people",
+        "authors": "PS Jhund, K MacIntyre, CR Simpson, JD Lewsey, S Stewart, A Redpath, ...",
+        "journal": "Circulation 119 (4), 515-523, 2009",
+        "counts": "538",
+        "year": "2009"
+      },
+      {
+        "title": "A national survey of the prevalence, incidence, primary care burden and treatment of atrial fibrillation in Scotland",
+        "authors": "NF Murphy, CR Simpson, PS Jhund, S Stewart, M Kirkpatrick, J Chalmers, ...",
+        "journal": "Heart, 2007",
+        "counts": "185",
+        "year": "2007"
+      },
+      {
+        "title": "Coincidence of immune‐mediated diseases driven by Th1 and Th 2 subsets suggests a common aetiology. A population‐based study using computerized General Practice data",
+        "authors": "CR Simpson, WJA Anderson, PJ Helms, MW Taylor, L Watson, ...",
+        "journal": "Clinical & Experimental Allergy 32 (1), 37-42, 2002",
+        "counts": "185",
+        "year": "2002"
+      },
+      {
+        "title": "High risk prescribing in primary care patients particularly vulnerable to adverse drug events: cross sectional population database analysis in Scottish general practice",
+        "authors": "B Guthrie, C McCowan, P Davey, CR Simpson, T Dreischulte, K Barnett",
+        "journal": "Bmj 342, d3514, 2011",
+        "counts": "141",
+        "year": "2011"
+      },
+      {
+        "title": "Trends in the epidemiology of asthma in England: a national study of 333,294 patients",
+        "authors": "CR Simpson, A Sheikh",
+        "journal": "Journal of the Royal Society of Medicine 103 (3), 98-106, 2010",
+        "counts": "114",
+        "year": "2010"
+      },
+      {
+        "title": "Gender-specific presentations for asthma, allergic rhinitis and eczema in primary care",
+        "authors": "M Osman, AL Hansell, CR Simpson, J Hollowell, PJ Helms",
+        "journal": "Primary Care Respiratory Journal 16 (1), 28, 2007",
+        "counts": "114",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Detecting, Tracking and Counting Fish in Low Quality Unconstrained Underwater Videos.",
         "authors": "C Spampinato, YH Chen-Burger, G Nadarajan, RB Fisher",
         "journal": "VISAPP (2) 2008 (514-519), 1, 2008",
@@ -10714,7 +11654,7 @@ var data = [
         "title": "Breast MR imaging: interpretation model.",
         "authors": "LW Nunes, MD Schnall, SG Orel, MG Hochman, CP Langlotz, ...",
         "journal": "Radiology 202 (3), 833-841, 1997",
-        "counts": "323",
+        "counts": "322",
         "year": "1997"
       },
       {
@@ -10986,7 +11926,7 @@ var data = [
         "title": "The HL7 clinical document architecture",
         "authors": "RH Dolin, L Alschuler, C Beebe, PV Biron, SL Boyer, D Essin, E Kimber, ...",
         "journal": "Journal of the American Medical Informatics Association 8 (6), 552-569, 2001",
-        "counts": "526",
+        "counts": "525",
         "year": "2001"
       }
     ]
@@ -11007,7 +11947,7 @@ var data = [
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl_2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
@@ -11308,18 +12248,18 @@ var data = [
         "year": "2010"
       },
       {
+        "title": "Linked Education: interlinking educational Resources and the Web of Data",
+        "authors": "S Dietze, HQ Yu, D Giordano, E Kaldoudi, N Dovrolis, D Taibi",
+        "journal": "Proceedings of the 27th annual ACM symposium on applied computing, 366-371, 2012",
+        "counts": "102",
+        "year": "2012"
+      },
+      {
         "title": "Interlinking educational resources and the web of data: A survey of challenges and approaches",
         "authors": "S Dietze, S Sanchez-Alonso, H Ebner, H Qing Yu, D Giordano, I Marenzi, ...",
         "journal": "Program 47 (1), 60-91, 2013",
         "counts": "101",
         "year": "2013"
-      },
-      {
-        "title": "Linked Education: interlinking educational Resources and the Web of Data",
-        "authors": "S Dietze, HQ Yu, D Giordano, E Kaldoudi, N Dovrolis, D Taibi",
-        "journal": "Proceedings of the 27th annual ACM symposium on applied computing, 366-371, 2012",
-        "counts": "101",
-        "year": "2012"
       }
     ]
   },
@@ -11484,7 +12424,7 @@ var data = [
         "title": "Incidence of adverse drug events and potential adverse drug events: implications for prevention",
         "authors": "DW Bates, DJ Cullen, N Laird, LA Petersen, SD Small, D Servi, G Laffel, ...",
         "journal": "Jama 274 (1), 29-34, 1995",
-        "counts": "4015",
+        "counts": "4014",
         "year": "1995"
       },
       {
@@ -11498,7 +12438,7 @@ var data = [
         "title": "Acute kidney injury, mortality, length of stay, and costs in hospitalized patients",
         "authors": "GM Chertow, E Burdick, M Honour, JV Bonventre, DW Bates",
         "journal": "Journal of the American Society of Nephrology 16 (11), 3365-3370, 2005",
-        "counts": "2596",
+        "counts": "2597",
         "year": "2005"
       },
       {
@@ -11512,14 +12452,14 @@ var data = [
         "title": "Medication errors and adverse drug events in pediatric inpatients",
         "authors": "R Kaushal, DW Bates, C Landrigan, KJ McKenna, MD Clapp, F Federico, ...",
         "journal": "Jama 285 (16), 2114-2120, 2001",
-        "counts": "1849",
+        "counts": "1848",
         "year": "2001"
       },
       {
         "title": "Incidence and preventability of adverse drug events among older persons in the ambulatory setting",
         "authors": "JH Gurwitz, TS Field, LR Harrold, J Rothschild, K Debellis, AC Seger, ...",
         "journal": "Jama 289 (9), 1107-1116, 2003",
-        "counts": "1816",
+        "counts": "1814",
         "year": "2003"
       },
       {
@@ -11540,14 +12480,14 @@ var data = [
         "title": "Improving safety with information technology",
         "authors": "DW Bates, AA Gawande",
         "journal": "New England journal of medicine 348 (25), 2526-2534, 2003",
-        "counts": "1626",
+        "counts": "1627",
         "year": "2003"
       },
       {
         "title": "The incidence and severity of adverse events affecting patients after discharge from the hospital",
         "authors": "AJ Forster, HJ Murff, JF Peterson, TK Gandhi, DW Bates",
         "journal": "Annals of internal medicine 138 (3), 161-167, 2003",
-        "counts": "1569",
+        "counts": "1570",
         "year": "2003"
       },
       {
@@ -11561,7 +12501,7 @@ var data = [
         "title": "Adverse drug events in ambulatory care",
         "authors": "TK Gandhi, SN Weingart, J Borus, AC Seger, J Peterson, E Burdick, ...",
         "journal": "New England Journal of Medicine 348 (16), 1556-1564, 2003",
-        "counts": "1454",
+        "counts": "1453",
         "year": "2003"
       },
       {
@@ -11582,7 +12522,7 @@ var data = [
         "title": "Reducing the frequency of errors in medicine using information technology",
         "authors": "DW Bates, M Cohen, LL Leape, JM Overhage, MM Shabot, T Sheridan",
         "journal": "Journal of the American Medical Informatics Association 8 (4), 299-308, 2001",
-        "counts": "1142",
+        "counts": "1143",
         "year": "2001"
       },
       {
@@ -11610,22 +12550,22 @@ var data = [
         "title": "Can comorbidity be measured by questionnaire rather than medical record review?",
         "authors": "JN Katz, LC Chang, O Sangha, AH Fossel, DW Bates",
         "journal": "Medical care, 73-84, 1996",
-        "counts": "912",
+        "counts": "913",
         "year": "1996"
-      },
-      {
-        "title": "The Critical Care Safety Study: The incidence and nature of adverse events and serious medical errors in intensive care",
-        "authors": "JM Rothschild, CP Landrigan, JW Cronin, R Kaushal, SW Lockley, ...",
-        "journal": "Critical care medicine 33 (8), 1694-1700, 2005",
-        "counts": "903",
-        "year": "2005"
       },
       {
         "title": "Clinical use of bone densitometry: scientific review",
         "authors": "SR Cummings, D Bates, DM Black",
         "journal": "Jama 288 (15), 1889-1897, 2002",
-        "counts": "902",
+        "counts": "903",
         "year": "2002"
+      },
+      {
+        "title": "The Critical Care Safety Study: The incidence and nature of adverse events and serious medical errors in intensive care",
+        "authors": "JM Rothschild, CP Landrigan, JW Cronin, R Kaushal, SW Lockley, ...",
+        "journal": "Critical care medicine 33 (8), 1694-1700, 2005",
+        "counts": "901",
+        "year": "2005"
       },
       {
         "title": "A cost-benefit analysis of electronic medical records in primary care",
@@ -11659,14 +12599,14 @@ var data = [
         "title": "Health care–associated infections: a meta-analysis of costs and financial impact on the US health care system",
         "authors": "E Zimlichman, D Henderson, O Tamir, C Franz, P Song, CK Yamin, ...",
         "journal": "JAMA internal medicine 173 (22), 2039-2046, 2013",
-        "counts": "739",
+        "counts": "740",
         "year": "2013"
       },
       {
         "title": "The incident reporting system does not detect adverse drug events: a problem for quality improvement",
         "authors": "DJ Cullen, DW Bates, SD Small, JB Cooper, AR Nemeskal, LL Leape",
         "journal": "The Joint Commission journal on quality improvement 21 (10), 541-548, 1995",
-        "counts": "735",
+        "counts": "736",
         "year": "1995"
       },
       {
@@ -11680,7 +12620,7 @@ var data = [
         "title": "Incidence and preventability of adverse drug events in nursing homes",
         "authors": "JH Gurwitz, TS Field, J Avorn, D McCormick, S Jain, M Eckler, M Benser, ...",
         "journal": "The American journal of medicine 109 (2), 87-94, 2000",
-        "counts": "707",
+        "counts": "706",
         "year": "2000"
       },
       {
@@ -11694,7 +12634,7 @@ var data = [
         "title": "Role of pharmacist counseling in preventing adverse drug events after hospitalization",
         "authors": "JL Schnipper, JL Kirwin, MC Cotugno, SA Wahlstrom, BA Brown, E Tarvin, ...",
         "journal": "Archives of internal medicine 166 (5), 565-571, 2006",
-        "counts": "689",
+        "counts": "688",
         "year": "2006"
       },
       {
@@ -11750,21 +12690,21 @@ var data = [
         "title": "Comparison of methods for detecting medication errors in 36 hospitals and skilled-nursing facilities",
         "authors": "EA Flynn, KN Barker, GA Pepper, DW Bates, RL Mikeal",
         "journal": "American Journal of Health-System Pharmacy 59 (5), 436-446, 2002",
-        "counts": "516",
+        "counts": "517",
         "year": "2002"
       },
       {
         "title": "Effect of bar-code technology on the safety of medication administration",
         "authors": "EG Poon, CA Keohane, CS Yoon, M Ditmore, A Bane, O Levtzion-Korach, ...",
         "journal": "New England Journal of Medicine 362 (18), 1698-1707, 2010",
-        "counts": "515",
+        "counts": "516",
         "year": "2010"
       },
       {
         "title": "Factors and forces affecting EHR system adoption: report of a 2004 ACMI discussion",
         "authors": "JS Ash, DW Bates",
         "journal": "Journal of the American Medical Informatics Association 12 (1), 8-12, 2005",
-        "counts": "492",
+        "counts": "491",
         "year": "2005"
       },
       {
@@ -11792,7 +12732,7 @@ var data = [
         "title": "Prioritizing strategies for preventing medication errors and adverse drug events in pediatric inpatients",
         "authors": "EB Fortescue, R Kaushal, CP Landrigan, KJ McKenna, MD Clapp, ...",
         "journal": "Pediatrics 111 (4), 722-729, 2003",
-        "counts": "474",
+        "counts": "473",
         "year": "2003"
       },
       {
@@ -11834,7 +12774,7 @@ var data = [
         "title": "A research agenda for personal health records (PHRs)",
         "authors": "DC Kaelber, AK Jha, D Johnston, B Middleton, DW Bates",
         "journal": "Journal of the American Medical Informatics Association 15 (6), 729-736, 2008",
-        "counts": "439",
+        "counts": "440",
         "year": "2008"
       },
       {
@@ -11852,18 +12792,18 @@ var data = [
         "year": "2001"
       },
       {
-        "title": "Adverse drug events occurring following hospital discharge",
-        "authors": "AJ Forster, HJ Murff, JF Peterson, TK Gandhi, DW Bates",
-        "journal": "Journal of general internal medicine 20 (4), 317-323, 2005",
-        "counts": "427",
-        "year": "2005"
-      },
-      {
         "title": "The use of health information technology in seven nations",
         "authors": "AK Jha, D Doolan, D Grandt, T Scott, DW Bates",
         "journal": "International journal of medical informatics 77 (12), 848-854, 2008",
-        "counts": "426",
+        "counts": "427",
         "year": "2008"
+      },
+      {
+        "title": "Adverse drug events occurring following hospital discharge",
+        "authors": "AJ Forster, HJ Murff, JF Peterson, TK Gandhi, DW Bates",
+        "journal": "Journal of general internal medicine 20 (4), 317-323, 2005",
+        "counts": "426",
+        "year": "2005"
       },
       {
         "title": "The incidence of adverse drug events in two large academic long-term care facilities",
@@ -11897,14 +12837,14 @@ var data = [
         "title": "Physician reporting compared with medical-record review to identify adverse medical events",
         "authors": "AC O'neil, LA Petersen, EF Cook, DW Bates, TH Lee, TA Brennan",
         "journal": "Annals of internal medicine 119 (5), 370-376, 1993",
-        "counts": "381",
+        "counts": "382",
         "year": "1993"
       },
       {
         "title": "The “To Err is Human” report and the patient safety literature",
         "authors": "HT Stelfox, S Palmisani, C Scurlock, EJ Orav, DW Bates",
         "journal": "BMJ Quality & Safety 15 (3), 174-178, 2006",
-        "counts": "367",
+        "counts": "368",
         "year": "2006"
       },
       {
@@ -11995,7 +12935,7 @@ var data = [
         "title": "Practical approach to determining costs and frequency of adverse drug events in a health care network",
         "authors": "BL Senst, LE Achusim, RP Genest, LA Cosentino, CC Ford, JA Little, ...",
         "journal": "American Journal of Health-System Pharmacy 58 (12), 1126-1132, 2001",
-        "counts": "313",
+        "counts": "314",
         "year": "2001"
       },
       {
@@ -12023,7 +12963,7 @@ var data = [
         "title": "Does this patient have a torn meniscus or ligament of the knee?: value of the physical examination",
         "authors": "DH Solomon, DL Simel, DW Bates, JN Katz, JL Schaffer",
         "journal": "Jama 286 (13), 1610-1620, 2001",
-        "counts": "293",
+        "counts": "294",
         "year": "2001"
       },
       {
@@ -12188,7 +13128,7 @@ var data = [
         "title": "Adverse drug events in hospitalized patients: excess length of stay, extra costs, and attributable mortality",
         "authors": "DC Classen, SL Pestotnik, RS Evans, JF Lloyd, JP Burke",
         "journal": "Jama 277 (4), 301-306, 1997",
-        "counts": "2328",
+        "counts": "2326",
         "year": "1997"
       },
       {
@@ -12209,7 +13149,7 @@ var data = [
         "title": "Computerized surveillance of adverse drug events in hospital patients",
         "authors": "DC Classen, SL Pestotnik, RS Evans, JP Burke",
         "journal": "Jama 266 (20), 2847-2851, 1991",
-        "counts": "1010",
+        "counts": "1009",
         "year": "1991"
       },
       {
@@ -12244,14 +13184,14 @@ var data = [
         "title": "Strategies to prevent surgical site infections in acute care hospitals: 2014 update",
         "authors": "DJ Anderson, K Podgorny, SI Berrios-Torres, DW Bratzler, EP Dellinger, ...",
         "journal": "Infection Control & Hospital Epidemiology 35 (S2), S66-S88, 2014",
-        "counts": "494",
+        "counts": "493",
         "year": "2014"
       },
       {
         "title": "Strategies to prevent surgical site infections in acute care hospitals",
         "authors": "DJ Anderson, KS Kaye, D Classen, KM Arias, K Podgorny, H Burstin, ...",
         "journal": "Infection Control & Hospital Epidemiology 29 (S1), S51-S61, 2008",
-        "counts": "466",
+        "counts": "467",
         "year": "2008"
       },
       {
@@ -12286,7 +13226,7 @@ var data = [
         "title": "A large randomized clinical trial of a silver-impregnated urinary catheter: lack of efficacy and staphylococcal superinfection",
         "authors": "DK Riley, DC Classen, LE Stevens, JP Burke",
         "journal": "The American journal of medicine 98 (4), 349-356, 1995",
-        "counts": "304",
+        "counts": "303",
         "year": "1995"
       },
       {
@@ -12398,7 +13338,7 @@ var data = [
         "title": "A compendium of strategies to prevent healthcare-associated infections in acute care hospitals: 2014 updates",
         "authors": "DS Yokoe, DJ Anderson, SM Berenholtz, DP Calfee, ER Dubberke, ...",
         "journal": "Infection Control & Hospital Epidemiology 35 (S2), S21-S31, 2014",
-        "counts": "127",
+        "counts": "128",
         "year": "2014"
       },
       {
@@ -12475,7 +13415,7 @@ var data = [
         "title": "Prevalence of adverse events in pediatric intensive care units in the United States",
         "authors": "S Agarwal, D Classen, G Larsen, NM Tofil, LW Hayes, JE Sullivan, ...",
         "journal": "Pediatric critical care medicine 11 (5), 568-578, 2010",
-        "counts": "110",
+        "counts": "109",
         "year": "2010"
       },
       {
@@ -12599,14 +13539,14 @@ var data = [
         "title": "An evaluation, comparison, and accurate benchmarking of several publicly available MS/MS search algorithms: sensitivity and specificity analysis",
         "authors": "EA Kapp, F Schütz, LM Connolly, JA Chakel, JE Meza, CA Miller, D Fenyo, ...",
         "journal": "Proteomics 5 (13), 3475-3490, 2005",
-        "counts": "398",
+        "counts": "399",
         "year": "2005"
       },
       {
         "title": "Proteogenomics connects somatic mutations to signalling in breast cancer",
         "authors": "P Mertins, DR Mani, KV Ruggles, MA Gillette, KR Clauser, P Wang, ...",
         "journal": "Nature 534 (7605), 55, 2016",
-        "counts": "327",
+        "counts": "328",
         "year": "2016"
       },
       {
@@ -12655,7 +13595,7 @@ var data = [
         "title": "Integrated proteogenomic characterization of human high-grade serous ovarian cancer",
         "authors": "H Zhang, T Liu, Z Zhang, SH Payne, B Zhang, JE McDermott, JY Zhou, ...",
         "journal": "Cell 166 (3), 755-765, 2016",
-        "counts": "187",
+        "counts": "188",
         "year": "2016"
       },
       {
@@ -12823,6 +13763,94 @@ var data = [
     ]
   },
   {
+    "citations": [
+      {
+        "title": "A neural basis for social cooperation",
+        "authors": "JK Rilling, DA Gutman, TR Zeh, G Pagnoni, GS Berns, CD Kilts",
+        "journal": "Neuron 35 (2), 395-405, 2002",
+        "counts": "1509",
+        "year": "2002"
+      },
+      {
+        "title": "Anatomical connectivity of the subgenual cingulate region targeted with deep brain stimulation for treatment-resistant depression",
+        "authors": "H Johansen-Berg, DA Gutman, TEJ Behrens, PM Matthews, ...",
+        "journal": "Cerebral cortex 18 (6), 1374-1383, 2007",
+        "counts": "441",
+        "year": "2007"
+      },
+      {
+        "title": "Subcallosal cingulate deep brain stimulation for treatment-resistant unipolar and bipolar depression",
+        "authors": "PE Holtzheimer, ME Kelley, RE Gross, MM Filkowski, SJ Garlow, ...",
+        "journal": "Archives of general psychiatry 69 (2), 150-158, 2012",
+        "counts": "396",
+        "year": "2012"
+      },
+      {
+        "title": "Distinct neural signatures detected for ADHD subtypes after controlling for micro-movements in resting state functional connectivity MRI data",
+        "authors": "D Fair, JT Nigg, S Iyer, D Bathula, KL Mills, NUF Dosenbach, ...",
+        "journal": "Frontiers in systems neuroscience 6, 80, 2013",
+        "counts": "275",
+        "year": "2013"
+      },
+      {
+        "title": "The NKI-Rockland sample: a model for accelerating the pace of discovery science in psychiatry",
+        "authors": "KB Nooner, S Colcombe, R Tobe, M Mennes, M Benedict, A Moreno, ...",
+        "journal": "Frontiers in neuroscience 6, 152, 2012",
+        "counts": "267",
+        "year": "2012"
+      },
+      {
+        "title": "MR imaging predictors of molecular profile and survival: multi-institutional study of the TCGA glioblastoma data set",
+        "authors": "DA Gutman, LAD Cooper, SN Hwang, CA Holder, JJ Gao, TD Aurora, ...",
+        "journal": "Radiology 267 (2), 560-569, 2013",
+        "counts": "206",
+        "year": "2013"
+      },
+      {
+        "title": "A tractography analysis of two deep brain stimulation white matter targets for depression",
+        "authors": "DA Gutman, PE Holtzheimer, TEJ Behrens, H Johansen-Berg, ...",
+        "journal": "Biological psychiatry 65 (4), 276-282, 2009",
+        "counts": "180",
+        "year": "2009"
+      },
+      {
+        "title": "Voltammetric and pharmacological characterization of dopamine release from single exocytotic events at rat pheochromocytoma (PC12) cells",
+        "authors": "KD Kozminski, DA Gutman, V Davila, D Sulzer, AG Ewing",
+        "journal": "Analytical chemistry 70 (15), 3123-3130, 1998",
+        "counts": "168",
+        "year": "1998"
+      },
+      {
+        "title": "Persistent central nervous system effects of an adverse early environment: clinical and preclinical studies",
+        "authors": "DA Gutman, CB Nemeroff",
+        "journal": "Physiology & behavior 79 (3), 471-478, 2003",
+        "counts": "141",
+        "year": "2003"
+      },
+      {
+        "title": "The proneural molecular signature is enriched in oligodendrogliomas and predicts improved survival among diffuse gliomas",
+        "authors": "LAD Cooper, DA Gutman, Q Long, BA Johnson, SR Cholleti, T Kurc, ...",
+        "journal": "PloS one 5 (9), e12548, 2010",
+        "counts": "123",
+        "year": "2010"
+      },
+      {
+        "title": "Neural correlates of maternal separation in rhesus monkeys",
+        "authors": "JK Rilling, JT Winslow, D O’Brien, DA Gutman, JM Hoffman, CD Kilts",
+        "journal": "Biological psychiatry 49 (2), 146-157, 2001",
+        "counts": "120",
+        "year": "2001"
+      },
+      {
+        "title": "Skin lesion analysis toward melanoma detection: A challenge at the international symposium on biomedical imaging (ISBI) 2016, hosted by the international skin imaging …",
+        "authors": "D Gutman, NCF Codella, E Celebi, B Helba, M Marchetti, N Mishra, ...",
+        "journal": "arXiv preprint arXiv:1605.01397, 2016",
+        "counts": "102",
+        "year": "2016"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -12831,7 +13859,7 @@ var data = [
         "title": "Causation, prediction, and search",
         "authors": "P Spirtes, CN Glymour, R Scheines, D Heckerman, C Meek, G Cooper, ...",
         "journal": "MIT press, 2000",
-        "counts": "6397",
+        "counts": "6398",
         "year": "2000"
       },
       {
@@ -12845,42 +13873,42 @@ var data = [
         "title": "Learning Bayesian networks: The combination of knowledge and statistical data",
         "authors": "D Heckerman, D Geiger, DM Chickering",
         "journal": "Machine learning 20 (3), 197-243, 1995",
-        "counts": "4924",
+        "counts": "4927",
         "year": "1995"
       },
       {
         "title": "A tutorial on learning with Bayesian networks",
         "authors": "D Heckerman",
         "journal": "Learning in graphical models, 301-354, 1998",
-        "counts": "2851",
+        "counts": "2852",
         "year": "1998"
       },
       {
         "title": "A hexanucleotide repeat expansion in C9ORF72 is the cause of chromosome 9p21-linked ALS-FTD",
         "authors": "AE Renton, E Majounie, A Waite, J Simón-Sánchez, S Rollinson, ...",
         "journal": "Neuron 72 (2), 257-268, 2011",
-        "counts": "2437",
+        "counts": "2439",
         "year": "2011"
       },
       {
         "title": "Inductive learning algorithms and representations for text categorization",
         "authors": "S Dumais, J Platt, D Heckerman, M Sahami",
         "journal": "Proceedings of the seventh international conference on Information and …, 1998",
-        "counts": "2022",
+        "counts": "2021",
         "year": "1998"
       },
       {
         "title": "A Bayesian approach to filtering junk e-mail",
         "authors": "M Sahami, S Dumais, D Heckerman, E Horvitz",
         "journal": "Learning for Text Categorization: Papers from the 1998 workshop 62, 98-105, 1998",
-        "counts": "1983",
+        "counts": "1984",
         "year": "1998"
       },
       {
         "title": "Introduction to statistical relational learning",
         "authors": "L Getoor, B Taskar",
         "journal": "MIT press, 2007",
-        "counts": "1671",
+        "counts": "1673",
         "year": "2007"
       },
       {
@@ -12901,7 +13929,7 @@ var data = [
         "title": "CD8+ T-cell responses to different HIV proteins have discordant associations with viral load",
         "authors": "P Kiepiela, K Ngumbela, C Thobakgale, D Ramduth, I Honeyborne, ...",
         "journal": "Nature medicine 13 (1), 46, 2007",
-        "counts": "962",
+        "counts": "963",
         "year": "2007"
       },
       {
@@ -12936,21 +13964,21 @@ var data = [
         "title": "Bayesian factor regression models in the “large p, small n” paradigm",
         "authors": "JM Bernardo, MJ Bayarri, JO Berger, AP Dawid, D Heckerman, ...",
         "journal": "Bayesian statistics 7, 733-742, 2003",
-        "counts": "584",
+        "counts": "585",
         "year": "2003"
       },
       {
         "title": "FaST linear mixed models for genome-wide association studies",
         "authors": "C Lippert, J Listgarten, Y Liu, CM Kadie, RI Davidson, D Heckerman",
         "journal": "Nature methods 8 (10), 833, 2011",
-        "counts": "538",
+        "counts": "537",
         "year": "2011"
       },
       {
         "title": "Large-sample learning of Bayesian networks is NP-hard",
         "authors": "DM Chickering, D Heckerman, C Meek",
         "journal": "Journal of Machine Learning Research 5 (Oct), 1287-1330, 2004",
-        "counts": "533",
+        "counts": "534",
         "year": "2004"
       },
       {
@@ -13286,7 +14314,7 @@ var data = [
         "title": "Generative or discriminative? getting the best of both worlds",
         "authors": "JM Bernardo, MJ Bayarri, JO Berger, AP Dawid, D Heckerman, ...",
         "journal": "Bayesian statistics 8 (3), 3-24, 2007",
-        "counts": "176",
+        "counts": "177",
         "year": "2007"
       },
       {
@@ -13472,18 +14500,18 @@ var data = [
         "year": "2001"
       },
       {
-        "title": "Correction for hidden confounders in the genetic analysis of gene expression",
-        "authors": "J Listgarten, C Kadie, EE Schadt, D Heckerman",
-        "journal": "Proceedings of the National Academy of Sciences 107 (38), 16465-16470, 2010",
-        "counts": "131",
-        "year": "2010"
-      },
-      {
         "title": "Bayesian nonparametric latent feature models",
         "authors": "Z Ghahramani, TL Griffiths, P Sollich",
         "journal": "Oxford University Press, 2007",
         "counts": "131",
         "year": "2007"
+      },
+      {
+        "title": "Correction for hidden confounders in the genetic analysis of gene expression",
+        "authors": "J Listgarten, C Kadie, EE Schadt, D Heckerman",
+        "journal": "Proceedings of the National Academy of Sciences 107 (38), 16465-16470, 2010",
+        "counts": "130",
+        "year": "2010"
       },
       {
         "title": "Phylogenetic dependency networks: inferring patterns of CTL escape and codon covariation in HIV-1 Gag",
@@ -13626,7 +14654,7 @@ var data = [
         "title": "Scholarly communication in the digital environment: what do authors want",
         "authors": "I Rowlands, D Nicholas, P Huntingdon",
         "journal": "Findings of an international survey of author opinion: project report London …, 2004",
-        "counts": "263",
+        "counts": "264",
         "year": "2004"
       },
       {
@@ -13771,7 +14799,7 @@ var data = [
         "title": "Emerging paradigms of cognition in medical decision-making",
         "authors": "VL Patel, DR Kaufman, JF Arocha",
         "journal": "Journal of biomedical informatics 35 (1), 52-75, 2002",
-        "counts": "298",
+        "counts": "297",
         "year": "2002"
       },
       {
@@ -13813,7 +14841,7 @@ var data = [
         "title": "The acquisition of medical expertise in complex dynamic environments",
         "authors": "VL Patel, DR Kaufman, SA Magder",
         "journal": "The road to excellence: The acquisition of expert performance in the arts …, 1996",
-        "counts": "183",
+        "counts": "182",
         "year": "1996"
       },
       {
@@ -13891,7 +14919,7 @@ var data = [
         "title": "Induction of pluripotency in adult unipotent germline stem cells",
         "authors": "K Ko, N Tapia, G Wu, JB Kim, MJA Bravo, P Sasse, T Glaser, D Ruau, ...",
         "journal": "Cell stem cell 5 (1), 87-96, 2009",
-        "counts": "258",
+        "counts": "259",
         "year": "2009"
       },
       {
@@ -13941,21 +14969,21 @@ var data = [
         "title": "Randomized clinical trial of pressure-controlled inverse ratio ventilation and extracorporeal CO2 removal for adult respiratory distress syndrome.",
         "authors": "AH Morris, CJ Wallace, RL Menlove, TP Clemmer, JF Orme Jr, LK Weaver, ...",
         "journal": "American journal of respiratory and critical care medicine 149 (2), 295-305, 1994",
-        "counts": "994",
+        "counts": "993",
         "year": "1994"
       },
       {
         "title": "Types of unintended consequences related to computerized provider order entry",
         "authors": "EM Campbell, DF Sittig, JS Ash, KP Guappone, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 13 (5), 547-556, 2006",
-        "counts": "767",
+        "counts": "769",
         "year": "2006"
       },
       {
         "title": "The extent and importance of unintended consequences related to computerized provider order entry",
         "authors": "JS Ash, DF Sittig, EG Poon, K Guappone, E Campbell, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 14 (4), 415-423, 2007",
-        "counts": "502",
+        "counts": "501",
         "year": "2007"
       },
       {
@@ -13997,7 +15025,7 @@ var data = [
         "title": "Categorizing the unintended sociotechnical consequences of computerized provider order entry",
         "authors": "JS Ash, DF Sittig, RH Dykstra, K Guappone, JD Carpenter",
         "journal": "Int J Med Inform 76, 21-27, 2007",
-        "counts": "269",
+        "counts": "270",
         "year": "2007"
       },
       {
@@ -14137,7 +15165,7 @@ var data = [
         "title": "Reducing warfarin medication interactions: an interrupted time series evaluation",
         "authors": "AC Feldstein, DH Smith, N Perrin, X Yang, SR Simon, M Krall, DF Sittig, ...",
         "journal": "Archives of Internal Medicine 166 (9), 1009-1015, 2006",
-        "counts": "113",
+        "counts": "114",
         "year": "2006"
       },
       {
@@ -14211,7 +15239,7 @@ var data = [
         "title": "Surgical delay for acute type A dissection with malperfusion",
         "authors": "GM Deeb, DM Williams, SF Bolling, LE Quint, H Monaghan, J Sievers, ...",
         "journal": "The Annals of thoracic surgery 64 (6), 1669-1677, 1997",
-        "counts": "196",
+        "counts": "197",
         "year": "1997"
       },
       {
@@ -14353,14 +15381,14 @@ var data = [
         "title": "Detecting putative orthologs",
         "authors": "DP Wall, HB Fraser, AE Hirsh",
         "journal": "Bioinformatics 19 (13), 1710-1711, 2003",
-        "counts": "287",
+        "counts": "285",
         "year": "2003"
       },
       {
         "title": "Functional genomic analysis of the rates of protein evolution",
         "authors": "DP Wall, AE Hirsh, HB Fraser, J Kumm, G Giaever, MB Eisen, ...",
         "journal": "Proceedings of the National Academy of Sciences 102 (15), 5483-5488, 2005",
-        "counts": "273",
+        "counts": "274",
         "year": "2005"
       },
       {
@@ -14395,7 +15423,7 @@ var data = [
         "title": "Roundup: a multi-genome repository of orthologs and evolutionary distances",
         "authors": "TF DeLuca, IH Wu, J Pu, T Monaghan, L Peshkin, S Singh, DP Wall",
         "journal": "Bioinformatics 22 (16), 2044-2046, 2006",
-        "counts": "123",
+        "counts": "122",
         "year": "2006"
       },
       {
@@ -14445,7 +15473,7 @@ var data = [
         "title": "Genome-wide analyses of exonic copy number variants in a family-based study point to novel autism susceptibility genes",
         "authors": "M Bucan, BS Abrahams, K Wang, JT Glessner, EI Herman, LI Sonnenblick, ...",
         "journal": "PLoS genetics 5 (6), e1000536, 2009",
-        "counts": "364",
+        "counts": "365",
         "year": "2009"
       },
       {
@@ -14579,7 +15607,7 @@ var data = [
         "title": "Recommendations for liver transplantation for hepatocellular carcinoma: an international consensus conference report",
         "authors": "PA Clavien, M Lesurtel, PMM Bossuyt, GJ Gores, B Langer, A Perrier, ...",
         "journal": "The Lancet Oncology, 2011",
-        "counts": "610",
+        "counts": "609",
         "year": "2011"
       },
       {
@@ -14593,7 +15621,7 @@ var data = [
         "title": "A multicenter randomized clinical trial of primary anastomosis or Hartmann's procedure for perforated left colonic diverticulitis with purulent or fecal peritonitis",
         "authors": "CE Oberkofler, A Rickenbacher, DA Raptis, K Lehmann, P Villiger, ...",
         "journal": "Annals of surgery 256 (5), 819-827, 2012",
-        "counts": "199",
+        "counts": "200",
         "year": "2012"
       },
       {
@@ -14814,7 +15842,7 @@ var data = [
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -14867,7 +15895,7 @@ var data = [
         "title": "A genome-wide analysis of CpG dinucleotides in the human genome distinguishes two distinct classes of promoters",
         "authors": "S Saxonov, P Berg, DL Brutlag",
         "journal": "Proceedings of the National Academy of Sciences 103 (5), 1412-1417, 2006",
-        "counts": "1094",
+        "counts": "1095",
         "year": "2006"
       },
       {
@@ -14881,7 +15909,7 @@ var data = [
         "title": "An algorithm for finding protein–DNA binding sites with applications to chromatin-immunoprecipitation microarray experiments",
         "authors": "XS Liu, DL Brutlag, JS Liu",
         "journal": "Nature biotechnology 20 (8), 835, 2002",
-        "counts": "777",
+        "counts": "778",
         "year": "2002"
       },
       {
@@ -15271,28 +16299,28 @@ var data = [
         "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global …",
         "authors": "H Wang, M Naghavi, C Allen, RM Barber, ZA Bhutta, A Carter, DC Casey, ...",
         "journal": "The lancet 388 (10053), 1459-1544, 2016",
-        "counts": "845",
+        "counts": "846",
         "year": "2016"
       },
       {
         "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of …",
         "authors": "T Vos, C Allen, M Arora, RM Barber, ZA Bhutta, A Brown, A Carter, ...",
         "journal": "The Lancet 388 (10053), 1545-1602, 2016",
-        "counts": "590",
+        "counts": "592",
         "year": "2016"
       },
       {
         "title": "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990–2015: a systematic analysis for the …",
         "authors": "NJ Kassebaum, M Arora, RM Barber, ZA Bhutta, J Brown, A Carter, ...",
         "journal": "The Lancet 388 (10053), 1603-1658, 2016",
-        "counts": "357",
+        "counts": "358",
         "year": "2016"
       },
       {
         "title": "Estimates of global, regional, and national incidence, prevalence, and mortality of HIV, 1980–2015: the Global Burden of Disease Study 2015",
         "authors": "H Wang, TM Wolock, A Carter, G Nguyen, HH Kyu, E Gakidou, SI Hay, ...",
         "journal": "The lancet HIV 3 (8), e361-e387, 2016",
-        "counts": "203",
+        "counts": "199",
         "year": "2016"
       },
       {
@@ -15328,7 +16356,7 @@ var data = [
         "title": "A framework for implementing TQM in higher education programs",
         "authors": "S Venkatraman",
         "journal": "Quality assurance in education 15 (1), 92-112, 2007",
-        "counts": "217",
+        "counts": "218",
         "year": "2007"
       }
     ]
@@ -15370,6 +16398,80 @@ var data = [
   {
     "citations": [
       {
+        "title": "The Dallas Heart Study: a population-based probability sample for the multidisciplinary study of ethnic differences in cardiovascular health",
+        "authors": "RG Victor, RW Haley, DWL Willett, RM Peshock, PC Vaeth, D Leonard, ...",
+        "journal": "The American journal of cardiology 93 (12), 1473-1480, 2004",
+        "counts": "432",
+        "year": "2004"
+      },
+      {
+        "title": "Usefulness of dobutamine echocardiography in distinguishing severe from nonsevere valvular aortic stenosis in patients with depressed left ventricular function and low …",
+        "authors": "DWL Willett, ME Brickner, CP Appleton, CW Yancy, EJ Eichhorn, ...",
+        "journal": "American Journal of Cardiology 75 (2), 191-194, 1995",
+        "counts": "368",
+        "year": "1995"
+      },
+      {
+        "title": "Assessment of mitral regurgitation severity by Doppler color flow mapping of the vena contracta",
+        "authors": "SA Hall, ME Brickner, DWL Willett, WN Irani, I Afridi, PA Grayburn",
+        "journal": "Circulation 95 (3), 636-642, 1997",
+        "counts": "325",
+        "year": "1997"
+      },
+      {
+        "title": "Influence of body fat content and distribution on variation in metabolic risk",
+        "authors": "GL Vega, B Adams-Huet, R Peshock, DW Willett, B Shah, SM Grundy",
+        "journal": "The Journal of Clinical Endocrinology & Metabolism 91 (11), 4459-4466, 2006",
+        "counts": "267",
+        "year": "2006"
+      },
+      {
+        "title": "Left ventricular hypertrophy is more prevalent in blacks than whites in the general population: the Dallas Heart Study",
+        "authors": "MH Drazner, DL Dries, RM Peshock, RS Cooper, C Klassen, F Kazi, ...",
+        "journal": "Hypertension 46 (1), 124-129, 2005",
+        "counts": "263",
+        "year": "2005"
+      },
+      {
+        "title": "Comparison of myocardial contrast echocardiography and low-dose dobutamine stress echocardiography in predicting recovery of left ventricular function after coronary …",
+        "authors": "CR deFilippi, DWL Willett, WN Irani, EJ Eichhorn, CE Velasco, ...",
+        "journal": "Circulation 92 (10), 2863-2868, 1995",
+        "counts": "220",
+        "year": "1995"
+      },
+      {
+        "title": "Harmonizing the definition of the metabolic syndrome: comparison of the criteria of the Adult Treatment Panel III and the International Diabetes Federation in United States …",
+        "authors": "G Assmann, R Guerra, G Fox, P Cullen, H Schulte, DW Willett, SM Grundy",
+        "journal": "The American journal of cardiology 99 (4), 541-548, 2007",
+        "counts": "185",
+        "year": "2007"
+      },
+      {
+        "title": "Assessment of coronary arterial flow and flow reserve in humans with magnetic resonance imaging",
+        "authors": "WG Hundley, RA Lange, GD Clarke, BM Meshack, J Payne, C Landau, ...",
+        "journal": "Circulation 93 (8), 1502-1508, 1996",
+        "counts": "185",
+        "year": "1996"
+      },
+      {
+        "title": "Assessment of left-to-right intracardiac shunting by velocity-encoded, phase-difference magnetic resonance imaging: a comparison with oximetric and indicator dilution techniques",
+        "authors": "WG Hundley, HF Li, RA Lange, DP Pfeifer, BM Meshack, JE Willard, ...",
+        "journal": "Circulation 91 (12), 2955-2960, 1995",
+        "counts": "185",
+        "year": "1995"
+      },
+      {
+        "title": "African Americans and Caucasians have a similar prevalence of coronary calcium in the Dallas Heart Study",
+        "authors": "T Jain, R Peshock, DK McGuire, DW Willett, Z Yu, GL Vega, R Guerra, ...",
+        "journal": "Journal of the American College of Cardiology 44 (5), 1011-1017, 2004",
+        "counts": "166",
+        "year": "2004"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Genome-wide survey reveals predisposing diabetes type 2-related DNA methylation variations in human peripheral blood",
         "authors": "G Toperoff, D Aran, JD Kark, M Rosenberg, T Dubnikov, B Nissan, ...",
         "journal": "Human molecular genetics 21 (2), 371-383, 2011",
@@ -15394,7 +16496,7 @@ var data = [
         "title": "Systematic pan-cancer analysis of tumour purity",
         "authors": "D Aran, M Sirota, AJ Butte",
         "journal": "Nature communications 6, 8971, 2015",
-        "counts": "177",
+        "counts": "176",
         "year": "2015"
       }
     ]
@@ -15415,21 +16517,21 @@ var data = [
         "title": "Managing clinical knowledge for health care improvement",
         "authors": "EA Balas, SA Boren",
         "journal": "Yearbook of medical informatics 2000: Patient-centered systems, 2000",
-        "counts": "982",
+        "counts": "983",
         "year": "2000"
       },
       {
         "title": "Healthcare via cell phones: a systematic review",
         "authors": "S Krishna, SA Boren, EA Balas",
         "journal": "Telemedicine and e-Health 15 (3), 231-240, 2009",
-        "counts": "838",
+        "counts": "837",
         "year": "2009"
       },
       {
         "title": "Improving preventive care by prompting physicians",
         "authors": "EA Balas, S Weingarten, CT Garb, D Blumenthal, SA Boren, GD Brown",
         "journal": "Archives of internal medicine 160 (3), 301-308, 2000",
-        "counts": "438",
+        "counts": "439",
         "year": "2000"
       },
       {
@@ -15471,7 +16573,7 @@ var data = [
         "title": "Effect of physician profiling on utilization",
         "authors": "EA Balas, SA Boren, GD Brown, BG Ewigman, JA Mitchell, GT Perkoff",
         "journal": "Journal of General Internal Medicine 11 (10), 584-590, 1996",
-        "counts": "180",
+        "counts": "181",
         "year": "1996"
       },
       {
@@ -15512,6 +16614,171 @@ var data = [
     ]
   },
   {
+    "citations": [
+      {
+        "title": "Network‐based classification of breast cancer metastasis",
+        "authors": "HY Chuang, E Lee, YT Liu, D Lee, T Ideker",
+        "journal": "Molecular systems biology 3 (1), 140, 2007",
+        "counts": "1422",
+        "year": "2007"
+      },
+      {
+        "title": "Evaluation of the Hodge test and the imipenem-EDTA double-disk synergy test for differentiating metallo-β-lactamase-producing isolates of Pseudomonas spp. and Acinetobacter spp.",
+        "authors": "K Lee, YS Lim, D Yong, JH Yum, Y Chong",
+        "journal": "Journal of clinical microbiology 41 (10), 4623-4629, 2003",
+        "counts": "614",
+        "year": "2003"
+      },
+      {
+        "title": "Modified Hodge and EDTA‐disk synergy tests to screen metallo‐β‐lactamase‐producing strains of Pseudomonas and Acinetobacter species",
+        "authors": "K Lee, Y Chong, HB Shin, YA Kim, D Yong, JH Yum",
+        "journal": "Clinical microbiology and infection 7 (2), 88-91, 2001",
+        "counts": "591",
+        "year": "2001"
+      },
+      {
+        "title": "Inferring pathway activity toward precise disease classification",
+        "authors": "E Lee, HY Chuang, JW Kim, T Ideker, D Lee",
+        "journal": "PLoS computational biology 4 (11), e1000217, 2008",
+        "counts": "381",
+        "year": "2008"
+      },
+      {
+        "title": "Effect of obesity on total and free insulin-like growth factor (IGF)-1, and their relationship to IGF-binding protein (BP)-1, IGFBP-2, IGFBP-3, insulin, and growth hormone",
+        "authors": "SY Nam, EJ Lee, KR Kim, BS Cha, YD Song, SK Lim, HC Lee, KB Huh",
+        "journal": "International journal of obesity 21 (5), 355, 1997",
+        "counts": "348",
+        "year": "1997"
+      },
+      {
+        "title": "Parathyroid hormone-related protein: elevated levels in both humoral hypercalcemia of malignancy and hypercalcemia complicating metastatic breast cancer",
+        "authors": "V Grill, P Ho, JJ Body, N Johanson, SC Lee, SC Kukreja, JM Moseley, ...",
+        "journal": "The Journal of Clinical Endocrinology & Metabolism 73 (6), 1309-1315, 1991",
+        "counts": "273",
+        "year": "1991"
+      },
+      {
+        "title": "MicroRNA miR-199a* regulates the MET proto-oncogene and the downstream extracellular signal-regulated kinase 2 (ERK2)",
+        "authors": "S Kim, UJ Lee, MN Kim, EJ Lee, JY Kim, MY Lee, S Choung, YJ Kim, ...",
+        "journal": "Journal of Biological Chemistry 283 (26), 18158-18166, 2008",
+        "counts": "237",
+        "year": "2008"
+      },
+      {
+        "title": "Nodular hepatocellular carcinomas: detection with arterial-, portal-, and delayed-phase images at spiral CT.",
+        "authors": "GJ Hwang, MJ Kim, HS Yoo, JT Lee",
+        "journal": "Radiology 202 (2), 383-388, 1997",
+        "counts": "201",
+        "year": "1997"
+      },
+      {
+        "title": "Lack of association between vitamin D receptor genotypes and osteoporosis in Koreans",
+        "authors": "SK Lim, YS Park, JM Park, YD Song, EJ Lee, KR Kim, HC Lee, KB Huh",
+        "journal": "The Journal of Clinical Endocrinology & Metabolism 80 (12), 3677-3681, 1995",
+        "counts": "167",
+        "year": "1995"
+      },
+      {
+        "title": "Carbon nanotube-bridged graphene 3D building blocks for ultrafast compact supercapacitors",
+        "authors": "DT Pham, TH Lee, DH Luong, F Yao, A Ghosh, VT Le, TH Kim, B Li, ...",
+        "journal": "ACS nano 9 (2), 2018-2027, 2015",
+        "counts": "152",
+        "year": "2015"
+      },
+      {
+        "title": "CT and MRI findings of sex cord–stromal tumor of the ovary",
+        "authors": "SE Jung, SE Rha, JM Lee, SY Park, SN Oh, KS Cho, EJ Lee, JY Byun, ...",
+        "journal": "American journal of Roentgenology 185 (1), 207-215, 2005",
+        "counts": "149",
+        "year": "2005"
+      },
+      {
+        "title": "ZnO nanowire arrays on 3D hierachical graphene foam: biomarker detection of Parkinson’s disease",
+        "authors": "HY Yue, S Huang, J Chang, C Heo, F Yao, S Adhikari, F Gunes, LC Liu, ...",
+        "journal": "ACS nano 8 (2), 1639-1646, 2014",
+        "counts": "145",
+        "year": "2014"
+      },
+      {
+        "title": "Creating alignment and anisotropy in engineered heart tissue: role of boundary conditions in a model three-dimensional culture system",
+        "authors": "KD Costa, EJ Lee, JW Holmes",
+        "journal": "Tissue engineering 9 (4), 567-577, 2003",
+        "counts": "144",
+        "year": "2003"
+      },
+      {
+        "title": "Functional characterization of pendrin in a polarized cell system: evidence for pendrin-mediated apical iodide efflux",
+        "authors": "MP Gillam, AR Sidhaye, EJ Lee, J Rutishauser, CW Stephan, P Kopp",
+        "journal": "Journal of Biological Chemistry, 2004",
+        "counts": "138",
+        "year": "2004"
+      },
+      {
+        "title": "Differentiation of neural progenitor cells in a microfluidic chip‐generated cytokine gradient",
+        "authors": "JY Park, SK Kim, DH Woo, EJ Lee, JH Kim, SH Lee",
+        "journal": "Stem cells 27 (11), 2646-2654, 2009",
+        "counts": "127",
+        "year": "2009"
+      },
+      {
+        "title": "Association of DRD3 and GRIN2B with impulse control and related behaviors in Parkinson's disease",
+        "authors": "JY Lee, EK Lee, SS Park, JY Lim, HJ Kim, JS Kim, BS Jeon",
+        "journal": "Movement Disorders 24 (12), 1803-1810, 2009",
+        "counts": "124",
+        "year": "2009"
+      },
+      {
+        "title": "Issues in biomedical research data management and analysis: needs and barriers",
+        "authors": "NR Anderson, ES Lee, JS Brockenbrough, ME Minie, S Fuller, J Brinkley, ...",
+        "journal": "Journal of the American Medical Informatics Association 14 (4), 478-488, 2007",
+        "counts": "120",
+        "year": "2007"
+      },
+      {
+        "title": "Ginsenoside Rg1 enhances CD4+ T-cell activities and modulates Th1/Th2 differentiation",
+        "authors": "E Lee, E Ko, J Lee, S Rho, S Ko, MK Shin, B Min, MC Hong, S Kim, H Bae",
+        "journal": "International immunopharmacology 4 (2), 235-244, 2004",
+        "counts": "108",
+        "year": "2004"
+      },
+      {
+        "title": "A crafts-oriented approach to computing in high school: Introducing computational concepts, practices, and perspectives with electronic textiles",
+        "authors": "YB Kafai, E Lee, K Searle, D Fields, E Kaplan, D Lui",
+        "journal": "ACM Transactions on Computing Education (TOCE) 14 (1), 1, 2014",
+        "counts": "103",
+        "year": "2014"
+      },
+      {
+        "title": "Melatonin promotes osteoblastic differentiation through the BMP/ERK/Wnt signaling pathways",
+        "authors": "KH Park, JW Kang, EM Lee, JS Kim, YH Rhee, M Kim, SJ Jeong, YG Park, ...",
+        "journal": "Journal of pineal research 51 (2), 187-194, 2011",
+        "counts": "103",
+        "year": "2011"
+      },
+      {
+        "title": "Comparative study of the chemical composition and antioxidant activity of six essential oils and their components",
+        "authors": "SA Yang, SK Jeon, EJ Lee, CH Shim, IS Lee",
+        "journal": "Natural product research 24 (2), 140-151, 2010",
+        "counts": "103",
+        "year": "2010"
+      },
+      {
+        "title": "Genome-wide association study of Crohn's disease in Koreans revealed three new susceptibility loci and common attributes of genetic susceptibility across ethnic populations",
+        "authors": "SK Yang, M Hong, W Zhao, Y Jung, J Baek, N Tayebi, KM Kim, BD Ye, ...",
+        "journal": "Gut 63 (1), 80-87, 2014",
+        "counts": "102",
+        "year": "2014"
+      },
+      {
+        "title": "Comparison in glass transition and enthalpy relaxation between native and gelatinized rice starches",
+        "authors": "HJ Chung, EJ Lee, ST Lim",
+        "journal": "Carbohydrate Polymers 48 (3), 287-298, 2002",
+        "counts": "102",
+        "year": "2002"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -15530,6 +16797,66 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Gaussian interaction profile kernels for predicting drug–target interaction",
+        "authors": "T van Laarhoven, SB Nabuurs, E Marchiori",
+        "journal": "Bioinformatics 27 (21), 3036-3043, 2011",
+        "counts": "229",
+        "year": "2011"
+      },
+      {
+        "title": "Breakpoint identification and smoothing of array comparative genomic hybridization data",
+        "authors": "K Jong, E Marchiori, G Meijer, AVD Vaart, B Ylstra",
+        "journal": "Bioinformatics 20 (18), 3636-3637, 2004",
+        "counts": "211",
+        "year": "2004"
+      },
+      {
+        "title": "Evolutionary algorithms with on-the-fly population size adjustment",
+        "authors": "AE Eiben, E Marchiori, VA Valko",
+        "journal": "International Conference on Parallel Problem Solving from Nature, 41-50, 2004",
+        "counts": "186",
+        "year": "2004"
+      },
+      {
+        "title": "Reasoning about Prolog programs: from modes through types to assertions",
+        "authors": "KR Apt, E Marchiori",
+        "journal": "Formal aspects of computing 6 (1), 743-765, 1994",
+        "counts": "150",
+        "year": "1994"
+      },
+      {
+        "title": "Sample handling for mass spectrometric proteomic investigations of human sera",
+        "authors": "M West-Nielsen, EV Høgdall, E Marchiori, CK Høgdall, C Schou, ...",
+        "journal": "Analytical chemistry 77 (16), 5114-5123, 2005",
+        "counts": "146",
+        "year": "2005"
+      },
+      {
+        "title": "Evolutionary algorithms for the satisfiability problem",
+        "authors": "J Gottlieb, E Marchiori, C Rossi",
+        "journal": "Evolutionary Computation 10 (1), 35-50, 2002",
+        "counts": "126",
+        "year": "2002"
+      },
+      {
+        "title": "Proving concurrent constraint programs correct",
+        "authors": "FS De Boer, M Gabbrielli, E Marchiori, C Palamidessi",
+        "journal": "ACM Transactions on Programming Languages and Systems (TOPLAS) 19 (5), 685-725, 1997",
+        "counts": "109",
+        "year": "1997"
+      },
+      {
+        "title": "An evolutionary algorithm for large scale set covering problems with application to airline crew scheduling",
+        "authors": "E Marchiori, A Steenbeek",
+        "journal": "Workshops on Real-World Applications of Evolutionary Computation, 370-384, 2000",
+        "counts": "107",
+        "year": "2000"
+      }
+    ]
   },
   {
     "citations": []
@@ -15580,6 +16907,24 @@ var data = [
   {
     "citations": [
       {
+        "title": "A human Id-like helix-loop-helix protein expressed during early development",
+        "authors": "J Biggs, EV Murphy, MA Israel",
+        "journal": "Proceedings of the National Academy of Sciences 89 (4), 1512-1516, 1992",
+        "counts": "169",
+        "year": "1992"
+      },
+      {
+        "title": "The human glioma pathogenesis-related protein is structurally related to plant pathogenesis-related proteins and its gene is expressed specifically in brain tumors",
+        "authors": "EV Murphy, Y Zhang, W Zhu, J Biggs",
+        "journal": "Gene 159 (1), 131-135, 1995",
+        "counts": "129",
+        "year": "1995"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "GLIF3: the evolution of a guideline representation format.",
         "authors": "M Peleg, AA Boxwala, O Ogunyemi, Q Zeng, S Tu, R Lacson, E Bernstam, ...",
         "journal": "Proceedings of the AMIA Symposium, 645, 2000",
@@ -15618,7 +16963,7 @@ var data = [
         "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
         "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
         "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -15632,7 +16977,7 @@ var data = [
         "title": "A nondegenerate code of deleterious variants in Mendelian loci contributes to complex disease risk",
         "authors": "DR Blair, CS Lyttle, JM Mortensen, CF Bearden, AB Jensen, ...",
         "journal": "Cell 155 (1), 70-80, 2013",
-        "counts": "133",
+        "counts": "134",
         "year": "2013"
       },
       {
@@ -15738,18 +17083,18 @@ var data = [
         "year": "2009"
       },
       {
+        "title": "Can evaluation studies benefit from triangulation? A case study",
+        "authors": "E Ammenwerth, C Iller, U Mansmann",
+        "journal": "International journal of medical informatics 70 (2-3), 237-248, 2003",
+        "counts": "148",
+        "year": "2003"
+      },
+      {
         "title": "A randomized evaluation of a computer-based nursing documentation system",
         "authors": "E Ammenwerth, R Eichstädter, R Haux, U Pohl, S Rebel, S Ziegler",
         "journal": "Methods of information in medicine 40 (02), 61-68, 2001",
         "counts": "148",
         "year": "2001"
-      },
-      {
-        "title": "Can evaluation studies benefit from triangulation? A case study",
-        "authors": "E Ammenwerth, C Iller, U Mansmann",
-        "journal": "International journal of medical informatics 70 (2-3), 237-248, 2003",
-        "counts": "147",
-        "year": "2003"
       },
       {
         "title": "An inventory of evaluation studies of information technology in health care",
@@ -15780,18 +17125,18 @@ var data = [
         "year": "2010"
       },
       {
+        "title": "Electronic health records",
+        "authors": "A Hoerbst, E Ammenwerth",
+        "journal": "Methods of information in medicine 49 (04), 320-336, 2010",
+        "counts": "115",
+        "year": "2010"
+      },
+      {
         "title": "Evaluation of clinical information systems. What can be evaluated and what cannot?",
         "authors": "T Bürkle, E Ammenwerth, HU Prokosch, J Dudeck",
         "journal": "Journal of evaluation in clinical practice 7 (4), 373-385, 2001",
         "counts": "115",
         "year": "2001"
-      },
-      {
-        "title": "Electronic health records",
-        "authors": "A Hoerbst, E Ammenwerth",
-        "journal": "Methods of information in medicine 49 (04), 320-336, 2010",
-        "counts": "114",
-        "year": "2010"
       },
       {
         "title": "Effect of a nursing information system on the quality of information processing in nursing: An evaluation study using the HIS-monitor instrument",
@@ -15847,14 +17192,14 @@ var data = [
         "title": "Types of unintended consequences related to computerized provider order entry",
         "authors": "EM Campbell, DF Sittig, JS Ash, KP Guappone, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 13 (5), 547-556, 2006",
-        "counts": "765",
+        "counts": "767",
         "year": "2006"
       },
       {
         "title": "The extent and importance of unintended consequences related to computerized provider order entry",
         "authors": "JS Ash, DF Sittig, EG Poon, K Guappone, E Campbell, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 14 (4), 415-423, 2007",
-        "counts": "502",
+        "counts": "501",
         "year": "2007"
       },
       {
@@ -15907,7 +17252,7 @@ var data = [
         "title": "Understanding the complexity of registered nurse work in acute care settings",
         "authors": "PR Ebright, ES Patterson, BA Chalko, ML Render",
         "journal": "Journal of Nursing Administration 33 (12), 630-638, 2003",
-        "counts": "371",
+        "counts": "372",
         "year": "2003"
       },
       {
@@ -16023,7 +17368,7 @@ var data = [
         "title": "Mobile phone-based telemonitoring for heart failure management: a randomized controlled trial",
         "authors": "E Seto, KJ Leonard, JA Cafazzo, J Barnsley, C Masino, HJ Ross",
         "journal": "Journal of medical Internet research 14 (1), 2012",
-        "counts": "159",
+        "counts": "160",
         "year": "2012"
       },
       {
@@ -16054,14 +17399,14 @@ var data = [
         "title": "Clinical practice guideline: the diagnosis, management, and prevention of bronchiolitis",
         "authors": "SL Ralston, AS Lieberthal, HC Meissner, BK Alverson, JE Baley, ...",
         "journal": "Pediatrics, peds. 2014-2742, 2014",
-        "counts": "624",
+        "counts": "626",
         "year": "2014"
       },
       {
         "title": "Updated guidance for palivizumab prophylaxis among infants and young children at increased risk of hospitalization for respiratory syncytial virus infection",
         "authors": "Committee on Infectious Diseases",
         "journal": "Pediatrics, peds. 2014-1666, 2014",
-        "counts": "316",
+        "counts": "319",
         "year": "2014"
       },
       {
@@ -16082,7 +17427,7 @@ var data = [
         "title": "Approach to mobile information and communication for health care",
         "authors": "EA Mendonça, ES Chen, PD Stetson, LK McKnight, J Lei, JJ Cimino",
         "journal": "International Journal of Medical Informatics 73 (7-8), 631-638, 2004",
-        "counts": "101",
+        "counts": "102",
         "year": "2004"
       }
     ]
@@ -16124,7 +17469,7 @@ var data = [
         "title": "Gene cassettes and cassette arrays in mobile resistance integrons",
         "authors": "SR Partridge, G Tsafnat, E Coiera, JR Iredell",
         "journal": "FEMS microbiology reviews 33 (4), 757-784, 2009",
-        "counts": "429",
+        "counts": "431",
         "year": "2009"
       },
       {
@@ -16250,7 +17595,7 @@ var data = [
         "title": "Medical informatics.",
         "authors": "E Coiera",
         "journal": "BMJ: British Medical Journal 310 (6991), 1381, 1995",
-        "counts": "142",
+        "counts": "143",
         "year": "1995"
       },
       {
@@ -16323,7 +17668,7 @@ var data = [
         "title": "The Chlamydomonas genome reveals the evolution of key animal and plant functions",
         "authors": "SS Merchant, SE Prochnik, O Vallon, EH Harris, SJ Karpowicz, ...",
         "journal": "Science 318 (5848), 245-250, 2007",
-        "counts": "1940",
+        "counts": "1941",
         "year": "2007"
       },
       {
@@ -16355,14 +17700,14 @@ var data = [
         "title": "A Bayesian approach to filtering junk e-mail",
         "authors": "M Sahami, S Dumais, D Heckerman, E Horvitz",
         "journal": "Learning for Text Categorization: Papers from the 1998 workshop 62, 98-105, 1998",
-        "counts": "1983",
+        "counts": "1984",
         "year": "1998"
       },
       {
         "title": "Personalizing search via automated analysis of interests and activities",
         "authors": "J Teevan, ST Dumais, E Horvitz",
         "journal": "Proceedings of the 28th annual international ACM SIGIR conference on …, 2005",
-        "counts": "1031",
+        "counts": "1032",
         "year": "2005"
       },
       {
@@ -16544,14 +17889,14 @@ var data = [
         "title": "Layered representations for human activity recognition",
         "authors": "N Oliver, E Horvitz, A Garg",
         "journal": "Multimodal Interfaces, 2002. Proceedings. Fourth IEEE International …, 2002",
-        "counts": "394",
+        "counts": "395",
         "year": "2002"
       },
       {
         "title": "Mixed-initiative interaction",
         "authors": "JE Allen, CI Guinn, E Horvtz",
         "journal": "IEEE Intelligent Systems and their Applications 14 (5), 14-23, 1999",
-        "counts": "392",
+        "counts": "393",
         "year": "1999"
       },
       {
@@ -16635,7 +17980,7 @@ var data = [
         "title": "Method and apparatus for utility-directed prefetching of web pages into local cache using continual computation and user models",
         "authors": "E Horvitz",
         "journal": "US Patent 6,085,226, 2000",
-        "counts": "299",
+        "counts": "300",
         "year": "2000"
       },
       {
@@ -16660,18 +18005,18 @@ var data = [
         "year": "2000"
       },
       {
+        "title": "A study of preferences for sharing and privacy",
+        "authors": "JS Olson, J Grudin, E Horvitz",
+        "journal": "CHI'05 extended abstracts on Human factors in computing systems, 1985-1988, 2005",
+        "counts": "290",
+        "year": "2005"
+      },
+      {
         "title": "Harnessing information about the timing of a user's client-server interactions to enhance messaging and collaboration services",
         "authors": "EJ Horvitz, JT Apacible",
         "journal": "US Patent 7,634,528, 2009",
         "counts": "289",
         "year": "2009"
-      },
-      {
-        "title": "A study of preferences for sharing and privacy",
-        "authors": "JS Olson, J Grudin, E Horvitz",
-        "journal": "CHI'05 extended abstracts on Human factors in computing systems, 1985-1988, 2005",
-        "counts": "289",
-        "year": "2005"
       },
       {
         "title": "Combining human and machine intelligence in large-scale crowdsourcing",
@@ -16786,18 +18131,18 @@ var data = [
         "year": "2013"
       },
       {
+        "title": "Pairwise ranking aggregation in a crowdsourced setting",
+        "authors": "X Chen, PN Bennett, K Collins-Thompson, E Horvitz",
+        "journal": "Proceedings of the sixth ACM international conference on Web search and data …, 2013",
+        "counts": "193",
+        "year": "2013"
+      },
+      {
         "title": "System and method for resizing an input position indicator for a user interface of a computer system",
         "authors": "EJ Horvitz, ME Markley, ML Sonntag",
         "journal": "US Patent 6,023,275, 2000",
         "counts": "192",
         "year": "2000"
-      },
-      {
-        "title": "Pairwise ranking aggregation in a crowdsourced setting",
-        "authors": "X Chen, PN Bennett, K Collins-Thompson, E Horvitz",
-        "journal": "Proceedings of the sixth ACM international conference on Web search and data …, 2013",
-        "counts": "190",
-        "year": "2013"
       },
       {
         "title": "Systems and methods for directing automated services for messaging and scheduling",
@@ -16845,7 +18190,7 @@ var data = [
         "title": "Principles and methods for personalizing newsfeeds via an analysis of information novelty and dynamics",
         "authors": "ST Dumais, EJ Horvitz, E Gabrilovich",
         "journal": "US Patent 7,293,019, 2007",
-        "counts": "181",
+        "counts": "182",
         "year": "2007"
       },
       {
@@ -16884,18 +18229,18 @@ var data = [
         "year": "1992"
       },
       {
-        "title": "Prediction, expectation, and surprise: Methods, designs, and study of a deployed traffic forecasting service",
-        "authors": "EJ Horvitz, J Apacible, R Sarin, L Liao",
-        "journal": "arXiv preprint arXiv:1207.1352, 2012",
-        "counts": "173",
-        "year": "2012"
-      },
-      {
         "title": "Web-scale pharmacovigilance: listening to signals from the crowd",
         "authors": "RW White, NP Tatonetti, NH Shah, RB Altman, E Horvitz",
         "journal": "Journal of the American Medical Informatics Association 20 (3), 404-408, 2013",
         "counts": "172",
         "year": "2013"
+      },
+      {
+        "title": "Prediction, expectation, and surprise: Methods, designs, and study of a deployed traffic forecasting service",
+        "authors": "EJ Horvitz, J Apacible, R Sarin, L Liao",
+        "journal": "arXiv preprint arXiv:1207.1352, 2012",
+        "counts": "172",
+        "year": "2012"
       },
       {
         "title": "Priorities generation and management",
@@ -16922,7 +18267,7 @@ var data = [
         "title": "System for performing context-sensitive decisions about ideal communication modalities considering information about channel reliability",
         "authors": "EJ Horvitz",
         "journal": "US Patent 7,103,806, 2006",
-        "counts": "165",
+        "counts": "166",
         "year": "2006"
       },
       {
@@ -17028,14 +18373,14 @@ var data = [
         "title": "Effect of bar-code technology on the safety of medication administration",
         "authors": "EG Poon, CA Keohane, CS Yoon, M Ditmore, A Bane, O Levtzion-Korach, ...",
         "journal": "New England Journal of Medicine 362 (18), 1698-1707, 2010",
-        "counts": "515",
+        "counts": "516",
         "year": "2010"
       },
       {
         "title": "The extent and importance of unintended consequences related to computerized provider order entry",
         "authors": "JS Ash, DF Sittig, EG Poon, K Guappone, E Campbell, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 14 (4), 415-423, 2007",
-        "counts": "502",
+        "counts": "501",
         "year": "2007"
       },
       {
@@ -17256,7 +18601,7 @@ var data = [
         "title": "Initial sequencing and analysis of the human genome",
         "authors": "International Human Genome Sequencing Consortium",
         "journal": "Nature 409 (6822), 860, 2001",
-        "counts": "22826",
+        "counts": "22833",
         "year": "2001"
       },
       {
@@ -17284,7 +18629,7 @@ var data = [
         "title": "AAA+: A class of chaperone-like ATPases associated with the assembly, operation, and disassembly of protein complexes",
         "authors": "AF Neuwald, L Aravind, JL Spouge, EV Koonin",
         "journal": "Genome research 9 (1), 27-43, 1999",
-        "counts": "1898",
+        "counts": "1897",
         "year": "1999"
       },
       {
@@ -17298,7 +18643,7 @@ var data = [
         "title": "The COG database: new developments in phylogenetic classification of proteins from complete genomes",
         "authors": "RL Tatusov, DA Natale, IV Garkavtsev, TA Tatusova, UT Shankavaram, ...",
         "journal": "Nucleic acids research 29 (1), 22-28, 2001",
-        "counts": "1808",
+        "counts": "1811",
         "year": "2001"
       },
       {
@@ -17312,21 +18657,21 @@ var data = [
         "title": "De-ubiquitination and ubiquitin ligase domains of A20 downregulate NF-κB signalling",
         "authors": "IE Wertz, KM O'rourke, H Zhou, M Eby, L Aravind, S Seshagiri, P Wu, ...",
         "journal": "Nature 430 (7000), 694, 2004",
-        "counts": "1545",
+        "counts": "1544",
         "year": "2004"
       },
       {
         "title": "Evolution and classification of the CRISPR–Cas systems",
         "authors": "KS Makarova, DH Haft, R Barrangou, SJJ Brouns, E Charpentier, ...",
         "journal": "Nature Reviews Microbiology 9 (6), 467, 2011",
-        "counts": "1534",
+        "counts": "1537",
         "year": "2011"
       },
       {
         "title": "Small CRISPR RNAs guide antiviral defense in prokaryotes",
         "authors": "SJJ Brouns, MM Jore, M Lundgren, ER Westra, RJH Slijkhuis, ...",
         "journal": "Science 321 (5891), 960-964, 2008",
-        "counts": "1460",
+        "counts": "1463",
         "year": "2008"
       },
       {
@@ -17340,7 +18685,7 @@ var data = [
         "title": "Molecular evolution: a phylogenetic approach",
         "authors": "RDM Page, EC Holmes",
         "journal": "John Wiley & Sons, 2009",
-        "counts": "1317",
+        "counts": "1318",
         "year": "2009"
       },
       {
@@ -17368,7 +18713,7 @@ var data = [
         "title": "Cpf1 is a single RNA-guided endonuclease of a class 2 CRISPR-Cas system",
         "authors": "B Zetsche, JS Gootenberg, OO Abudayyeh, IM Slaymaker, KS Makarova, ...",
         "journal": "Cell 163 (3), 759-771, 2015",
-        "counts": "1079",
+        "counts": "1080",
         "year": "2015"
       },
       {
@@ -17382,7 +18727,7 @@ var data = [
         "title": "Identification of paracaspases and metacaspases: two ancient families of caspase-like proteins, one of which plays a key role in MALT lymphoma",
         "authors": "AG Uren, K O'Rourke, L Aravind, MT Pisabarro, S Seshagiri, EV Koonin, ...",
         "journal": "Molecular cell 6 (4), 961-967, 2000",
-        "counts": "1059",
+        "counts": "1060",
         "year": "2000"
       },
       {
@@ -17410,7 +18755,7 @@ var data = [
         "title": "Role of Rpn11 metalloprotease in deubiquitination and degradation by the 26S proteasome",
         "authors": "R Verma, L Aravind, R Oania, WH McDonald, JR Yates, EV Koonin, ...",
         "journal": "Science 298 (5593), 611-615, 2002",
-        "counts": "980",
+        "counts": "981",
         "year": "2002"
       },
       {
@@ -17445,7 +18790,7 @@ var data = [
         "title": "A putative RNA-interference-based immune system in prokaryotes: computational analysis of the predicted enzymatic machinery, functional analogies with eukaryotic RNAi, and …",
         "authors": "KS Makarova, NV Grishin, SA Shabalina, YI Wolf, EV Koonin",
         "journal": "Biology direct 1 (1), 7, 2006",
-        "counts": "903",
+        "counts": "904",
         "year": "2006"
       },
       {
@@ -17480,7 +18825,7 @@ var data = [
         "title": "An updated evolutionary classification of CRISPR–Cas systems",
         "authors": "KS Makarova, YI Wolf, OS Alkhnbashi, F Costa, SA Shah, SJ Saunders, ...",
         "journal": "Nature Reviews Microbiology 13 (11), 722, 2015",
-        "counts": "735",
+        "counts": "737",
         "year": "2015"
       },
       {
@@ -17494,7 +18839,7 @@ var data = [
         "title": "Evolutionary history and higher order classification of AAA+ ATPases",
         "authors": "LM Iyer, DD Leipe, EV Koonin, L Aravind",
         "journal": "Journal of structural biology 146 (1-2), 11-31, 2004",
-        "counts": "702",
+        "counts": "701",
         "year": "2004"
       },
       {
@@ -17529,7 +18874,7 @@ var data = [
         "title": "The Wolbachia genome of Brugia malayi: endosymbiont evolution within a human pathogenic nematode",
         "authors": "J Foster, M Ganatra, I Kamal, J Ware, K Makarova, N Ivanova, ...",
         "journal": "PLoS biology 3 (4), e121, 2005",
-        "counts": "641",
+        "counts": "619",
         "year": "2005"
       },
       {
@@ -17613,7 +18958,7 @@ var data = [
         "title": "Comparative genomics, minimal gene-sets and the last universal common ancestor",
         "authors": "EV Koonin",
         "journal": "Nature Reviews Microbiology 1 (2), 127, 2003",
-        "counts": "495",
+        "counts": "496",
         "year": "2003"
       },
       {
@@ -17634,7 +18979,7 @@ var data = [
         "title": "Comparative genomics and evolution of proteins involved in RNA metabolism",
         "authors": "V Anantharaman, EV Koonin, L Aravind",
         "journal": "Nucleic acids research 30 (7), 1427-1464, 2002",
-        "counts": "480",
+        "counts": "481",
         "year": "2002"
       },
       {
@@ -17659,18 +19004,18 @@ var data = [
         "year": "2002"
       },
       {
-        "title": "Complete sequence of the citrus tristeza virus RNA genome",
-        "authors": "AV Karasev, VP Boyko, S Gowda, OV Nikolaeva, ME Hilf, EV Koonin, ...",
-        "journal": "Virology 208 (2), 511-520, 1995",
-        "counts": "465",
-        "year": "1995"
-      },
-      {
         "title": "Genome trees and the tree of life",
         "authors": "YI Wolf, IB Rogozin, NV Grishin, EV Koonin",
         "journal": "TRENDS in Genetics 18 (9), 472-479, 2002",
-        "counts": "463",
+        "counts": "464",
         "year": "2002"
+      },
+      {
+        "title": "Complete sequence of the citrus tristeza virus RNA genome",
+        "authors": "AV Karasev, VP Boyko, S Gowda, OV Nikolaeva, ME Hilf, EV Koonin, ...",
+        "journal": "Virology 208 (2), 511-520, 1995",
+        "counts": "464",
+        "year": "1995"
       },
       {
         "title": "Viral proteins containing the purine NTP-binding sequence pattern",
@@ -17704,7 +19049,7 @@ var data = [
         "title": "Gleaning non-trivial structural, functional and evolutionary information about proteins by iterative database searches1",
         "authors": "L Aravind, EV Koonin",
         "journal": "Journal of molecular biology 287 (5), 1023-1040, 1999",
-        "counts": "440",
+        "counts": "439",
         "year": "1999"
       },
       {
@@ -17774,7 +19119,7 @@ var data = [
         "title": "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events",
         "authors": "YI Wolf, L Aravind, NV Grishin, EV Koonin",
         "journal": "Genome research 9 (8), 689-710, 1999",
-        "counts": "410",
+        "counts": "411",
         "year": "1999"
       },
       {
@@ -17802,7 +19147,7 @@ var data = [
         "title": "Orthology, paralogy and proposed classification for paralog subtypes",
         "authors": "ELL Sonnhammer, EV Koonin",
         "journal": "TRENDS in Genetics 18 (12), 619-620, 2002",
-        "counts": "392",
+        "counts": "391",
         "year": "2002"
       },
       {
@@ -17907,7 +19252,7 @@ var data = [
         "title": "Genome trees constructed using five different approaches suggest new major bacterial clades",
         "authors": "YI Wolf, IB Rogozin, NV Grishin, RL Tatusov, EV Koonin",
         "journal": "BMC evolutionary biology 1 (1), 8, 2001",
-        "counts": "347",
+        "counts": "348",
         "year": "2001"
       },
       {
@@ -17935,22 +19280,22 @@ var data = [
         "title": "IMPALA: matching a protein sequence against a collection of PSI-BLAST-constructed position-specific score matrices",
         "authors": "A A. Schäffer, Y I. Wolf, C P. Ponting, E V. Koonin, L Aravind, S F. Altschul",
         "journal": "Bioinformatics 15 (12), 1000-1011, 1999",
-        "counts": "337",
+        "counts": "338",
         "year": "1999"
       },
       {
         "title": "Metabolism and evolution of Haemophilus influenzae deduced from a whole-genome comparison with Escherichia coli",
         "authors": "RL Tatusov, AR Mushegian, P Bork, NP Brown, WS Hayes, M Borodovsky, ...",
         "journal": "Current biology 6 (3), 279-291, 1996",
-        "counts": "337",
+        "counts": "338",
         "year": "1996"
       },
       {
-        "title": "C2c2 is a single-component programmable RNA-guided RNA-targeting CRISPR effector",
-        "authors": "OO Abudayyeh, JS Gootenberg, S Konermann, J Joung, IM Slaymaker, ...",
-        "journal": "Science 353 (6299), aaf5573, 2016",
-        "counts": "333",
-        "year": "2016"
+        "title": "Sequence—evolution—function: computational approaches in comparative genomics",
+        "authors": "EV Koonin, M Galperin",
+        "journal": "Springer Science & Business Media, 2013",
+        "counts": "334",
+        "year": "2013"
       }
     ]
   },
@@ -17960,7 +19305,7 @@ var data = [
         "title": "Understanding quantified-selfers' practices in collecting and exploring personal data",
         "authors": "EK Choe, NB Lee, B Lee, W Pratt, JA Kientz",
         "journal": "Proceedings of the 32nd annual ACM conference on Human factors in computing …, 2014",
-        "counts": "405",
+        "counts": "406",
         "year": "2014"
       },
       {
@@ -18067,7 +19412,7 @@ var data = [
         "title": "GPS: a comprehensive www server for phosphorylation sites prediction",
         "authors": "Y Xue, F Zhou, M Zhu, K Ahmed, G Chen, X Yao",
         "journal": "Nucleic acids research 33 (suppl 2), W184-W187, 2005",
-        "counts": "202",
+        "counts": "203",
         "year": "2005"
       },
       {
@@ -18088,7 +19433,7 @@ var data = [
         "title": "CSS-Palm: palmitoylation site prediction with a clustering and scoring strategy (CSS)",
         "authors": "F Zhou, Y Xue, X Yao, Y Xu",
         "journal": "Bioinformatics 22 (7), 894-896, 2006",
-        "counts": "114",
+        "counts": "115",
         "year": "2006"
       }
     ]
@@ -18236,7 +19581,7 @@ var data = [
         "title": "DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants",
         "authors": "J Piñero, À Bravo, N Queralt-Rosinach, A Gutiérrez-Sacristán, J Deu-Pons, ...",
         "journal": "Nucleic acids research, gkw943, 2016",
-        "counts": "172",
+        "counts": "174",
         "year": "2016"
       },
       {
@@ -18289,7 +19634,7 @@ var data = [
         "title": "Comorbidity clusters in autism spectrum disorders: an electronic health record time-series analysis",
         "authors": "F Doshi-Velez, Y Ge, I Kohane",
         "journal": "Pediatrics 133 (1), e54-e63, 2014",
-        "counts": "146",
+        "counts": "147",
         "year": "2014"
       },
       {
@@ -18381,6 +19726,83 @@ var data = [
     "citations": []
   },
   {
+    "citations": [
+      {
+        "title": "Advanced methods and tools for ECG data analysis",
+        "authors": "GD Clifford, F Azuaje, P McSharry",
+        "journal": "Artech house, 2006",
+        "counts": "715",
+        "year": "2006"
+      },
+      {
+        "title": "Cluster validation techniques for genome expression data",
+        "authors": "N Bolshakova, F Azuaje",
+        "journal": "Signal processing 83 (4), 825-833, 2003",
+        "counts": "368",
+        "year": "2003"
+      },
+      {
+        "title": "Multiple SVM-RFE for gene selection in cancer classification with expression data",
+        "authors": "KB Duan, JC Rajapakse, H Wang, F Azuaje",
+        "journal": "IEEE transactions on nanobioscience 4 (3), 228-234, 2005",
+        "counts": "304",
+        "year": "2005"
+      },
+      {
+        "title": "Use of circulating microRNAs to diagnose acute myocardial infarction",
+        "authors": "Y Devaux, M Vausort, E Goretti, PV Nazarov, F Azuaje, G Gilson, ...",
+        "journal": "Clinical chemistry, clinchem. 2011.173823, 2012",
+        "counts": "193",
+        "year": "2012"
+      },
+      {
+        "title": "Gene expression correlation and gene ontology-based similarity: an assessment of quantitative relationships",
+        "authors": "H Wang, F Azuaje, O Bodenreider, J Dopazo",
+        "journal": "Computational Intelligence in Bioinformatics and Computational Biology, 2004 …, 2004",
+        "counts": "170",
+        "year": "2004"
+      },
+      {
+        "title": "An assessment of recently published gene expression data analyses: reporting experimental design and statistical factors",
+        "authors": "P Jafari, F Azuaje",
+        "journal": "BMC Medical Informatics and Decision Making 6 (1), 27, 2006",
+        "counts": "152",
+        "year": "2006"
+      },
+      {
+        "title": "A cluster validity framework for genome expression data",
+        "authors": "F Azuaje",
+        "journal": "Bioinformatics 18 (2), 319-320, 2002",
+        "counts": "114",
+        "year": "2002"
+      },
+      {
+        "title": "ECG statistics, noise, artifacts, and missing data",
+        "authors": "GD Clifford, F Azuaje, P Mcsharry",
+        "journal": "Advanced Methods and Tools for ECG Data Analysis 6, 18, 2006",
+        "counts": "112",
+        "year": "2006"
+      },
+      {
+        "title": "Solutions to instability problems with sequential wrapper-based approaches to feature selection",
+        "authors": "K Dunne, P Cunningham, F Azuaje",
+        "journal": "Journal of Machine Learning Research, 1-22, 2002",
+        "counts": "104",
+        "year": "2002"
+      },
+      {
+        "title": "Ontology-driven similarity approaches to supporting gene functional assessment",
+        "authors": "F Azuaje, H Wang, O Bodenreider",
+        "journal": "Proceedings of the ISMB'2005 SIG meeting on Bio-ontologies, 9-10, 2005",
+        "counts": "102",
+        "year": "2005"
+      }
+    ]
+  },
+  {
+    "citations": []
+  },
+  {
     "citations": []
   },
   {
@@ -18396,14 +19818,14 @@ var data = [
         "title": "Early treatment with prednisolone or acyclovir in Bell's palsy",
         "authors": "FM Sullivan, IRC Swan, PT Donnan, JM Morrison, BH Smith, B McKinstry, ...",
         "journal": "New England Journal of Medicine 357 (16), 1598-1607, 2007",
-        "counts": "561",
+        "counts": "560",
         "year": "2007"
       },
       {
         "title": "What is eHealth (4): a scoping exercise to map the field",
         "authors": "C Pagliari, D Sloan, P Gregor, F Sullivan, D Detmer, JP Kahan, ...",
         "journal": "Journal of medical Internet research 7 (1), 2005",
-        "counts": "468",
+        "counts": "469",
         "year": "2005"
       },
       {
@@ -18473,7 +19895,7 @@ var data = [
         "title": "Methods to improve recruitment to randomised controlled trials: Cochrane systematic review and meta-analysis",
         "authors": "S Treweek, P Lockhart, M Pitkethly, JA Cook, M Kjeldstrøm, M Johansen, ...",
         "journal": "BMJ open 3 (2), e002360, 2013",
-        "counts": "236",
+        "counts": "235",
         "year": "2013"
       },
       {
@@ -18538,6 +19960,31 @@ var data = [
         "journal": "British journal of cancer 90 (8), 1479, 2004",
         "counts": "103",
         "year": "2004"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "GWAS of 126,559 individuals identifies genetic variants associated with educational attainment",
+        "authors": "CA Rietveld, SE Medland, J Derringer, J Yang, T Esko, NW Martin, ...",
+        "journal": "science 340 (6139), 1467-1471, 2013",
+        "counts": "496",
+        "year": "2013"
+      },
+      {
+        "title": "New gene functions in megakaryopoiesis and platelet formation",
+        "authors": "C Gieger, A Radhakrishnan, A Cvejic, W Tang, E Porcu, G Pistis, ...",
+        "journal": "Nature 480 (7376), 201, 2011",
+        "counts": "305",
+        "year": "2011"
+      },
+      {
+        "title": "Seventy-five genetic loci influencing the human red blood cell",
+        "authors": "P Van Der Harst, W Zhang, IM Leach, A Rendon, N Verweij, J Sehmi, ...",
+        "journal": "Nature 492 (7429), 369, 2012",
+        "counts": "231",
+        "year": "2012"
       }
     ]
   },
@@ -18743,7 +20190,7 @@ var data = [
         "title": "Identifying DNA and protein patterns with statistically significant alignments of multiple sequences.",
         "authors": "GZ Hertz, GD Stormo",
         "journal": "Bioinformatics (Oxford, England) 15 (7), 563-577, 1999",
-        "counts": "1387",
+        "counts": "1388",
         "year": "1999"
       },
       {
@@ -18764,7 +20211,7 @@ var data = [
         "title": "Comparative genomics identifies a flagellar and basal body proteome that includes the BBS5 human disease gene",
         "authors": "JB Li, JM Gerdes, CJ Haycraft, Y Fan, TM Teslovich, H May-Simera, H Li, ...",
         "journal": "Cell 117 (4), 541-552, 2004",
-        "counts": "708",
+        "counts": "709",
         "year": "2004"
       },
       {
@@ -18883,7 +20330,7 @@ var data = [
         "title": "ANN-Spec: a method for discovering transcription factor binding sites with improved specificity",
         "authors": "CT Workman, GD Stormo",
         "journal": "Biocomputing 2000, 467-478, 1999",
-        "counts": "304",
+        "counts": "305",
         "year": "1999"
       },
       {
@@ -18974,7 +20421,7 @@ var data = [
         "title": "RNA binding site of R17 coat protein",
         "authors": "PJ Romaniuk, P Lowary, HN Wu, G Stormo, OC Uhlenbeck",
         "journal": "Biochemistry 26 (6), 1563-1568, 1987",
-        "counts": "204",
+        "counts": "205",
         "year": "1987"
       },
       {
@@ -19002,7 +20449,7 @@ var data = [
         "title": "Influence of the period-dependent circadian clock on diurnal, circadian, and aperiodic gene expression in Drosophila melanogaster",
         "authors": "Y Lin, M Han, B Shimada, L Wang, TM Gibler, A Amarakone, TA Awad, ...",
         "journal": "Proceedings of the National Academy of Sciences 99 (14), 9562-9567, 2002",
-        "counts": "187",
+        "counts": "188",
         "year": "2002"
       },
       {
@@ -19020,18 +20467,18 @@ var data = [
         "year": "1986"
       },
       {
+        "title": "An introduction to sequence similarity (“homology”) searching",
+        "authors": "WR Pearson",
+        "journal": "Current protocols in bioinformatics 42 (1), 3.1. 1-3.1. 8, 2013",
+        "counts": "178",
+        "year": "2013"
+      },
+      {
         "title": "An RNA folding method capable of identifying pseudoknots and base triples.",
         "authors": "JE Tabaska, RB Cary, HN Gabow, GD Stormo",
         "journal": "Bioinformatics (Oxford, England) 14 (8), 691-699, 1998",
         "counts": "178",
         "year": "1998"
-      },
-      {
-        "title": "An introduction to sequence similarity (“homology”) searching",
-        "authors": "WR Pearson",
-        "journal": "Current protocols in bioinformatics 42 (1), 3.1. 1-3.1. 8, 2013",
-        "counts": "176",
-        "year": "2013"
       },
       {
         "title": "Inferring binding energies from selected binding sites",
@@ -19104,18 +20551,18 @@ var data = [
         "year": "1988"
       },
       {
+        "title": "Direct, androgen receptor-mediated regulation of the FKBP5 gene via a distal enhancer element",
+        "authors": "JA Magee, L Chang, GD Stormo, J Milbrandt",
+        "journal": "Endocrinology 147 (1), 590-598, 2006",
+        "counts": "133",
+        "year": "2006"
+      },
+      {
         "title": "Quantitative analysis demonstrates most transcription factors require only simple models of specificity",
         "authors": "Y Zhao, GD Stormo",
         "journal": "Nature biotechnology 29 (6), 480, 2011",
         "counts": "132",
         "year": "2011"
-      },
-      {
-        "title": "Direct, androgen receptor-mediated regulation of the FKBP5 gene via a distal enhancer element",
-        "authors": "JA Magee, L Chang, GD Stormo, J Milbrandt",
-        "journal": "Endocrinology 147 (1), 590-598, 2006",
-        "counts": "132",
-        "year": "2006"
       },
       {
         "title": "Probabilistic code for DNA recognition by proteins of the EGR family",
@@ -19222,7 +20669,7 @@ var data = [
         "title": "A longitudinal case study of an emerging software ecosystem: Implications for practice and theory",
         "authors": "GK Hanssen",
         "journal": "Journal of Systems and Software 85 (7), 1455-1466, 2012",
-        "counts": "105",
+        "counts": "104",
         "year": "2012"
       }
     ]
@@ -19233,7 +20680,7 @@ var data = [
         "title": "Postoperative bile duct strictures: management and outcome in the 1990s",
         "authors": "KD Lillemoe, GB Melton, JL Cameron, HA Pitt, KA Campbell, MA Talamini, ...",
         "journal": "Annals of surgery 232 (3), 430, 2000",
-        "counts": "513",
+        "counts": "514",
         "year": "2000"
       },
       {
@@ -19247,7 +20694,7 @@ var data = [
         "title": "Automated detection of adverse events using natural language processing of discharge summaries",
         "authors": "GB Melton, G Hripcsak",
         "journal": "Journal of the American Medical Informatics Association 12 (4), 448-457, 2005",
-        "counts": "227",
+        "counts": "228",
         "year": "2005"
       },
       {
@@ -19504,7 +20951,7 @@ var data = [
         "title": "Agreement, the f-measure, and reliability in information retrieval",
         "authors": "G Hripcsak, AS Rothschild",
         "journal": "Journal of the American Medical Informatics Association 12 (3), 296-298, 2005",
-        "counts": "478",
+        "counts": "477",
         "year": "2005"
       },
       {
@@ -19546,7 +20993,7 @@ var data = [
         "title": "Next-generation phenotyping of electronic health records",
         "authors": "G Hripcsak, DJ Albers",
         "journal": "Journal of the American Medical Informatics Association 20 (1), 117-121, 2012",
-        "counts": "334",
+        "counts": "335",
         "year": "2012"
       },
       {
@@ -19574,7 +21021,7 @@ var data = [
         "title": "Automated detection of adverse events using natural language processing of discharge summaries",
         "authors": "GB Melton, G Hripcsak",
         "journal": "Journal of the American Medical Informatics Association 12 (4), 448-457, 2005",
-        "counts": "227",
+        "counts": "228",
         "year": "2005"
       },
       {
@@ -19588,7 +21035,7 @@ var data = [
         "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
         "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
         "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -19757,6 +21204,80 @@ var data = [
   {
     "citations": [
       {
+        "title": "Training neural network classifiers for medical decision making: The effects of imbalanced datasets on classification performance",
+        "authors": "MA Mazurowski, PA Habas, JM Zurada, JY Lo, JA Baker, GD Tourassi",
+        "journal": "Neural networks 21 (2-3), 427-436, 2008",
+        "counts": "460",
+        "year": "2008"
+      },
+      {
+        "title": "Application of the mutual information criterion for feature selection in computer‐aided diagnosis",
+        "authors": "GD Tourassi, ED Frederick, MK Markey, CE Floyd",
+        "journal": "Medical physics 28 (12), 2394-2402, 2001",
+        "counts": "224",
+        "year": "2001"
+      },
+      {
+        "title": "Computer‐assisted detection of mammographic masses: A template matching scheme based on mutual information",
+        "authors": "GD Tourassi, R Vargas‐Voracek, DM Catarious, CE Floyd",
+        "journal": "Medical physics 30 (8), 2123-2130, 2003",
+        "counts": "190",
+        "year": "2003"
+      },
+      {
+        "title": "Journey toward computer-aided diagnosis: role of image texture analysis",
+        "authors": "GD Tourassi",
+        "journal": "Radiology 213 (2), 317-320, 1999",
+        "counts": "188",
+        "year": "1999"
+      },
+      {
+        "title": "A concentric morphology model for the detection of masses in mammography",
+        "authors": "NH Eltonsy, GD Tourassi, AS Elmaghraby",
+        "journal": "IEEE transactions on medical imaging 26 (6), 880-889, 2007",
+        "counts": "177",
+        "year": "2007"
+      },
+      {
+        "title": "Recent Advances in Chest Radiography1",
+        "authors": "HP McAdams, E Samei, J Dobbins III, GD Tourassi, CE Ravin",
+        "journal": "Radiology 241 (3), 663-683, 2006",
+        "counts": "171",
+        "year": "2006"
+      },
+      {
+        "title": "Evaluation of information‐theoretic similarity measures for content‐based retrieval and detection of masses in mammograms",
+        "authors": "GD Tourassi, B Harrawood, S Singh, JY Lo, CE Floyd",
+        "journal": "Medical Physics 34 (1), 140-150, 2007",
+        "counts": "129",
+        "year": "2007"
+      },
+      {
+        "title": "Self-organizing map for cluster analysis of a breast cancer database",
+        "authors": "MK Markey, JY Lo, GD Tourassi, CE Floyd Jr",
+        "journal": "Artificial Intelligence in Medicine 27 (2), 113-127, 2003",
+        "counts": "128",
+        "year": "2003"
+      },
+      {
+        "title": "Acute pulmonary embolism: artificial neural network approach for diagnosis.",
+        "authors": "GD Tourassi, CE Floyd, HD Sostman, RE Coleman",
+        "journal": "Radiology 189 (2), 555-558, 1993",
+        "counts": "115",
+        "year": "1993"
+      },
+      {
+        "title": "Transforming epidemiology for 21st century medicine and public health",
+        "authors": "MJ Khoury, TK Lam, JPA Ioannidis, P Hartge, MR Spitz, JE Buring, ...",
+        "journal": "Cancer Epidemiology and Prevention Biomarkers, cebp. 0146.2013, 2013",
+        "counts": "107",
+        "year": "2013"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "PRINTS and its automatic supplement, prePRINTS",
         "authors": "TK Attwood, P Bradley, DR Flower, A Gaulton, N Maudling, AL Mitchell, ...",
         "journal": "Nucleic acids research 31 (1), 400-402, 2003",
@@ -19875,6 +21396,59 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Network modelling methods for FMRI",
+        "authors": "SM Smith, KL Miller, G Salimi-Khorshidi, M Webster, CF Beckmann, ...",
+        "journal": "Neuroimage 54 (2), 875-891, 2011",
+        "counts": "1151",
+        "year": "2011"
+      },
+      {
+        "title": "Automatic denoising of functional MRI data: combining independent component analysis and hierarchical fusion of classifiers",
+        "authors": "G Salimi-Khorshidi, G Douaud, CF Beckmann, MF Glasser, L Griffanti, ...",
+        "journal": "Neuroimage 90, 449-468, 2014",
+        "counts": "473",
+        "year": "2014"
+      },
+      {
+        "title": "Resting-state fMRI in the human connectome project",
+        "authors": "SM Smith, CF Beckmann, J Andersson, EJ Auerbach, J Bijsterbosch, ...",
+        "journal": "Neuroimage 80, 144-168, 2013",
+        "counts": "453",
+        "year": "2013"
+      },
+      {
+        "title": "A meta-analysis of sex differences in human brain structure",
+        "authors": "ANV Ruigrok, G Salimi-Khorshidi, MC Lai, S Baron-Cohen, MV Lombardo, ...",
+        "journal": "Neuroscience & Biobehavioral Reviews 39, 34-50, 2014",
+        "counts": "366",
+        "year": "2014"
+      },
+      {
+        "title": "Functional connectomics from resting-state fMRI",
+        "authors": "SM Smith, D Vidaurre, CF Beckmann, MF Glasser, M Jenkinson, KL Miller, ...",
+        "journal": "Trends in cognitive sciences 17 (12), 666-682, 2013",
+        "counts": "366",
+        "year": "2013"
+      },
+      {
+        "title": "ICA-based artefact removal and accelerated fMRI acquisition for improved resting state network imaging",
+        "authors": "L Griffanti, G Salimi-Khorshidi, CF Beckmann, EJ Auerbach, G Douaud, ...",
+        "journal": "Neuroimage 95, 232-247, 2014",
+        "counts": "321",
+        "year": "2014"
+      },
+      {
+        "title": "Meta-analysis of neuroimaging data: a comparison of image-based and coordinate-based pooling of studies",
+        "authors": "G Salimi-Khorshidi, SM Smith, JR Keltner, TD Wager, TE Nichols",
+        "journal": "Neuroimage 45 (3), 810-823, 2009",
+        "counts": "217",
+        "year": "2009"
+      }
+    ]
   },
   {
     "citations": [
@@ -20145,7 +21719,7 @@ var data = [
         "title": "A quantitative assessment of plasma homocysteine as a risk factor for vascular disease: probable benefits of increasing folic acid intakes",
         "authors": "CJ Boushey, SAA Beresford, GS Omenn, AG Motulsky",
         "journal": "Jama 274 (13), 1049-1057, 1995",
-        "counts": "5169",
+        "counts": "5173",
         "year": "1995"
       },
       {
@@ -20159,21 +21733,21 @@ var data = [
         "title": "Metabolomic profiles delineate potential role for sarcosine in prostate cancer progression",
         "authors": "A Sreekumar, LM Poisson, TM Rajendiran, AP Khan, Q Cao, J Yu, ...",
         "journal": "Nature 457 (7231), 910, 2009",
-        "counts": "1704",
+        "counts": "1705",
         "year": "2009"
       },
       {
         "title": "ProteomeXchange provides globally coordinated proteomics data submission and dissemination",
         "authors": "JA Vizcaíno, EW Deutsch, R Wang, A Csordas, F Reisinger, D Rios, ...",
         "journal": "Nature biotechnology 32 (3), 223, 2014",
-        "counts": "1545",
+        "counts": "1546",
         "year": "2014"
       },
       {
         "title": "Risk factors for lung cancer and for intervention effects in CARET, the Beta-Carotene and Retinol Efficacy Trial",
         "authors": "GS Omenn, GE Goodman, MD Thornquist, J Balmes, MR Cullen, A Glass, ...",
         "journal": "JNCI: Journal of the National Cancer Institute 88 (21), 1550-1559, 1996",
-        "counts": "1285",
+        "counts": "1286",
         "year": "1996"
       },
       {
@@ -20187,7 +21761,7 @@ var data = [
         "title": "A common open representation of mass spectrometry data and its application to proteomics research",
         "authors": "PGA Pedrioli, JK Eng, R Hubley, M Vogelzang, EW Deutsch, B Raught, ...",
         "journal": "Nature biotechnology 22 (11), 1459, 2004",
-        "counts": "790",
+        "counts": "791",
         "year": "2004"
       },
       {
@@ -20201,7 +21775,7 @@ var data = [
         "title": "Beneficial six-year outcome of smoking cessation in older men and women with coronary artery disease",
         "authors": "B Hermanson, GS Omenn, RA Kronmal, BJ Gersh, ...",
         "journal": "New England Journal of Medicine 319 (21), 1365-1369, 1988",
-        "counts": "445",
+        "counts": "446",
         "year": "1988"
       },
       {
@@ -20215,14 +21789,14 @@ var data = [
         "title": "An evaluation, comparison, and accurate benchmarking of several publicly available MS/MS search algorithms: sensitivity and specificity analysis",
         "authors": "EA Kapp, F Schütz, LM Connolly, JA Chakel, JE Meza, CA Miller, D Fenyo, ...",
         "journal": "Proteomics 5 (13), 3475-3490, 2005",
-        "counts": "398",
+        "counts": "399",
         "year": "2005"
       },
       {
         "title": "The Beta-Carotene and Retinol Efficacy Trial: incidence of lung cancer and cardiovascular disease mortality during 6-year follow-up after stopping β-carotene and retinol …",
         "authors": "GE Goodman, MD Thornquist, J Balmes, MR Cullen, FL Meyskens Jr, ...",
         "journal": "Journal of the National Cancer Institute 96 (23), 1743-1750, 2004",
-        "counts": "379",
+        "counts": "378",
         "year": "2004"
       },
       {
@@ -20348,7 +21922,7 @@ var data = [
         "title": "The Human Proteome Organization Plasma Proteome Project pilot phase: reference specimens, technology platform comparisons, and standardized data submissions and analyses",
         "authors": "GS Omenn",
         "journal": "Proteomics 4 (5), 1235-1240, 2004",
-        "counts": "169",
+        "counts": "168",
         "year": "2004"
       },
       {
@@ -20488,7 +22062,7 @@ var data = [
         "title": "The association of Waardenburg syndrome and Hirschsprung megacolon",
         "authors": "GS Omenn, VA McKusick, RJ Gorlin",
         "journal": "American journal of medical genetics 3 (3), 217-223, 1979",
-        "counts": "117",
+        "counts": "118",
         "year": "1979"
       },
       {
@@ -20576,7 +22150,7 @@ var data = [
         "title": "Beyond the grave: Facebook as a site for the expansion of death and mourning",
         "authors": "JR Brubaker, GR Hayes, P Dourish",
         "journal": "The Information Society 29 (3), 152-163, 2013",
-        "counts": "182",
+        "counts": "186",
         "year": "2013"
       },
       {
@@ -20590,7 +22164,7 @@ var data = [
         "title": "We will never forget you [online]: An empirical investigation of post-mortem MySpace comments",
         "authors": "JR Brubaker, GR Hayes",
         "journal": "Proceedings of the ACM 2011 conference on Computer supported cooperative …, 2011",
-        "counts": "152",
+        "counts": "153",
         "year": "2011"
       },
       {
@@ -20650,14 +22224,14 @@ var data = [
         "title": "SIMPLIcity: Semantics-sensitive integrated matching for picture libraries",
         "authors": "JZ Wang, J Li, G Wiederhold",
         "journal": "IEEE Transactions on pattern analysis and machine intelligence 23 (9), 947-963, 2001",
-        "counts": "2659",
+        "counts": "2660",
         "year": "2001"
       },
       {
         "title": "Biomedical informatics: computer applications in health care and biomedicine",
         "authors": "EH Shortliffe, JJ Cimino",
         "journal": "Springer Science & Business Media, 2013",
-        "counts": "1323",
+        "counts": "1324",
         "year": "2013"
       },
       {
@@ -20671,7 +22245,7 @@ var data = [
         "title": "A graph-oriented model for articulation of ontology interdependencies",
         "authors": "P Mitra, G Wiederhold, M Kersten",
         "journal": "International Conference on Extending Database Technology, 86-100, 2000",
-        "counts": "542",
+        "counts": "543",
         "year": "2000"
       },
       {
@@ -20738,18 +22312,18 @@ var data = [
         "year": "1991"
       },
       {
+        "title": "Semi-automatic integration of knowledge sources",
+        "authors": "P Mitra, G Wiederhold, J Jannink",
+        "journal": "Proceedings of Fusion'99, July 1999, 1999",
+        "counts": "246",
+        "year": "1999"
+      },
+      {
         "title": "Unsupervised multiresolution segmentation for images with low depth of field",
         "authors": "JZ Wang, J Li, RM Gray, G Wiederhold",
         "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence 23 (1), 85-90, 2001",
         "counts": "245",
         "year": "2001"
-      },
-      {
-        "title": "Semi-automatic integration of knowledge sources",
-        "authors": "P Mitra, G Wiederhold, J Jannink",
-        "journal": "Proceedings of Fusion'99, July 1999, 1999",
-        "counts": "245",
-        "year": "1999"
       },
       {
         "title": "Interoperation, mediation and ontologies",
@@ -20825,7 +22399,7 @@ var data = [
         "title": "An algebra for ontology composition",
         "authors": "G Wiederhold",
         "journal": "Proceedings of 1994 Monterey Workshop on Formal Methods, 56-61, 1994",
-        "counts": "154",
+        "counts": "155",
         "year": "1994"
       },
       {
@@ -21111,14 +22685,14 @@ var data = [
         "title": "Causation, prediction, and search",
         "authors": "P Spirtes, CN Glymour, R Scheines, D Heckerman, C Meek, G Cooper, ...",
         "journal": "MIT press, 2000",
-        "counts": "6397",
+        "counts": "6398",
         "year": "2000"
       },
       {
         "title": "A Bayesian method for the induction of probabilistic networks from data",
         "authors": "GF Cooper, E Herskovits",
         "journal": "Machine learning 9 (4), 309-347, 1992",
-        "counts": "4827",
+        "counts": "4826",
         "year": "1992"
       },
       {
@@ -21188,7 +22762,7 @@ var data = [
         "title": "A Bayesian method for constructing Bayesian belief networks from databases",
         "authors": "GF Cooper, E Herskovits",
         "journal": "Uncertainty Proceedings 1991, 86-94, 1991",
-        "counts": "270",
+        "counts": "269",
         "year": "1991"
       },
       {
@@ -21333,17 +22907,98 @@ var data = [
   {
     "citations": [
       {
+        "title": "Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses",
+        "authors": "A Bhattacharjee, WG Richards, J Staunton, C Li, S Monti, P Vasa, C Ladd, ...",
+        "journal": "Proceedings of the National Academy of Sciences 98 (24), 13790-13795, 2001",
+        "counts": "2510",
+        "year": "2001"
+      },
+      {
+        "title": "Genomic analysis of mouse retinal development",
+        "authors": "S Blackshaw, S Harpavat, J Trimarchi, L Cai, H Huang, WP Kuo, G Weber, ...",
+        "journal": "PLoS biology 2 (9), e247, 2004",
+        "counts": "499",
+        "year": "2004"
+      },
+      {
+        "title": "Genomic analysis of mouse retinal development",
+        "authors": "S Blackshaw, S Harpavat, J Trimarchi, L Cai, H Huang, WP Kuo, G Weber, ...",
+        "journal": "PLoS biology 2 (9), e247, 2004",
+        "counts": "499",
+        "year": "2004"
+      },
+      {
+        "title": "Serving the enterprise and beyond with informatics for integrating biology and the bedside (i2b2)",
+        "authors": "SN Murphy, G Weber, M Mendis, V Gainer, HC Chueh, S Churchill, ...",
+        "journal": "Journal of the American Medical Informatics Association 17 (2), 124-130, 2010",
+        "counts": "498",
+        "year": "2010"
+      },
+      {
+        "title": "BioNumbers—the database of key numbers in molecular and cell biology",
+        "authors": "R Milo, P Jorgensen, U Moran, G Weber, M Springer",
+        "journal": "Nucleic acids research 38 (suppl_1), D750-D753, 2009",
+        "counts": "410",
+        "year": "2009"
+      },
+      {
+        "title": "The co-morbidity burden of children and young adults with autism spectrum disorders",
+        "authors": "IS Kohane, A McMurry, G Weber, D MacFadden, L Rappaport, L Kunkel, ...",
+        "journal": "PloS one 7 (4), e33224, 2012",
+        "counts": "279",
+        "year": "2012"
+      },
+      {
+        "title": "The co-morbidity burden of children and young adults with autism spectrum disorders",
+        "authors": "IS Kohane, A McMurry, G Weber, D MacFadden, L Rappaport, L Kunkel, ...",
+        "journal": "PloS one 7 (4), e33224, 2012",
+        "counts": "279",
+        "year": "2012"
+      },
+      {
+        "title": "The Shared Health Research Information Network (SHRINE): a prototype federated query tool for clinical data repositories",
+        "authors": "GM Weber, SN Murphy, AJ McMurry, D MacFadden, DJ Nigrin, ...",
+        "journal": "Journal of the American Medical Informatics Association 16 (5), 624-630, 2009",
+        "counts": "246",
+        "year": "2009"
+      },
+      {
+        "title": "Predicting the survival of patients with breast carcinoma using tumor size",
+        "authors": "JS Michaelson, M Silverstein, J Wyatt, G Weber, R Moore, E Halpern, ...",
+        "journal": "Cancer: Interdisciplinary International Journal of the American Cancer …, 2002",
+        "counts": "227",
+        "year": "2002"
+      },
+      {
+        "title": "Finding the missing link for big biomedical data",
+        "authors": "GM Weber, KD Mandl, IS Kohane",
+        "journal": "Jama 311 (24), 2479-2480, 2014",
+        "counts": "204",
+        "year": "2014"
+      },
+      {
+        "title": "The pattern of breast cancer screening utilization and its consequences",
+        "authors": "J Michaelson, S Satija, R Moore, G Weber, E Halpern, A Garland, D Puri, ...",
+        "journal": "Cancer 94 (1), 37-43, 2002",
+        "counts": "105",
+        "year": "2002"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Surgical treatment of hepatocellular carcinoma: experience with liver resection and transplantation in 198 patients",
         "authors": "B Ringe, R Pichlmayr, C Wittekind, G Tusch",
         "journal": "World journal of surgery 15 (2), 270-285, 1991",
-        "counts": "618",
+        "counts": "617",
         "year": "1991"
       },
       {
         "title": "Surgical treatment in proximal bile duct cancer. A single-center experience.",
         "authors": "R Pichlmayr, A Weimann, J Klempnauer, KJ Oldhafer, H Maschek, ...",
         "journal": "Annals of surgery 224 (5), 628, 1996",
-        "counts": "402",
+        "counts": "401",
         "year": "1996"
       },
       {
@@ -21385,7 +23040,7 @@ var data = [
         "title": "Liver transplantation in HBs antigen (HBsAg) carriers: prevention of hepatitis B virus (HBV) recurrence by passive immunization",
         "authors": "R Müller, G Gubernatis, M Farle, G Niehoff, H Klein, C Wittekind, G Tusch, ...",
         "journal": "Journal of hepatology 13 (1), 90-96, 1991",
-        "counts": "203",
+        "counts": "204",
         "year": "1991"
       },
       {
@@ -21399,7 +23054,7 @@ var data = [
         "title": "Role of liver transplantation in the treatment of unresectable liver cancer",
         "authors": "R Pichlmayr, A Weimann, KJ Oldhafer, HJ Schlitt, J Klempnauer, ...",
         "journal": "World journal of surgery 19 (6), 807-813, 1995",
-        "counts": "170",
+        "counts": "169",
         "year": "1995"
       },
       {
@@ -21420,7 +23075,7 @@ var data = [
         "title": "Results of hepatic resection and transplantation for fibrolamellar carcinoma.",
         "authors": "B Ringe, C Wittekind, A Weimann, G Tusch, R Pichlmayr",
         "journal": "Surgery, gynecology & obstetrics 175 (4), 299-305, 1992",
-        "counts": "132",
+        "counts": "131",
         "year": "1992"
       },
       {
@@ -21480,7 +23135,7 @@ var data = [
         "title": "Normalization of plasma 25-hydroxy vitamin D is associated with reduced risk of surgery in Crohn’s disease",
         "authors": "AN Ananthakrishnan, A Cagan, VS Gainer, T Cai, SC Cheng, G Savova, ...",
         "journal": "Inflammatory bowel diseases 19 (9), 1921-1927, 2013",
-        "counts": "147",
+        "counts": "148",
         "year": "2013"
       },
       {
@@ -21568,14 +23223,14 @@ var data = [
         "title": "Fisher discriminant analysis with kernels",
         "authors": "S Mika, G Raetsch, B Scholkopf, KR Muller",
         "journal": "Neural networks for signal processing IX, 1999",
-        "counts": "2994",
+        "counts": "2991",
         "year": "1999"
       },
       {
         "title": "The cancer genome atlas pan-cancer analysis project",
         "authors": "JN Weinstein, EA Collisson, GB Mills, KRM Shaw, BA Ozenberger, ...",
         "journal": "Nature genetics 45 (10), 1113, 2013",
-        "counts": "1728",
+        "counts": "1730",
         "year": "2013"
       },
       {
@@ -21617,7 +23272,7 @@ var data = [
         "title": "Integrative analysis of the Caenorhabditis elegans genome by the modENCODE project",
         "authors": "MB Gerstein, ZJ Lu, EL Van Nostrand, C Cheng, BI Arshinoff, T Liu, ...",
         "journal": "Science, 1196914, 2010",
-        "counts": "769",
+        "counts": "770",
         "year": "2010"
       },
       {
@@ -21638,7 +23293,7 @@ var data = [
         "title": "The molecular taxonomy of primary prostate cancer",
         "authors": "A Abeshouse, J Ahn, R Akbani, A Ally, S Amin, CD Andry, M Annala, ...",
         "journal": "Cell 163 (4), 1011-1025, 2015",
-        "counts": "594",
+        "counts": "595",
         "year": "2015"
       },
       {
@@ -21680,7 +23335,7 @@ var data = [
         "title": "Multiple reference genomes and transcriptomes for Arabidopsis thaliana",
         "authors": "X Gan, O Stegle, J Behr, JG Steffen, P Drewe, KL Hildebrand, R Lyngsoe, ...",
         "journal": "Nature 477 (7365), 419, 2011",
-        "counts": "457",
+        "counts": "456",
         "year": "2011"
       },
       {
@@ -21694,14 +23349,14 @@ var data = [
         "title": "Assessment of transcript reconstruction methods for RNA-seq",
         "authors": "T Steijger, JF Abril, PG Engström, F Kokocinski, M Akerman, T Alioto, ...",
         "journal": "Nature methods 10 (12), 1177, 2013",
-        "counts": "325",
+        "counts": "324",
         "year": "2013"
       },
       {
         "title": "Systematic evaluation of spliced alignment programs for RNA-seq data",
         "authors": "PG Engström, T Steijger, B Sipos, GR Grant, A Kahles, T Alioto, J Behr, ...",
         "journal": "Nature methods 10 (12), 1185, 2013",
-        "counts": "309",
+        "counts": "310",
         "year": "2013"
       },
       {
@@ -21719,18 +23374,18 @@ var data = [
         "year": "2003"
       },
       {
-        "title": "The SHOGUN machine learning toolbox",
-        "authors": "SĆ Sonnenburg, S Henschel, C Widmer, J Behr, A Zien, F Bona, A Binder, ...",
-        "journal": "Journal of Machine Learning Research 11 (Jun), 1799-1802, 2010",
-        "counts": "278",
-        "year": "2010"
-      },
-      {
         "title": "Stress‐induced changes in the Arabidopsis thaliana transcriptome analyzed using whole‐genome tiling arrays",
         "authors": "G Zeller, SR Henz, CK Widmer, T Sachsenberg, G Rätsch, D Weigel, ...",
         "journal": "The Plant Journal 58 (6), 1068-1082, 2009",
-        "counts": "277",
+        "counts": "278",
         "year": "2009"
+      },
+      {
+        "title": "The SHOGUN machine learning toolbox",
+        "authors": "SĆ Sonnenburg, S Henschel, C Widmer, J Behr, A Zien, F Bona, A Binder, ...",
+        "journal": "Journal of Machine Learning Research 11 (Jun), 1799-1802, 2010",
+        "counts": "277",
+        "year": "2010"
       },
       {
         "title": "Constructing boosting algorithms from SVMs: an application to one-class classification",
@@ -21778,7 +23433,7 @@ var data = [
         "title": "Ecological modeling from time-series inference: insight into dynamics and stability of intestinal microbiota",
         "authors": "RR Stein, V Bucci, NC Toussaint, CG Buffie, G Rätsch, EG Pamer, ...",
         "journal": "PLoS computational biology 9 (12), e1003388, 2013",
-        "counts": "200",
+        "counts": "201",
         "year": "2013"
       },
       {
@@ -21803,17 +23458,10 @@ var data = [
         "year": "2006"
       },
       {
-        "title": "Optimal spliced alignments of short sequence reads",
-        "authors": "F De Bona, S Ossowski, K Schneeberger, G Rätsch",
-        "journal": "BMC Bioinformatics 9 (10), O7, 2008",
-        "counts": "177",
-        "year": "2008"
-      },
-      {
         "title": "Matrix exponentiated gradient updates for on-line learning and Bregman projection",
         "authors": "K Tsuda, G Rätsch, MK Warmuth",
         "journal": "Journal of Machine Learning Research 6 (Jun), 995-1018, 2005",
-        "counts": "177",
+        "counts": "178",
         "year": "2005"
       },
       {
@@ -21822,6 +23470,13 @@ var data = [
         "journal": "Genome research 21 (2), 325-341, 2011",
         "counts": "175",
         "year": "2011"
+      },
+      {
+        "title": "Optimal spliced alignments of short sequence reads",
+        "authors": "F De Bona, S Ossowski, K Schneeberger, G Rätsch",
+        "journal": "BMC Bioinformatics 9 (10), O7, 2008",
+        "counts": "175",
+        "year": "2008"
       },
       {
         "title": "Kernel fisher discriminants",
@@ -21901,14 +23556,14 @@ var data = [
         "title": "What is e-health?",
         "authors": "G Eysenbach",
         "journal": "Journal of medical Internet research 3 (2), e20, 2001",
-        "counts": "2340",
+        "counts": "2341",
         "year": "2001"
       },
       {
         "title": "How do consumers search for and appraise health information on the world wide web? Qualitative study using focus groups, usability tests, and in-depth interviews",
         "authors": "G Eysenbach, C Köhler",
         "journal": "Bmj 324 (7337), 573-577, 2002",
-        "counts": "1762",
+        "counts": "1763",
         "year": "2002"
       },
       {
@@ -21929,14 +23584,14 @@ var data = [
         "title": "Health related virtual communities and electronic support groups: systematic review of the effects of online peer to peer interactions",
         "authors": "G Eysenbach, J Powell, M Englesakis, C Rizo, A Stern",
         "journal": "Bmj 328 (7449), 1166, 2004",
-        "counts": "1199",
+        "counts": "1198",
         "year": "2004"
       },
       {
         "title": "Medicine 2.0: social networking, collaboration, participation, apomediation, and openness",
         "authors": "G Eysenbach",
         "journal": "Journal of medical Internet research 10 (3), e22, 2008",
-        "counts": "1102",
+        "counts": "1103",
         "year": "2008"
       },
       {
@@ -21971,14 +23626,14 @@ var data = [
         "title": "Citation advantage of open access articles",
         "authors": "G Eysenbach",
         "journal": "PLoS biology 4 (5), e157, 2006",
-        "counts": "774",
+        "counts": "775",
         "year": "2006"
       },
       {
         "title": "Improving the quality of Web surveys: the Checklist for Reporting Results of Internet E-Surveys (CHERRIES)",
         "authors": "G Eysenbach",
         "journal": "Journal of medical Internet research 6 (3), 2004",
-        "counts": "677",
+        "counts": "678",
         "year": "2004"
       },
       {
@@ -22027,7 +23682,7 @@ var data = [
         "title": "Infodemiology and infoveillance: framework for an emerging set of public health informatics methods to analyze search, communication and publication behavior on the Internet",
         "authors": "G Eysenbach",
         "journal": "Journal of medical Internet research 11 (1), 2009",
-        "counts": "369",
+        "counts": "370",
         "year": "2009"
       },
       {
@@ -22048,7 +23703,7 @@ var data = [
         "title": "Increasing physical activity with mobile devices: a meta-analysis",
         "authors": "J Fanning, SP Mullen, E McAuley",
         "journal": "Journal of medical Internet research 14 (6), 2012",
-        "counts": "295",
+        "counts": "296",
         "year": "2012"
       },
       {
@@ -22069,7 +23724,7 @@ var data = [
         "title": "Patients looking for information on the Internet and seeking teleadvice: motivation, expectations, and misconceptions as expressed in e-mails sent to physicians",
         "authors": "G Eysenbach, TL Diepgen",
         "journal": "Archives of dermatology 135 (2), 151-156, 1999",
-        "counts": "269",
+        "counts": "268",
         "year": "1999"
       },
       {
@@ -22255,7 +23910,7 @@ var data = [
         "title": "Support vector machine in chemistry",
         "authors": "W Lu, J Yang, G Li",
         "journal": "World Scientific, 2004",
-        "counts": "147",
+        "counts": "148",
         "year": "2004"
       },
       {
@@ -22295,7 +23950,7 @@ var data = [
         "title": "Gene cassettes and cassette arrays in mobile resistance integrons",
         "authors": "SR Partridge, G Tsafnat, E Coiera, JR Iredell",
         "journal": "FEMS microbiology reviews 33 (4), 757-784, 2009",
-        "counts": "429",
+        "counts": "431",
         "year": "2009"
       },
       {
@@ -22415,7 +24070,7 @@ var data = [
         "title": "Measuring user influence in twitter: The million follower fallacy.",
         "authors": "M Cha, H Haddadi, F Benevenuto, PK Gummadi",
         "journal": "Icwsm 10 (10-17), 30, 2010",
-        "counts": "3059",
+        "counts": "3060",
         "year": "2010"
       },
       {
@@ -22580,7 +24235,7 @@ var data = [
         "title": "Missed and delayed diagnosis of dementia in primary care: prevalence and contributing factors",
         "authors": "A Bradford, ME Kunik, P Schulz, SP Williams, H Singh",
         "journal": "Alzheimer disease and associated disorders 23 (4), 306, 2009",
-        "counts": "327",
+        "counts": "328",
         "year": "2009"
       },
       {
@@ -22689,7 +24344,7 @@ var data = [
         "title": "Research methods in human-computer interaction",
         "authors": "J Lazar, JH Feng, H Hochheiser",
         "journal": "Morgan Kaufmann, 2017",
-        "counts": "1260",
+        "counts": "1263",
         "year": "2017"
       },
       {
@@ -22886,7 +24541,7 @@ var data = [
         "title": "A randomized trial of teaching clinical skills using virtual and live standardized patients",
         "authors": "M Triola, H Feldman, AL Kalet, S Zabar, EK Kachur, C Gillespie, ...",
         "journal": "Journal of general internal medicine 21 (5), 424-429, 2006",
-        "counts": "172",
+        "counts": "173",
         "year": "2006"
       },
       {
@@ -23023,7 +24678,7 @@ var data = [
         "title": "The HELP system",
         "authors": "TA Pryor, RM Gardner, PD Clayton, HR Warner",
         "journal": "Journal of medical systems 7 (2), 87-102, 1983",
-        "counts": "544",
+        "counts": "545",
         "year": "1983"
       },
       {
@@ -23037,7 +24692,7 @@ var data = [
         "title": "Leukokinetic studies: XIII. A non-steady-state kinetic evaluation of the mechanism of cortisone-induced granulocytosis",
         "authors": "CR Bishop, JW Athens, DR Boggs, HR Warner, GE Cartwright, ...",
         "journal": "The Journal of clinical investigation 47 (2), 249-260, 1968",
-        "counts": "336",
+        "counts": "337",
         "year": "1968"
       },
       {
@@ -23181,7 +24836,7 @@ var data = [
         "title": "GeneWays: a system for extracting, analyzing, visualizing, and integrating molecular pathway data",
         "authors": "A Rzhetsky, I Iossifov, T Koike, M Krauthammer, P Kra, M Morris, H Yu, ...",
         "journal": "Journal of biomedical informatics 37 (1), 43-53, 2004",
-        "counts": "318",
+        "counts": "319",
         "year": "2004"
       },
       {
@@ -23475,6 +25130,80 @@ var data = [
     "citations": []
   },
   {
+    "citations": [
+      {
+        "title": "Initial sequencing and analysis of the human genome",
+        "authors": "International Human Genome Sequencing Consortium",
+        "journal": "Nature 409 (6822), 860, 2001",
+        "counts": "22845",
+        "year": "2001"
+      },
+      {
+        "title": "The DNA sequence of human chromosome 22",
+        "authors": "I Dunham, AR Hunt, JE Collins, R Bruskiewich, DM Beare, M Clamp, ...",
+        "journal": "Nature 402 (6761), 489, 1999",
+        "counts": "1332",
+        "year": "1999"
+      },
+      {
+        "title": "The genome sequence of the rice blast fungus Magnaporthe grisea",
+        "authors": "RA Dean, NJ Talbot, DJ Ebbole, ML Farman, TK Mitchell, MJ Orbach, ...",
+        "journal": "Nature 434 (7036), 980, 2005",
+        "counts": "1323",
+        "year": "2005"
+      },
+      {
+        "title": "Sequence and analysis of the human ABL gene, the BCR gene, and regions involved in the Philadelphia chromosomal translocation",
+        "authors": "SL Chissoe, A Bodenteich, YF Wang, YP Wang, D Burian, SW Clifton, ...",
+        "journal": "Genomics 27 (1), 67-82, 1995",
+        "counts": "242",
+        "year": "1995"
+      },
+      {
+        "title": "The PhenX Toolkit: get the most from your measures",
+        "authors": "CM Hamilton, LC Strader, JG Pratt, D Maiese, T Hendershot, RK Kwok, ...",
+        "journal": "American journal of epidemiology 174 (3), 253-260, 2011",
+        "counts": "215",
+        "year": "2011"
+      },
+      {
+        "title": "Novel G-protein-coupled receptor-like proteins in the plant pathogenic fungus Magnaporthe grisea",
+        "authors": "RD Kulkarni, MR Thon, H Pan, RA Dean",
+        "journal": "Genome biology 6 (3), R24, 2005",
+        "counts": "176",
+        "year": "2005"
+      },
+      {
+        "title": "Transcriptome analysis reveals new insight into appressorium formation and function in the rice blast fungus Magnaporthe oryzae",
+        "authors": "Y Oh, N Donofrio, H Pan, S Coughlan, DE Brown, S Meng, T Mitchell, ...",
+        "journal": "Genome biology 9 (5), R85, 2008",
+        "counts": "125",
+        "year": "2008"
+      },
+      {
+        "title": "Global gene expression during nitrogen starvation in the rice blast fungus, Magnaporthe grisea",
+        "authors": "NM Donofrio, Y Oh, R Lundy, H Pan, DE Brown, JS Jeong, S Coughlan, ...",
+        "journal": "Fungal Genetics and Biology 43 (9), 605-617, 2006",
+        "counts": "113",
+        "year": "2006"
+      },
+      {
+        "title": "The α-and β-subunits of the human UDP-N-acetylglucosamine: lysosomal enzyme phosphotransferase are encoded by a single cDNA",
+        "authors": "M Kudo, M Bao, A D'Souza, F Ying, H Pan, BA Roe, WM Canfield",
+        "journal": "Journal of Biological Chemistry 280 (43), 36141-36149, 2005",
+        "counts": "104",
+        "year": "2005"
+      },
+      {
+        "title": "Gene Discovery and Gene Expression in the Rice Blast Fungus, Magnaporthe grisea: Analysis of Expressed Sequence Tags",
+        "authors": "DJ Ebbole, Y Jin, M Thon, H Pan, E Bhattarai, T Thomas, R Dean",
+        "journal": "Molecular plant-microbe interactions 17 (12), 1337-1347, 2004",
+        "counts": "101",
+        "year": "2004"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -23535,7 +25264,7 @@ var data = [
         "title": "Adsorption of basic dye from aqueous solution onto fly ash",
         "authors": "JX Lin, SL Zhan, MH Fang, XQ Qian, H Yang",
         "journal": "Journal of Environmental Management 87 (1), 193-200, 2008",
-        "counts": "167",
+        "counts": "168",
         "year": "2008"
       },
       {
@@ -23591,7 +25320,7 @@ var data = [
         "title": "A prospective, randomised trial comparing closed intramedullary nailing with percutaneous plating in the treatment of distal metaphyseal fractures of the tibia",
         "authors": "JJ Guo, N Tang, HL Yang, TS Tang",
         "journal": "The Journal of bone and joint surgery. British volume 92 (7), 984-988, 2010",
-        "counts": "152",
+        "counts": "151",
         "year": "2010"
       },
       {
@@ -23696,7 +25425,7 @@ var data = [
         "title": "WT1 recruits TET2 to regulate its target gene expression and suppress leukemia cell proliferation",
         "authors": "Y Wang, M Xiao, X Chen, L Chen, Y Xu, L Lv, P Wang, H Yang, S Ma, ...",
         "journal": "Molecular cell 57 (4), 662-673, 2015",
-        "counts": "108",
+        "counts": "109",
         "year": "2015"
       },
       {
@@ -23748,7 +25477,7 @@ var data = [
         "title": "Adherence to HAART: a systematic review of developed and developing nation patient-reported barriers and facilitators",
         "authors": "EJ Mills, JB Nachega, DR Bangsberg, S Singh, B Rachlis, P Wu, K Wilson, ...",
         "journal": "PLoS medicine 3 (11), e438, 2006",
-        "counts": "773",
+        "counts": "774",
         "year": "2006"
       },
       {
@@ -23949,14 +25678,14 @@ var data = [
         "title": "The anatomy of the grid: Enabling scalable virtual organizations",
         "authors": "I Foster, C Kesselman, S Tuecke",
         "journal": "The International Journal of High Performance Computing Applications 15 (3 …, 2001",
-        "counts": "11828",
+        "counts": "11829",
         "year": "2001"
       },
       {
         "title": "The physiology of the grid",
         "authors": "I Foster, C Kesselman, JM Nick, S Tuecke",
         "journal": "Grid computing: making the global infrastructure a reality, 217-249, 2003",
-        "counts": "5037",
+        "counts": "5036",
         "year": "2003"
       },
       {
@@ -23977,7 +25706,7 @@ var data = [
         "title": "Designing and building parallel programs",
         "authors": "I Foster",
         "journal": "Addison Wesley Publishing Company, 1995",
-        "counts": "2322",
+        "counts": "2321",
         "year": "1995"
       },
       {
@@ -23998,7 +25727,7 @@ var data = [
         "title": "A security architecture for computational grids",
         "authors": "I Foster, C Kesselman, G Tsudik, S Tuecke",
         "journal": "Proceedings of the 5th ACM conference on Computer and communications …, 1998",
-        "counts": "1895",
+        "counts": "1896",
         "year": "1998"
       },
       {
@@ -24033,7 +25762,7 @@ var data = [
         "title": "A resource management architecture for metacomputing systems",
         "authors": "K Czajkowski, I Foster, N Karonis, C Kesselman, S Martin, W Smith, ...",
         "journal": "Workshop on Job Scheduling Strategies for Parallel Processing, 62-82, 1998",
-        "counts": "1265",
+        "counts": "1264",
         "year": "1998"
       },
       {
@@ -24054,14 +25783,14 @@ var data = [
         "title": "The Globus project: A status report",
         "authors": "I Foster, C Kesselman",
         "journal": "Heterogeneous Computing Workshop, 1998.(HCW 98) Proceedings. 1998 Seventh, 4-18, 1998",
-        "counts": "999",
+        "counts": "998",
         "year": "1998"
       },
       {
         "title": "MPICH-G2: A grid-enabled implementation of the message passing interface",
         "authors": "NT Karonis, B Toonen, I Foster",
         "journal": "Journal of Parallel and Distributed Computing 63 (5), 551-563, 2003",
-        "counts": "932",
+        "counts": "931",
         "year": "2003"
       },
       {
@@ -24082,14 +25811,14 @@ var data = [
         "title": "XSEDE: accelerating scientific discovery",
         "authors": "J Towns, T Cockerill, M Dahan, I Foster, K Gaither, A Grimshaw, ...",
         "journal": "Computing in Science & Engineering 16 (5), 62-74, 2014",
-        "counts": "858",
+        "counts": "859",
         "year": "2014"
       },
       {
         "title": "Chimera: A virtual data system for representing, querying, and automating data derivation",
         "authors": "I Foster, J Vockler, M Wilde, Y Zhao",
         "journal": "Scientific and Statistical Database Management, 2002. Proceedings. 14th …, 2002",
-        "counts": "831",
+        "counts": "832",
         "year": "2002"
       },
       {
@@ -24292,7 +26021,7 @@ var data = [
         "title": "A grid-enabled MPI: Message passing in heterogeneous distributed computing systems",
         "authors": "I Foster, NT Karonis",
         "journal": "Supercomputing, 1998. SC98. IEEE/ACM Conference on, 46-46, 1998",
-        "counts": "388",
+        "counts": "387",
         "year": "1998"
       },
       {
@@ -24523,7 +26252,7 @@ var data = [
         "title": "The community authorization service: Status and future",
         "authors": "L Pearlman, V Welch, I Foster, C Kesselman, S Tuecke",
         "journal": "arXiv preprint cs/0306082, 2003",
-        "counts": "221",
+        "counts": "222",
         "year": "2003"
       },
       {
@@ -24590,11 +26319,11 @@ var data = [
         "year": "1999"
       },
       {
-        "title": "Software infrastructure for the I-WAY high-performance distributed computing experiment",
-        "authors": "I Foster, J Geisler, B Nickless, W Smith, S Tuecke",
-        "journal": "High Performance Distributed Computing, 1996., Proceedings of 5th IEEE …, 1996",
-        "counts": "189",
-        "year": "1996"
+        "title": "Locating data in (small-world?) peer-to-peer scientific collaborations",
+        "authors": "A Iamnitchi, M Ripeanu, I Foster",
+        "journal": "International Workshop on Peer-to-Peer Systems, 232-241, 2002",
+        "counts": "188",
+        "year": "2002"
       }
     ]
   },
@@ -24635,7 +26364,7 @@ var data = [
         "title": "Principles for international registration of protocol information and results from human trials of health related interventions: Ottawa statement (part 1)",
         "authors": "K Krleža-Jerić, AW Chan, K Dickersin, I Sim, J Grimshaw, C Gluud",
         "journal": "BMJ: British Medical Journal 330 (7497), 956, 2005",
-        "counts": "233",
+        "counts": "234",
         "year": "2005"
       },
       {
@@ -24731,6 +26460,66 @@ var data = [
   {
     "citations": [
       {
+        "title": "Mobile healthcare information management utilizing Cloud Computing and Android OS",
+        "authors": "C Doukas, T Pliakas, I Maglogiannis",
+        "journal": "Engineering in Medicine and Biology Society (EMBC), 2010 Annual …, 2010",
+        "counts": "285",
+        "year": "2010"
+      },
+      {
+        "title": "Overview of advanced computer vision systems for skin lesions characterization",
+        "authors": "I Maglogiannis, CN Doukas",
+        "journal": "IEEE transactions on information technology in biomedicine 13 (5), 721-733, 2009",
+        "counts": "222",
+        "year": "2009"
+      },
+      {
+        "title": "The IEEE 802.11 g standard for high data rate WLANs",
+        "authors": "D Vassis, G Kormentzas, A Rouskas, I Maglogiannis",
+        "journal": "IEEE network 19 (3), 21-26, 2005",
+        "counts": "204",
+        "year": "2005"
+      },
+      {
+        "title": "Bringing IoT and cloud computing towards pervasive healthcare",
+        "authors": "C Doukas, I Maglogiannis",
+        "journal": "Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS), 2012 …, 2012",
+        "counts": "196",
+        "year": "2012"
+      },
+      {
+        "title": "Support vectors machine-based identification of heart valve diseases using heart sounds",
+        "authors": "I Maglogiannis, E Loukis, E Zafiropoulos, A Stasis",
+        "journal": "Computer methods and programs in biomedicine 95 (1), 47-61, 2009",
+        "counts": "151",
+        "year": "2009"
+      },
+      {
+        "title": "Emergency fall incidents detection in assisted living environments utilizing motion, sound, and visual perceptual components",
+        "authors": "CN Doukas, I Maglogiannis",
+        "journal": "IEEE Transactions on Information Technology in Biomedicine 15 (2), 277-289, 2011",
+        "counts": "124",
+        "year": "2011"
+      },
+      {
+        "title": "An integrated computer supported acquisition, handling, and characterization system for pigmented skin lesions in dermatological images",
+        "authors": "I Maglogiannis, S Pavlopoulos, D Koutsouris",
+        "journal": "IEEE Transactions on Information Technology in Biomedicine 9 (1), 86-98, 2005",
+        "counts": "108",
+        "year": "2005"
+      },
+      {
+        "title": "An intelligent system for automated breast cancer diagnosis and prognosis using SVM based classifiers",
+        "authors": "I Maglogiannis, E Zafiropoulos, I Anagnostopoulos",
+        "journal": "Applied intelligence 30 (1), 24-36, 2009",
+        "counts": "107",
+        "year": "2009"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Guidelines for reporting of health interventions using mobile phones: mobile health (mHealth) evidence reporting and assessment (mERA) checklist",
         "authors": "S Agarwal, AE LeFevre, J Lee, K L’Engle, G Mehl, C Sinha, A Labrique",
         "journal": "Bmj 352, i1174, 2016",
@@ -24757,7 +26546,7 @@ var data = [
         "title": "Algorithms for drawing graphs: an annotated bibliography",
         "authors": "G Di Battista, P Eades, R Tamassia, IG Tollis",
         "journal": "Computational Geometry-Theory and Application 4 (5), 235-282, 1994",
-        "counts": "1241",
+        "counts": "1240",
         "year": "1994"
       },
       {
@@ -24927,14 +26716,14 @@ var data = [
         "title": "Comprehensive genomic characterization defines human glioblastoma genes and core pathways",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 455 (7216), 1061, 2008",
-        "counts": "4321",
+        "counts": "4323",
         "year": "2008"
       },
       {
         "title": "Coordinated reduction of genes of oxidative metabolism in humans with insulin resistance and diabetes: Potential role of PGC1 and NRF1",
         "authors": "ME Patti, AJ Butte, S Crunkhorn, K Cusi, R Berria, S Kashyap, Y Miyazaki, ...",
         "journal": "Proceedings of the National Academy of Sciences 100 (14), 8466-8471, 2003",
-        "counts": "1832",
+        "counts": "1831",
         "year": "2003"
       },
       {
@@ -24955,14 +26744,14 @@ var data = [
         "title": "A signature of chromosomal instability inferred from gene expression profiles predicts clinical outcome in multiple human cancers",
         "authors": "SL Carter, AC Eklund, IS Kohane, LN Harris, Z Szallasi",
         "journal": "Nature genetics 38 (9), 1043, 2006",
-        "counts": "748",
+        "counts": "747",
         "year": "2006"
       },
       {
         "title": "A mega-analysis of genome-wide association studies for major depressive disorder",
         "authors": "S Ripke, NR Wray, CM Lewis, SP Hamilton, MM Weissman, G Breen, ...",
         "journal": "Molecular psychiatry 18 (4), 497, 2013",
-        "counts": "714",
+        "counts": "713",
         "year": "2013"
       },
       {
@@ -25011,7 +26800,7 @@ var data = [
         "title": "Distinctive patterns of microRNA expression in primary muscular disorders",
         "authors": "I Eisenberg, A Eran, I Nishino, M Moggio, C Lamperti, AA Amato, ...",
         "journal": "Proceedings of the National Academy of Sciences 104 (43), 17016-17021, 2007",
-        "counts": "413",
+        "counts": "414",
         "year": "2007"
       },
       {
@@ -25127,18 +26916,18 @@ var data = [
         "year": "2004"
       },
       {
+        "title": "Finding the missing link for big biomedical data",
+        "authors": "GM Weber, KD Mandl, IS Kohane",
+        "journal": "Jama 311 (24), 2479-2480, 2014",
+        "counts": "204",
+        "year": "2014"
+      },
+      {
         "title": "Minimal haplotype tagging",
         "authors": "P Sebastiani, R Lazarus, ST Weiss, LM Kunkel, IS Kohane, MF Ramoni",
         "journal": "Proceedings of the National Academy of Sciences 100 (17), 9900-9905, 2003",
         "counts": "204",
         "year": "2003"
-      },
-      {
-        "title": "Finding the missing link for big biomedical data",
-        "authors": "GM Weber, KD Mandl, IS Kohane",
-        "journal": "Jama 311 (24), 2479-2480, 2014",
-        "counts": "203",
-        "year": "2014"
       },
       {
         "title": "Network-based analysis of affected biological processes in type 2 diabetes models",
@@ -25186,7 +26975,7 @@ var data = [
         "title": "Expression profiling and identification of novel genes involved in myogenic differentiation",
         "authors": "KK Tomczak, VD Marinescu, MF Ramoni, D Sanoudou, F Montanaro, ...",
         "journal": "The FASEB journal 18 (2), 403-405, 2004",
-        "counts": "169",
+        "counts": "170",
         "year": "2004"
       },
       {
@@ -25249,14 +27038,14 @@ var data = [
         "title": "Normalization of plasma 25-hydroxy vitamin D is associated with reduced risk of surgery in Crohn’s disease",
         "authors": "AN Ananthakrishnan, A Cagan, VS Gainer, T Cai, SC Cheng, G Savova, ...",
         "journal": "Inflammatory bowel diseases 19 (9), 1921-1927, 2013",
-        "counts": "147",
+        "counts": "148",
         "year": "2013"
       },
       {
         "title": "Comorbidity clusters in autism spectrum disorders: an electronic health record time-series analysis",
         "authors": "F Doshi-Velez, Y Ge, I Kohane",
         "journal": "Pediatrics 133 (1), e54-e63, 2014",
-        "counts": "146",
+        "counts": "147",
         "year": "2014"
       },
       {
@@ -25323,6 +27112,13 @@ var data = [
         "year": "2009"
       },
       {
+        "title": "Prenatal antidepressant exposure is associated with risk for attention-deficit hyperactivity disorder but not autism spectrum disorder in a large health system",
+        "authors": "CC Clements, VM Castro, SR Blumenthal, HR Rosenfield, SN Murphy, ...",
+        "journal": "Molecular psychiatry 20 (6), 727, 2015",
+        "counts": "115",
+        "year": "2015"
+      },
+      {
         "title": "The SMART Platform: early experience enabling substitutable applications for electronic health records",
         "authors": "KD Mandl, JC Mandel, SN Murphy, EV Bernstam, RL Ramoni, DA Kreda, ...",
         "journal": "Journal of the American Medical Informatics Association 19 (4), 597-603, 2012",
@@ -25335,13 +27131,6 @@ var data = [
         "journal": "The American Journal of Human Genetics 88 (1), 57-69, 2011",
         "counts": "115",
         "year": "2011"
-      },
-      {
-        "title": "Prenatal antidepressant exposure is associated with risk for attention-deficit hyperactivity disorder but not autism spectrum disorder in a large health system",
-        "authors": "CC Clements, VM Castro, SR Blumenthal, HR Rosenfield, SN Murphy, ...",
-        "journal": "Molecular psychiatry 20 (6), 727, 2015",
-        "counts": "114",
-        "year": "2015"
       },
       {
         "title": "Using electronic medical records to enable large-scale studies in psychiatry: treatment resistant depression as a model",
@@ -25396,14 +27185,14 @@ var data = [
         "title": "A SNP-centric database for the investigation of the human genome",
         "authors": "A Riva, IS Kohane",
         "journal": "BMC bioinformatics 5 (1), 33, 2004",
-        "counts": "105",
+        "counts": "104",
         "year": "2004"
       },
       {
         "title": "Managing temporal worlds for medical trend diagnosis",
         "authors": "IJ Haimowitz, IS Kohane",
         "journal": "Artificial Intelligence in Medicine 8 (3), 299-321, 1996",
-        "counts": "103",
+        "counts": "104",
         "year": "1996"
       }
     ]
@@ -25449,14 +27238,14 @@ var data = [
         "title": "A training algorithm for optimal margin classifiers",
         "authors": "BE Boser, IM Guyon, VN Vapnik",
         "journal": "Proceedings of the fifth annual workshop on Computational learning theory …, 1992",
-        "counts": "9945",
+        "counts": "9944",
         "year": "1992"
       },
       {
         "title": "Gene selection for cancer classification using support vector machines",
         "authors": "I Guyon, J Weston, S Barnhill, V Vapnik",
         "journal": "Machine learning 46 (1-3), 389-422, 2002",
-        "counts": "6626",
+        "counts": "6625",
         "year": "2002"
       },
       {
@@ -25484,7 +27273,7 @@ var data = [
         "title": "A stability based method for discovering structure in clustered data",
         "authors": "A Ben-Hur, A Elisseeff, I Guyon",
         "journal": "Biocomputing 2002, 6-17, 2001",
-        "counts": "620",
+        "counts": "621",
         "year": "2001"
       },
       {
@@ -25512,7 +27301,7 @@ var data = [
         "title": "Result analysis of the NIPS 2003 feature selection challenge",
         "authors": "I Guyon, S Gunn, A Ben-Hur, G Dror",
         "journal": "Advances in neural information processing systems, 545-552, 2005",
-        "counts": "394",
+        "counts": "393",
         "year": "2005"
       },
       {
@@ -25719,14 +27508,14 @@ var data = [
         "title": "Markov models in medical decision making: a practical guide",
         "authors": "FA Sonnenberg, JR Beck",
         "journal": "Medical decision making 13 (4), 322-338, 1993",
-        "counts": "2339",
+        "counts": "2340",
         "year": "1993"
       },
       {
         "title": "The Markov process in medical prognosis",
         "authors": "JR Beck, SG Pauker",
         "journal": "Medical decision making 3 (4), 419-458, 1983",
-        "counts": "989",
+        "counts": "988",
         "year": "1983"
       },
       {
@@ -25842,7 +27631,7 @@ var data = [
         "title": "Centinela: A human activity recognition system based on acceleration and vital sign data",
         "authors": "ÓD Lara, AJ Pérez, MA Labrador, JD Posada",
         "journal": "Pervasive and Mobile Computing, 2011",
-        "counts": "158",
+        "counts": "155",
         "year": "2011"
       }
     ]
@@ -25899,6 +27688,38 @@ var data = [
   {
     "citations": [
       {
+        "title": "Single-cell NF-κB dynamics reveal digital activation and analogue information processing",
+        "authors": "S Tay, JJ Hughey, TK Lee, T Lipniacki, SR Quake, MW Covert",
+        "journal": "Nature 466 (7303), 267-271, 2010",
+        "counts": "573",
+        "year": "2010"
+      },
+      {
+        "title": "Microfluidic platform for real-time signaling analysis of multiple single T cells in parallel",
+        "authors": "S Faley, K Seale, J Hughey, DK Schaffer, S VanCompernolle, B McKinney, ...",
+        "journal": "Lab on a Chip 8 (10), 1700-1712, 2008",
+        "counts": "127",
+        "year": "2008"
+      },
+      {
+        "title": "A noisy paracrine signal determines the cellular NF-κB response to lipopolysaccharide",
+        "authors": "TK Lee, EM Denny, JC Sanghvi, JE Gaston, ND Maynard, JJ Hughey, ...",
+        "journal": "Sci. Signal. 2 (93), ra65-ra65, 2009",
+        "counts": "115",
+        "year": "2009"
+      },
+      {
+        "title": "High-sensitivity measurements of multiple kinase activities in live single cells",
+        "authors": "S Regot, JJ Hughey, BT Bajar, S Carrasco, MW Covert",
+        "journal": "Cell 157 (7), 1724-1734, 2014",
+        "counts": "108",
+        "year": "2014"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Public health worker competencies for emergency response",
         "authors": "K Gebbie, J Merrill",
         "journal": "Journal of Public Health Management and Practice 8 (3), 73-81, 2002",
@@ -25927,7 +27748,7 @@ var data = [
         "title": "Automatic fruit and vegetable classification from images",
         "authors": "A Rocha, DC Hauagge, J Wainer, S Goldenstein",
         "journal": "Computers and Electronics in Agriculture 70 (1), 96-104, 2010",
-        "counts": "185",
+        "counts": "186",
         "year": "2010"
       },
       {
@@ -26033,14 +27854,14 @@ var data = [
         "title": "Biomedical informatics: computer applications in health care and biomedicine",
         "authors": "EH Shortliffe, JJ Cimino",
         "journal": "Springer Science & Business Media, 2013",
-        "counts": "1359",
+        "counts": "1360",
         "year": "2013"
       },
       {
         "title": "Desiderata for controlled medical vocabularies in the twenty-first century",
         "authors": "JJ Cimino",
         "journal": "Methods of information in medicine 37 (4-5), 394, 1998",
-        "counts": "712",
+        "counts": "713",
         "year": "1998"
       },
       {
@@ -26089,7 +27910,7 @@ var data = [
         "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
         "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
         "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -26208,7 +28029,7 @@ var data = [
         "title": "Approach to mobile information and communication for health care",
         "authors": "EA Mendonça, ES Chen, PD Stetson, LK McKnight, J Lei, JJ Cimino",
         "journal": "International Journal of Medical Informatics 73 (7-8), 631-638, 2004",
-        "counts": "101",
+        "counts": "102",
         "year": "2004"
       }
     ]
@@ -26222,7 +28043,7 @@ var data = [
         "title": "Surgical Training, Error",
         "authors": "JG Anderson",
         "journal": "Jama 291 (14), 1775-1776, 2004",
-        "counts": "4066",
+        "counts": "4064",
         "year": "2004"
       },
       {
@@ -26278,7 +28099,7 @@ var data = [
         "title": "Development of the University of Wisconsin donation after cardiac death evaluation tool",
         "authors": "J Lewis, J Peltier, H Nelson, W Snyder, K Schneider, D Steinberger, ...",
         "journal": "Progress in transplantation 13 (4), 265-273, 2003",
-        "counts": "170",
+        "counts": "171",
         "year": "2003"
       },
       {
@@ -26292,7 +28113,7 @@ var data = [
         "title": "Evaluating the capability of information technology to prevent adverse drug events: a computer simulation approach",
         "authors": "JG Anderson, SJ Jay, M Anderson, TJ Hunt",
         "journal": "Journal of the American Medical Informatics Association 9 (5), 479-490, 2002",
-        "counts": "135",
+        "counts": "134",
         "year": "2002"
       },
       {
@@ -26398,7 +28219,7 @@ var data = [
         "title": "NCCN biosimilars white paper: regulatory, scientific, and patient safety perspectives",
         "authors": "AD Zelenetz, I Ahmed, EL Braud, JD Cross, N Davenport-Ennis, ...",
         "journal": "Journal of the National Comprehensive Cancer Network 9 (Suppl 4), S-1-S-22, 2011",
-        "counts": "135",
+        "counts": "136",
         "year": "2011"
       },
       {
@@ -26459,18 +28280,18 @@ var data = [
         "year": "2007"
       },
       {
+        "title": "EBPG guideline on dialysis strategies",
+        "authors": "J Tattersall, A Martin-Malo, L Pedrini, A Basci, B Canaud, D Fouque, ...",
+        "journal": "Nephrology Dialysis Transplantation 22 (suppl_2), ii5-ii21, 2007",
+        "counts": "219",
+        "year": "2007"
+      },
+      {
         "title": "Kidney Disease: Improving Global Outcomes guidelines on anaemia management in chronic kidney disease: A European Renal Best Practice position statement.",
         "authors": "F Locatelli, P Bárány, A Covic, A De Francisco, L Del Vecchio, ...",
         "journal": "Nephrology Dialysis Transplantation 28 (6), 2013",
         "counts": "218",
         "year": "2013"
-      },
-      {
-        "title": "EBPG guideline on dialysis strategies",
-        "authors": "J Tattersall, A Martin-Malo, L Pedrini, A Basci, B Canaud, D Fouque, ...",
-        "journal": "Nephrology Dialysis Transplantation 22 (suppl_2), ii5-ii21, 2007",
-        "counts": "218",
-        "year": "2007"
       },
       {
         "title": "EBPG guideline on haemodynamic instability",
@@ -26533,10 +28354,224 @@ var data = [
   {
     "citations": [
       {
+        "title": "Image retrieval: Ideas, influences, and trends of the new age",
+        "authors": "R Datta, D Joshi, J Li, JZ Wang",
+        "journal": "ACM Computing Surveys (CSUR) 40 (2), 5:1-60, 2008",
+        "counts": "3924",
+        "year": "2008"
+      },
+      {
+        "title": "SIMPLIcity: Semantics-sensitive integrated matching for picture libraries",
+        "authors": "JZ Wang, J Li, G Wiederhold",
+        "journal": "Pattern Analysis and Machine Intelligence, IEEE Transactions on 23 (9), 947-963, 2001",
+        "counts": "2660",
+        "year": "2001"
+      },
+      {
+        "title": "Automatic linguistic indexing of pictures by a statistical modeling approach",
+        "authors": "J Li, JZ Wang",
+        "journal": "Pattern Analysis and Machine Intelligence, IEEE Transactions on 25 (9), 1075 …, 2003",
+        "counts": "1270",
+        "year": "2003"
+      },
+      {
+        "title": "Studying aesthetics in photographic images using a computational approach",
+        "authors": "R Datta, D Joshi, J Li, JZ Wang",
+        "journal": "European Conference on Computer Vision, 288-301, 2006",
+        "counts": "851",
+        "year": "2006"
+      },
+      {
+        "title": "Image categorization by learning and reasoning with regions",
+        "authors": "Y Chen, JZ Wang",
+        "journal": "Journal of Machine Learning Research 5 (Aug), 913-939, 2004",
+        "counts": "732",
+        "year": "2004"
+      },
+      {
+        "title": "Real-time computerized annotation of pictures",
+        "authors": "J Li, JZ Wang",
+        "journal": "Pattern Analysis and Machine Intelligence, IEEE Transactions on 30 (6), 985-1002, 2008",
+        "counts": "714",
+        "year": "2008"
+      },
+      {
+        "title": "MILES: Multiple-instance learning via embedded instance selection",
+        "authors": "Y Chen, J Bi, JZ Wang",
+        "journal": "Pattern Analysis and Machine Intelligence, IEEE Transactions on 28 (12 …, 2006",
+        "counts": "685",
+        "year": "2006"
+      },
+      {
+        "title": "Content-based image retrieval: approaches and trends of the new age",
+        "authors": "R Datta, J Li, JZ Wang",
+        "journal": "Proceedings of the 7th ACM SIGMM international workshop on Multimedia …, 2005",
+        "counts": "612",
+        "year": "2005"
+      },
+      {
+        "title": "A region-based fuzzy feature matching approach to content-based image retrieval",
+        "authors": "Y Chen, JZ Wang",
+        "journal": "Pattern Analysis and Machine Intelligence, IEEE Transactions on 24 (9), 1252 …, 2002",
+        "counts": "537",
+        "year": "2002"
+      },
+      {
+        "title": "IRM: integrated region matching for image retrieval",
+        "authors": "J Li, JZ Wang, G Wiederhold",
+        "journal": "Proceedings of the eighth ACM international conference on Multimedia, 147-156, 2000",
+        "counts": "533",
+        "year": "2000"
+      },
+      {
+        "title": "Content-based image indexing and searching using Daubechies' wavelets",
+        "authors": "JZ Wang, G Wiederhold, O Firschein, S Xin Wei",
+        "journal": "International Journal on Digital Libraries 1 (4), 311-328, 1998",
+        "counts": "506",
+        "year": "1998"
+      },
+      {
+        "title": "CLUE: cluster-based retrieval of images by unsupervised learning",
+        "authors": "Y Chen, JZ Wang, R Krovetz",
+        "journal": "IEEE transactions on Image Processing 14 (8), 1187-1201, 2005",
+        "counts": "376",
+        "year": "2005"
+      },
+      {
+        "title": "Clue: Cluster-based retrieval of images by unsupervised learning",
+        "authors": "Y Chen, JZ Wang, R Krovetz",
+        "journal": "Image Processing, IEEE Transactions on 14 (8), 1187-1201, 2005",
+        "counts": "376",
+        "year": "2005"
+      },
+      {
+        "title": "Support vector learning for fuzzy rule-based classification systems",
+        "authors": "Y Chen, JZ Wang",
+        "journal": "Fuzzy Systems, IEEE Transactions on 11 (6), 716-728, 2003",
+        "counts": "273",
+        "year": "2003"
+      },
+      {
+        "title": "Unsupervised multiresolution segmentation for images with low depth of field",
+        "authors": "JZ Wang, J Li, RM Gray, G Wiederhold",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence 23 (1), 85-90, 2001",
+        "counts": "245",
+        "year": "2001"
+      },
+      {
+        "title": "Aesthetics and emotions in images",
+        "authors": "D Joshi, R Datta, E Fedorovskaya, QT Luong, JZ Wang, J Li, J Luo",
+        "journal": "IEEE Signal Processing Magazine 28 (5), 94-115, 2011",
+        "counts": "240",
+        "year": "2011"
+      },
+      {
+        "title": "Image processing for artist identification",
+        "authors": "CR Johnson, E Hendriks, IJ Berezhnoy, E Brevdo, SM Hughes, ...",
+        "journal": "IEEE Signal Processing Magazine 25 (4), 37-48, 2008",
+        "counts": "226",
+        "year": "2008"
+      },
+      {
+        "title": "Wavelet-based image indexing techniques with partial sketch retrieval capability",
+        "authors": "JZ Wang, G Wiederhold, O Firschein, SX Wei",
+        "journal": "Research and Technology Advances in Digital Libraries, 1997. ADL'97 …, 1997",
+        "counts": "195",
+        "year": "1997"
+      },
+      {
+        "title": "Studying digital imagery of ancient paintings by mixtures of stochastic models",
+        "authors": "J Li, JZ Wang",
+        "journal": "Image Processing, IEEE Transactions on 13 (3), 340-353, 2004",
+        "counts": "183",
+        "year": "2004"
+      },
+      {
+        "title": "System for screening objectionable images",
+        "authors": "J Ze Wang, J Li, G Wiederhold, O Firschein",
+        "journal": "Computer Communications 21 (15), 1355-1360, 1998",
+        "counts": "178",
+        "year": "1998"
+      },
+      {
+        "title": "System for screening objectionable images",
+        "authors": "JZ Wang, J Li, G Wiederhold, O Firschein",
+        "journal": "Computer Communications 21 (15), 1355-1360, 1998",
+        "counts": "173",
+        "year": "1998"
+      },
+      {
+        "title": "Rime: A replicated image detector for the world wide web",
+        "authors": "EY Chang, JZ Wang, C Li, G Wiederhold",
+        "journal": "Photonics East (ISAM, VVDC, IEMB), 58-67, 1998",
+        "counts": "171",
+        "year": "1998"
+      },
+      {
+        "title": "Content-based image retrieval by clustering",
+        "authors": "Y Chen, JZ Wang, R Krovetz",
+        "journal": "Proceedings of the 5th ACM SIGMM international workshop on Multimedia …, 2003",
+        "counts": "166",
+        "year": "2003"
+      },
+      {
+        "title": "Imagination: A robust image-based captcha generation system",
+        "authors": "R Datta, J Li, JZ Wang",
+        "journal": "Proceedings of the 13th annual ACM international conference on Multimedia …, 2005",
+        "counts": "159",
+        "year": "2005"
+      },
+      {
+        "title": "RAPID: rating pictorial aesthetics using deep learning",
+        "authors": "X Lu, Z Lin, H Jin, J Yang, JZ Wang",
+        "journal": "Proceedings of the 22nd ACM international conference on Multimedia, 457-466, 2014",
+        "counts": "157",
+        "year": "2014"
+      },
+      {
+        "title": "Image-based CAPTCHA generation system",
+        "authors": "JZ Wang, R Datta, J Li",
+        "journal": "US Patent 7,929,805, 2011",
+        "counts": "144",
+        "year": "2011"
+      },
+      {
+        "title": "Algorithmic inferencing of aesthetics and emotion in natural images: An exposition",
+        "authors": "R Datta, J Li, JZ Wang",
+        "journal": "2008 15th IEEE International Conference on Image Processing, 105-108, 2008",
+        "counts": "140",
+        "year": "2008"
+      },
+      {
+        "title": "System and method for automatic linguistic indexing of images by a statistical modeling approach",
+        "authors": "J Li, J Wang",
+        "journal": "US Patent 7,394,947, 2008",
+        "counts": "138",
+        "year": "2008"
+      },
+      {
+        "title": "System for screening objectionable images using daubechies' wavelets and color histograms",
+        "authors": "J Wang, G Wiederhold, O Firschein",
+        "journal": "Interactive Distributed Multimedia Systems and Telecommunication Services, 20-30, 1997",
+        "counts": "118",
+        "year": "1997"
+      },
+      {
+        "title": "The Story Picturing Engine---a system for automatic text illustration",
+        "authors": "D Joshi, JZ Wang, J Li",
+        "journal": "ACM Transactions on Multimedia Computing, Communications, and Applications …, 2006",
+        "counts": "117",
+        "year": "2006"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "The educational effects of portfolios on undergraduate student learning: a Best Evidence Medical Education (BEME) systematic review. BEME Guide No. 11",
         "authors": "S Buckley, J Coleman, I Davison, KS Khan, J Zamora, S Malick, D Morley, ...",
         "journal": "Medical teacher 31 (4), 282-298, 2009",
-        "counts": "373",
+        "counts": "374",
         "year": "2009"
       },
       {
@@ -26740,7 +28775,7 @@ var data = [
         "title": "Inter-organizational future proof EHR systems: a review of the security and privacy related issues",
         "authors": "H van der Linden, D Kalra, A Hasman, J Talmon",
         "journal": "International journal of medical informatics 78 (3), 141-160, 2009",
-        "counts": "131",
+        "counts": "132",
         "year": "2009"
       },
       {
@@ -26794,21 +28829,21 @@ var data = [
         "title": "Multifactor-dimensionality reduction reveals high-order interactions among estrogen-metabolism genes in sporadic breast cancer",
         "authors": "MD Ritchie, LW Hahn, N Roodi, LR Bailey, WD Dupont, FF Parl, JH Moore",
         "journal": "The American Journal of Human Genetics 69 (1), 138-147, 2001",
-        "counts": "1766",
+        "counts": "1767",
         "year": "2001"
       },
       {
         "title": "Missing heritability and strategies for finding the underlying causes of complex disease",
         "authors": "EE Eichler, J Flint, G Gibson, A Kong, SM Leal, JH Moore, JH Nadeau",
         "journal": "Nature Reviews Genetics 11 (6), 446, 2010",
-        "counts": "1297",
+        "counts": "1296",
         "year": "2010"
       },
       {
         "title": "The genetic structure and history of Africans and African Americans",
         "authors": "SA Tishkoff, FA Reed, FR Friedlaender, C Ehret, A Ranciaro, A Froment, ...",
         "journal": "science 324 (5930), 1035-1044, 2009",
-        "counts": "1095",
+        "counts": "1094",
         "year": "2009"
       },
       {
@@ -26843,7 +28878,7 @@ var data = [
         "title": "Genome-wide association studies",
         "authors": "WS Bush, JH Moore",
         "journal": "PLoS computational biology 8 (12), e1002822, 2012",
-        "counts": "675",
+        "counts": "676",
         "year": "2012"
       },
       {
@@ -26871,7 +28906,7 @@ var data = [
         "title": "Renin-angiotensin system gene polymorphisms and atrial fibrillation",
         "authors": "CT Tsai, LP Lai, JL Lin, FT Chiang, JJ Hwang, MD Ritchie, JH Moore, ...",
         "journal": "Circulation 109 (13), 1640-1646, 2004",
-        "counts": "429",
+        "counts": "428",
         "year": "2004"
       },
       {
@@ -26976,7 +29011,7 @@ var data = [
         "title": "Failure to replicate a genetic association may provide important clues about genetic architecture",
         "authors": "CS Greene, NM Penrod, SM Williams, JH Moore",
         "journal": "PloS one 4 (6), e5639, 2009",
-        "counts": "219",
+        "counts": "218",
         "year": "2009"
       },
       {
@@ -27067,7 +29102,7 @@ var data = [
         "title": "Tuning ReliefF for genome-wide genetic analysis",
         "authors": "JH Moore, BC White",
         "journal": "European Conference on Evolutionary Computation, Machine Learning and Data …, 2007",
-        "counts": "166",
+        "counts": "167",
         "year": "2007"
       },
       {
@@ -27267,7 +29302,7 @@ var data = [
         "title": "3D Slicer as an image computing platform for the Quantitative Imaging Network",
         "authors": "A Fedorov, R Beichel, J Kalpathy-Cramer, J Finet, JC Fillion-Robin, ...",
         "journal": "Magnetic resonance imaging 30 (9), 1323-1341, 2012",
-        "counts": "1257",
+        "counts": "1259",
         "year": "2012"
       },
       {
@@ -27386,7 +29421,7 @@ var data = [
         "title": "IDH2 mutations are frequent in angioimmunoblastic T-cell lymphoma",
         "authors": "RA Cairns, J Iqbal, F Lemonnier, C Kucuk, L De Leval, JP Jais, M Parrens, ...",
         "journal": "Blood, blood-2011-11-391748, 2012",
-        "counts": "285",
+        "counts": "286",
         "year": "2012"
       },
       {
@@ -27407,7 +29442,7 @@ var data = [
         "title": "Intensified chemotherapy with ACVBP plus rituximab versus standard CHOP plus rituximab for the treatment of diffuse large B-cell lymphoma (LNH03-2B): an open-label randomised …",
         "authors": "C Récher, B Coiffier, C Haioun, TJ Molina, C Fermé, O Casasnovas, ...",
         "journal": "The Lancet 378 (9806), 1858-1867, 2011",
-        "counts": "259",
+        "counts": "260",
         "year": "2011"
       },
       {
@@ -27498,7 +29533,7 @@ var data = [
         "title": "Risk-adapted salvage treatment with single or tandem autologous stem-cell transplantation for first relapse/refractory Hodgkin's lymphoma: results of the prospective …",
         "authors": "F Morschhauser, P Brice, C Fermé, M Diviné, G Salles, R Bouabdallah, ...",
         "journal": "Journal of Clinical Oncology 26 (36), 5980-5987, 2008",
-        "counts": "150",
+        "counts": "151",
         "year": "2008"
       },
       {
@@ -27554,6 +29589,112 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Evaluation of registration methods on thoracic CT: the EMPIRE10 challenge",
+        "authors": "K Murphy, B Van Ginneken, JM Reinhardt, S Kabus, K Ding, X Deng, ...",
+        "journal": "IEEE transactions on medical imaging 30 (11), 1901-1920, 2011",
+        "counts": "321",
+        "year": "2011"
+      },
+      {
+        "title": "The POPI-model, a point-validated pixel-based breathing thorax model",
+        "authors": "J Vandemeulebroucke, D Sarrut, P Clarysse",
+        "journal": "XVth international conference on the use of computers in radiation therapy …, 2007",
+        "counts": "135",
+        "year": "2007"
+      },
+      {
+        "title": "Spatiotemporal motion estimation for respiratory‐correlated imaging of the lungs",
+        "authors": "J Vandemeulebroucke, S Rit, J Kybic, P Clarysse, D Sarrut",
+        "journal": "Medical physics 38 (1), 166-178, 2011",
+        "counts": "107",
+        "year": "2011"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Electronic health record use and the quality of ambulatory care in the United States",
+        "authors": "JA Linder, J Ma, DW Bates, B Middleton, RS Stafford",
+        "journal": "Archives of internal medicine 167 (13), 1400-1405, 2007",
+        "counts": "481",
+        "year": "2007"
+      },
+      {
+        "title": "Changing use of antibiotics in community-based outpatient practice, 19911999",
+        "authors": "MA Steinman, R Gonzales, JA Linder, CS Landefeld",
+        "journal": "Annals of internal medicine 138 (7), 525-533, 2003",
+        "counts": "328",
+        "year": "2003"
+      },
+      {
+        "title": "Prevalence of inappropriate antibiotic prescriptions among US ambulatory care visits, 2010-2011",
+        "authors": "KE Fleming-Dutra, AL Hersh, DJ Shapiro, M Bartoces, EA Enns, TM File, ...",
+        "journal": "Jama 315 (17), 1864-1873, 2016",
+        "counts": "319",
+        "year": "2016"
+      },
+      {
+        "title": "Antibiotic treatment of adults with sore throat by community primary care physicians: a national survey, 1989-1999",
+        "authors": "JA Linder, RS Stafford",
+        "journal": "Jama 286 (10), 1181-1186, 2001",
+        "counts": "296",
+        "year": "2001"
+      },
+      {
+        "title": "Fluoroquinolone prescribing in the United States: 1995 to 2002",
+        "authors": "JA Linder, ES Huang, MA Steinman, R Gonzales, RS Stafford",
+        "journal": "The American journal of medicine 118 (3), 259-268, 2005",
+        "counts": "286",
+        "year": "2005"
+      },
+      {
+        "title": "Antibiotic treatment of children with sore throat",
+        "authors": "JA Linder, DW Bates, GM Lee, JA Finkelstein",
+        "journal": "Jama 294 (18), 2315-2322, 2005",
+        "counts": "230",
+        "year": "2005"
+      },
+      {
+        "title": "Effect of behavioral interventions on inappropriate antibiotic prescribing among primary care practices: a randomized clinical trial",
+        "authors": "D Meeker, JA Linder, CR Fox, MW Friedberg, SD Persell, NJ Goldstein, ...",
+        "journal": "Jama 315 (6), 562-570, 2016",
+        "counts": "210",
+        "year": "2016"
+      },
+      {
+        "title": "Healthcare utilization and cost of pneumococcal disease in the United States",
+        "authors": "SS Huang, KM Johnson, GT Ray, P Wroe, TA Lieu, MR Moore, ER Zell, ...",
+        "journal": "Vaccine 29 (18), 3398-3412, 2011",
+        "counts": "200",
+        "year": "2011"
+      },
+      {
+        "title": "Barriers to electronic health record use during patient visits",
+        "authors": "JA Linder, JL Schnipper, R Tsurikova, AJ Melnikas, LA Volk, B Middleton",
+        "journal": "AMIA Annual Symposium Proceedings 2006, 499, 2006",
+        "counts": "120",
+        "year": "2006"
+      },
+      {
+        "title": "Nudging guideline-concordant antibiotic prescribing: a randomized clinical trial",
+        "authors": "D Meeker, TK Knight, MW Friedberg, JA Linder, NJ Goldstein, CR Fox, ...",
+        "journal": "JAMA internal medicine 174 (3), 425-431, 2014",
+        "counts": "118",
+        "year": "2014"
+      },
+      {
+        "title": "Antibiotic prescribing to adults with sore throat in the United States, 1997-2010",
+        "authors": "ML Barnett, JA Linder",
+        "journal": "JAMA internal medicine 174 (1), 138-140, 2014",
+        "counts": "106",
+        "year": "2014"
+      }
+    ]
   },
   {
     "citations": [
@@ -27628,18 +29769,18 @@ var data = [
         "year": "1986"
       },
       {
+        "title": "Human CDC6/Cdc18 associates with Orc1 and cyclin-cdk and is selectively eliminated from the nucleus at the onset of S phase",
+        "authors": "P Saha, J Chen, KC Thome, SJ Lawlis, Z Hou, M Hendricks, JD Parvin, ...",
+        "journal": "Molecular and Cellular Biology 18 (5), 2758-2767, 1998",
+        "counts": "294",
+        "year": "1998"
+      },
+      {
         "title": "Measurement of the mutation rates of animal viruses: influenza A virus and poliovirus type 1.",
         "authors": "JD Parvin, A Moscona, WT Pan, JM Leider, P Palese",
         "journal": "Journal of virology 59 (2), 377-383, 1986",
         "counts": "294",
         "year": "1986"
-      },
-      {
-        "title": "Human CDC6/Cdc18 associates with Orc1 and cyclin-cdk and is selectively eliminated from the nucleus at the onset of S phase",
-        "authors": "P Saha, J Chen, KC Thome, SJ Lawlis, Z Hou, M Hendricks, JD Parvin, ...",
-        "journal": "Molecular and Cellular Biology 18 (5), 2758-2767, 1998",
-        "counts": "293",
-        "year": "1998"
       },
       {
         "title": "Analysis of a cAMP-responsive activator reveals a two-component mechanism for transcriptional induction via signal-dependent factors.",
@@ -27777,6 +29918,192 @@ var data = [
     ]
   },
   {
+    "citations": [
+      {
+        "title": "Incidence and preventability of adverse drug events among older persons in the ambulatory setting",
+        "authors": "JH Gurwitz, TS Field, LR Harrold, J Rothschild, K Debellis, AC Seger, ...",
+        "journal": "Jama 289 (9), 1107-1116, 2003",
+        "counts": "1816",
+        "year": "2003"
+      },
+      {
+        "title": "Effect of reducing interns' work hours on serious medical errors in intensive care units",
+        "authors": "CP Landrigan, JM Rothschild, JW Cronin, R Kaushal, E Burdick, JT Katz, ...",
+        "journal": "New England Journal of Medicine 351 (18), 1838-1848, 2004",
+        "counts": "1723",
+        "year": "2004"
+      },
+      {
+        "title": "Effect of reducing interns' weekly work hours on sleep and attentional failures",
+        "authors": "SW Lockley, JW Cronin, EE Evans, BE Cade, CJ Lee, CP Landrigan, ...",
+        "journal": "New England Journal of Medicine 351 (18), 1829-1837, 2004",
+        "counts": "943",
+        "year": "2004"
+      },
+      {
+        "title": "Effect of reducing interns' weekly work hours on sleep and attentional failures",
+        "authors": "SW Lockley, JW Cronin, EE Evans, BE Cade, CJ Lee, CP Landrigan, ...",
+        "journal": "New England Journal of Medicine 351 (18), 1829-1837, 2004",
+        "counts": "943",
+        "year": "2004"
+      },
+      {
+        "title": "The Critical Care Safety Study: The incidence and nature of adverse events and serious medical errors in intensive care",
+        "authors": "JM Rothschild, CP Landrigan, JW Cronin, R Kaushal, SW Lockley, ...",
+        "journal": "Critical care medicine 33 (8), 1694-1700, 2005",
+        "counts": "901",
+        "year": "2005"
+      },
+      {
+        "title": "Effect of bar-code technology on the safety of medication administration",
+        "authors": "EG Poon, CA Keohane, CS Yoon, M Ditmore, A Bane, O Levtzion-Korach, ...",
+        "journal": "New England Journal of Medicine 362 (18), 1698-1707, 2010",
+        "counts": "516",
+        "year": "2010"
+      },
+      {
+        "title": "Changes in medical errors after implementation of a handoff program",
+        "authors": "AJ Starmer, ND Spector, R Srivastava, DC West, G Rosenbluth, AD Allen, ...",
+        "journal": "New England Journal of Medicine 371 (19), 1803-1812, 2014",
+        "counts": "373",
+        "year": "2014"
+      },
+      {
+        "title": "A controlled trial of smart infusion pumps to improve medication safety in critically ill patients",
+        "authors": "JM Rothschild, CA Keohane, EF Cook, EJ Orav, E Burdick, S Thompson, ...",
+        "journal": "Critical care medicine 33 (3), 533-540, 2005",
+        "counts": "334",
+        "year": "2005"
+      },
+      {
+        "title": "A controlled trial of smart infusion pumps to improve medication safety in critically ill patients",
+        "authors": "JM Rothschild, CA Keohane, EF Cook, EJ Orav, E Burdick, S Thompson, ...",
+        "journal": "Critical care medicine 33 (3), 533-540, 2005",
+        "counts": "334",
+        "year": "2005"
+      },
+      {
+        "title": "Medication dispensing errors and potential adverse drug events before and after implementing bar code technology in the pharmacy",
+        "authors": "EG Poon, JL Cina, W Churchill, N Patel, E Featherstone, JM Rothschild, ...",
+        "journal": "Annals of internal medicine 145 (6), 426-434, 2006",
+        "counts": "302",
+        "year": "2006"
+      },
+      {
+        "title": "Preventable medical injuries in older patients",
+        "authors": "JM Rothschild, DW Bates, LL Leape",
+        "journal": "Archives of internal medicine 160 (18), 2717-2728, 2000",
+        "counts": "296",
+        "year": "2000"
+      },
+      {
+        "title": "Risk factors for adverse drug events among older adults in the ambulatory setting",
+        "authors": "TS Field, JH Gurwitz, LR Harrold, J Rothschild, KR DeBellis, AC Seger, ...",
+        "journal": "Journal of the American Geriatrics Society 52 (8), 1349-1354, 2004",
+        "counts": "287",
+        "year": "2004"
+      },
+      {
+        "title": "Effects of health care provider work hours and sleep deprivation on safety and performance",
+        "authors": "SW Lockley, LK Barger, NT Ayas, JM Rothschild, CA Czeisler, ...",
+        "journal": "The Joint Commission Journal on Quality and Patient Safety 33 (11), 7-18, 2007",
+        "counts": "276",
+        "year": "2007"
+      },
+      {
+        "title": "Using computerized data to identify adverse drug events in outpatients",
+        "authors": "B Honigman, J Lee, J Rothschild, P Light, RM Pulling, T Yu, DW Bates",
+        "journal": "Journal of the American Medical Informatics Association 8 (3), 254-266, 2001",
+        "counts": "246",
+        "year": "2001"
+      },
+      {
+        "title": "Hospital workload and adverse events",
+        "authors": "JS Weissman, JM Rothschild, E Bendavid, P Sprivulis, EF Cook, ...",
+        "journal": "Medical care, 448-455, 2007",
+        "counts": "212",
+        "year": "2007"
+      },
+      {
+        "title": "Clinician use of a palmtop drug reference guide",
+        "authors": "JM Rothschild, TH Lee, T Bae, DW Bates",
+        "journal": "Journal of the American medical informatics association 9 (3), 223-229, 2002",
+        "counts": "197",
+        "year": "2002"
+      },
+      {
+        "title": "Risks of complications by attending physicians after performing nighttime procedures",
+        "authors": "JM Rothschild, CA Keohane, S Rogers, R Gardner, SR Lipsitz, ...",
+        "journal": "Jama 302 (14), 1565-1572, 2009",
+        "counts": "182",
+        "year": "2009"
+      },
+      {
+        "title": "Medication safety in the ambulatory chemotherapy setting",
+        "authors": "TK Gandhi, SB Bartel, LN Shulman, D Verrier, E Burdick, A Cleary, ...",
+        "journal": "Cancer 104 (11), 2477-2483, 2005",
+        "counts": "164",
+        "year": "2005"
+      },
+      {
+        "title": "Analysis of medication-related malpractice claims: causes, preventability, and costs",
+        "authors": "JM Rothschild, FA Federico, TK Gandhi, R Kaushal, DH Williams, ...",
+        "journal": "Archives of Internal Medicine 162 (21), 2414-2420, 2002",
+        "counts": "152",
+        "year": "2002"
+      },
+      {
+        "title": "Ultrasound guidance of central vein catheterization",
+        "authors": "JM Rothschild",
+        "journal": "Making health care safer: a critical analysis of patient safety practices, 245, 2001",
+        "counts": "148",
+        "year": "2001"
+      },
+      {
+        "title": "Medication errors recovered by emergency department pharmacists",
+        "authors": "JM Rothschild, W Churchill, A Erickson, K Munz, JD Schuur, CA Salzberg, ...",
+        "journal": "Annals of emergency medicine 55 (6), 513-521, 2010",
+        "counts": "141",
+        "year": "2010"
+      },
+      {
+        "title": "Errors associated with outpatient computerized prescribing systems",
+        "authors": "KC Nanji, JM Rothschild, C Salzberg, CA Keohane, K Zigmont, J Devita, ...",
+        "journal": "Journal of the American Medical Informatics Association 18 (6), 767-773, 2011",
+        "counts": "118",
+        "year": "2011"
+      },
+      {
+        "title": "How many hospital pharmacy medication dispensing errors go undetected?",
+        "authors": "JL Cina, TK Gandhi, W Churchill, J Fanikos, M McCrea, P Mitton, ...",
+        "journal": "The Joint Commission Journal on Quality and Patient Safety 32 (2), 73-80, 2006",
+        "counts": "117",
+        "year": "2006"
+      },
+      {
+        "title": "Adverse drug events in intensive care units: risk factors, impact, and the role of team care",
+        "authors": "SL Kane-Gill, J Jacobi, JM Rothschild",
+        "journal": "Critical care medicine 38, S83-S89, 2010",
+        "counts": "111",
+        "year": "2010"
+      },
+      {
+        "title": "Assessment of education and computerized decision support interventions for improving transfusion practice",
+        "authors": "JM Rothschild, S McGurk, M Honour, L Lu, AA McClendon, P Srivastava, ...",
+        "journal": "Transfusion 47 (2), 228-239, 2007",
+        "counts": "110",
+        "year": "2007"
+      },
+      {
+        "title": "Recovery from medical errors: the critical care nursing safety net",
+        "authors": "JM Rothschild, AC Hurley, CP Landrigan, JW Cronin, K Martell-Waldrop, ...",
+        "journal": "The Joint Commission Journal on Quality and Patient Safety 32 (2), 63-72, 2006",
+        "counts": "110",
+        "year": "2006"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -27791,14 +30118,14 @@ var data = [
         "title": "Evidence-based patient choice and consumer health informatics in the Internet age",
         "authors": "G Eysenbach, AR Jadad",
         "journal": "Journal of medical Internet research 3 (2), 2001",
-        "counts": "2378",
+        "counts": "2379",
         "year": "2001"
       },
       {
         "title": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide",
         "authors": "TC Hoffmann, PP Glasziou, I Boutron, R Milne, R Perera, D Moher, ...",
         "journal": "Bmj 348, g1687, 2014",
-        "counts": "1407",
+        "counts": "1408",
         "year": "2014"
       },
       {
@@ -27875,7 +30202,7 @@ var data = [
         "title": "Evaluating medical expert systems: what to test, and how?",
         "authors": "J Wyatt, D Spiegelhalter",
         "journal": "Knowledge Based Systems in Medicine: Methods, Applications and Evaluation …, 1991",
-        "counts": "247",
+        "counts": "248",
         "year": "1991"
       },
       {
@@ -28374,7 +30701,7 @@ var data = [
         "title": "Clinical evaluation of kidney function: glomerular function",
         "authors": "JP Kassirer",
         "journal": "New England Journal of Medicine 285 (7), 385-389, 1971",
-        "counts": "252",
+        "counts": "253",
         "year": "1971"
       },
       {
@@ -28388,7 +30715,7 @@ var data = [
         "title": "Doctor discontent",
         "authors": "JP Kassirer",
         "journal": "New England Journal of Medicine 339 (21), 1543-1545, 1998",
-        "counts": "236",
+        "counts": "235",
         "year": "1998"
       },
       {
@@ -28528,7 +30855,7 @@ var data = [
         "title": "Managing care—should we adopt a new ethic?",
         "authors": "JP Kassirer",
         "journal": "New England Journal of Medicine 339 (6), 397-398, 1998",
-        "counts": "144",
+        "counts": "143",
         "year": "1998"
       },
       {
@@ -28584,7 +30911,7 @@ var data = [
         "title": "The Internet and the Journal",
         "authors": "JP Kassirer, M Angell",
         "journal": "New England Journal of Medicine 332 (25), 1709-1710, 1995",
-        "counts": "120",
+        "counts": "121",
         "year": "1995"
       },
       {
@@ -28644,14 +30971,14 @@ var data = [
         "title": "The relationship between Precision-Recall and ROC curves",
         "authors": "J Davis, M Goadrich",
         "journal": "Proceedings of the 23rd international conference on Machine learning, 233-240, 2006",
-        "counts": "2518",
+        "counts": "2519",
         "year": "2006"
       },
       {
         "title": "Learning first-order horn clauses from web text",
         "authors": "S Schoenmackers, O Etzioni, DS Weld, J Davis",
         "journal": "Proceedings of the 2010 Conference on Empirical Methods in Natural Language …, 2010",
-        "counts": "170",
+        "counts": "171",
         "year": "2010"
       },
       {
@@ -28722,7 +31049,7 @@ var data = [
         "title": "Automated handwashing assistance for persons with dementia using video and a partially observable Markov decision process",
         "authors": "J Hoey, P Poupart, A von Bertoldi, T Craig, C Boutilier, A Mihailidis",
         "journal": "Computer Vision and Image Understanding 114 (5), 503-519, 2010",
-        "counts": "225",
+        "counts": "226",
         "year": "2010"
       },
       {
@@ -28775,7 +31102,7 @@ var data = [
         "title": "Design features of graphs in health risk communication: a systematic review",
         "authors": "JS Ancker, Y Senathirajah, R Kukafka, JB Starren",
         "journal": "Journal of the American Medical Informatics Association 13 (6), 608-618, 2006",
-        "counts": "377",
+        "counts": "378",
         "year": "2006"
       },
       {
@@ -28825,14 +31152,14 @@ var data = [
         "title": "Representations in distributed cognitive tasks",
         "authors": "J Zhang, DA Norman",
         "journal": "Cognitive science 18 (1), 87-122, 1994",
-        "counts": "1448",
+        "counts": "1449",
         "year": "1994"
       },
       {
         "title": "The nature of external representations in problem solving",
         "authors": "J Zhang",
         "journal": "Cognitive science 21 (2), 179-217, 1997",
-        "counts": "1128",
+        "counts": "1129",
         "year": "1997"
       },
       {
@@ -28969,10 +31296,28 @@ var data = [
   {
     "citations": [
       {
+        "title": "Information theory applied to the sparse gene ontology annotation network to predict novel gene function",
+        "authors": "Y Tao, L Sam, J Li, C Friedman, YA Lussier",
+        "journal": "Bioinformatics 23 (13), i529-i538, 2007",
+        "counts": "160",
+        "year": "2007"
+      },
+      {
+        "title": "Network modeling identifies molecular functions targeted by miR-204 to suppress head and neck tumor metastasis",
+        "authors": "Y Lee, X Yang, Y Huang, H Fan, Q Zhang, Y Wu, J Li, R Hasina, C Cheng, ...",
+        "journal": "PLoS computational biology 6 (4), e1000730, 2010",
+        "counts": "150",
+        "year": "2010"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "HMM based online handwriting recognition",
         "authors": "J Hu, MK Brown, W Turin",
         "journal": "IEEE Transactions on pattern analysis and machine intelligence 18 (10), 1039 …, 1996",
-        "counts": "363",
+        "counts": "364",
         "year": "1996"
       },
       {
@@ -29036,6 +31381,276 @@ var data = [
   {
     "citations": [
       {
+        "title": "Learning multi-label scene classification",
+        "authors": "MR Boutell, J Luo, X Shen, CM Brown",
+        "journal": "Pattern recognition 37 (9), 1757-1771, 2004",
+        "counts": "1582",
+        "year": "2004"
+      },
+      {
+        "title": "Recognizing realistic actions from videos “in the wild”",
+        "authors": "J Liu, J Luo, M Shah",
+        "journal": "Computer vision and pattern recognition, 2009. CVPR 2009. IEEE conference on …, 2009",
+        "counts": "1008",
+        "year": "2009"
+      },
+      {
+        "title": "icoseg: Interactive co-segmentation with intelligent scribble guidance",
+        "authors": "D Batra, A Kowdle, D Parikh, J Luo, T Chen",
+        "journal": "Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on …, 2010",
+        "counts": "377",
+        "year": "2010"
+      },
+      {
+        "title": "Visual event recognition in videos by learning from web data",
+        "authors": "L Duan, D Xu, IWH Tsang, J Luo",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence 34 (9), 1667-1680, 2012",
+        "counts": "348",
+        "year": "2012"
+      },
+      {
+        "title": "A multimedia retrieval framework based on semi-supervised ranking and relevance feedback",
+        "authors": "Y Yang, F Nie, D Xu, J Luo, Y Zhuang, Y Pan",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence 34 (4), 723-742, 2012",
+        "counts": "344",
+        "year": "2012"
+      },
+      {
+        "title": "Method and apparatus for determining the position of eyes and for correcting eye-defects in a captured frame",
+        "authors": "J Luo",
+        "journal": "US Patent 6,134,339, 2000",
+        "counts": "317",
+        "year": "2000"
+      },
+      {
+        "title": "Computer program product for redeye detection",
+        "authors": "JS Schildkraut, RT Gray",
+        "journal": "US Patent 6,252,976, 2001",
+        "counts": "313",
+        "year": "2001"
+      },
+      {
+        "title": "Image captioning with semantic attention",
+        "authors": "Q You, H Jin, Z Wang, C Fang, J Luo",
+        "journal": "Proceedings of the IEEE conference on computer vision and pattern …, 2016",
+        "counts": "310",
+        "year": "2016"
+      },
+      {
+        "title": "Method for automatic determination of main subjects in photographic images",
+        "authors": "J Luo, S Etz, A Singhal",
+        "journal": "US Patent 6,282,317, 2001",
+        "counts": "298",
+        "year": "2001"
+      },
+      {
+        "title": "Image segmentation via adaptive K-mean clustering and knowledge-based morphological operations with biomedical applications",
+        "authors": "CW Chen, J Luo, KJ Parker",
+        "journal": "IEEE transactions on image processing 7 (12), 1673-1683, 1998",
+        "counts": "292",
+        "year": "1998"
+      },
+      {
+        "title": "Method and apparatus for generating a composite image using the difference of two images",
+        "authors": "KA Parulski, J Luo, EB Gindele",
+        "journal": "US Patent 5,914,748, 1999",
+        "counts": "291",
+        "year": "1999"
+      },
+      {
+        "title": "Aesthetics and emotions in images",
+        "authors": "D Joshi, R Datta, E Fedorovskaya, QT Luong, JZ Wang, J Li, J Luo",
+        "journal": "IEEE Signal Processing Magazine 28 (5), 94-115, 2011",
+        "counts": "240",
+        "year": "2011"
+      },
+      {
+        "title": "Probabilistic spatial context models for scene content understanding",
+        "authors": "A Singhal, J Luo, W Zhu",
+        "journal": "Computer Vision and Pattern Recognition, 2003. Proceedings. 2003 IEEE …, 2003",
+        "counts": "224",
+        "year": "2003"
+      },
+      {
+        "title": "Towards scalable summarization of consumer videos via sparse dictionary selection",
+        "authors": "Y Cong, J Yuan, J Luo",
+        "journal": "IEEE Transactions on Multimedia 14 (1), 66-75, 2012",
+        "counts": "192",
+        "year": "2012"
+      },
+      {
+        "title": "Ranking with local regression and global alignment for cross media retrieval",
+        "authors": "Y Yang, D Xu, F Nie, J Luo, Y Zhuang",
+        "journal": "Proceedings of the 17th ACM international conference on Multimedia, 175-184, 2009",
+        "counts": "177",
+        "year": "2009"
+      },
+      {
+        "title": "Robust Image Sentiment Analysis Using Progressively Trained and Domain Transferred Deep Networks.",
+        "authors": "Q You, J Luo, H Jin, J Yang",
+        "journal": "AAAI, 381-388, 2015",
+        "counts": "170",
+        "year": "2015"
+      },
+      {
+        "title": "Geotagging in multimedia and computer vision—a survey",
+        "authors": "J Luo, D Joshi, J Yu, A Gallagher",
+        "journal": "Multimedia Tools and Applications 51 (1), 187-211, 2011",
+        "counts": "167",
+        "year": "2011"
+      },
+      {
+        "title": "Improved scene classification using efficient low-level features and semantic cues",
+        "authors": "N Serrano, AE Savakis, J Luo",
+        "journal": "Pattern Recognition 37 (9), 1773-1784, 2004",
+        "counts": "161",
+        "year": "2004"
+      },
+      {
+        "title": "Automatically producing an image of a portion of a photographic image",
+        "authors": "J Luo",
+        "journal": "US Patent 6,654,507, 2003",
+        "counts": "160",
+        "year": "2003"
+      },
+      {
+        "title": "A computationally efficient approach to indoor/outdoor scene classification",
+        "authors": "N Serrano, A Savakis, A Luo",
+        "journal": "Pattern Recognition, 2002. Proceedings. 16th International Conference on 4 …, 2002",
+        "counts": "154",
+        "year": "2002"
+      },
+      {
+        "title": "Indoor vs outdoor classification of consumer photographs using low-level and semantic features",
+        "authors": "J Luo, A Savakis",
+        "journal": "Image Processing, 2001. Proceedings. 2001 International Conference on 2, 745-748, 2001",
+        "counts": "147",
+        "year": "2001"
+      },
+      {
+        "title": "Understanding kin relationships in a photo",
+        "authors": "S Xia, M Shao, J Luo, Y Fu",
+        "journal": "IEEE Transactions on Multimedia 14 (4), 1046-1056, 2012",
+        "counts": "143",
+        "year": "2012"
+      },
+      {
+        "title": "Large-scale multimodal semantic concept detection for consumer video",
+        "authors": "SF Chang, D Ellis, W Jiang, K Lee, A Yanagawa, AC Loui, J Luo",
+        "journal": "Proceedings of the international workshop on Workshop on multimedia …, 2007",
+        "counts": "138",
+        "year": "2007"
+      },
+      {
+        "title": "Kodak's consumer video benchmark data set: concept definition and annotation",
+        "authors": "A Loui, J Luo, SF Chang, D Ellis, W Jiang, L Kennedy, K Lee, ...",
+        "journal": "Proceedings of the international workshop on Workshop on multimedia …, 2007",
+        "counts": "135",
+        "year": "2007"
+      },
+      {
+        "title": "Method for detecting objects in digital images",
+        "authors": "J Luo, D Crandall",
+        "journal": "US Patent 7,035,461, 2006",
+        "counts": "131",
+        "year": "2006"
+      },
+      {
+        "title": "Self-taught dimensionality reduction on the high-dimensional small-sized data",
+        "authors": "X Zhu, Z Huang, Y Yang, HT Shen, C Xu, J Luo",
+        "journal": "Pattern Recognition 46 (1), 215-229, 2013",
+        "counts": "128",
+        "year": "2013"
+      },
+      {
+        "title": "The wisdom of social multimedia: using flickr for prediction and forecast",
+        "authors": "X Jin, A Gallagher, L Cao, J Luo, J Han",
+        "journal": "Proceedings of the 18th ACM international conference on Multimedia, 1235-1244, 2010",
+        "counts": "128",
+        "year": "2010"
+      },
+      {
+        "title": "Effective multiple feature hashing for large-scale near-duplicate video retrieval",
+        "authors": "J Song, Y Yang, Z Huang, HT Shen, J Luo",
+        "journal": "IEEE Transactions on Multimedia 15 (8), 1997-2008, 2013",
+        "counts": "119",
+        "year": "2013"
+      },
+      {
+        "title": "User-friendly interactive image segmentation through unified combinatorial user inputs",
+        "authors": "W Yang, J Cai, J Zheng, J Luo",
+        "journal": "IEEE Transactions on Image Processing 19 (9), 2470-2479, 2010",
+        "counts": "117",
+        "year": "2010"
+      },
+      {
+        "title": "Method and system for generating a foreground mask for a composite image",
+        "authors": "ND Cahill, KA Parulski, J Luo, EB Gindele",
+        "journal": "US Patent 7,024,054, 2006",
+        "counts": "117",
+        "year": "2006"
+      },
+      {
+        "title": "Efficient manifold ranking for image retrieval",
+        "authors": "B Xu, J Bu, C Chen, D Cai, X He, W Liu, J Luo",
+        "journal": "Proceedings of the 34th international ACM SIGIR conference on Research and …, 2011",
+        "counts": "115",
+        "year": "2011"
+      },
+      {
+        "title": "Seeing people in social context: Recognizing people and social relationships",
+        "authors": "G Wang, A Gallagher, J Luo, D Forsyth",
+        "journal": "European conference on computer vision, 169-182, 2010",
+        "counts": "112",
+        "year": "2010"
+      },
+      {
+        "title": "Beyond pixels: Exploiting camera metadata for photo classification",
+        "authors": "M Boutell, J Luo",
+        "journal": "Pattern Recognition, 2005",
+        "counts": "109",
+        "year": "2005"
+      },
+      {
+        "title": "Probabilistic exposure fusion",
+        "authors": "M Song, D Tao, C Chen, J Bu, J Luo, C Zhang",
+        "journal": "IEEE Transactions on Image Processing 21 (1), 341-357, 2012",
+        "counts": "108",
+        "year": "2012"
+      },
+      {
+        "title": "Annotating photo collections by label propagation according to multiple similarity cues",
+        "authors": "L Cao, J Luo, TS Huang",
+        "journal": "Proceedings of the 16th ACM international conference on Multimedia, 121-130, 2008",
+        "counts": "108",
+        "year": "2008"
+      },
+      {
+        "title": "Eye gazing imaging for video communications",
+        "authors": "AF Kurtz, J Luo",
+        "journal": "US Patent 8,154,583, 2012",
+        "counts": "104",
+        "year": "2012"
+      },
+      {
+        "title": "System and method for determining image similarity",
+        "authors": "J Luo, W Zhu, GE Sotak, RT Gray, R Mehrotra",
+        "journal": "US Patent 6,826,316, 2004",
+        "counts": "103",
+        "year": "2004"
+      },
+      {
+        "title": "Method for automatic detection of human eyes in digital images",
+        "authors": "J Luo",
+        "journal": "US Patent 6,151,403, 2000",
+        "counts": "101",
+        "year": "2000"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Tensor completion for estimating missing values in visual data",
         "authors": "J Liu, P Musialski, P Wonka, J Ye",
         "journal": "IEEE transactions on pattern analysis and machine intelligence 35 (1), 208-220, 2013",
@@ -29067,7 +31682,7 @@ var data = [
         "title": "An accelerated gradient method for trace norm minimization",
         "authors": "S Ji, J Ye",
         "journal": "Proceedings of the 26th annual international conference on machine learning …, 2009",
-        "counts": "400",
+        "counts": "401",
         "year": "2009"
       },
       {
@@ -29179,7 +31794,7 @@ var data = [
         "title": "Clustered multi-task learning via alternating structure optimization",
         "authors": "J Zhou, J Chen, J Ye",
         "journal": "Advances in neural information processing systems, 702-710, 2011",
-        "counts": "167",
+        "counts": "168",
         "year": "2011"
       },
       {
@@ -29242,7 +31857,7 @@ var data = [
         "title": "An efficient algorithm for a class of fused lasso problems",
         "authors": "J Liu, L Yuan, J Ye",
         "journal": "Proceedings of the 16th ACM SIGKDD international conference on Knowledge …, 2010",
-        "counts": "134",
+        "counts": "135",
         "year": "2010"
       },
       {
@@ -29371,6 +31986,24 @@ var data = [
     ]
   },
   {
+    "citations": [
+      {
+        "title": "Using information technology to improve the management of chronic disease",
+        "authors": "BG Celler, NH Lovell, J Basilakis",
+        "journal": "Medical Journal of Australia 179 (5), 242-246, 2003",
+        "counts": "280",
+        "year": "2003"
+      },
+      {
+        "title": "A system for monitoring posture and physical activity using accelerometers",
+        "authors": "MJ Mathie, J Basilakis, BG Celler",
+        "journal": "Engineering in Medicine and Biology Society, 2001. Proceedings of the 23rd …, 2001",
+        "counts": "149",
+        "year": "2001"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -29379,7 +32012,7 @@ var data = [
         "title": "Understanding conceptual electronic design using protocol analysis",
         "authors": "T Mc Neill, JS Gero, J Warren",
         "journal": "Research in Engineering Design 10 (3), 129-140, 1998",
-        "counts": "158",
+        "counts": "159",
         "year": "1998"
       },
       {
@@ -29422,7 +32055,7 @@ var data = [
         "title": "Classification, subtype discovery, and prediction of outcome in pediatric acute lymphoblastic leukemia by gene expression profiling",
         "authors": "EJ Yeoh, ME Ross, SA Shurtleff, WK Williams, D Patel, R Mahfouz, ...",
         "journal": "Cancer cell 1 (2), 133-143, 2002",
-        "counts": "2017",
+        "counts": "2019",
         "year": "2002"
       },
       {
@@ -29520,21 +32153,21 @@ var data = [
         "title": "Types of unintended consequences related to computerized provider order entry",
         "authors": "EM Campbell, DF Sittig, JS Ash, KP Guappone, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 13 (5), 547-556, 2006",
-        "counts": "765",
+        "counts": "767",
         "year": "2006"
       },
       {
         "title": "The extent and importance of unintended consequences related to computerized provider order entry",
         "authors": "JS Ash, DF Sittig, EG Poon, K Guappone, E Campbell, RH Dykstra",
         "journal": "Journal of the American Medical Informatics Association 14 (4), 415-423, 2007",
-        "counts": "502",
+        "counts": "501",
         "year": "2007"
       },
       {
         "title": "Factors and forces affecting EHR system adoption: report of a 2004 ACMI discussion",
         "authors": "JS Ash, DW Bates",
         "journal": "Journal of the American Medical Informatics Association 12 (1), 8-12, 2005",
-        "counts": "492",
+        "counts": "491",
         "year": "2005"
       },
       {
@@ -29555,7 +32188,7 @@ var data = [
         "title": "Categorizing the unintended sociotechnical consequences of computerized provider order entry",
         "authors": "JS Ash, DF Sittig, RH Dykstra, K Guappone, JD Carpenter, V Seshadri",
         "journal": "International journal of medical informatics 76, S21-S27, 2007",
-        "counts": "269",
+        "counts": "270",
         "year": "2007"
       },
       {
@@ -29590,7 +32223,7 @@ var data = [
         "title": "Extending the understanding of computerized physician order entry: implications for professional collaboration, workflow and quality of care",
         "authors": "J Aarts, J Ash, M Berg",
         "journal": "International journal of medical informatics 76, S4-S13, 2007",
-        "counts": "197",
+        "counts": "198",
         "year": "2007"
       },
       {
@@ -29834,7 +32467,7 @@ var data = [
         "title": "Qualimap: evaluating next-generation sequencing alignment data",
         "authors": "F García-Alcalde, K Okonechnikov, J Carbonell, LM Cruz, S Götz, ...",
         "journal": "Bioinformatics 28 (20), 2678-2679, 2012",
-        "counts": "265",
+        "counts": "266",
         "year": "2012"
       },
       {
@@ -29869,7 +32502,7 @@ var data = [
         "title": "Phylogenetic reconstruction using an unsupervised growing neural network that adopts the topology of a phylogenetic tree",
         "authors": "J Dopazo, JM Carazo",
         "journal": "Journal of molecular evolution 44 (2), 226-233, 1997",
-        "counts": "222",
+        "counts": "223",
         "year": "1997"
       },
       {
@@ -30051,7 +32684,7 @@ var data = [
         "title": "Identification of genes involved in resistance to interferon-α in cutaneous T-cell lymphoma",
         "authors": "L Tracey, R Villuendas, P Ortiz, A Dopazo, I Spiteri, L Lombardia, ...",
         "journal": "The American journal of pathology 161 (5), 1825-1837, 2002",
-        "counts": "111",
+        "counts": "112",
         "year": "2002"
       },
       {
@@ -30115,14 +32748,14 @@ var data = [
         "title": "MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0",
         "authors": "K Tamura, J Dudley, M Nei, S Kumar",
         "journal": "Molecular biology and evolution 24 (8), 1596-1599, 2007",
-        "counts": "31261",
+        "counts": "31260",
         "year": "2007"
       },
       {
         "title": "Personal omics profiling reveals dynamic molecular and medical phenotypes",
         "authors": "R Chen, GI Mias, J Li-Pook-Than, L Jiang, HYK Lam, R Chen, E Miriami, ...",
         "journal": "Cell 148 (6), 1293-1307, 2012",
-        "counts": "867",
+        "counts": "868",
         "year": "2012"
       },
       {
@@ -30171,7 +32804,7 @@ var data = [
         "title": "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records",
         "authors": "R Miotto, L Li, BA Kidd, JT Dudley",
         "journal": "Scientific reports 6, 26094, 2016",
-        "counts": "225",
+        "counts": "226",
         "year": "2016"
       },
       {
@@ -30213,7 +32846,7 @@ var data = [
         "title": "Unifying immunology with informatics and multiscale biology",
         "authors": "BA Kidd, LA Peters, EE Schadt, JT Dudley",
         "journal": "Nature immunology 15 (2), 118, 2014",
-        "counts": "112",
+        "counts": "113",
         "year": "2014"
       },
       {
@@ -30224,18 +32857,18 @@ var data = [
         "year": "2011"
       },
       {
-        "title": "MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0",
-        "authors": "S Kumar, M Nei, J Dudley",
-        "journal": "MOLECULAR BIOLOGY AND EVOLUTION 24 (8), 1596-1599, 2004",
-        "counts": "108",
-        "year": "2004"
-      },
-      {
         "title": "Disease signatures are robust across tissues and experiments",
         "authors": "JT Dudley, R Tibshirani, T Deshpande, AJ Butte",
         "journal": "Molecular systems biology 5 (1), 307, 2009",
         "counts": "107",
         "year": "2009"
+      },
+      {
+        "title": "MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0",
+        "authors": "S Kumar, M Nei, J Dudley",
+        "journal": "MOLECULAR BIOLOGY AND EVOLUTION 24 (8), 1596-1599, 2004",
+        "counts": "107",
+        "year": "2004"
       }
     ]
   },
@@ -30414,17 +33047,17 @@ var data = [
         "year": "2001"
       },
       {
-        "title": "MR imaging predictors of molecular profile and survival: multi-institutional study of the TCGA glioblastoma data set",
-        "authors": "DA Gutman, LAD Cooper, SN Hwang, CA Holder, JJ Gao, TD Aurora, ...",
-        "journal": "Radiology 267 (2), 560-569, 2013",
+        "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
+        "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
+        "journal": "Medical care 51 (8 0 3), S30, 2013",
         "counts": "206",
         "year": "2013"
       },
       {
-        "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
-        "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
-        "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "title": "MR imaging predictors of molecular profile and survival: multi-institutional study of the TCGA glioblastoma data set",
+        "authors": "DA Gutman, LAD Cooper, SN Hwang, CA Holder, JJ Gao, TD Aurora, ...",
+        "journal": "Radiology 267 (2), 560-569, 2013",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -30652,7 +33285,7 @@ var data = [
         "title": "IT road warriors: Balancing work-family conflict, job autonomy, and work overload to mitigate turnover intentions",
         "authors": "MK Ahuja, KM Chudoba, CJ Kacmar, DH McKnight, JF George",
         "journal": "Mis Quarterly, 1-17, 2007",
-        "counts": "512",
+        "counts": "513",
         "year": "2007"
       },
       {
@@ -30757,7 +33390,7 @@ var data = [
         "title": "Object-oriented systems analysis and design",
         "authors": "JF George, D Batra, JS Valacich, JA Hoffer",
         "journal": "Pearson Prentice Hall, 2004",
-        "counts": "107",
+        "counts": "108",
         "year": "2004"
       },
       {
@@ -30800,7 +33433,7 @@ var data = [
         "title": "Association of interruptions with an increased risk and severity of medication administration errors",
         "authors": "JI Westbrook, A Woods, MI Rob, WTM Dunsmuir, RO Day",
         "journal": "Archives of Internal medicine 170 (8), 683-690, 2010",
-        "counts": "557",
+        "counts": "558",
         "year": "2010"
       },
       {
@@ -30814,14 +33447,14 @@ var data = [
         "title": "Allocation of physician time in ambulatory practice: a time and motion study in 4 specialties",
         "authors": "C Sinsky, L Colligan, L Li, M Prgomet, S Reynolds, L Goeders, ...",
         "journal": "Annals of internal medicine 165 (11), 753-760, 2016",
-        "counts": "259",
+        "counts": "261",
         "year": "2016"
       },
       {
         "title": "Does computerized provider order entry reduce prescribing errors for hospital inpatients? A systematic review",
         "authors": "MH Reckmann, JI Westbrook, Y Koh, C Lo, RO Day",
         "journal": "Journal of the American Medical Informatics Association 16 (5), 613-623, 2009",
-        "counts": "256",
+        "counts": "257",
         "year": "2009"
       },
       {
@@ -30898,7 +33531,7 @@ var data = [
         "title": "Health service accreditation as a predictor of clinical and organisational performance: a blinded, random, stratified study",
         "authors": "J Braithwaite, D Greenfield, J Westbrook, M Pawsey, M Westbrook, ...",
         "journal": "BMJ Quality & Safety 19 (1), 14-21, 2010",
-        "counts": "145",
+        "counts": "146",
         "year": "2010"
       },
       {
@@ -31010,7 +33643,7 @@ var data = [
         "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of …",
         "authors": "T Vos, C Allen, M Arora, RM Barber, ZA Bhutta, A Brown, A Carter, ...",
         "journal": "The Lancet 388 (10053), 1545-1602, 2016",
-        "counts": "590",
+        "counts": "592",
         "year": "2016"
       },
       {
@@ -31031,7 +33664,7 @@ var data = [
         "title": "Disseminating medical knowledge: the PROforma approach",
         "authors": "J Fox, N Johns, A Rahmanzadeh",
         "journal": "Artificial intelligence in medicine 14 (1-2), 157-182, 1998",
-        "counts": "405",
+        "counts": "406",
         "year": "1998"
       },
       {
@@ -31066,7 +33699,7 @@ var data = [
         "title": "IL-33 is more potent than IL-25 in provoking IL-13–producing nuocytes (type 2 innate lymphoid cells) and airway contraction",
         "authors": "JL Barlow, S Peel, J Fox, V Panova, CS Hardman, A Camelo, C Bucks, ...",
         "journal": "Journal of allergy and clinical immunology 132 (4), 933-941, 2013",
-        "counts": "224",
+        "counts": "225",
         "year": "2013"
       },
       {
@@ -31161,7 +33794,7 @@ var data = [
         "title": "The evolution of Protégé: an environment for knowledge-based systems development",
         "authors": "JH Gennari, MA Musen, RW Fergerson, WE Grosso, M Crubézy, ...",
         "journal": "International Journal of Human-computer studies 58 (1), 89-123, 2003",
-        "counts": "1439",
+        "counts": "1440",
         "year": "2003"
       },
       {
@@ -31256,7 +33889,7 @@ var data = [
         "title": "Effect of testosterone treatment on bone mineral density in men over 65 years of age",
         "authors": "PJ Snyder, H Peachey, P Hannoush, JA Berlin, L Loh, JH Holmes, ...",
         "journal": "The Journal of Clinical Endocrinology & Metabolism 84 (6), 1966-1972, 1999",
-        "counts": "751",
+        "counts": "752",
         "year": "1999"
       },
       {
@@ -31493,6 +34126,17 @@ var data = [
   {
     "citations": [
       {
+        "title": "Prevalence of psychological distress among cancer patients across the disease continuum",
+        "authors": "JR Zabora, CG Blanchard, ED Smith, CS Roberts, M Glajchcn, JW Sharp, ...",
+        "journal": "Journal of Psychosocial Oncology 15 (2), 73-87, 1997",
+        "counts": "169",
+        "year": "1997"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Tracking the rise in popularity of electronic nicotine delivery systems (electronic cigarettes) using search query surveillance",
         "authors": "JW Ayers, KM Ribisl, JS Brownstein",
         "journal": "American journal of preventive medicine 40 (4), 448-453, 2011",
@@ -31505,6 +34149,52 @@ var data = [
         "journal": "American journal of preventive medicine 44 (5), 520-525, 2013",
         "counts": "121",
         "year": "2013"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "ACC/AHA 2002 guideline update for the management of patients with unstable angina and non–ST-segment elevation myocardial infarction—summary article: a report of the American …",
+        "authors": "E Braunwald, EM Antman, JW Beasley, RM Califf, MD Cheitlin, ...",
+        "journal": "Journal of the American College of Cardiology 40 (7), 1366-1374, 2002",
+        "counts": "2329",
+        "year": "2002"
+      },
+      {
+        "title": "ACC/AHA guidelines for the management of patients with unstable angina and non–ST-segment elevation myocardial infarction: a report of the American College of Cardiology …",
+        "authors": "E Braunwald, EM Antman, JW Beasley, RM Califf, MD Cheitlin, ...",
+        "journal": "Journal of the American College of Cardiology 36 (3), 970-1062, 2000",
+        "counts": "1672",
+        "year": "2000"
+      },
+      {
+        "title": "American College of Cardiology/American Heart Association clinical competence statement on stress testing: a report of the American College of Cardiology/American Heart …",
+        "authors": "GP Rodgers, JZ Ayanian, G Balady, JW Beasley, KA Brown, EV Gervino, ...",
+        "journal": "Journal of the American College of Cardiology 36 (4), 1441-1453, 2000",
+        "counts": "169",
+        "year": "2000"
+      },
+      {
+        "title": "Global health and primary care research",
+        "authors": "JW Beasley, B Starfield, C van Weel, WW Rosser, CL Haq",
+        "journal": "The Journal of the American Board of Family Medicine 20 (6), 518-526, 2007",
+        "counts": "113",
+        "year": "2007"
+      },
+      {
+        "title": "Information chaos in primary care: implications for physician performance and patient safety",
+        "authors": "JW Beasley, TB Wetterneck, J Temte, JA Lapin, P Smith, ...",
+        "journal": "The Journal of the American Board of Family Medicine 24 (6), 745-751, 2011",
+        "counts": "112",
+        "year": "2011"
+      },
+      {
+        "title": "Toward a theoretical approach to medical error reporting system research and design",
+        "authors": "BT Karsh, KH Escoto, JW Beasley, RJ Holden",
+        "journal": "Applied ergonomics 37 (3), 283-295, 2006",
+        "counts": "103",
+        "year": "2006"
       }
     ]
   },
@@ -31525,7 +34215,7 @@ var data = [
         "title": "Prognostic factors associated with resectable adenocarcinoma of the head of the pancreas/Discussion",
         "authors": "KW Millikan, DJ Deziel, JC Silverstein, TM Kanjo",
         "journal": "The American surgeon 65 (7), 618, 1999",
-        "counts": "200",
+        "counts": "201",
         "year": "1999"
       },
       {
@@ -31810,7 +34500,7 @@ var data = [
         "title": "Extending the understanding of computerized physician order entry: implications for professional collaboration, workflow and quality of care",
         "authors": "J Aarts, J Ash, M Berg",
         "journal": "International journal of medical informatics 76, S4-S13, 2007",
-        "counts": "197",
+        "counts": "198",
         "year": "2007"
       },
       {
@@ -31873,7 +34563,7 @@ var data = [
         "title": "Evitabilidad de los acontecimientos adversos inducidos por medicamentos detectados en un Servicio de Urgencias",
         "authors": "MJO López, AB Bajo, JAM Fernández, ADG Hurlé",
         "journal": "Rev Clin Esp 199 (12), 20-9, 1999",
-        "counts": "119",
+        "counts": "118",
         "year": "1999"
       },
       {
@@ -31887,6 +34577,80 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Modeling web sources for information integration",
+        "authors": "CA Knoblock, S Minton, JL Ambite, N Ashish, PJ Modi, I Muslea, ...",
+        "journal": "AAAI/IAAI, 211-218, 1998",
+        "counts": "277",
+        "year": "1998"
+      },
+      {
+        "title": "The ariadne approach to web-based information integration",
+        "authors": "CA Knoblock, S Minton, JL Ambite, N Ashish, I Muslea, AG Philpot, ...",
+        "journal": "International Journal of Cooperative Information Systems 10 (01n02), 145-169, 2001",
+        "counts": "211",
+        "year": "2001"
+      },
+      {
+        "title": "Semi-automatically mapping structured sources into the semantic web",
+        "authors": "CA Knoblock, P Szekely, JL Ambite, A Goel, S Gupta, K Lerman, ...",
+        "journal": "Extended Semantic Web Conference, 375-390, 2012",
+        "counts": "146",
+        "year": "2012"
+      },
+      {
+        "title": "Dynamically composing web services from on-line sources",
+        "authors": "S Thakkar, CA Knoblock, JL Ambite, C Shahabi",
+        "journal": "Proceeding of the AAAI-2002 Workshop on Intelligent Service Integration, 1-7, 2002",
+        "counts": "141",
+        "year": "2002"
+      },
+      {
+        "title": "Agents for Information Gathering.",
+        "authors": "CA Knoblock, JL Ambite",
+        "journal": "UNIVERSITY OF SOUTHERN CALIFORNIA MARINA DEL REY INFORMATION SCIENCES INST, 1995",
+        "counts": "132",
+        "year": "1995"
+      },
+      {
+        "title": "Genetic determinants of lipid traits in diverse populations from the population architecture using genomics and epidemiology (PAGE) study",
+        "authors": "L Dumitrescu, CL Carty, K Taylor, FR Schumacher, LA Hindorff, JL Ambite, ...",
+        "journal": "PLOS genetics 7 (6), e1002138, 2011",
+        "counts": "118",
+        "year": "2011"
+      },
+      {
+        "title": "Ariadne: a system for constructing mediators for Internet sources",
+        "authors": "JL Ambite, N Ashish, G Barish, CA Knoblock, S Minton, PJ Modi, I Muslea, ...",
+        "journal": "ACM SIGMOD Record 27 (2), 561-563, 1998",
+        "counts": "108",
+        "year": "1998"
+      },
+      {
+        "title": "Planning by Rewriting: Efficiently Generating High-Quality Plans.",
+        "authors": "JL Ambite, CA Knoblock",
+        "journal": "UNIVERSITY OF SOUTHERN CALIFORNIA MARINA DEL REY INFORMATION SCIENCES INST, 1997",
+        "counts": "108",
+        "year": "1997"
+      },
+      {
+        "title": "A view integration approach to dynamic composition of web services",
+        "authors": "S Thakkar, CA Knoblock, JL Ambite",
+        "journal": "Proceedings of 2003 ICAPS Workshop on Planning for Web Services, 2003",
+        "counts": "104",
+        "year": "2003"
+      },
+      {
+        "title": "Phenome-wide association study (PheWAS) for detection of pleiotropy within the Population Architecture using Genomics and Epidemiology (PAGE) Network",
+        "authors": "SA Pendergrass, K Brown-Gentry, S Dudek, A Frase, ES Torstenson, ...",
+        "journal": "PLoS genetics 9 (1), e1003087, 2013",
+        "counts": "103",
+        "year": "2013"
+      }
+    ]
   },
   {
     "citations": [
@@ -31908,7 +34672,7 @@ var data = [
         "title": "Mobile phone-based telemonitoring for heart failure management: a randomized controlled trial",
         "authors": "E Seto, KJ Leonard, JA Cafazzo, J Barnsley, C Masino, HJ Ross",
         "journal": "Journal of medical Internet research 14 (1), 2012",
-        "counts": "159",
+        "counts": "160",
         "year": "2012"
       },
       {
@@ -31929,8 +34693,121 @@ var data = [
         "title": "Effect of home blood pressure telemonitoring with self-care support on uncontrolled systolic hypertension in diabetics",
         "authors": "AG Logan, MJ Irvine, WJ McIsaac, A Tisler, PG Rossos, A Easty, DS Feig, ...",
         "journal": "Hypertension 60 (1), 51-57, 2012",
-        "counts": "119",
+        "counts": "120",
         "year": "2012"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Statins and the risk of colorectal cancer",
+        "authors": "JN Poynter, SB Gruber, PDR Higgins, R Almog, JD Bonner, HS Rennert, ...",
+        "journal": "New England Journal of Medicine 352 (21), 2184-2192, 2005",
+        "counts": "779",
+        "year": "2005"
+      },
+      {
+        "title": "Phenotype of microsatellite unstable colorectal carcinomas: well-differentiated and focally mucinous tumors and the absence of dirty necrosis correlate with microsatellite …",
+        "authors": "JK Greenson, JD Bonner, O Ben-Yzhak, HI Cohen, I Miselevich, ...",
+        "journal": "The American journal of surgical pathology 27 (5), 563-570, 2003",
+        "counts": "224",
+        "year": "2003"
+      },
+      {
+        "title": "BLM heterozygosity and the risk of colorectal cancer",
+        "authors": "SB Gruber, NA Ellis, G Rennert, K Offit, KK Scott, R Almog, P Kolachana, ...",
+        "journal": "Science 297 (5589), 2013-2013, 2002",
+        "counts": "171",
+        "year": "2002"
+      },
+      {
+        "title": "Pathologic predictors of microsatellite instability in colorectal cancer",
+        "authors": "JK Greenson, SC Huang, C Herron, V Moreno, JD Bonner, LP Tomsho, ...",
+        "journal": "The American journal of surgical pathology 33 (1), 126, 2009",
+        "counts": "137",
+        "year": "2009"
+      },
+      {
+        "title": "The Founder Mutation MSH2*1906G→C Is an Important Cause of Hereditary Nonpolyposis Colorectal Cancer in the Ashkenazi Jewish Population",
+        "authors": "WD Foulkes, I Thiffault, SB Gruber, M Horwitz, N Hamel, C Lee, J Shia, ...",
+        "journal": "The American Journal of Human Genetics 71 (6), 1395-1412, 2002",
+        "counts": "127",
+        "year": "2002"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "The use and interpretation of quasi-experimental studies in medical informatics",
+        "authors": "AD Harris, JC McGregor, EN Perencevich, JP Furuno, J Zhu, DE Peterson, ...",
+        "journal": "Journal of the American Medical Informatics Association 13 (1), 16-23, 2006",
+        "counts": "443",
+        "year": "2006"
+      },
+      {
+        "title": "Internet-based home asthma telemonitoring: can patients handle the technology?",
+        "authors": "J Finkelstein, MR Cabrera, G Hripcsak",
+        "journal": "Chest 117 (1), 148-155, 2000",
+        "counts": "236",
+        "year": "2000"
+      },
+      {
+        "title": "Chronic obstructive pulmonary disease as an independent risk factor for cardiovascular morbidity",
+        "authors": "J Finkelstein, E Cha, SM Scharf",
+        "journal": "International journal of chronic obstructive pulmonary disease 4, 337, 2009",
+        "counts": "232",
+        "year": "2009"
+      },
+      {
+        "title": "Hyperinnervation of the airways in transgenic mice overexpressing nerve growth factor",
+        "authors": "GW Hoyle, RM Graham, JB Finkelstein, KPT Nguyen, D Gozal, ...",
+        "journal": "American journal of respiratory cell and molecular biology 18 (2), 149-157, 1998",
+        "counts": "231",
+        "year": "1998"
+      },
+      {
+        "title": "Emphysematous lesions, inflammation, and fibrosis in the lungs of transgenic mice overexpressing platelet-derived growth factor",
+        "authors": "GW Hoyle, J Li, JB Finkelstein, T Eisenberg, JY Liu, JA Lasky, G Athas, ...",
+        "journal": "The American journal of pathology 154 (6), 1763-1775, 1999",
+        "counts": "152",
+        "year": "1999"
+      },
+      {
+        "title": "System and method for remotely monitoring asthma severity",
+        "authors": "J Finkelstein, G Hripcsak",
+        "journal": "US Patent 6,283,923, 2001",
+        "counts": "116",
+        "year": "2001"
+      },
+      {
+        "title": "Development and implementation of the home asthma telemonitoring (HAT) system to facilitate asthma self-care",
+        "authors": "J Finkelstein, G O'connor, RH Friedman",
+        "journal": "Medinfo 10 (Pt 1), 810-814, 2001",
+        "counts": "112",
+        "year": "2001"
+      },
+      {
+        "title": "Identifying groups at high risk for carriage of antibiotic-resistant bacteria",
+        "authors": "JP Furuno, JC McGregor, AD Harris, JA Johnson, JK Johnson, ...",
+        "journal": "Archives of internal medicine 166 (5), 580-585, 2006",
+        "counts": "104",
+        "year": "2006"
+      },
+      {
+        "title": "Enabling patient-centered care through health information technology.",
+        "authors": "J Finkelstein, A Knight, S Marinopoulos, MC Gibbons, Z Berger, ...",
+        "journal": "Evidence report/technology assessment, 1, 2012",
+        "counts": "101",
+        "year": "2012"
+      },
+      {
+        "title": "Impact of consumer health informatics applications.",
+        "authors": "MC Gibbons, RF Wilson, L Samal, CU Lehman, K Dickersin, HP Lehmann, ...",
+        "journal": "Evidence report/technology assessment, 1, 2009",
+        "counts": "101",
+        "year": "2009"
       }
     ]
   },
@@ -31983,7 +34860,7 @@ var data = [
         "title": "Genetics of rheumatoid arthritis contributes to biology and drug discovery",
         "authors": "Y Okada, D Wu, G Trynka, T Raj, C Terao, K Ikari, Y Kochi, K Ohmura, ...",
         "journal": "Nature 506 (7488), 376, 2014",
-        "counts": "924",
+        "counts": "925",
         "year": "2014"
       },
       {
@@ -32018,7 +34895,7 @@ var data = [
         "title": "A gene-based association method for mapping traits using reference transcriptome data",
         "authors": "ER Gamazon, HE Wheeler, KP Shah, SV Mozaffari, K Aquino-Michaels, ...",
         "journal": "Nature genetics 47 (9), 1091, 2015",
-        "counts": "302",
+        "counts": "303",
         "year": "2015"
       },
       {
@@ -32130,14 +35007,14 @@ var data = [
         "title": "Genetic association study of QT interval highlights role for calcium signaling pathways in myocardial repolarization",
         "authors": "DE Arking, SL Pulit, L Crotti, P Van Der Harst, PB Munroe, TT Koopmann, ...",
         "journal": "Nature genetics 46 (8), 826, 2014",
-        "counts": "129",
+        "counts": "130",
         "year": "2014"
       },
       {
         "title": "Pharmacogenetic meta-analysis of genome-wide association studies of LDL cholesterol response to statins",
         "authors": "I Postmus, S Trompet, HA Deshmukh, MR Barnes, X Li, HR Warren, ...",
         "journal": "Nature communications 5, 5068, 2014",
-        "counts": "126",
+        "counts": "127",
         "year": "2014"
       },
       {
@@ -32225,21 +35102,21 @@ var data = [
         "title": "The incidence and severity of adverse events affecting patients after discharge from the hospital",
         "authors": "AJ Forster, HJ Murff, JF Peterson, TK Gandhi, DW Bates",
         "journal": "Annals of internal medicine 138 (3), 161-167, 2003",
-        "counts": "1569",
+        "counts": "1570",
         "year": "2003"
       },
       {
         "title": "Adverse drug events in ambulatory care",
         "authors": "TK Gandhi, SN Weingart, J Borus, AC Seger, J Peterson, E Burdick, ...",
         "journal": "New England Journal of Medicine 348 (16), 1556-1564, 2003",
-        "counts": "1454",
+        "counts": "1453",
         "year": "2003"
       },
       {
         "title": "Lorazepam is an independent risk factor for transitioning to delirium in intensive care unit patients",
         "authors": "P Pandharipande, A Shintani, J Peterson, BT Pun, GR Wilkinson, ...",
         "journal": "Anesthesiology: The Journal of the American Society of Anesthesiologists 104 …, 2006",
-        "counts": "1000",
+        "counts": "1001",
         "year": "2006"
       },
       {
@@ -32260,7 +35137,7 @@ var data = [
         "title": "Adverse drug events occurring following hospital discharge",
         "authors": "AJ Forster, HJ Murff, JF Peterson, TK Gandhi, DW Bates",
         "journal": "Journal of general internal medicine 20 (4), 317-323, 2005",
-        "counts": "427",
+        "counts": "426",
         "year": "2005"
       },
       {
@@ -32302,7 +35179,7 @@ var data = [
         "title": "The design and evaluation of prototype eco-feedback displays for fixture-level water usage data",
         "authors": "J Froehlich, L Findlater, M Ostergren, S Ramanathan, J Peterson, I Wragg, ...",
         "journal": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2012",
-        "counts": "134",
+        "counts": "135",
         "year": "2012"
       },
       {
@@ -32418,7 +35295,7 @@ var data = [
         "title": "Formalising design exploration as co-evolution",
         "authors": "ML Maher, J Poon, S Boulanger",
         "journal": "Advances in formal design methods for CAD, 3-30, 1996",
-        "counts": "230",
+        "counts": "231",
         "year": "1996"
       },
       {
@@ -32457,14 +35334,14 @@ var data = [
         "title": "Top 10 algorithms in data mining",
         "authors": "X Wu, V Kumar, JR Quinlan, J Ghosh, Q Yang, H Motoda, GJ McLachlan, ...",
         "journal": "Knowledge and information systems 14 (1), 1-37, 2008",
-        "counts": "4069",
+        "counts": "4063",
         "year": "2008"
       },
       {
         "title": "Cluster ensembles---a knowledge reuse framework for combining multiple partitions",
         "authors": "A Strehl, J Ghosh",
         "journal": "Journal of machine learning research 3 (Dec), 583-617, 2002",
-        "counts": "3542",
+        "counts": "3541",
         "year": "2002"
       },
       {
@@ -32499,7 +35376,7 @@ var data = [
         "title": "Clustering on the Unit Hypersphere using von Mises-Fisher Distributions.",
         "authors": "A Banerjee, IS Dhillon, J Ghosh, S Sra",
         "journal": "Journal of Machine Learning Research 6 (9), 2005",
-        "counts": "636",
+        "counts": "637",
         "year": "2005"
       },
       {
@@ -32576,7 +35453,7 @@ var data = [
         "title": "Privacy-preserving distributed clustering using generative models",
         "authors": "S Merugu, J Ghosh",
         "journal": "null, 211, 2003",
-        "counts": "238",
+        "counts": "239",
         "year": "2003"
       },
       {
@@ -32772,14 +35649,14 @@ var data = [
         "title": "Introduction to statistical relational learning",
         "authors": "L Getoor, B Taskar",
         "journal": "MIT press, 2007",
-        "counts": "1671",
+        "counts": "1673",
         "year": "2007"
       },
       {
         "title": "Extracting refined rules from knowledge-based neural networks",
         "authors": "GG Towell, JW Shavlik",
         "journal": "Machine learning 13 (1), 71-101, 1993",
-        "counts": "1008",
+        "counts": "1007",
         "year": "1993"
       },
       {
@@ -32832,6 +35709,13 @@ var data = [
         "year": "1996"
       },
       {
+        "title": "Using neural networks for data mining",
+        "authors": "MW Craven, JW Shavlik",
+        "journal": "Future generation computer systems 13 (2-3), 211-229, 1997",
+        "counts": "334",
+        "year": "1997"
+      },
+      {
         "title": "Using sampling and queries to extract rules from trained neural networks",
         "authors": "MW Craven, JW Shavlik",
         "journal": "Proceedings of the 11th International Conference on Machine Learning, 37-45, 1994",
@@ -32839,17 +35723,10 @@ var data = [
         "year": "1994"
       },
       {
-        "title": "Using neural networks for data mining",
-        "authors": "MW Craven, JW Shavlik",
-        "journal": "Future generation computer systems 13 (2-3), 211-229, 1997",
-        "counts": "333",
-        "year": "1997"
-      },
-      {
         "title": "A 14nm logic technology featuring 2nd-generation FinFET, air-gapped interconnects, self-aligned double patterning and a 0.0588 µm2 SRAM cell size",
         "authors": "S Natarajan, M Agostinelli, S Akbar, M Bost, A Bowonder, V Chikarmane, ...",
         "journal": "Electron Devices Meeting (IEDM), 2014 IEEE International, 3.7. 1-3.7. 3, 2014",
-        "counts": "330",
+        "counts": "325",
         "year": "2014"
       },
       {
@@ -32877,7 +35754,7 @@ var data = [
         "title": "Tuffy: Scaling up statistical inference in markov logic networks using an rdbms",
         "authors": "F Niu, C Ré, AH Doan, J Shavlik",
         "journal": "Proceedings of the VLDB Endowment 4 (6), 373-384, 2011",
-        "counts": "232",
+        "counts": "233",
         "year": "2011"
       },
       {
@@ -32947,7 +35824,7 @@ var data = [
         "title": "Corleone: hands-off crowdsourcing for entity matching",
         "authors": "C Gokhale, S Das, AH Doan, JF Naughton, N Rampalli, J Shavlik, X Zhu",
         "journal": "Proceedings of the 2014 ACM SIGMOD international conference on Management of …, 2014",
-        "counts": "123",
+        "counts": "125",
         "year": "2014"
       },
       {
@@ -32986,16 +35863,16 @@ var data = [
         "year": "2005"
       },
       {
-        "title": "Guiding a reinforcement learner with natural language advice: Initial results in RoboCup soccer",
-        "authors": "G Kuhlmann, P Stone, R Mooney, J Shavlik",
-        "journal": "The AAAI-2004 Workshop on Supervisory Control of Learning and Adaptive Systems, 2004",
-        "counts": "102",
-        "year": "2004"
-      },
-      {
         "title": "Knowledge-based kernel approximation",
         "authors": "OL Mangasarian, JW Shavlik, EW Wild",
         "journal": "Journal of Machine Learning Research 5 (Sep), 1127-1141, 2004",
+        "counts": "103",
+        "year": "2004"
+      },
+      {
+        "title": "Guiding a reinforcement learner with natural language advice: Initial results in RoboCup soccer",
+        "authors": "G Kuhlmann, P Stone, R Mooney, J Shavlik",
+        "journal": "The AAAI-2004 Workshop on Supervisory Control of Learning and Adaptive Systems, 2004",
         "counts": "102",
         "year": "2004"
       }
@@ -33137,7 +36014,7 @@ var data = [
         "title": "Understanding quantified-selfers' practices in collecting and exploring personal data",
         "authors": "EK Choe, NB Lee, B Lee, W Pratt, JA Kientz",
         "journal": "Proceedings of the 32nd annual ACM conference on Human factors in computing …, 2014",
-        "counts": "405",
+        "counts": "406",
         "year": "2014"
       },
       {
@@ -33151,14 +36028,14 @@ var data = [
         "title": "Randomized, controlled pilot trial of a smartphone app for smoking cessation using acceptance and commitment therapy",
         "authors": "JB Bricker, KE Mull, JA Kientz, R Vilardaga, LD Mercer, KJ Akioka, ...",
         "journal": "Drug and alcohol dependence 143, 87-94, 2014",
-        "counts": "160",
+        "counts": "161",
         "year": "2014"
       },
       {
         "title": "Personality and persuasive technology: an exploratory study on health-promoting mobile applications",
         "authors": "S Halko, JA Kientz",
         "journal": "International conference on persuasive technology, 150-161, 2010",
-        "counts": "153",
+        "counts": "152",
         "year": "2010"
       },
       {
@@ -33277,7 +36154,7 @@ var data = [
         "title": "Design features of graphs in health risk communication: a systematic review",
         "authors": "JS Ancker, Y Senathirajah, R Kukafka, JB Starren",
         "journal": "Journal of the American Medical Informatics Association 13 (6), 608-618, 2006",
-        "counts": "377",
+        "counts": "378",
         "year": "2006"
       },
       {
@@ -33319,7 +36196,7 @@ var data = [
         "title": "StressCam: non-contact measurement of users' emotional states through thermal imaging",
         "authors": "C Puri, L Olson, I Pavlidis, J Levine, J Starren",
         "journal": "CHI'05 extended abstracts on Human factors in computing systems, 1725-1728, 2005",
-        "counts": "160",
+        "counts": "162",
         "year": "2005"
       },
       {
@@ -33566,7 +36443,7 @@ var data = [
         "title": "Decision aids for people facing health treatment or screening decisions",
         "authors": "D Stacey, F Légaré, K Lewis, MJ Barry, CL Bennett, KB Eden, ...",
         "journal": "Cochrane database of systematic reviews, 2017",
-        "counts": "1516",
+        "counts": "1519",
         "year": "2017"
       },
       {
@@ -33650,7 +36527,7 @@ var data = [
         "title": "Rethinking location sharing: exploring the implications of social-driven vs. purpose-driven location sharing",
         "authors": "KP Tang, J Lin, JI Hong, DP Siewiorek, N Sadeh",
         "journal": "Proceedings of the 12th ACM international conference on Ubiquitous computing …, 2010",
-        "counts": "161",
+        "counts": "162",
         "year": "2010"
       },
       {
@@ -33720,7 +36597,7 @@ var data = [
         "title": "Generating natural motion in an android by mapping human motion",
         "authors": "D Matsui, T Minato, KF MacDorman, H Ishiguro",
         "journal": "Geminoid Studies: Science and Technologies for Humanlike Teleoperated …, 2018",
-        "counts": "163",
+        "counts": "164",
         "year": "2018"
       },
       {
@@ -33754,6 +36631,80 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "First year students' experiences with technology: Are they really digital natives?",
+        "authors": "GE Kennedy, TS Judd, A Churchward, K Gray, KL Krause",
+        "journal": "Australasian journal of educational technology 24 (1), 2008",
+        "counts": "1320",
+        "year": "2008"
+      },
+      {
+        "title": "The net generation are not big users of Web 2.0 technologies: Preliminary findings",
+        "authors": "G Kennedy, B Dalgarno, K Gray, T Judd, J Waycott, SJ Bennett, KA Maton, ...",
+        "journal": "",
+        "counts": "388",
+        "year": "2007"
+      },
+      {
+        "title": "Digital divides? Student and staff perceptions of information and communication technologies",
+        "authors": "J Waycott, S Bennett, G Kennedy, B Dalgarno, K Gray",
+        "journal": "Computers & education 54 (4), 1202-1211, 2010",
+        "counts": "336",
+        "year": "2010"
+      },
+      {
+        "title": "In their own words: A qualitative study of the reasons Australian university students plagiarize",
+        "authors": "M Devlin, K Gray",
+        "journal": "High Education Research & Development 26 (2), 181-198, 2007",
+        "counts": "210",
+        "year": "2007"
+      },
+      {
+        "title": "Medical students’ use of Facebook to support learning: Insights from four case studies",
+        "authors": "K Gray, L Annabell, G Kennedy",
+        "journal": "Medical teacher 32 (12), 971-976, 2010",
+        "counts": "197",
+        "year": "2010"
+      },
+      {
+        "title": "Educating the net generation. A handbook of findings for practice and policy",
+        "authors": "G Kennedy, B Dalgarno, S Bennett, K Gray, J Waycott, T Judd, A Bishop, ...",
+        "journal": "Australian Learning and Teaching Council, 2009",
+        "counts": "159",
+        "year": "2009"
+      },
+      {
+        "title": "Health outcomes and related effects of using social media in chronic disease management: a literature review and analysis of affordances",
+        "authors": "M Merolli, K Gray, F Martin-Sanchez",
+        "journal": "Journal of biomedical informatics 46 (6), 957-969, 2013",
+        "counts": "156",
+        "year": "2013"
+      },
+      {
+        "title": "Immigrants and natives: Investigating differences between staff and students’ use of technology",
+        "authors": "G Kennedy, B Dalgarno, S Bennett, T Judd, K Gray, R Chang",
+        "journal": "Hello! Where are you in the landscape of educational technology, 2008",
+        "counts": "151",
+        "year": "2008"
+      },
+      {
+        "title": "Students as Web 2.0 authors: Implications for assessment design and conduct",
+        "authors": "K Gray, C Thompson, J Sheard, R Clerehan, M Hamilton",
+        "journal": "Australasian Journal of Educational Technology 26 (1), 2010",
+        "counts": "134",
+        "year": "2010"
+      },
+      {
+        "title": "Questioning the net generation: A collaborative project in Australian higher education",
+        "authors": "G Kennedy, KL Krause, K Gray, T Judd, SJ Bennett, KA Maton, ...",
+        "journal": "",
+        "counts": "123",
+        "year": "2006"
+      }
+    ]
   },
   {
     "citations": [
@@ -33921,6 +36872,73 @@ var data = [
   {
     "citations": [
       {
+        "title": "A common open representation of mass spectrometry data and its application to proteomics research",
+        "authors": "PGA Pedrioli, JK Eng, R Hubley, M Vogelzang, EW Deutsch, B Raught, ...",
+        "journal": "Nature biotechnology 22 (11), 1459, 2004",
+        "counts": "791",
+        "year": "2004"
+      },
+      {
+        "title": "Subcellular localization of the yeast proteome",
+        "authors": "A Kumar, S Agarwal, JA Heyman, S Matson, M Heidtman, S Piccirillo, ...",
+        "journal": "Genes & development 16 (6), 707-719, 2002",
+        "counts": "778",
+        "year": "2002"
+      },
+      {
+        "title": "Global patterns of linkage disequilibrium at the CD4 locus and modern human origins",
+        "authors": "SA Tishkoff, E Dietzsch, W Speed, AJ Pakstis, JR Kidd, K Cheung, ...",
+        "journal": "Science 271 (5254), 1380-1387, 1996",
+        "counts": "682",
+        "year": "1996"
+      },
+      {
+        "title": "Large-scale analysis of the yeast genome by transposon tagging and gene disruption",
+        "authors": "P Ross-Macdonald, PSR Coelho, T Roemer, S Agarwal, A Kumar, ...",
+        "journal": "Nature 402 (6760), 413, 1999",
+        "counts": "604",
+        "year": "1999"
+      },
+      {
+        "title": "The BioPAX community standard for pathway data sharing",
+        "authors": "E Demir, MP Cary, S Paley, K Fukuda, C Lemer, I Vastrik, G Wu, ...",
+        "journal": "Nature biotechnology 28 (9), 935, 2010",
+        "counts": "512",
+        "year": "2010"
+      },
+      {
+        "title": "Advancing translational research with the Semantic Web",
+        "authors": "A Ruttenberg, T Clark, W Bug, M Samwald, O Bodenreider, H Chen, ...",
+        "journal": "BMC bioinformatics 8 (3), S2, 2007",
+        "counts": "318",
+        "year": "2007"
+      },
+      {
+        "title": "YeastHub: a semantic web use case for integrating data in the life sciences domain",
+        "authors": "KH Cheung, KY Yip, A Smith, R Deknikker, A Masiar, M Gerstein",
+        "journal": "Bioinformatics 21 (suppl_1), i85-i96, 2005",
+        "counts": "132",
+        "year": "2005"
+      },
+      {
+        "title": "An integrated approach for finding overlooked genes in yeast",
+        "authors": "A Kumar, PM Harrison, KH Cheung, N Lan, N Echols, P Bertone, P Miller, ...",
+        "journal": "Nature biotechnology 20 (1), 58, 2002",
+        "counts": "124",
+        "year": "2002"
+      },
+      {
+        "title": "HCLS 2.0/3.0: Health care and life sciences data mashup using Web 2.0/3.0",
+        "authors": "KH Cheung, KY Yip, JP Townsend, M Scotch",
+        "journal": "Journal of biomedical informatics 41 (5), 694-705, 2008",
+        "counts": "123",
+        "year": "2008"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Regulation of ketogenesis and the renaissance of carnitine palmitoyltransferase",
         "authors": "JD McGarry, KF Woeltje, M Kuwajima, DW Foster",
         "journal": "Diabetes/metabolism reviews 5 (3), 271-284, 1989",
@@ -34072,7 +37090,7 @@ var data = [
         "title": "Ultrasonography and limited computed tomography in the diagnosis and management of appendicitis in children",
         "authors": "BMG Peña, KD Mandl, SJ Kraus, AC Fischer, GR Fleisher, DP Lund, ...",
         "journal": "Jama 282 (11), 1041-1046, 1999",
-        "counts": "328",
+        "counts": "329",
         "year": "1999"
       },
       {
@@ -34100,7 +37118,7 @@ var data = [
         "title": "Finding the missing link for big biomedical data",
         "authors": "GM Weber, KD Mandl, IS Kohane",
         "journal": "Jama 311 (24), 2479-2480, 2014",
-        "counts": "203",
+        "counts": "204",
         "year": "2014"
       },
       {
@@ -34219,14 +37237,14 @@ var data = [
         "title": "Effect of computed tomography on patient management and costs in children with suspected appendicitis",
         "authors": "BMG Peña, GA Taylor, DP Lund, KD Mandl",
         "journal": "Pediatrics 104 (3), 440-446, 1999",
-        "counts": "125",
+        "counts": "126",
         "year": "1999"
       },
       {
         "title": "Selective imaging strategies for the diagnosis of appendicitis in children",
         "authors": "BMG Peña, EF Cook, KD Mandl",
         "journal": "Pediatrics 113 (1), 24-28, 2004",
-        "counts": "123",
+        "counts": "124",
         "year": "2004"
       },
       {
@@ -34254,7 +37272,7 @@ var data = [
         "title": "Costs and effectiveness of ultrasonography and limited computed tomography for diagnosing appendicitis in children",
         "authors": "BMG Peña, GA Taylor, SJ Fishman, KD Mandl",
         "journal": "Pediatrics 106 (4), 672-676, 2000",
-        "counts": "109",
+        "counts": "110",
         "year": "2000"
       },
       {
@@ -34270,6 +37288,38 @@ var data = [
         "journal": "Journal of the American Medical Informatics Association 12 (1), 47-54, 2005",
         "counts": "105",
         "year": "2005"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Improving clinical practice using clinical decision support systems: a systematic review of trials to identify features critical to success",
+        "authors": "K Kawamoto, CA Houlihan, EA Balas, DF Lobach",
+        "journal": "Bmj 330 (7494), 765, 2005",
+        "counts": "2111",
+        "year": "2005"
+      },
+      {
+        "title": "The clinical document architecture and the continuity of care record: a critical analysis",
+        "authors": "JM Ferranti, RC Musser, K Kawamoto, WE Hammond",
+        "journal": "Journal of the American Medical Informatics Association 13 (3), 245-252, 2006",
+        "counts": "187",
+        "year": "2006"
+      },
+      {
+        "title": "A national clinical decision support infrastructure to enable the widespread and consistent practice of genomic and personalized medicine",
+        "authors": "K Kawamoto, DF Lobach, HF Willard, GS Ginsburg",
+        "journal": "BMC medical informatics and decision making 9 (1), 17, 2009",
+        "counts": "117",
+        "year": "2009"
+      },
+      {
+        "title": "Proposal for fulfilling strategic objectives of the US roadmap for national action on decision support through a service-oriented architecture leveraging HL7 services",
+        "authors": "K Kawamoto, DF Lobach",
+        "journal": "Journal of the American Medical Informatics Association 14 (2), 146-155, 2007",
+        "counts": "105",
+        "year": "2007"
       }
     ]
   },
@@ -34300,7 +37350,7 @@ var data = [
         "title": "System for retrieval of information from data structure of medical records",
         "authors": "KA Spackman, KE Campbell",
         "journal": "US Patent 6,438,533, 2002",
-        "counts": "154",
+        "counts": "155",
         "year": "2002"
       },
       {
@@ -34546,7 +37596,7 @@ var data = [
         "title": "Active exploration in dynamic environments",
         "authors": "SB Thrun, K Möller",
         "journal": "Advances in neural information processing systems, 531-538, 1992",
-        "counts": "164",
+        "counts": "163",
         "year": "1992"
       },
       {
@@ -34597,6 +37647,87 @@ var data = [
     "citations": []
   },
   {
+    "citations": [
+      {
+        "title": "Rough Sets",
+        "authors": "KJ Cios, W Pedrycz, RW Swiniarski",
+        "journal": "Data Mining Methods for Knowledge Discovery, 27-71, 1998",
+        "counts": "787",
+        "year": "1998"
+      },
+      {
+        "title": "Data mining: a knowledge discovery approach",
+        "authors": "KJ Cios, W Pedrycz, RW Swiniarski, LA Kurgan",
+        "journal": "Springer Science & Business Media, 2007",
+        "counts": "746",
+        "year": "2007"
+      },
+      {
+        "title": "Uniqueness of medical data mining",
+        "authors": "KJ Cios, GW Moore",
+        "journal": "Artificial intelligence in medicine 26 (1-2), 1-24, 2002",
+        "counts": "640",
+        "year": "2002"
+      },
+      {
+        "title": "CAIM discretization algorithm",
+        "authors": "LA Kurgan, KJ Cios",
+        "journal": "IEEE transactions on Knowledge and Data Engineering 16 (2), 145-153, 2004",
+        "counts": "470",
+        "year": "2004"
+      },
+      {
+        "title": "Knowledge discovery approach to automated cardiac SPECT diagnosis",
+        "authors": "LA Kurgan, KJ Cios, R Tadeusiewicz, M Ogiela, LS Goodenday",
+        "journal": "Artificial intelligence in medicine 23 (2), 149-169, 2001",
+        "counts": "218",
+        "year": "2001"
+      },
+      {
+        "title": "Time series forecasting by combining RBF networks, certainty factors, and the Box-Jenkins model",
+        "authors": "DK Wedding II, KJ Cios",
+        "journal": "Neurocomputing 10 (2), 149-168, 1996",
+        "counts": "177",
+        "year": "1996"
+      },
+      {
+        "title": "Trends in data mining and knowledge discovery",
+        "authors": "KJ Cios, LA Kurgan",
+        "journal": "Advanced techniques in knowledge discovery and data mining, 1-26, 2005",
+        "counts": "162",
+        "year": "2005"
+      },
+      {
+        "title": "A machine learning method for generation of a neural network architecture: A continuous ID3 algorithm",
+        "authors": "KJ Cios, N Liu",
+        "journal": "IEEE Transactions on Neural Networks 3 (2), 280-291, 1992",
+        "counts": "135",
+        "year": "1992"
+      },
+      {
+        "title": "From the guest editor medical data mining and knowledge discovery",
+        "authors": "KJ Cios",
+        "journal": "IEEE Engineering in Medicine and Biology Magazine 19 (4), 15-16, 2000",
+        "counts": "130",
+        "year": "2000"
+      },
+      {
+        "title": "Comparison of interval-valued fuzzy sets, intuitionistic fuzzy sets, and bipolar-valued fuzzy sets",
+        "authors": "KM Lee, KMI LEE, KJ CIOS",
+        "journal": "Computing And Information Technologies: Exploring Emerging Technologies, 433-439, 2001",
+        "counts": "128",
+        "year": "2001"
+      },
+      {
+        "title": "SCPRED: accurate prediction of protein structural class for sequences of twilight-zone similarity with predicting sequences",
+        "authors": "L Kurgan, K Cios, K Chen",
+        "journal": "BMC bioinformatics 9 (1), 226, 2008",
+        "counts": "123",
+        "year": "2008"
+      }
+    ]
+  },
+  {
     "citations": []
   },
   {
@@ -34619,7 +37750,7 @@ var data = [
         "title": "Preferential electrical coupling regulates neocortical lineage-dependent microcircuit assembly",
         "authors": "YC Yu, S He, S Chen, Y Fu, KN Brown, XH Yao, J Ma, KP Gao, ...",
         "journal": "Nature 486 (7401), 113, 2012",
-        "counts": "141",
+        "counts": "142",
         "year": "2012"
       },
       {
@@ -35000,7 +38131,7 @@ var data = [
         "title": "A Knowledge-Based Approach to Organizing Retrieved Documents.",
         "authors": "W Pratt, MA Hearst, LM Fagan",
         "journal": "AAAI/IAAI, 80-85, 1999",
-        "counts": "154",
+        "counts": "155",
         "year": "1999"
       },
       {
@@ -35064,6 +38195,13 @@ var data = [
         "year": "2007"
       },
       {
+        "title": "Transcending inductive category formation in learning",
+        "authors": "RC Schank, GC Collins, LE Hunter",
+        "journal": "Behavioral and Brain Sciences 9 (4), 639-651, 1986",
+        "counts": "190",
+        "year": "1986"
+      },
+      {
         "title": "Functional development of the mammary gland: use of expression profiling and trajectory clustering to reveal changes in gene expression during pregnancy, lactation, and involution",
         "authors": "MC Rudolph, JL McManaman, L Hunter, T Phang, MC Neville",
         "journal": "Journal of mammary gland biology and neoplasia 8 (3), 287-307, 2003",
@@ -35071,16 +38209,9 @@ var data = [
         "year": "2003"
       },
       {
-        "title": "Transcending inductive category formation in learning",
-        "authors": "RC Schank, GC Collins, LE Hunter",
-        "journal": "Behavioral and Brain Sciences 9 (4), 639-651, 1986",
-        "counts": "189",
-        "year": "1986"
-      },
-      {
         "title": "Artificial intelligence and molecular biology",
         "authors": "L Hunter",
-        "journal": "American Association for Artificial Intelligence, 1993",
+        "journal": "Aaai Press, 1993",
         "counts": "151",
         "year": "1993"
       },
@@ -35394,7 +38525,7 @@ var data = [
         "title": "ZDOCK: An initial‐stage protein‐docking algorithm",
         "authors": "R Chen, L Li, Z Weng",
         "journal": "Proteins: Structure, Function, and Bioinformatics 52 (1), 80-87, 2003",
-        "counts": "1112",
+        "counts": "1113",
         "year": "2003"
       },
       {
@@ -35429,7 +38560,7 @@ var data = [
         "title": "Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records.",
         "authors": "R Miotto, L Li, BA Kidd, JT Dudley",
         "journal": "Sci Rep. 6, 2016",
-        "counts": "225",
+        "counts": "226",
         "year": "2016"
       },
       {
@@ -35473,6 +38604,59 @@ var data = [
         "journal": "Journal of the American Society of Nephrology 20 (8), 1839-1851, 2009",
         "counts": "107",
         "year": "2009"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Peertrust: Supporting reputation-based trust for peer-to-peer electronic communities",
+        "authors": "L Xiong, L Liu",
+        "journal": "IEEE transactions on Knowledge and Data Engineering 16 (7), 843-857, 2004",
+        "counts": "2302",
+        "year": "2004"
+      },
+      {
+        "title": "A reputation-based trust model for peer-to-peer ecommerce communities",
+        "authors": "L Xiong, L Liu",
+        "journal": "Proceedings of the 4th ACM conference on Electronic commerce, 228-229, 2003",
+        "counts": "615",
+        "year": "2003"
+      },
+      {
+        "title": "TrustGuard: countering vulnerabilities in reputation management for decentralized overlay networks",
+        "authors": "M Srivatsa, L Xiong, L Liu",
+        "journal": "Proceedings of the 14th international conference on World Wide Web, 422-431, 2005",
+        "counts": "397",
+        "year": "2005"
+      },
+      {
+        "title": "Publishing set-valued data via differential privacy",
+        "authors": "R Chen, N Mohammed, BCM Fung, BC Desai, L Xiong",
+        "journal": "Proceedings of the VLDB Endowment 4 (11), 1087-1098, 2011",
+        "counts": "200",
+        "year": "2011"
+      },
+      {
+        "title": "Building trust in decentralized peer-to-peer electronic communities",
+        "authors": "L Xiong, L Liu",
+        "journal": "Fifth International Conference on Electronic Commerce Research (ICECR-5), 2002",
+        "counts": "179",
+        "year": "2002"
+      },
+      {
+        "title": "Differentially private data release through multidimensional partitioning",
+        "authors": "Y Xiao, L Xiong, C Yuan",
+        "journal": "Workshop on Secure Data Management, 150-168, 2010",
+        "counts": "137",
+        "year": "2010"
+      },
+      {
+        "title": "p90 ribosomal S6 kinase 2 promotes invasion and metastasis of human head and neck squamous cell carcinoma cells",
+        "authors": "S Kang, S Elf, K Lythgoe, T Hitosugi, J Taunton, W Zhou, L Xiong, D Wang, ...",
+        "journal": "The Journal of clinical investigation 120 (4), 1165-1177, 2010",
+        "counts": "117",
+        "year": "2010"
       }
     ]
   },
@@ -35570,21 +38754,21 @@ var data = [
         "title": "Computer and robot vision",
         "authors": "RM Haralick, LG Shapiro",
         "journal": "Addison-wesley, 1992",
-        "counts": "6015",
+        "counts": "6013",
         "year": "1992"
       },
       {
         "title": "Image segmentation techniques",
         "authors": "RM Haralick, LG Shapiro",
         "journal": "Applications of Artificial Intelligence II 548, 2-10, 1985",
-        "counts": "3224",
+        "counts": "3223",
         "year": "1985"
       },
       {
         "title": "Structural descriptions and inexact matching",
         "authors": "LG Shapiro, RM Haralick",
         "journal": "Department of Computer Science, Virginia Polytechnic Institute & State …, 1979",
-        "counts": "780",
+        "counts": "781",
         "year": "1979"
       },
       {
@@ -35710,7 +38894,7 @@ var data = [
         "title": "Consistent line clusters for building recognition in CBIR",
         "authors": "Y Li, LG Shapiro",
         "journal": "Pattern Recognition, 2002. Proceedings. 16th International Conference on 3 …, 2002",
-        "counts": "110",
+        "counts": "111",
         "year": "2002"
       },
       {
@@ -35743,6 +38927,13 @@ var data = [
         "authors": "JB Segal, DJ Brotman, AJ Necochea, A Emadi, L Samal, LM Wilson, ...",
         "journal": "Jama 301 (23), 2472-2485, 2009",
         "counts": "207",
+        "year": "2009"
+      },
+      {
+        "title": "Impact of consumer health informatics applications.",
+        "authors": "MC Gibbons, RF Wilson, L Samal, CU Lehman, K Dickersin, HP Lehmann, ...",
+        "journal": "Evidence report/technology assessment, 1, 2009",
+        "counts": "101",
         "year": "2009"
       }
     ]
@@ -35777,7 +38968,7 @@ var data = [
         "title": "Approach to mobile information and communication for health care",
         "authors": "EA Mendonça, ES Chen, PD Stetson, LK McKnight, J Lei, JJ Cimino",
         "journal": "International Journal of Medical Informatics 73 (7-8), 631-638, 2004",
-        "counts": "101",
+        "counts": "102",
         "year": "2004"
       }
     ]
@@ -35800,7 +38991,7 @@ var data = [
         "title": "Exudate-based diabetic macular edema detection in fundus images using publicly available datasets",
         "authors": "L Giancardo, F Meriaudeau, TP Karnowski, Y Li, S Garg, KW Tobin Jr, ...",
         "journal": "Medical image analysis 16 (1), 216-226, 2012",
-        "counts": "179",
+        "counts": "180",
         "year": "2012"
       }
     ]
@@ -35884,7 +39075,7 @@ var data = [
         "title": "Snail2 is an essential mediator of Twist1-induced epithelial mesenchymal transition and metastasis",
         "authors": "E Casas, J Kim, A Bendesky, L Ohno-Machado, CJ Wolfe, J Yang",
         "journal": "Cancer research 71 (1), 245-254, 2011",
-        "counts": "298",
+        "counts": "299",
         "year": "2011"
       },
       {
@@ -35958,7 +39149,7 @@ var data = [
         "title": "Controller-free exploration of medical image data: Experiencing the Kinect",
         "authors": "L Gallo, AP Placitelli, M Ciampi",
         "journal": "Computer-based medical systems (CBMS), 2011 24th international symposium on, 1-6, 2011",
-        "counts": "286",
+        "counts": "288",
         "year": "2011"
       }
     ]
@@ -36206,7 +39397,7 @@ var data = [
         "title": "Reducing the frequency of errors in medicine using information technology",
         "authors": "DW Bates, M Cohen, LL Leape, JM Overhage, MM Shabot, T Sheridan",
         "journal": "Journal of the American Medical Informatics Association 8 (4), 299-308, 2001",
-        "counts": "1142",
+        "counts": "1143",
         "year": "2001"
       },
       {
@@ -36234,7 +39425,7 @@ var data = [
         "title": "Standardized reporting of clinical practice guidelines: a proposal from the Conference on Guideline Standardization",
         "authors": "RN Shiffman, P Shekelle, JM Overhage, J Slutsky, J Grimshaw, ...",
         "journal": "Annals of internal medicine 139 (6), 493-498, 2003",
-        "counts": "449",
+        "counts": "450",
         "year": "2003"
       },
       {
@@ -36381,7 +39572,7 @@ var data = [
         "title": "Failure of computerized treatment suggestions to improve health outcomes of outpatients with uncomplicated hypertension: results of a randomized controlled trial",
         "authors": "MD Murray, LE Harris, JM Overhage, XH Zhou, GJ Eckert, FE Smith, ...",
         "journal": "Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy 24 (3 …, 2004",
-        "counts": "123",
+        "counts": "122",
         "year": "2004"
       },
       {
@@ -36624,6 +39815,24 @@ var data = [
   {
     "citations": [
       {
+        "title": "Extracting principal diagnosis, co-morbidity and smoking status for asthma research: evaluation of a natural language processing system",
+        "authors": "QT Zeng, S Goryachev, S Weiss, M Sordo, SN Murphy, R Lazarus",
+        "journal": "BMC medical informatics and decision making 6 (1), 30, 2006",
+        "counts": "295",
+        "year": "2006"
+      },
+      {
+        "title": "Clinical decision support: the road ahead",
+        "authors": "RA Greenes",
+        "journal": "Elsevier, 2011",
+        "counts": "231",
+        "year": "2011"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Acetylcysteine for prevention of renal outcomes in patients undergoing coronary and peripheral vascular angiography: main results from the randomized Acetylcysteine for …",
         "authors": "Act Investigators",
         "journal": "Circulation, CIRCULATIONAHA. 111.038943, 2011",
@@ -36655,7 +39864,7 @@ var data = [
         "title": "Cuidadores de crianças com câncer: aspectos da vida afetados pela atividade de cuidador",
         "authors": "ARM Beck, MHBM Lopes",
         "journal": "Revista Brasileira de Enfermagem, 2007",
-        "counts": "117",
+        "counts": "118",
         "year": "2007"
       }
     ]
@@ -36672,7 +39881,7 @@ var data = [
         "title": "Integrative annotation of 21,037 human genes validated by full-length cDNA clones",
         "authors": "T Imanishi, T Itoh, Y Suzuki, C O'donovan, S Fukuchi, KO Koyanagi, ...",
         "journal": "PLoS biology 2 (6), e162, 2004",
-        "counts": "388",
+        "counts": "389",
         "year": "2004"
       },
       {
@@ -36690,7 +39899,7 @@ var data = [
         "title": "Evolution of genes and genomes on the Drosophila phylogeny",
         "authors": "Drosophila 12 Genomes Consortium",
         "journal": "Nature 450 (7167), 203, 2007",
-        "counts": "1884",
+        "counts": "1895",
         "year": "2007"
       },
       {
@@ -36704,7 +39913,7 @@ var data = [
         "title": "Identifying a high fraction of the human genome to be under selective constraint using GERP++",
         "authors": "EV Davydov, DL Goode, M Sirota, GM Cooper, A Sidow, S Batzoglou",
         "journal": "PLoS computational biology 6 (12), e1001025, 2010",
-        "counts": "714",
+        "counts": "715",
         "year": "2010"
       },
       {
@@ -36725,7 +39934,7 @@ var data = [
         "title": "Systematic pan-cancer analysis of tumour purity",
         "authors": "D Aran, M Sirota, AJ Butte",
         "journal": "Nature communications 6, 8971, 2015",
-        "counts": "177",
+        "counts": "176",
         "year": "2015"
       },
       {
@@ -36774,8 +39983,54 @@ var data = [
         "title": "Controller-free exploration of medical image data: Experiencing the Kinect",
         "authors": "L Gallo, AP Placitelli, M Ciampi",
         "journal": "24th International Symposium on Computer-Based Medical Systems, CBMS, 1-6, 2011",
-        "counts": "286",
+        "counts": "288",
         "year": "2011"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Measuring semantic similarity between Gene Ontology terms",
+        "authors": "FM Couto, MJ Silva, PM Coutinho",
+        "journal": "Data & knowledge engineering 61 (1), 137-152, 2007",
+        "counts": "229",
+        "year": "2007"
+      },
+      {
+        "title": "Clues for detecting irony in user-generated contents: oh...!! it's so easy;-",
+        "authors": "P Carvalho, L Sarmento, MJ Silva, E De Oliveira",
+        "journal": "Proceedings of the 1st international CIKM workshop on Topic-sentiment …, 2009",
+        "counts": "204",
+        "year": "2009"
+      },
+      {
+        "title": "Adding geographic scopes to web resources",
+        "authors": "MJ Silva, B Martins, M Chaves, AP Afonso, N Cardoso",
+        "journal": "Computers, Environment and Urban Systems 30 (4), 378-399, 2006",
+        "counts": "200",
+        "year": "2006"
+      },
+      {
+        "title": "Indexing and ranking in Geo-IR systems",
+        "authors": "B Martins, MJ Silva, L Andrade",
+        "journal": "Proceedings of the 2005 workshop on Geographic information retrieval, 31-34, 2005",
+        "counts": "133",
+        "year": "2005"
+      },
+      {
+        "title": "Language identification in web pages",
+        "authors": "B Martins, MJ Silva",
+        "journal": "Proceedings of the 2005 ACM symposium on Applied computing, 764-768, 2005",
+        "counts": "131",
+        "year": "2005"
+      },
+      {
+        "title": "Semantic similarity over the gene ontology: family correlation and selecting disjunctive ancestors",
+        "authors": "FM Couto, MJ Silva, PM Coutinho",
+        "journal": "Proceedings of the 14th ACM international conference on Information and …, 2005",
+        "counts": "113",
+        "year": "2005"
       }
     ]
   },
@@ -36856,10 +40111,147 @@ var data = [
   {
     "citations": [
       {
+        "title": "Learning to extract symbolic knowledge from the World Wide Web",
+        "authors": "M Craven, A McCallum, D PiPasquo, T Mitchell, D Freitag",
+        "journal": "Carnegie-mellon univ pittsburgh pa school of computer Science, 1998",
+        "counts": "862",
+        "year": "1998"
+      },
+      {
+        "title": "Constructing biological knowledge bases by extracting information from text sources.",
+        "authors": "M Craven, J Kumlien",
+        "journal": "ISMB 1999, 77-86, 1999",
+        "counts": "603",
+        "year": "1999"
+      },
+      {
+        "title": "Learning to construct knowledge bases from the World Wide Web",
+        "authors": "M Craven, D DiPasquo, D Freitag, A McCallum, T Mitchell, K Nigam, ...",
+        "journal": "Artificial intelligence 118 (1-2), 69-113, 2000",
+        "counts": "591",
+        "year": "2000"
+      },
+      {
+        "title": "An analysis of active learning strategies for sequence labeling tasks",
+        "authors": "B Settles, M Craven",
+        "journal": "Proceedings of the conference on empirical methods in natural language …, 2008",
+        "counts": "543",
+        "year": "2008"
+      },
+      {
+        "title": "Extracting tree-structured representations of trained networks",
+        "authors": "M Craven, JW Shavlik",
+        "journal": "Advances in neural information processing systems, 24-30, 1996",
+        "counts": "430",
+        "year": "1996"
+      },
+      {
+        "title": "Multiple-instance active learning",
+        "authors": "B Settles, M Craven, S Ray",
+        "journal": "Advances in neural information processing systems, 1289-1296, 2008",
+        "counts": "339",
+        "year": "2008"
+      },
+      {
+        "title": "Using neural networks for data mining",
+        "authors": "MW Craven, JW Shavlik",
+        "journal": "Future generation computer systems 13 (2-3), 211-229, 1997",
+        "counts": "334",
+        "year": "1997"
+      },
+      {
+        "title": "Using sampling and queries to extract rules from trained neural networks",
+        "authors": "MW Craven, JW Shavlik",
+        "journal": "Machine Learning Proceedings 1994, 37-45, 1994",
+        "counts": "334",
+        "year": "1994"
+      },
+      {
+        "title": "Incorporating domain knowledge into topic modeling via Dirichlet forest priors",
+        "authors": "D Andrzejewski, X Zhu, M Craven",
+        "journal": "Proceedings of the 26th annual international conference on machine learning …, 2009",
+        "counts": "319",
+        "year": "2009"
+      },
+      {
+        "title": "Identification of toxicologically predictive gene sets using cDNA microarrays",
+        "authors": "RS Thomas, DR Rank, SG Penn, GM Zastrow, KR Hayes, K Pande, ...",
+        "journal": "Molecular Pharmacology 60 (6), 1189-1194, 2001",
+        "counts": "262",
+        "year": "2001"
+      },
+      {
+        "title": "Extracting comprehensible models from trained neural networks",
+        "authors": "MW Craven, JW Shavlik",
+        "journal": "University of Wisconsin, Madison, 1996",
+        "counts": "248",
+        "year": "1996"
+      },
+      {
+        "title": "Supervised versus multiple instance learning: An empirical comparison",
+        "authors": "S Ray, M Craven",
+        "journal": "Proceedings of the 22nd international conference on Machine learning, 697-704, 2005",
+        "counts": "224",
+        "year": "2005"
+      },
+      {
+        "title": "Hierarchical hidden markov models for information extraction",
+        "authors": "M Skounakis, M Craven, S Ray",
+        "journal": "IJCAI, 427-433, 2003",
+        "counts": "197",
+        "year": "2003"
+      },
+      {
+        "title": "Representing sentence structure in hidden Markov models for information extraction",
+        "authors": "S Ray, M Craven",
+        "journal": "International joint conference on artificial intelligence 17 (1), 1273-1279, 2001",
+        "counts": "172",
+        "year": "2001"
+      },
+      {
+        "title": "Active learning with real annotation costs",
+        "authors": "B Settles, M Craven, L Friedland",
+        "journal": "Proceedings of the NIPS workshop on cost-sensitive learning, 1-10, 2008",
+        "counts": "169",
+        "year": "2008"
+      },
+      {
+        "title": "Relational learning with statistical predicate invention: Better models for hypertext",
+        "authors": "M Craven, S Slattery",
+        "journal": "Machine Learning 43 (1-2), 97-119, 2001",
+        "counts": "154",
+        "year": "2001"
+      },
+      {
+        "title": "A Bayesian network approach to operon prediction",
+        "authors": "J Bockhorst, M Craven, D Page, J Shavlik, J Glasner",
+        "journal": "Bioinformatics 19 (10), 1227-1235, 2003",
+        "counts": "123",
+        "year": "2003"
+      },
+      {
+        "title": "A framework for incorporating general domain knowledge into latent Dirichlet allocation using first-order logic",
+        "authors": "D Andrzejewski, X Zhu, M Craven, B Recht",
+        "journal": "IJCAI Proceedings-International Joint Conference on Artificial Intelligence …, 2011",
+        "counts": "115",
+        "year": "2011"
+      },
+      {
+        "title": "Combining statistical and relational methods for learning in hypertext domains",
+        "authors": "S Slattery, M Craven",
+        "journal": "International Conference on Inductive Logic Programming, 38-52, 1998",
+        "counts": "114",
+        "year": "1998"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Biographies, bollywood, boom-boxes and blenders: Domain adaptation for sentiment classification",
         "authors": "J Blitzer, M Dredze, F Pereira",
         "journal": "Proceedings of the 45th annual meeting of the association of computational …, 2007",
-        "counts": "1594",
+        "counts": "1596",
         "year": "2007"
       },
       {
@@ -36915,7 +40307,7 @@ var data = [
         "title": "Separating fact from fear: Tracking flu infections on twitter",
         "authors": "A Lamb, MJ Paul, M Dredze",
         "journal": "Proceedings of the 2013 Conference of the North American Chapter of the …, 2013",
-        "counts": "193",
+        "counts": "194",
         "year": "2013"
       },
       {
@@ -36961,18 +40353,18 @@ var data = [
         "year": "2009"
       },
       {
+        "title": "Combining search, social media, and traditional data sources to improve influenza surveillance",
+        "authors": "M Santillana, AT Nguyen, M Dredze, MJ Paul, EO Nsoesie, JS Brownstein",
+        "journal": "PLoS computational biology 11 (10), e1004513, 2015",
+        "counts": "124",
+        "year": "2015"
+      },
+      {
         "title": "How social media will change public health",
         "authors": "M Dredze",
         "journal": "IEEE Intelligent Systems 27 (4), 81-84, 2012",
         "counts": "124",
         "year": "2012"
-      },
-      {
-        "title": "Combining search, social media, and traditional data sources to improve influenza surveillance",
-        "authors": "M Santillana, AT Nguyen, M Dredze, MJ Paul, EO Nsoesie, JS Brownstein",
-        "journal": "PLoS computational biology 11 (10), e1004513, 2015",
-        "counts": "123",
-        "year": "2015"
       },
       {
         "title": "Twitter improves influenza forecasting",
@@ -37031,7 +40423,7 @@ var data = [
         "title": "Searching for information in a hypertext medical handbook",
         "authors": "M Frisse",
         "journal": "Communications of the ACM 31 (7), 880-886, 1988",
-        "counts": "538",
+        "counts": "539",
         "year": "1988"
       },
       {
@@ -37088,14 +40480,14 @@ var data = [
         "title": "Perioperative management of antithrombotic therapy: antithrombotic therapy and prevention of thrombosis: American College of Chest Physicians evidence-based clinical practice …",
         "authors": "JD Douketis, AC Spyropoulos, FA Spencer, M Mayr, AK Jaffer, ...",
         "journal": "Chest 141 (2), e326S-e350S, 2012",
-        "counts": "1250",
+        "counts": "1249",
         "year": "2012"
       },
       {
         "title": "Antithrombotic therapy for atrial fibrillation: antithrombotic therapy and prevention of thrombosis: American College of Chest Physicians evidence-based clinical practice …",
         "authors": "JJ You, DE Singer, PA Howard, DA Lane, MH Eckman, MC Fang, ...",
         "journal": "Chest 141 (Suppl 2), e531S-e575S, 2012",
-        "counts": "1011",
+        "counts": "1012",
         "year": "2012"
       },
       {
@@ -37123,7 +40515,7 @@ var data = [
         "title": "Can patients be anticoagulated after intracerebral hemorrhage? A decision analysis",
         "authors": "MH Eckman, J Rosand, KA Knudsen, DE Singer, SM Greenberg",
         "journal": "Stroke 34 (7), 1710-1716, 2003",
-        "counts": "305",
+        "counts": "306",
         "year": "2003"
       },
       {
@@ -37144,7 +40536,7 @@ var data = [
         "title": "Grades of recommendation for antithrombotic agents",
         "authors": "G Guyatt, H Schunëmann, D Cook, R Jaeschke, S Pauker, H Bucher, ...",
         "journal": "Chest-Supplements Only 119 (1), 3S, 2001",
-        "counts": "249",
+        "counts": "248",
         "year": "2001"
       },
       {
@@ -37183,14 +40575,14 @@ var data = [
         "title": "Algorithm and tool for automated ontology merging and alignment",
         "authors": "NF Noy, MA Musen",
         "journal": "Proceedings of the 17th National Conference on Artificial Intelligence (AAAI …, 2000",
-        "counts": "1496",
+        "counts": "1497",
         "year": "2000"
       },
       {
         "title": "The evolution of Protégé: an environment for knowledge-based systems development",
         "authors": "JH Gennari, MA Musen, RW Fergerson, WE Grosso, M Crubézy, ...",
         "journal": "International Journal of Human-computer studies 58 (1), 89-123, 2003",
-        "counts": "1439",
+        "counts": "1440",
         "year": "2003"
       },
       {
@@ -37211,7 +40603,7 @@ var data = [
         "title": "The knowledge model of Protege-2000: Combining interoperability and flexibility",
         "authors": "NF Noy, RW Fergerson, MA Musen",
         "journal": "International Conference on Knowledge Engineering and Knowledge Management …, 2000",
-        "counts": "1040",
+        "counts": "1041",
         "year": "2000"
       },
       {
@@ -37225,7 +40617,7 @@ var data = [
         "title": "The PROMPT suite: interactive tools for ontology merging and mapping",
         "authors": "NF Noy, MA Musen",
         "journal": "International Journal of Human-Computer Studies 59 (6), 983-1024, 2003",
-        "counts": "957",
+        "counts": "958",
         "year": "2003"
       },
       {
@@ -37239,7 +40631,7 @@ var data = [
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl_2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
@@ -37253,14 +40645,14 @@ var data = [
         "title": "Development of large-scale functional brain networks in children",
         "authors": "K Supekar, M Musen, V Menon",
         "journal": "PLoS biology 7 (7), e1000157, 2009",
-        "counts": "622",
+        "counts": "623",
         "year": "2009"
       },
       {
         "title": "Anchor-PROMPT: Using Non-Local Context for Semantic Matching.",
         "authors": "NF Noy, MA Musen",
         "journal": "OIS@ IJCAI, 2001",
-        "counts": "613",
+        "counts": "614",
         "year": "2001"
       },
       {
@@ -37309,7 +40701,7 @@ var data = [
         "title": "Knowledge-based temporal abstraction in clinical domains",
         "authors": "Y Shahar, MA Musen",
         "journal": "Artificial intelligence in medicine 8 (3), 267-298, 1996",
-        "counts": "347",
+        "counts": "348",
         "year": "1996"
       },
       {
@@ -37330,7 +40722,7 @@ var data = [
         "title": "SMART: Automated support for ontology merging and alignment",
         "authors": "NF Noy, MA Musen",
         "journal": "Proc. of the 12th Workshop on Knowledge Acquisition, Modelling, and …, 1999",
-        "counts": "316",
+        "counts": "317",
         "year": "1999"
       },
       {
@@ -37393,14 +40785,14 @@ var data = [
         "title": "Protégé-2000: an open-source ontology-development and knowledge-acquisition environment.",
         "authors": "NF Noy, M Crubézy, RW Fergerson, H Knublauch, SW Tu, J Vendetti, ...",
         "journal": "AMIA... Annual Symposium proceedings. AMIA Symposium 2003, 953-953, 2003",
-        "counts": "236",
+        "counts": "237",
         "year": "2003"
       },
       {
         "title": "The SAGE Guideline Model: achievements and overview",
         "authors": "SW Tu, JR Campbell, J Glasgow, MA Nyman, R McClure, J McClay, ...",
         "journal": "Journal of the American Medical Informatics Association 14 (5), 589-598, 2007",
-        "counts": "233",
+        "counts": "234",
         "year": "2007"
       },
       {
@@ -37418,6 +40810,13 @@ var data = [
         "year": "2008"
       },
       {
+        "title": "The protégé project: a look back and a look forward",
+        "authors": "MA Musen",
+        "journal": "AI matters 1 (4), 4-12, 2015",
+        "counts": "198",
+        "year": "2015"
+      },
+      {
         "title": "Mapping domains to methods in support of reuse",
         "authors": "JH Gennari, SW Tu, TE Rothenfluh, MA Musen",
         "journal": "International journal of human computer studies 41 (3), 399-424, 1994",
@@ -37425,11 +40824,11 @@ var data = [
         "year": "1994"
       },
       {
-        "title": "The protégé project: a look back and a look forward",
+        "title": "Domain ontologies in software engineering: use of Protege with the EON architecture",
         "authors": "MA Musen",
-        "journal": "AI matters 1 (4), 4-12, 2015",
+        "journal": "Methods of Information in Medicine-Methodik der Information in der Medizin …, 1998",
         "counts": "197",
-        "year": "2015"
+        "year": "1998"
       },
       {
         "title": "The unified problem-solving method development language UPML",
@@ -37437,13 +40836,6 @@ var data = [
         "journal": "Knowledge and Information Systems 5 (1), 83-131, 2003",
         "counts": "196",
         "year": "2003"
-      },
-      {
-        "title": "Domain ontologies in software engineering: use of Protege with the EON architecture",
-        "authors": "MA Musen",
-        "journal": "Methods of Information in Medicine-Methodik der Information in der Medizin …, 1998",
-        "counts": "196",
-        "year": "1998"
       },
       {
         "title": "Editing description logic ontologies with the Protégé OWL plugin",
@@ -37635,6 +41027,13 @@ var data = [
         "year": "2000"
       },
       {
+        "title": "An algorithm for merging and aligning ontologies: Automation and tool support",
+        "authors": "NF Noy, MA Musen",
+        "journal": "Proceedings of the Workshop on Ontology Management at the Sixteenth National …, 1999",
+        "counts": "108",
+        "year": "1999"
+      },
+      {
         "title": "Using text to build semantic networks for pharmacogenomics",
         "authors": "A Coulet, NH Shah, Y Garten, M Musen, RB Altman",
         "journal": "Journal of biomedical informatics 43 (6), 1009-1019, 2010",
@@ -37654,13 +41053,6 @@ var data = [
         "journal": "Journal of the American Medical Informatics Association 11 (5), 368-376, 2004",
         "counts": "107",
         "year": "2004"
-      },
-      {
-        "title": "An algorithm for merging and aligning ontologies: Automation and tool support",
-        "authors": "NF Noy, MA Musen",
-        "journal": "Proceedings of the Workshop on Ontology Management at the Sixteenth National …, 1999",
-        "counts": "107",
-        "year": "1999"
       },
       {
         "title": "Representation of clinical data using SNOMED III and conceptual graphs.",
@@ -37703,6 +41095,13 @@ var data = [
         "journal": "Proceedings of the 12th Banff Knowledge Acquisition Workshop, Banff, Alberta …, 1999",
         "counts": "104",
         "year": "1999"
+      },
+      {
+        "title": "Medical informatics: searching for underlying components",
+        "authors": "MA Musen",
+        "journal": "Methods of information in medicine 41 (1), 12-19, 2002",
+        "counts": "101",
+        "year": "2002"
       }
     ]
   },
@@ -37744,7 +41143,7 @@ var data = [
         "title": "Epileptic seizure detection in EEGs using time–frequency analysis",
         "authors": "AT Tzallas, MG Tsipouras, DI Fotiadis",
         "journal": "IEEE transactions on information technology in biomedicine 13 (5), 703-710, 2009",
-        "counts": "402",
+        "counts": "403",
         "year": "2009"
       },
       {
@@ -37800,14 +41199,14 @@ var data = [
         "title": "Utilization of the PICO framework to improve searching PubMed for clinical questions",
         "authors": "C Schardt, MB Adams, T Owens, S Keitz, P Fontelo",
         "journal": "BMC medical informatics and decision making 7 (1), 16, 2007",
-        "counts": "472",
+        "counts": "474",
         "year": "2007"
       },
       {
         "title": "Two self-management interventions to improve hypertension control: a randomized trial",
         "authors": "HB Bosworth, MK Olsen, JM Grubber, AM Neary, MM Orr, BJ Powers, ...",
         "journal": "Annals of internal medicine 151 (10), 687-695, 2009",
-        "counts": "213",
+        "counts": "214",
         "year": "2009"
       },
       {
@@ -37832,7 +41231,7 @@ var data = [
         "title": "The proposition bank: An annotated corpus of semantic roles",
         "authors": "M Palmer, D Gildea, P Kingsbury",
         "journal": "Computational linguistics 31 (1), 71-106, 2005",
-        "counts": "2060",
+        "counts": "2061",
         "year": "2005"
       },
       {
@@ -37867,7 +41266,7 @@ var data = [
         "title": "Calibrating features for semantic role labeling",
         "authors": "N Xue, M Palmer",
         "journal": "Proceedings of the 2004 Conference on Empirical Methods in Natural Language …, 2004",
-        "counts": "355",
+        "counts": "356",
         "year": "2004"
       },
       {
@@ -38000,7 +41399,7 @@ var data = [
         "title": "Building a large-scale annotated Chinese corpus",
         "authors": "N Xue, FD Chiou, M Palmer",
         "journal": "Proceedings of the 19th international conference on Computational …, 2002",
-        "counts": "154",
+        "counts": "155",
         "year": "2002"
       },
       {
@@ -38074,18 +41473,18 @@ var data = [
         "year": "2001"
       },
       {
+        "title": "Automatic semantic role labeling for Chinese verbs",
+        "authors": "N Xue, M Palmer",
+        "journal": "IJCAI 5, 1160-1165, 2005",
+        "counts": "116",
+        "year": "2005"
+      },
+      {
         "title": "Microplanning with communicative intentions: The SPUD system",
         "authors": "M Stone, C Doran, B Webber, T Bleam, M Palmer",
         "journal": "Computational Intelligence 19 (4), 311-381, 2003",
         "counts": "116",
         "year": "2003"
-      },
-      {
-        "title": "Automatic semantic role labeling for Chinese verbs",
-        "authors": "N Xue, M Palmer",
-        "journal": "IJCAI 5, 1160-1165, 2005",
-        "counts": "115",
-        "year": "2005"
       },
       {
         "title": "Generating American Sign Language classifier predicates for English-to-ASL machine translation",
@@ -38199,7 +41598,7 @@ var data = [
         "title": "Screening for frailty: criteria and predictors of outcomes",
         "authors": "CH Winograd, MB Gerety, M Chung, MK Goldstein, F Dominguez Jr, ...",
         "journal": "Journal of the American Geriatrics Society 39 (8), 778-784, 1991",
-        "counts": "415",
+        "counts": "416",
         "year": "1991"
       },
       {
@@ -38213,7 +41612,7 @@ var data = [
         "title": "Ethical decision making and patient autonomy: a comparison of physicians and patients in Japan and the United States",
         "authors": "GW Ruhnke, SR Wilson, T Akamatsu, T Kinoue, Y Takashima, ...",
         "journal": "Chest 118 (4), 1172-1182, 2000",
-        "counts": "242",
+        "counts": "244",
         "year": "2000"
       },
       {
@@ -38297,14 +41696,14 @@ var data = [
         "title": "Multifactor-dimensionality reduction reveals high-order interactions among estrogen-metabolism genes in sporadic breast cancer",
         "authors": "MD Ritchie, LW Hahn, N Roodi, LR Bailey, WD Dupont, FF Parl, JH Moore",
         "journal": "The American Journal of Human Genetics 69 (1), 138-147, 2001",
-        "counts": "1766",
+        "counts": "1767",
         "year": "2001"
       },
       {
         "title": "Genetic studies of body mass index yield new insights for obesity biology",
         "authors": "AE Locke, B Kahali, SI Berndt, AE Justice, TH Pers, FR Day, C Powell, ...",
         "journal": "Nature 518 (7538), 197, 2015",
-        "counts": "1505",
+        "counts": "1506",
         "year": "2015"
       },
       {
@@ -38332,7 +41731,7 @@ var data = [
         "title": "Genetic determinants of response to warfarin during initial anticoagulation",
         "authors": "UI Schwarz, MD Ritchie, Y Bradford, C Li, SM Dudek, A Frye-Anderson, ...",
         "journal": "New England Journal of Medicine 358 (10), 999-1008, 2008",
-        "counts": "639",
+        "counts": "640",
         "year": "2008"
       },
       {
@@ -38364,13 +41763,6 @@ var data = [
         "year": "2010"
       },
       {
-        "title": "Renin-angiotensin system gene polymorphisms and atrial fibrillation",
-        "authors": "CT Tsai, LP Lai, JL Lin, FT Chiang, JJ Hwang, MD Ritchie, JH Moore, ...",
-        "journal": "Circulation 109 (13), 1640-1646, 2004",
-        "counts": "429",
-        "year": "2004"
-      },
-      {
         "title": "Meta-analysis identifies six new susceptibility loci for atrial fibrillation",
         "authors": "PT Ellinor, KL Lunetta, CM Albert, NL Glazer, MD Ritchie, AV Smith, ...",
         "journal": "Nature genetics 44 (6), 670, 2012",
@@ -38378,10 +41770,17 @@ var data = [
         "year": "2012"
       },
       {
+        "title": "Renin-angiotensin system gene polymorphisms and atrial fibrillation",
+        "authors": "CT Tsai, LP Lai, JL Lin, FT Chiang, JJ Hwang, MD Ritchie, JH Moore, ...",
+        "journal": "Circulation 109 (13), 1640-1646, 2004",
+        "counts": "428",
+        "year": "2004"
+      },
+      {
         "title": "A genome-wide scan for common genetic variants with a large influence on warfarin maintenance dose",
         "authors": "GM Cooper, JA Johnson, TY Langaee, H Feng, IB Stanaway, UI Schwarz, ...",
         "journal": "Blood 112 (4), 1022-1027, 2008",
-        "counts": "423",
+        "counts": "424",
         "year": "2008"
       },
       {
@@ -38521,7 +41920,7 @@ var data = [
         "title": "Genetic association study of QT interval highlights role for calcium signaling pathways in myocardial repolarization",
         "authors": "DE Arking, SL Pulit, L Crotti, P Van Der Harst, PB Munroe, TT Koopmann, ...",
         "journal": "Nature genetics 46 (8), 826, 2014",
-        "counts": "129",
+        "counts": "130",
         "year": "2014"
       },
       {
@@ -38584,7 +41983,7 @@ var data = [
         "title": "A large candidate gene survey identifies the KCNE1 D85N polymorphism as a possible modulator of drug-induced torsades de pointes",
         "authors": "S Kääb, DC Crawford, MF Sinner, ER Behr, PJ Kannankeril, AAM Wilde, ...",
         "journal": "Circulation. Cardiovascular genetics 5 (1), 91, 2012",
-        "counts": "118",
+        "counts": "119",
         "year": "2012"
       },
       {
@@ -38598,7 +41997,7 @@ var data = [
         "title": "Genetic and pharmacologic inactivation of ANGPTL3 and cardiovascular disease",
         "authors": "FE Dewey, V Gusarova, RL Dunbar, C O’Dushlaine, C Schurmann, ...",
         "journal": "New England Journal of Medicine 377 (3), 211-221, 2017",
-        "counts": "112",
+        "counts": "113",
         "year": "2017"
       },
       {
@@ -38725,14 +42124,14 @@ var data = [
         "title": "GoMiner: a resource for biological interpretation of genomic and proteomic data",
         "authors": "BR Zeeberg, W Feng, G Wang, MD Wang, AT Fojo, M Sunshine, ...",
         "journal": "Genome biology 4 (4), R28, 2003",
-        "counts": "1315",
+        "counts": "1317",
         "year": "2003"
       },
       {
         "title": "In vivo tumor targeting and spectroscopic detection with surface-enhanced Raman nanoparticle tags",
         "authors": "X Qian, XH Peng, DO Ansari, Q Yin-Goen, GZ Chen, DM Shin, L Yang, ...",
         "journal": "Nature biotechnology 26 (1), 83, 2008",
-        "counts": "1240",
+        "counts": "1241",
         "year": "2008"
       },
       {
@@ -38802,7 +42201,7 @@ var data = [
         "title": "Nanotechnology applications in surgical oncology",
         "authors": "S Singhal, S Nie, MD Wang",
         "journal": "Annual review of medicine 61, 359-373, 2010",
-        "counts": "127",
+        "counts": "128",
         "year": "2010"
       },
       {
@@ -38857,7 +42256,7 @@ var data = [
         "title": "Can we make postoperative patient handovers safer? A systematic review of the literature",
         "authors": "N Segall, AS Bonifacio, RA Schroeder, A Barbeito, D Rogers, ...",
         "journal": "Anesthesia & Analgesia 115 (1), 102-115, 2012",
-        "counts": "165",
+        "counts": "166",
         "year": "2012"
       },
       {
@@ -38928,7 +42327,7 @@ var data = [
         "title": "Genomic classification of cutaneous melanoma",
         "authors": "R Akbani, KC Akdemir, BA Aksoy, M Albert, A Ally, SB Amin, H Arachchi, ...",
         "journal": "Cell 161 (7), 1681-1696, 2015",
-        "counts": "658",
+        "counts": "659",
         "year": "2015"
       },
       {
@@ -38942,7 +42341,7 @@ var data = [
         "title": "Lactate versus non-lactate metabolic acidosis: a retrospective outcome evaluation of critically ill patients",
         "authors": "KJ Gunnerson, M Saul, S He, JA Kellum",
         "journal": "Critical Care 10 (1), R22, 2006",
-        "counts": "298",
+        "counts": "299",
         "year": "2006"
       },
       {
@@ -38995,7 +42394,7 @@ var data = [
         "title": "Histopathological image analysis: A review",
         "authors": "MN Gurcan, L Boucheron, A Can, A Madabhushi, N Rajpoot, B Yener",
         "journal": "IEEE reviews in biomedical engineering 2, 147, 2009",
-        "counts": "870",
+        "counts": "869",
         "year": "2009"
       },
       {
@@ -39083,7 +42482,7 @@ var data = [
         "title": "Extending the technology acceptance model to explore the intention to use Second Life for enhancing healthcare education",
         "authors": "M Chow, DK Herold, TM Choo, K Chan",
         "journal": "Computers & Education 59 (4), 1136-1144, 2012",
-        "counts": "147",
+        "counts": "148",
         "year": "2012"
       },
       {
@@ -39204,6 +42603,73 @@ var data = [
   {
     "citations": [
       {
+        "title": "The sequence of the human genome",
+        "authors": "JC Venter, MD Adams, EW Myers, PW Li, RJ Mural, GG Sutton, HO Smith, ...",
+        "journal": "science 291 (5507), 1304-1351, 2001",
+        "counts": "15837",
+        "year": "2001"
+      },
+      {
+        "title": "The genome sequence of Drosophila melanogaster",
+        "authors": "MD Adams, SE Celniker, RA Holt, CA Evans, JD Gocayne, ...",
+        "journal": "Science 287 (5461), 2185-2195, 2000",
+        "counts": "6530",
+        "year": "2000"
+      },
+      {
+        "title": "Genome sequence and comparative analysis of the model rodent malaria parasite Plasmodium yoelii yoelii",
+        "authors": "JM Carlton, SV Angiuoli, BB Suh, TW Kooij, M Pertea, JC Silva, ...",
+        "journal": "Nature 419 (6906), 512, 2002",
+        "counts": "765",
+        "year": "2002"
+      },
+      {
+        "title": "Insulin independence in a type 1 diabetic patient after encapsulated islet transplantation.",
+        "authors": "P Soon-Shiong, RE Heintz, N Merideth, QX Yao, Z Yao, T Zheng, ...",
+        "journal": "Lancet (London, England) 343 (8903), 950-951, 1994",
+        "counts": "630",
+        "year": "1994"
+      },
+      {
+        "title": "Non-timeline, non-linear digital multimedia composition method and system",
+        "authors": "I Petelycky, M Harris, S Northmore, G Elliot, D Staheli, J Smith, A Page, ...",
+        "journal": "US Patent 6,204,840, 2001",
+        "counts": "311",
+        "year": "2001"
+      },
+      {
+        "title": "A community effort to assess and improve drug sensitivity prediction algorithms",
+        "authors": "JC Costello, LM Heiser, E Georgii, M Gönen, MP Menden, NJ Wang, ...",
+        "journal": "Nature biotechnology 32 (12), 1202, 2014",
+        "counts": "260",
+        "year": "2014"
+      },
+      {
+        "title": "Comparative pharmacokinetics of free doxorubicin and doxorubicin entrapped in cardiolipin liposomes",
+        "authors": "A Rahman, D Carmichael, M Harris, JK Roh",
+        "journal": "Cancer research 46 (5), 2295-2299, 1986",
+        "counts": "132",
+        "year": "1986"
+      },
+      {
+        "title": "Hepatocyte nuclear factor-3 (HNF-3) binds to the insulin response sequence in the IGF binding protein-1 (IGFBP-1) promoter and enhances promoter function",
+        "authors": "TG Unterman, A Fareeduddin, MA Harris, RG Goswami, A Porcella, ...",
+        "journal": "Biochemical and biophysical research communications 203 (3), 1835-1841, 1994",
+        "counts": "114",
+        "year": "1994"
+      },
+      {
+        "title": "The phenotypic spectrum of SCN8A encephalopathy",
+        "authors": "J Larsen, GL Carvill, E Gardella, G Kluger, G Schmiedel, N Barisic, ...",
+        "journal": "Neurology, 10.1212/WNL. 0000000000001211, 2015",
+        "counts": "107",
+        "year": "2015"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "A survey of factors affecting clinician acceptance of clinical decision support",
         "authors": "DF Sittig, MA Krall, RH Dykstra, A Russell, HL Chin",
         "journal": "BMC medical informatics and decision making 6 (1), 6, 2006",
@@ -39214,7 +42680,7 @@ var data = [
         "title": "Reducing warfarin medication interactions: an interrupted time series evaluation",
         "authors": "AC Feldstein, DH Smith, N Perrin, X Yang, SR Simon, M Krall, DF Sittig, ...",
         "journal": "Archives of Internal Medicine 166 (9), 1009-1015, 2006",
-        "counts": "113",
+        "counts": "114",
         "year": "2006"
       },
       {
@@ -39232,17 +42698,28 @@ var data = [
   {
     "citations": [
       {
+        "title": "MR imaging diagnosis of rotator cuff tears",
+        "authors": "AM Evancho, RG Stiles, WA Fajman, SP Flower, T Macha, MC Brunner, ...",
+        "journal": "American Journal of Roentgenology 151 (4), 751-754, 1988",
+        "counts": "134",
+        "year": "1988"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Heart disease and stroke statistics—2014 update: a report from the American Heart Association",
         "authors": "AS Go, D Mozaffarian, VL Roger, EJ Benjamin, JD Berry, MJ Blaha, S Dai, ...",
         "journal": "Circulation, 01. cir. 0000441139.02102. 80, 2013",
-        "counts": "5969",
+        "counts": "6011",
         "year": "2013"
       },
       {
-        "title": "on behalf of the American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Heart disease and stroke statistics-2013 update: a report from the American …",
-        "authors": "AS Go",
-        "journal": "Circulation 127, e6-e245, 2013",
-        "counts": "2177",
+        "title": "Forecasting the future of cardiovascular disease in the United States: a policy statement from the American Heart Association.",
+        "authors": "AS Go, D Mozaffarian, VL Roger, EJ Benjamin, JD Berry, WB Borden, ...",
+        "journal": "Circulation 127 (1), e6-e245, 2013",
+        "counts": "2093",
         "year": "2013"
       },
       {
@@ -39556,7 +43033,7 @@ var data = [
         "title": "Prevalence of incidental prostate cancer in the general population: a study of healthy organ donors",
         "authors": "M Yin, S Bastacky, U Chandran, MJ Becich, R Dhir",
         "journal": "The Journal of urology 179 (3), 892-895, 2008",
-        "counts": "140",
+        "counts": "139",
         "year": "2008"
       },
       {
@@ -39644,7 +43121,7 @@ var data = [
         "title": "Separating fact from fear: Tracking flu infections on Twitter",
         "authors": "A Lamb, MJ Paul, M Dredze",
         "journal": "Proceedings of NAACL-HLT, 789-795, 2013",
-        "counts": "193",
+        "counts": "194",
         "year": "2013"
       },
       {
@@ -39665,7 +43142,7 @@ var data = [
         "title": "Combining search, social media, and traditional data sources to improve influenza surveillance",
         "authors": "M Santillana, AT Nguyen, M Dredze, MJ Paul, EO Nsoesie, JS Brownstein",
         "journal": "PLoS Comput Biol 11 (10), e1004513, 2015",
-        "counts": "123",
+        "counts": "124",
         "year": "2015"
       },
       {
@@ -39718,7 +43195,7 @@ var data = [
         "title": "In vivo identification of tumor-suppressive PTEN ceRNAs in an oncogenic BRAF-induced mouse model of melanoma",
         "authors": "FA Karreth, Y Tay, D Perna, U Ala, SM Tan, AG Rust, G DeNicola, ...",
         "journal": "Cell 147 (2), 382-395, 2011",
-        "counts": "492",
+        "counts": "493",
         "year": "2011"
       },
       {
@@ -39732,7 +43209,7 @@ var data = [
         "title": "GeneWays: a system for extracting, analyzing, visualizing, and integrating molecular pathway data",
         "authors": "A Rzhetsky, I Iossifov, T Koike, M Krauthammer, P Kra, M Morris, H Yu, ...",
         "journal": "Journal of biomedical informatics 37 (1), 43-53, 2004",
-        "counts": "318",
+        "counts": "319",
         "year": "2004"
       },
       {
@@ -39827,7 +43304,7 @@ var data = [
         "title": "Computer simulation of protein folding",
         "authors": "M Levitt, A Warshel",
         "journal": "Nature 253 (5494), 694, 1975",
-        "counts": "1038",
+        "counts": "1039",
         "year": "1975"
       },
       {
@@ -39869,7 +43346,7 @@ var data = [
         "title": "Accurate modeling of protein conformation by automatic segment matching",
         "authors": "M Levitt",
         "journal": "Journal of molecular biology 226 (2), 507-533, 1992",
-        "counts": "676",
+        "counts": "675",
         "year": "1992"
       },
       {
@@ -39890,14 +43367,14 @@ var data = [
         "title": "Helix to helix packing in proteins",
         "authors": "C Chothia, M Levitt, D Richardson",
         "journal": "Journal of molecular biology 145 (1), 215-250, 1981",
-        "counts": "591",
+        "counts": "593",
         "year": "1981"
       },
       {
         "title": "The ASTRAL compendium for protein structure and sequence analysis",
         "authors": "SE Brenner, P Koehl, M Levitt",
         "journal": "Nucleic acids research 28 (1), 254-256, 2000",
-        "counts": "574",
+        "counts": "575",
         "year": "2000"
       },
       {
@@ -39953,7 +43430,7 @@ var data = [
         "title": "Refinement of large structures by simultaneous minimization of energy and R factor",
         "authors": "A Jack, M Levitt",
         "journal": "Acta Crystallographica Section A: Crystal Physics, Diffraction, Theoretical …, 1978",
-        "counts": "428",
+        "counts": "427",
         "year": "1978"
       },
       {
@@ -40023,7 +43500,7 @@ var data = [
         "title": "Stabilization of phage T4 lysozyme by engineered disulfide bonds",
         "authors": "M Matsumura, WJ Becktel, M Levitt, BW Matthews",
         "journal": "Proceedings of the National Academy of Sciences 86 (17), 6562-6566, 1989",
-        "counts": "306",
+        "counts": "307",
         "year": "1989"
       },
       {
@@ -40044,7 +43521,7 @@ var data = [
         "title": "Comprehensive assessment of automatic structural alignment against a manual standard, the scop classification of proteins",
         "authors": "M Gerstein, M Levitt",
         "journal": "Protein Science 7 (2), 445-456, 1998",
-        "counts": "264",
+        "counts": "265",
         "year": "1998"
       },
       {
@@ -40093,7 +43570,7 @@ var data = [
         "title": "Decoys ‘R’Us: a database of incorrect conformations to improve protein structure prediction",
         "authors": "R Samudrala, M Levitt",
         "journal": "Protein science 9 (7), 1399-1401, 2000",
-        "counts": "234",
+        "counts": "235",
         "year": "2000"
       },
       {
@@ -40121,7 +43598,7 @@ var data = [
         "title": "Small libraries of protein fragments model native protein structures accurately",
         "authors": "R Kolodny, P Koehl, L Guibas, M Levitt",
         "journal": "Journal of molecular biology 323 (2), 297-307, 2002",
-        "counts": "222",
+        "counts": "221",
         "year": "2002"
       },
       {
@@ -40191,7 +43668,7 @@ var data = [
         "title": "A brighter future for protein structure prediction",
         "authors": "P Koehl, M Levitt",
         "journal": "Nature Structural & Molecular Biology 6 (2), 108, 1999",
-        "counts": "190",
+        "counts": "189",
         "year": "1999"
       },
       {
@@ -40254,7 +43731,7 @@ var data = [
         "title": "ASTRAL compendium enhancements",
         "authors": "JM Chandonia, NS Walker, LL Conte, P Koehl, M Levitt, SE Brenner",
         "journal": "Nucleic Acids Research 30 (1), 260-263, 2002",
-        "counts": "159",
+        "counts": "160",
         "year": "2002"
       },
       {
@@ -40359,14 +43836,14 @@ var data = [
         "title": "Ab initio protein structure prediction using a combined hierarchical approach",
         "authors": "R Samudrala, Y Xia, E Huang, M Levitt",
         "journal": "Proteins: Structure, Function, and Bioinformatics 37 (S3), 194-198, 1999",
-        "counts": "117",
+        "counts": "118",
         "year": "1999"
       },
       {
         "title": "A structural census of the current population of protein sequences",
         "authors": "M Gerstein, M Levitt",
         "journal": "Proceedings of the National Academy of Sciences 94 (22), 11911-11916, 1997",
-        "counts": "115",
+        "counts": "114",
         "year": "1997"
       },
       {
@@ -40380,7 +43857,7 @@ var data = [
         "title": "Outcome of a workshop on applications of protein models in biomedical research",
         "authors": "T Schwede, A Sali, B Honig, M Levitt, HM Berman, D Jones, SE Brenner, ...",
         "journal": "Structure 17 (2), 151-159, 2009",
-        "counts": "107",
+        "counts": "108",
         "year": "2009"
       },
       {
@@ -40494,14 +43971,14 @@ var data = [
         "title": "Deaths due to medical errors are exaggerated in Institute of Medicine report",
         "authors": "CJ McDonald, M Weiner, SL Hui",
         "journal": "Jama 284 (1), 93-95, 2000",
-        "counts": "424",
+        "counts": "422",
         "year": "2000"
       },
       {
         "title": "Pharmacist Intervention to Improve Medication Adherence in Heart FailureA Randomized TrialMedication Adherence in Heart Failure",
         "authors": "MD Murray, J Young, S Hoke, W Tu, M Weiner, D Morrow, KT Stroupe, ...",
         "journal": "Annals of internal medicine 146 (10), 714-725, 2007",
-        "counts": "418",
+        "counts": "417",
         "year": "2007"
       },
       {
@@ -40603,14 +44080,14 @@ var data = [
         "title": "The FAIR Guiding Principles for scientific data management and stewardship",
         "authors": "MD Wilkinson, M Dumontier, IJJ Aalbersberg, G Appleton, M Axton, ...",
         "journal": "Scientific data 3, 2016",
-        "counts": "770",
+        "counts": "772",
         "year": "2016"
       },
       {
         "title": "The biomolecular interaction network database and related tools 2005 update",
         "authors": "C Alfarano, CE Andrade, K Anthony, N Bahroos, M Bajec, K Bantoft, ...",
         "journal": "Nucleic acids research 33 (suppl_1), D418-D424, 2005",
-        "counts": "645",
+        "counts": "646",
         "year": "2005"
       },
       {
@@ -40739,7 +44216,7 @@ var data = [
         "title": "Allocation of physician time in ambulatory practice: a time and motion study in 4 specialties",
         "authors": "C Sinsky, L Colligan, L Li, M Prgomet, S Reynolds, L Goeders, ...",
         "journal": "Annals of internal medicine 165 (11), 753-760, 2016",
-        "counts": "259",
+        "counts": "261",
         "year": "2016"
       }
     ]
@@ -40774,7 +44251,7 @@ var data = [
         "title": "D2P2: database of disordered protein predictions",
         "authors": "ME Oates, P Romero, T Ishida, M Ghalwash, MJ Mizianty, B Xue, ...",
         "journal": "Nucleic Acids Research 41 (D1), D508-D516, 2012",
-        "counts": "219",
+        "counts": "220",
         "year": "2012"
       }
     ]
@@ -40809,7 +44286,7 @@ var data = [
         "title": "Blast2GO: a universal tool for annotation, visualization and analysis in functional genomics research",
         "authors": "A Conesa, S Götz, JM García-Gómez, J Terol, M Talón, M Robles",
         "journal": "Bioinformatics 21 (18), 3674-3676, 2005",
-        "counts": "6634",
+        "counts": "6635",
         "year": "2005"
       },
       {
@@ -40830,7 +44307,7 @@ var data = [
         "title": "Adaptive non‐local means denoising of MR images with spatially varying noise levels",
         "authors": "JV Manjón, P Coupé, L Martí‐Bonmatí, DL Collins, M Robles",
         "journal": "Journal of Magnetic Resonance Imaging 31 (1), 192-203, 2010",
-        "counts": "461",
+        "counts": "462",
         "year": "2010"
       },
       {
@@ -40904,7 +44381,7 @@ var data = [
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -40978,7 +44455,7 @@ var data = [
         "title": "Measuring usability: are effectiveness, efficiency, and satisfaction really correlated?",
         "authors": "E Frøkjær, M Hertzum, K Hornbæk",
         "journal": "Proceedings of the SIGCHI conference on Human factors in computing systems …, 2000",
-        "counts": "685",
+        "counts": "686",
         "year": "2000"
       },
       {
@@ -40999,7 +44476,7 @@ var data = [
         "title": "The evaluator effect: A chilling fact about usability evaluation methods",
         "authors": "M Hertzum, NE Jacobsen",
         "journal": "International journal of human-computer interaction 15 (1), 183-204, 2003",
-        "counts": "169",
+        "counts": "170",
         "year": "2003"
       },
       {
@@ -41150,6 +44627,52 @@ var data = [
   {
     "citations": [
       {
+        "title": "Comprehensive molecular portraits of human breast tumours",
+        "authors": "Cancer Genome Atlas Network",
+        "journal": "Nature 490 (7418), 61, 2012",
+        "counts": "4698",
+        "year": "2012"
+      },
+      {
+        "title": "Comprehensive molecular characterization of human colon and rectal cancer",
+        "authors": "Cancer Genome Atlas Network",
+        "journal": "Nature 487 (7407), 330, 2012",
+        "counts": "3117",
+        "year": "2012"
+      },
+      {
+        "title": "Comprehensive genomic characterization of squamous cell lung cancers",
+        "authors": "Cancer Genome Atlas Research Network",
+        "journal": "Nature 489 (7417), 519, 2012",
+        "counts": "1875",
+        "year": "2012"
+      },
+      {
+        "title": "Sequence Analysis of Mutations and Translocations Across Breast Cancer Subtypes",
+        "authors": "S Banerji, K Cibulskis, C Rangel-Escareno, KK Brown, SL Carter, ...",
+        "journal": "Nature 486 (7403), 405-9, 2012",
+        "counts": "845",
+        "year": "2012"
+      },
+      {
+        "title": "Somatic mutation of CDKN1B in small intestine neuroendocrine tumors",
+        "authors": "JM Francis, A Kiezun, AH Ramos, S Serra, CS Pedamallu, ZR Qian, ...",
+        "journal": "Nature genetics 45 (12), 1483-1486, 2013",
+        "counts": "159",
+        "year": "2013"
+      },
+      {
+        "title": "Functional analysis of receptor tyrosine kinase mutations in lung cancer identifies oncogenic extracellular domain mutations of ERBB2",
+        "authors": "H Greulich, B Kaplan, P Mertins, TH Chen, KE Tanaka, CH Yun, X Zhang, ...",
+        "journal": "Proceedings of the National Academy of Sciences 109 (36), 14476-14481, 2012",
+        "counts": "158",
+        "year": "2012"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Voting based extreme learning machine",
         "authors": "J Cao, Z Lin, GB Huang, N Liu",
         "journal": "Information Sciences 185 (1), 66-77, 2012",
@@ -41191,24 +44714,140 @@ var data = [
   {
     "citations": [
       {
+        "title": "High-throughput mapping of a dynamic signaling network in mammalian cells",
+        "authors": "M Barrios-Rodiles, KR Brown, B Ozdamar, R Bose, Z Liu, RS Donovan, ...",
+        "journal": "Science 307 (5715), 1621-1625, 2005",
+        "counts": "705",
+        "year": "2005"
+      },
+      {
+        "title": "Protein complex prediction via cost-based clustering",
+        "authors": "AD King, N Pržulj, I Jurisica",
+        "journal": "Bioinformatics 20 (17), 3013-3020, 2004",
+        "counts": "646",
+        "year": "2004"
+      },
+      {
+        "title": "Evidence for network evolution in an Arabidopsis interactome map",
+        "authors": "Arabidopsis Interactome Mapping Consortium",
+        "journal": "Science 333 (6042), 601-607, 2011",
+        "counts": "581",
+        "year": "2011"
+      },
+      {
+        "title": "Modeling interactome: scale-free or geometric?",
+        "authors": "N Pržulj, DG Corneil, I Jurisica",
+        "journal": "Bioinformatics 20 (18), 3508-3515, 2004",
+        "counts": "526",
+        "year": "2004"
+      },
+      {
+        "title": "Biological network comparison using graphlet degree distribution",
+        "authors": "N Pržulj",
+        "journal": "Bioinformatics 23 (2), e177-e183, 2007",
+        "counts": "522",
+        "year": "2007"
+      },
+      {
+        "title": "Functional topology in a network of protein interactions",
+        "authors": "N Pržulj, DA Wigle, I Jurisica",
+        "journal": "Bioinformatics 20 (3), 340-348, 2004",
+        "counts": "358",
+        "year": "2004"
+      },
+      {
+        "title": "Topological network alignment uncovers biological function and phylogeny",
+        "authors": "O Kuchaiev, T Milenković, V Memišević, W Hayes, N Pržulj",
+        "journal": "Journal of the Royal Society Interface, rsif20100063, 2010",
+        "counts": "282",
+        "year": "2010"
+      },
+      {
+        "title": "Uncovering biological network function via graphlet degree signatures",
+        "authors": "T Milenković, N Pržulj",
+        "journal": "Cancer informatics 6, CIN. S680, 2008",
+        "counts": "281",
+        "year": "2008"
+      },
+      {
+        "title": "A global genetic interaction network maps a wiring diagram of cellular function",
+        "authors": "M Costanzo, B VanderSluis, EN Koch, A Baryshnikova, C Pons, G Tan, ...",
+        "journal": "Science 353 (6306), aaf1420, 2016",
+        "counts": "210",
+        "year": "2016"
+      },
+      {
+        "title": "Integrative network alignment reveals large regions of global network similarity in yeast and human",
+        "authors": "O Kuchaiev, N Pržulj",
+        "journal": "Bioinformatics 27 (10), 1390-1396, 2011",
+        "counts": "202",
+        "year": "2011"
+      },
+      {
+        "title": "Optimal network alignment with graphlet degree vectors",
+        "authors": "T Milenković, WL Ng, W Hayes, N Pržulj",
+        "journal": "Cancer informatics 9, CIN. S4744, 2010",
+        "counts": "166",
+        "year": "2010"
+      },
+      {
+        "title": "GraphCrunch: a tool for large network analyses",
+        "authors": "T Milenković, J Lai, N Pržulj",
+        "journal": "BMC bioinformatics 9 (1), 70, 2008",
+        "counts": "124",
+        "year": "2008"
+      },
+      {
+        "title": "Characterization of the proteasome interaction network using a QTAX-based tag-team strategy and protein interaction network analysis",
+        "authors": "C Guerrero, T Milenković, N Pržulj, P Kaiser, L Huang",
+        "journal": "Proceedings of the National Academy of Sciences 105 (36), 13333-13338, 2008",
+        "counts": "121",
+        "year": "2008"
+      },
+      {
+        "title": "Geometric de-noising of protein-protein interaction networks",
+        "authors": "O Kuchaiev, M Rašajski, DJ Higham, N Pržulj",
+        "journal": "PLoS computational biology 5 (8), e1000454, 2009",
+        "counts": "117",
+        "year": "2009"
+      },
+      {
+        "title": "Efficient estimation of graphlet frequency distributions in protein–protein interaction networks",
+        "authors": "N Pržulj, DG Corneil, I Jurisica",
+        "journal": "Bioinformatics 22 (8), 974-980, 2006",
+        "counts": "112",
+        "year": "2006"
+      },
+      {
+        "title": "Fitting a geometric graph to a protein–protein interaction network",
+        "authors": "DJ Higham, M Rašajski, N Pržulj",
+        "journal": "Bioinformatics 24 (8), 1093-1099, 2008",
+        "counts": "106",
+        "year": "2008"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Ontology development 101: A guide to creating your first ontology",
         "authors": "NF Noy, DL McGuinness",
         "journal": "Stanford knowledge systems laboratory technical report KSL-01-05 and …, 2001",
-        "counts": "5854",
+        "counts": "5859",
         "year": "2001"
       },
       {
         "title": "Algorithm and tool for automated ontology merging and alignment",
         "authors": "NF Noy, MA Musen",
         "journal": "Proceedings of the 17th National Conference on Artificial Intelligence (AAAI …, 2000",
-        "counts": "1496",
+        "counts": "1497",
         "year": "2000"
       },
       {
         "title": "The evolution of Protégé: an environment for knowledge-based systems development",
         "authors": "JH Gennari, MA Musen, RW Fergerson, WE Grosso, M Crubézy, ...",
         "journal": "International Journal of Human-computer studies 58 (1), 89-123, 2003",
-        "counts": "1439",
+        "counts": "1440",
         "year": "2003"
       },
       {
@@ -41236,42 +44875,42 @@ var data = [
         "title": "The knowledge model of Protege-2000: Combining interoperability and flexibility",
         "authors": "NF Noy, RW Fergerson, MA Musen",
         "journal": "International Conference on Knowledge Engineering and Knowledge Management …, 2000",
-        "counts": "1040",
+        "counts": "1041",
         "year": "2000"
       },
       {
         "title": "The PROMPT suite: interactive tools for ontology merging and mapping",
         "authors": "NF Noy, MA Musen",
         "journal": "International Journal of Human-Computer Studies 59 (6), 983-1024, 2003",
-        "counts": "957",
+        "counts": "958",
         "year": "2003"
       },
       {
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl_2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
         "title": "Ontology evolution: Not the same as schema evolution",
         "authors": "NF Noy, M Klein",
         "journal": "Knowledge and information systems 6 (4), 428-440, 2004",
-        "counts": "650",
+        "counts": "651",
         "year": "2004"
       },
       {
         "title": "The state of the art in ontology design: A survey and comparative review",
         "authors": "NF Noy, CD Hafner",
         "journal": "AI magazine 18 (3), 53, 1997",
-        "counts": "616",
+        "counts": "617",
         "year": "1997"
       },
       {
         "title": "Anchor-PROMPT: Using Non-Local Context for Semantic Matching.",
         "authors": "NF Noy, MA Musen",
         "journal": "OIS@ IJCAI, 2001",
-        "counts": "614",
+        "counts": "615",
         "year": "2001"
       },
       {
@@ -41292,7 +44931,7 @@ var data = [
         "title": "SMART: Automated support for ontology merging and alignment",
         "authors": "NF Noy, MA Musen",
         "journal": "Proc. of the 12th Workshop on Knowledge Acquisition, Modelling, and …, 1999",
-        "counts": "316",
+        "counts": "317",
         "year": "1999"
       },
       {
@@ -41306,7 +44945,7 @@ var data = [
         "title": "Defining n-ary relations on the semantic web",
         "authors": "N Noy, A Rector, P Hayes, C Welty",
         "journal": "W3C working group note 12 (4), 2006",
-        "counts": "284",
+        "counts": "283",
         "year": "2006"
       },
       {
@@ -41327,7 +44966,7 @@ var data = [
         "title": "Protégé-2000: an open-source ontology-development and knowledge-acquisition environment.",
         "authors": "NF Noy, M Crubézy, RW Fergerson, H Knublauch, SW Tu, J Vendetti, ...",
         "journal": "AMIA... Annual Symposium proceedings. AMIA Symposium 2003, 953-953, 2003",
-        "counts": "236",
+        "counts": "237",
         "year": "2003"
       },
       {
@@ -41457,6 +45096,13 @@ var data = [
         "year": "2006"
       },
       {
+        "title": "An algorithm for merging and aligning ontologies: Automation and tool support",
+        "authors": "NF Noy, MA Musen",
+        "journal": "Proceedings of the Workshop on Ontology Management at the Sixteenth National …, 1999",
+        "counts": "108",
+        "year": "1999"
+      },
+      {
         "title": "Protege: a tool for managing and using terminology in radiology applications",
         "authors": "DL Rubin, NF Noy, MA Musen",
         "journal": "Journal of digital imaging 20 (1), 34-46, 2007",
@@ -41469,13 +45115,6 @@ var data = [
         "journal": "AI magazine 26 (1), 7, 2005",
         "counts": "107",
         "year": "2005"
-      },
-      {
-        "title": "An algorithm for merging and aligning ontologies: Automation and tool support",
-        "authors": "NF Noy, MA Musen",
-        "journal": "Proceedings of the Workshop on Ontology Management at the Sixteenth National …, 1999",
-        "counts": "107",
-        "year": "1999"
       },
       {
         "title": "NCBO Resource Index: Ontology-based search and mining of biomedical resources",
@@ -41501,6 +45140,45 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Modulation of synapse formation by cyclic adenosine monophosphate",
+        "authors": "M Nirenberg, S Wilson, H Higashida, A Rotter, K Krueger, N Busis, R Ray, ...",
+        "journal": "Science 222 (4625), 794-799, 1983",
+        "counts": "308",
+        "year": "1983"
+      },
+      {
+        "title": "Myofibrillar myopathy with abnormal foci of desmin positivity. I. Light and electron microscopy analysis of 10 cases",
+        "authors": "S Nakano, AG Engel, AJ Waclawik, AM Emslie-Smith, NA Busis",
+        "journal": "Journal of Neuropathology & Experimental Neurology 55 (5), 549-562, 1996",
+        "counts": "152",
+        "year": "1996"
+      },
+      {
+        "title": "Periodic leg movements of sleep (nocturnal myoclonus): an electrophysiological study",
+        "authors": "LR Wechsler, JW Stakes, BT Shahani, NA Busis",
+        "journal": "Annals of Neurology: Official Journal of the American Neurological …, 1986",
+        "counts": "106",
+        "year": "1986"
+      },
+      {
+        "title": "Spike after-hyperpolarisation of a sympathetic neurone is calcium sensitive and is potentiated by theophylline",
+        "authors": "NA Busis, FF Weight",
+        "journal": "Nature 263 (5576), 434, 1976",
+        "counts": "104",
+        "year": "1976"
+      },
+      {
+        "title": "A discrete lesion of ventral hypothalamus and optic chiasm that disturbed the daily temperature rhythm",
+        "authors": "WJ Schwartz, NA Busis, ET Hedley-Whyte",
+        "journal": "Journal of neurology 233 (1), 1-4, 1986",
+        "counts": "101",
+        "year": "1986"
+      }
+    ]
   },
   {
     "citations": [
@@ -41768,7 +45446,7 @@ var data = [
         "title": "Defining and improving data quality in medical registries: a literature review, case study, and generic framework",
         "authors": "DGT Arts, NF De Keizer, GJ Scheffer",
         "journal": "Journal of the American Medical Informatics Association 9 (6), 600-611, 2002",
-        "counts": "450",
+        "counts": "449",
         "year": "2002"
       },
       {
@@ -41789,7 +45467,7 @@ var data = [
         "title": "Forty years of SNOMED: a literature review",
         "authors": "R Cornet, N de Keizer",
         "journal": "BMC medical informatics and decision making 8 (1), S2, 2008",
-        "counts": "230",
+        "counts": "229",
         "year": "2008"
       },
       {
@@ -41909,14 +45587,14 @@ var data = [
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl 2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
         "title": "The BioPAX community standard for pathway data sharing",
         "authors": "E Demir, MP Cary, S Paley, K Fukuda, C Lemer, I Vastrik, G Wu, ...",
         "journal": "Nature biotechnology 28 (9), 935, 2010",
-        "counts": "513",
+        "counts": "512",
         "year": "2010"
       },
       {
@@ -41976,17 +45654,17 @@ var data = [
         "year": "2013"
       },
       {
-        "title": "Performance of pharmacovigilance signal‐detection algorithms for the FDA adverse event reporting system",
-        "authors": "R Harpaz, W DuMouchel, P LePendu, A Bauer‐Mehren, P Ryan, ...",
-        "journal": "Clinical Pharmacology & Therapeutics 93 (6), 539-546, 2013",
+        "title": "A nondegenerate code of deleterious variants in Mendelian loci contributes to complex disease risk",
+        "authors": "DR Blair, CS Lyttle, JM Mortensen, CF Bearden, AB Jensen, ...",
+        "journal": "Cell 155 (1), 70-80, 2013",
         "counts": "134",
         "year": "2013"
       },
       {
-        "title": "A nondegenerate code of deleterious variants in Mendelian loci contributes to complex disease risk",
-        "authors": "DR Blair, CS Lyttle, JM Mortensen, CF Bearden, AB Jensen, ...",
-        "journal": "Cell 155 (1), 70-80, 2013",
-        "counts": "133",
+        "title": "Performance of pharmacovigilance signal‐detection algorithms for the FDA adverse event reporting system",
+        "authors": "R Harpaz, W DuMouchel, P LePendu, A Bauer‐Mehren, P Ryan, ...",
+        "journal": "Clinical Pharmacology & Therapeutics 93 (6), 539-546, 2013",
+        "counts": "134",
         "year": "2013"
       },
       {
@@ -42046,7 +45724,7 @@ var data = [
         "title": "Comprehensive molecular portraits of human breast tumours",
         "authors": "TCGA Network",
         "journal": "Nature 490 (7418), 61-70, 2012",
-        "counts": "4699",
+        "counts": "4698",
         "year": "2012"
       },
       {
@@ -42060,84 +45738,84 @@ var data = [
         "title": "Comprehensive genomic characterization of squamous cell lung cancers.",
         "authors": "TCGA Network",
         "journal": "Nature 489, 519-525, 2012",
-        "counts": "1874",
+        "counts": "1875",
         "year": "2012"
       },
       {
         "title": "The cancer genome atlas pan-cancer analysis project",
         "authors": "JN Weinstein, EA Collisson, GB Mills, KRM Shaw, BA Ozenberger, ...",
         "journal": "Nature genetics 45 (10), 1113-1120, 2013",
-        "counts": "1728",
+        "counts": "1730",
         "year": "2013"
       },
       {
         "title": "The somatic genomic landscape of glioblastoma",
         "authors": "CW Brennan, RGW Verhaak, A McKenna, B Campos, H Noushmehr, ...",
         "journal": "Cell 155 (2), 462-477, 2013",
-        "counts": "1719",
+        "counts": "1720",
         "year": "2013"
       },
       {
         "title": "Comprehensive molecular characterization of gastric adenocarcinoma",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 513 (7517), 202-209, 2014",
-        "counts": "1496",
+        "counts": "1499",
         "year": "2014"
       },
       {
         "title": "Comprehensive molecular profiling of lung adenocarcinoma",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 511 (7511), 543-550, 2014",
-        "counts": "1398",
+        "counts": "1399",
         "year": "2014"
       },
       {
         "title": "Comprehensive molecular characterization of clear cell renal cell carcinoma",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 499 (7456), 43-49, 2013",
-        "counts": "1134",
+        "counts": "1135",
         "year": "2013"
       },
       {
         "title": "Comprehensive molecular characterization of urothelial bladder carcinoma",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 507 (7492), 315-322, 2014",
-        "counts": "1064",
+        "counts": "1062",
         "year": "2014"
       },
       {
         "title": "Comprehensive, integrative genomic analysis of diffuse lower-grade gliomas",
         "authors": "DJ Brat, RGW Verhaak, KD Aldape, WKA Yung, SR Salama, LAD Cooper, ...",
         "journal": "New England Journal of Medicine 372 (26), 2481-2498, 2015",
-        "counts": "839",
+        "counts": "840",
         "year": "2015"
       },
       {
         "title": "Comprehensive genomic characterization of head and neck squamous cell carcinomas",
         "authors": "Cancer Genome Atlas Network",
         "journal": "Nature 517 (7536), 576-582, 2015",
-        "counts": "813",
+        "counts": "812",
         "year": "2015"
       },
       {
         "title": "Integrated genomic characterization of papillary thyroid carcinoma",
         "authors": "N Agrawal, R Akbani, BA Aksoy, A Ally, H Arachchi, SL Asa, JT Auman, ...",
         "journal": "Cell 159 (3), 676-690, 2014",
-        "counts": "725",
+        "counts": "726",
         "year": "2014"
       },
       {
         "title": "Genomic classification of cutaneous melanoma",
         "authors": "R Akbani, KC Akdemir, BA Aksoy, M Albert, A Ally, SB Amin, H Arachchi, ...",
         "journal": "Cell 161 (7), 1681-1696, 2015",
-        "counts": "658",
+        "counts": "659",
         "year": "2015"
       },
       {
         "title": "The molecular taxonomy of primary prostate cancer",
         "authors": "A Abeshouse, J Ahn, R Akbani, A Ally, S Amin, CD Andry, M Annala, ...",
         "journal": "Cell 163 (4), 1011-1025, 2015",
-        "counts": "594",
+        "counts": "595",
         "year": "2015"
       },
       {
@@ -42158,7 +45836,7 @@ var data = [
         "title": "Molecular profiling reveals biologically discrete subsets and pathways of progression in diffuse glioma",
         "authors": "M Ceccarelli, FP Barthel, TM Malta, TS Sabedot, SR Salama, BA Murray, ...",
         "journal": "Cell 164 (3), 550-563, 2016",
-        "counts": "458",
+        "counts": "457",
         "year": "2016"
       },
       {
@@ -42242,7 +45920,7 @@ var data = [
         "title": "Integrated genomic and molecular characterization of cervical cancer",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 543 (7645), 378-384, 2017",
-        "counts": "114",
+        "counts": "115",
         "year": "2017"
       }
     ]
@@ -42278,7 +45956,7 @@ var data = [
         "title": "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission",
         "authors": "R Caruana, Y Lou, J Gehrke, P Koch, M Sturm, N Elhadad",
         "journal": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …, 2015",
-        "counts": "201",
+        "counts": "202",
         "year": "2015"
       },
       {
@@ -42344,7 +46022,7 @@ var data = [
         "title": "Randomized assessment of rapid endovascular treatment of ischemic stroke",
         "authors": "M Goyal, AM Demchuk, BK Menon, M Eesa, JL Rempel, J Thornton, ...",
         "journal": "New England Journal of Medicine 372 (11), 1019-1030, 2015",
-        "counts": "2607",
+        "counts": "2608",
         "year": "2015"
       }
     ]
@@ -42387,7 +46065,7 @@ var data = [
         "title": "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission",
         "authors": "R Caruana, Y Lou, J Gehrke, P Koch, M Sturm, N Elhadad",
         "journal": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …, 2015",
-        "counts": "201",
+        "counts": "202",
         "year": "2015"
       },
       {
@@ -42727,7 +46405,7 @@ var data = [
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -42807,7 +46485,7 @@ var data = [
         "title": "DBMiner: A System for Mining Knowledge in Large Relational Databases.",
         "authors": "J Han, Y Fu, W Wang, J Chiang, W Gong, K Koperski, D Li, Y Lu, A Rajan, ...",
         "journal": "KDD 96, 250-255, 1996",
-        "counts": "266",
+        "counts": "267",
         "year": "1996"
       },
       {
@@ -42891,7 +46569,7 @@ var data = [
         "title": "Combining usage, content, and structure data to improve web site recommendation",
         "authors": "J Li, OR Zaïane",
         "journal": "International Conference on Electronic Commerce and Web Technologies, 305-315, 2004",
-        "counts": "156",
+        "counts": "157",
         "year": "2004"
       },
       {
@@ -43069,7 +46747,7 @@ var data = [
         "title": "Evaluation of an internet support group for women with primary breast cancer",
         "authors": "AJ Winzelberg, C Classen, GW Alpers, H Roberts, C Koopman, ...",
         "journal": "Cancer: Interdisciplinary International Journal of the American Cancer …, 2003",
-        "counts": "500",
+        "counts": "499",
         "year": "2003"
       },
       {
@@ -43168,7 +46846,7 @@ var data = [
         "title": "Mortality risk factors in patients treated by chronic hemodialysis",
         "authors": "P DeGoulet, M LeGrain, I Reach, F Aimé, C Devriès, P Rojas, C Jacobs",
         "journal": "Nephron 31 (2), 103-110, 1982",
-        "counts": "625",
+        "counts": "626",
         "year": "1982"
       },
       {
@@ -43210,7 +46888,7 @@ var data = [
         "title": "[Prognostic factors of hypereosinophilic syndrome. Study of 40 cases]",
         "authors": "C Lefebvre, O Bletry, P Degoulet, L Guillevin, M Bentata-Pessayre, ...",
         "journal": "Annales de medecine interne 140 (4), 253, 1989",
-        "counts": "104",
+        "counts": "105",
         "year": "1989"
       }
     ]
@@ -43323,7 +47001,7 @@ var data = [
         "title": "Factors affecting home care patients' acceptance of a web-based interactive self-management technology",
         "authors": "CKL Or, BT Karsh, DJ Severtson, LJ Burke, RL Brown, PF Brennan",
         "journal": "Journal of the American Medical Informatics Association 18 (1), 51-59, 2011",
-        "counts": "173",
+        "counts": "174",
         "year": "2011"
       },
       {
@@ -43358,7 +47036,7 @@ var data = [
         "title": "Health@ Home: the work of health information management in the household (HIMH): implications for consumer health informatics (CHI) innovations",
         "authors": "A Moen, PF Brennan",
         "journal": "Journal of the American Medical Informatics Association 12 (6), 648-656, 2005",
-        "counts": "151",
+        "counts": "152",
         "year": "2005"
       },
       {
@@ -43487,7 +47165,7 @@ var data = [
         "title": "Toward a national framework for the secondary use of health data: an American Medical Informatics Association White Paper",
         "authors": "C Safran, M Bloomrosen, WE Hammond, S Labkoff, S Markel-Fox, ...",
         "journal": "Journal of the American Medical Informatics Association 14 (1), 1-9, 2007",
-        "counts": "537",
+        "counts": "538",
         "year": "2007"
       },
       {
@@ -43691,7 +47369,7 @@ var data = [
         "title": "Information needs of physicians",
         "authors": "PN Gorman",
         "journal": "Journal of the american society for information science 46 (10), 729-736, 1995",
-        "counts": "320",
+        "counts": "321",
         "year": "1995"
       },
       {
@@ -43793,7 +47471,7 @@ var data = [
         "title": "Research electronic data capture (REDCap)—a metadata-driven methodology and workflow process for providing translational research informatics support",
         "authors": "PA Harris, R Taylor, R Thielke, J Payne, N Gonzalez, JG Conde",
         "journal": "Journal of biomedical informatics 42 (2), 377-381, 2009",
-        "counts": "8106",
+        "counts": "8113",
         "year": "2009"
       },
       {
@@ -43888,7 +47566,7 @@ var data = [
         "title": "Forecasting the impact of heart failure in the United States: a policy statement from the American Heart Association",
         "authors": "PA Heidenreich, NM Albert, LA Allen, DA Bluemke, J Butler, GC Fonarow, ...",
         "journal": "Circulation: Heart Failure 6 (3), 606-619, 2013",
-        "counts": "990",
+        "counts": "991",
         "year": "2013"
       },
       {
@@ -43909,7 +47587,7 @@ var data = [
         "title": "American College of Cardiology key data elements and definitions for measuring the clinical management and outcomes of patients with acute coronary syndromes: a report of the …",
         "authors": "CP Cannon, A Battler, RG Brindis, JL Cox, SG Ellis, NR Every, ...",
         "journal": "Journal of the American College of Cardiology 38 (7), 2114-2130, 2001",
-        "counts": "631",
+        "counts": "633",
         "year": "2001"
       },
       {
@@ -43944,21 +47622,21 @@ var data = [
         "title": "The prognostic value of troponin in patients with non-ST elevation acute coronary syndromes: a meta-analysis",
         "authors": "PA Heidenreich, T Alloggiamento, KM McDonald, AS Go, MA Hlatky, ...",
         "journal": "Journal of the American College of Cardiology 38 (2), 478-485, 2001",
-        "counts": "476",
+        "counts": "475",
         "year": "2001"
       },
       {
         "title": "Effect of beta-blockade on mortality in patients with heart failure: a meta-analysis of randomized clinical trials",
         "authors": "PA Heidenreich, TT Lee, BM Massie",
         "journal": "Journal of the American College of Cardiology 30 (1), 27-34, 1997",
-        "counts": "451",
+        "counts": "452",
         "year": "1997"
       },
       {
         "title": "AHA/ACCF scientific statement on the evaluation of syncope: From the American Heart Association councils on clinical cardiology, cardiovascular nursing, cardiovascular disease …",
         "authors": "SA Strickberger, DW Benson, I Biaggioni, DJ Callans, MI Cohen, ...",
         "journal": "Journal of the American College of Cardiology 47 (2), 473-484, 2006",
-        "counts": "449",
+        "counts": "448",
         "year": "2006"
       },
       {
@@ -44119,7 +47797,7 @@ var data = [
         "title": "ACC/AHA Key Data Elements and Definitions for Measuring the Clinical Management and Outcomes of Patients With Chronic Heart Failure. A Report of the American College of …",
         "authors": "MJ Radford, JMO Arnold, SJ Bennett, MP Cinquegrani, JGF Cleland, ...",
         "journal": "Circulation, 2005",
-        "counts": "202",
+        "counts": "203",
         "year": "2005"
       },
       {
@@ -44154,14 +47832,14 @@ var data = [
         "title": "Statins and cognitive function: a systematic review",
         "authors": "K Richardson, M Schoen, B French, CA Umscheid, MD Mitchell, ...",
         "journal": "Annals of internal medicine 159 (10), 688-697, 2013",
-        "counts": "173",
+        "counts": "174",
         "year": "2013"
       },
       {
         "title": "Association of physician certification and outcomes among patients receiving an implantable cardioverter-defibrillator",
         "authors": "JP Curtis, JJ Luebbert, Y Wang, SS Rathore, J Chen, PA Heidenreich, ...",
         "journal": "Jama 301 (16), 1661-1670, 2009",
-        "counts": "173",
+        "counts": "172",
         "year": "2009"
       },
       {
@@ -44298,18 +47976,18 @@ var data = [
         "year": "2013"
       },
       {
+        "title": "National trends in outcomes among elderly patients with heart failure",
+        "authors": "M Kosiborod, JH Lichtman, PA Heidenreich, SLT Normand, Y Wang, ...",
+        "journal": "The American journal of medicine 119 (7), 616. e1-616. e7, 2006",
+        "counts": "102",
+        "year": "2006"
+      },
+      {
         "title": "Get With the Guidelines Scientific Advisory Committee and Investigators. Trends in patients hospitalized with heart failure and preserved left ventricular ejection fraction …",
         "authors": "BA Steinberg, X Zhao, PA Heidenreich, ED Peterson, DL Bhatt, ...",
         "journal": "Circulation 126 (1), 65-75, 2012",
         "counts": "101",
         "year": "2012"
-      },
-      {
-        "title": "National trends in outcomes among elderly patients with heart failure",
-        "authors": "M Kosiborod, JH Lichtman, PA Heidenreich, SLT Normand, Y Wang, ...",
-        "journal": "The American journal of medicine 119 (7), 616. e1-616. e7, 2006",
-        "counts": "101",
-        "year": "2006"
       }
     ]
   },
@@ -44348,7 +48026,7 @@ var data = [
         "title": "The mammographic image analysis society digital mammogram database",
         "authors": "J Suckling, J Parker, D Dance, S Astley, I Hutt, C Boggis, I Ricketts, ...",
         "journal": "Exerpta Medica. International Congress Series 1069, 375-378, 1994",
-        "counts": "1271",
+        "counts": "1270",
         "year": "1994"
       },
       {
@@ -44369,7 +48047,7 @@ var data = [
         "title": "Evaluating a telemedicine system to assist in the management of dermatology referrals",
         "authors": "P Taylor, P Goldsmith, K Murray, D Harris, A Barkley",
         "journal": "British Journal of Dermatology 144 (2), 328-333, 2001",
-        "counts": "125",
+        "counts": "124",
         "year": "2001"
       },
       {
@@ -44488,7 +48166,7 @@ var data = [
         "title": "MacSHAPA and the enterprise of exploratory sequential data analysis (ESDA)",
         "authors": "P Sanderson, J Scott, T Johnston, J Mainzer, L Watanabe, J James",
         "journal": "International Journal of Human-Computer Studies 41 (5), 633-681, 1994",
-        "counts": "219",
+        "counts": "220",
         "year": "1994"
       },
       {
@@ -44724,7 +48402,7 @@ var data = [
         "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
         "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
         "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -44788,8 +48466,68 @@ var data = [
         "title": "Decision trees: an overview and their use in medicine",
         "authors": "V Podgorelec, P Kokol, B Stiglic, I Rozman",
         "journal": "Journal of medical systems 26 (5), 445-463, 2002",
-        "counts": "323",
+        "counts": "324",
         "year": "2002"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Bayesian networks in biomedicine and health-care.",
+        "authors": "PJ Lucas, LC van der Gaag, A Abu-Hanna",
+        "journal": "Artificial Intelligence in medicine 30 (3), 201, 2004",
+        "counts": "279",
+        "year": "2004"
+      },
+      {
+        "title": "Principles of expert systems",
+        "authors": "P Lucas, L Van Der Gaag",
+        "journal": "Addison-Wesley Longman Publishing Co., Inc., 1991",
+        "counts": "230",
+        "year": "1991"
+      },
+      {
+        "title": "Biological application of the theory of fuzzy sets and systems.",
+        "authors": "R Radha, SP Rajagopalan, KP Adlassing, PJF Lucas, PJF Lucas, ...",
+        "journal": "Information Technology Journal 6 (1), 260-265, 1986",
+        "counts": "186",
+        "year": "1986"
+      },
+      {
+        "title": "A probabilistic and decision-theoretic approach to the management of infectious disease at the ICU",
+        "authors": "PJF Lucas, NC de Bruijn, K Schurink, A Hoepelman",
+        "journal": "Artificial Intelligence in medicine 19 (3), 251-279, 2000",
+        "counts": "122",
+        "year": "2000"
+      },
+      {
+        "title": "Improving medical protocols by formal methods",
+        "authors": "A ten Teije, M Marcos, M Balser, J van Croonenborg, C Duelli, ...",
+        "journal": "Artificial Intelligence in Medicine 36 (3), 193-209, 2006",
+        "counts": "121",
+        "year": "2006"
+      },
+      {
+        "title": "Bayesian analysis, pattern analysis, and data mining in health care",
+        "authors": "P Lucas",
+        "journal": "Current Opinion in Critical Care 10 (5), 399, 2004",
+        "counts": "120",
+        "year": "2004"
+      },
+      {
+        "title": "Prognostic models in medicine",
+        "authors": "A Abu-Hanna, PJF Lucas",
+        "journal": "Methods of Information in Medicine-Methodik der Information in der Medizin …, 2001",
+        "counts": "109",
+        "year": "2001"
+      },
+      {
+        "title": "Standardizing research methods for prognostics",
+        "authors": "S Uckun, K Goebel, PJF Lucas",
+        "journal": "Prognostics and Health Management, 2008. PHM 2008. International Conference …, 2008",
+        "counts": "104",
+        "year": "2008"
       }
     ]
   },
@@ -44802,7 +48540,7 @@ var data = [
         "title": "What is a knowledge representation?",
         "authors": "R Davis, H Shrobe, P Szolovits",
         "journal": "AI magazine 14 (1), 17, 1993",
-        "counts": "1172",
+        "counts": "1173",
         "year": "1993"
       },
       {
@@ -44816,7 +48554,7 @@ var data = [
         "title": "MIMIC-III, a freely accessible critical care database",
         "authors": "AEW Johnson, TJ Pollard, L Shen, HL Li-wei, M Feng, M Ghassemi, ...",
         "journal": "Scientific data 3, 160035, 2016",
-        "counts": "399",
+        "counts": "401",
         "year": "2016"
       },
       {
@@ -44914,7 +48652,7 @@ var data = [
         "title": "Normalization of plasma 25-hydroxy vitamin D is associated with reduced risk of surgery in Crohn’s disease",
         "authors": "AN Ananthakrishnan, A Cagan, VS Gainer, T Cai, SC Cheng, G Savova, ...",
         "journal": "Inflammatory bowel diseases 19 (9), 1921-1927, 2013",
-        "counts": "147",
+        "counts": "148",
         "year": "2013"
       },
       {
@@ -45023,7 +48761,7 @@ var data = [
         "title": "The protein data bank",
         "authors": "HM Berman, J Westbrook, Z Feng, G Gilliland, TN Bhat, H Weissig, ...",
         "journal": "Nucleic acids research 28 (1), 235-242, 2000",
-        "counts": "28074",
+        "counts": "28076",
         "year": "2000"
       },
       {
@@ -45037,14 +48775,14 @@ var data = [
         "title": "The FAIR Guiding Principles for scientific data management and stewardship",
         "authors": "MD Wilkinson, M Dumontier, IJJ Aalbersberg, G Appleton, M Axton, ...",
         "journal": "Scientific data 3, 2016",
-        "counts": "770",
+        "counts": "772",
         "year": "2016"
       },
       {
         "title": "The RCSB Protein Data Bank: redesigned web site and web services",
         "authors": "PW Rose, B Beran, C Bi, WF Bluhm, D Dimitropoulos, DS Goodsell, ...",
         "journal": "Nucleic acids research 39 (suppl_1), D392-D401, 2010",
-        "counts": "476",
+        "counts": "477",
         "year": "2010"
       },
       {
@@ -45086,7 +48824,7 @@ var data = [
         "title": "ElliPro: a new structure-based tool for the prediction of antibody epitopes",
         "authors": "J Ponomarenko, HH Bui, W Li, N Fusseder, PE Bourne, A Sette, B Peters",
         "journal": "BMC bioinformatics 9 (1), 514, 2008",
-        "counts": "312",
+        "counts": "313",
         "year": "2008"
       },
       {
@@ -45156,7 +48894,7 @@ var data = [
         "title": "Phylogeny determined by protein domain content",
         "authors": "S Yang, RF Doolittle, PE Bourne",
         "journal": "Proceedings of the National Academy of Sciences 102 (2), 373-378, 2005",
-        "counts": "210",
+        "counts": "211",
         "year": "2005"
       },
       {
@@ -45219,7 +48957,7 @@ var data = [
         "title": "Pre-calculated protein structure alignments at the RCSB PDB website",
         "authors": "A Prlić, S Bliven, PW Rose, WF Bluhm, C Bizon, A Godzik, PE Bourne",
         "journal": "Bioinformatics 26 (23), 2983-2985, 2010",
-        "counts": "144",
+        "counts": "145",
         "year": "2010"
       },
       {
@@ -45275,7 +49013,7 @@ var data = [
         "title": "Point of view: How open science helps researchers succeed",
         "authors": "EC McKiernan, PE Bourne, CT Brown, S Buck, A Kenall, J Lin, ...",
         "journal": "Elife 5, e16800, 2016",
-        "counts": "119",
+        "counts": "120",
         "year": "2016"
       },
       {
@@ -45307,18 +49045,18 @@ var data = [
         "year": "2005"
       },
       {
+        "title": "An alternative view of protein fold space",
+        "authors": "IN Shindyalov, PE Bourne",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 38 (3), 247-260, 2000",
+        "counts": "114",
+        "year": "2000"
+      },
+      {
         "title": "The PDB data uniformity project",
         "authors": "TN Bhat, P Bourne, Z Feng, G Gilliland, S Jain, V Ravichandran, ...",
         "journal": "Nucleic acids research 29 (1), 214-218, 2001",
         "counts": "113",
         "year": "2001"
-      },
-      {
-        "title": "An alternative view of protein fold space",
-        "authors": "IN Shindyalov, PE Bourne",
-        "journal": "Proteins: Structure, Function, and Bioinformatics 38 (3), 247-260, 2000",
-        "counts": "113",
-        "year": "2000"
       },
       {
         "title": "An algorithm based on graph theory for the assembly of contigs in physical mapping of DNA",
@@ -45363,7 +49101,7 @@ var data = [
         "title": "Caveats for the use of operational electronic health record data in comparative effectiveness research",
         "authors": "WR Hersh, MG Weiner, PJ Embi, JR Logan, PRO Payne, EV Bernstam, ...",
         "journal": "Medical care 51 (8 0 3), S30, 2013",
-        "counts": "205",
+        "counts": "206",
         "year": "2013"
       },
       {
@@ -45426,7 +49164,7 @@ var data = [
         "title": "MENELAS: an access system for medical records using natural language",
         "authors": "P Zweigenbaum",
         "journal": "Computer methods and programs in Biomedicine 45 (1), 117-120, 1994",
-        "counts": "139",
+        "counts": "140",
         "year": "1994"
       },
       {
@@ -45447,7 +49185,7 @@ var data = [
         "title": "Issues in the structuring and acquisition of an ontology for medical language understanding",
         "authors": "P Zweigenbaum, B Bachimont, J Bouaud, J Charlet, JF Boisvieux",
         "journal": "Methods of information in medicine 34 (01/02), 15-24, 1995",
-        "counts": "113",
+        "counts": "114",
         "year": "1995"
       },
       {
@@ -45511,7 +49249,7 @@ var data = [
         "title": "Assessment of the Health IT Usability Evaluation Model (Health-ITUEM) for evaluating mobile health (mHealth) technology",
         "authors": "W Brown III, PY Yen, M Rojas, R Schnall",
         "journal": "Journal of biomedical informatics 46 (6), 1080-1087, 2013",
-        "counts": "114",
+        "counts": "115",
         "year": "2013"
       }
     ]
@@ -45547,7 +49285,7 @@ var data = [
         "title": "Healthcare in the pocket: mapping the space of mobile-phone health interventions",
         "authors": "P Klasnja, W Pratt",
         "journal": "Journal of biomedical informatics 45 (1), 184-198, 2012",
-        "counts": "722",
+        "counts": "723",
         "year": "2012"
       },
       {
@@ -45575,7 +49313,7 @@ var data = [
         "title": "How to evaluate technologies for health behavior change in HCI research",
         "authors": "P Klasnja, S Consolvo, W Pratt",
         "journal": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011",
-        "counts": "275",
+        "counts": "274",
         "year": "2011"
       },
       {
@@ -45692,7 +49430,7 @@ var data = [
         "title": "A systems biology approach for pathway level analysis",
         "authors": "S Draghici, P Khatri, AL Tarca, K Amin, A Done, C Voichita, C Georgescu, ...",
         "journal": "Genome research 17 (10), 000-000, 2007",
-        "counts": "797",
+        "counts": "798",
         "year": "2007"
       },
       {
@@ -45769,7 +49507,7 @@ var data = [
         "title": "SMYD3 links lysine methylation of MAP3K2 to Ras-driven cancer",
         "authors": "PK Mazur, N Reynoird, P Khatri, PWTC Jansen, AW Wilkinson, S Liu, ...",
         "journal": "Nature 510 (7504), 283, 2014",
-        "counts": "156",
+        "counts": "155",
         "year": "2014"
       },
       {
@@ -45829,7 +49567,7 @@ var data = [
         "title": "Line: Large-scale information network embedding",
         "authors": "J Tang, M Qu, M Wang, M Zhang, J Yan, Q Mei",
         "journal": "Proceedings of the 24th International Conference on World Wide Web, 1067-1077, 2015",
-        "counts": "753",
+        "counts": "754",
         "year": "2015"
       },
       {
@@ -45885,7 +49623,7 @@ var data = [
         "title": "Pte: Predictive text embedding through large-scale heterogeneous text networks",
         "authors": "J Tang, M Qu, Q Mei",
         "journal": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge …, 2015",
-        "counts": "178",
+        "counts": "179",
         "year": "2015"
       },
       {
@@ -45976,21 +49714,21 @@ var data = [
         "title": "Changing physician performance: a systematic review of the effect of continuing medical education strategies",
         "authors": "DA Davis, MA Thomson, AD Oxman, RB Haynes",
         "journal": "Jama 274 (9), 700-705, 1995",
-        "counts": "3383",
+        "counts": "3385",
         "year": "1995"
       },
       {
         "title": "Benefit of carotid endarterectomy in patients with symptomatic moderate or severe stenosis",
         "authors": "HJM Barnett, DW Taylor, M Eliasziw, AJ Fox, GG Ferguson, RB Haynes, ...",
         "journal": "New England Journal of Medicine 339 (20), 1415-1425, 1998",
-        "counts": "3379",
+        "counts": "3380",
         "year": "1998"
       },
       {
         "title": "Evidence-based Medicine How to practice and teach EBM",
         "authors": "DL Sackett",
         "journal": "WB Saunders Company, 1997",
-        "counts": "3078",
+        "counts": "3081",
         "year": "1997"
       },
       {
@@ -46004,28 +49742,28 @@ var data = [
         "title": "Interventions for enhancing medication adherence",
         "authors": "RB Haynes, E Ackloo, N Sahota, HP McDonald, X Yao",
         "journal": "Cochrane database syst Rev 2 (2), CD000011, 2008",
-        "counts": "2567",
+        "counts": "2564",
         "year": "2008"
       },
       {
         "title": "No magic bullets: a systematic review of 102 trials of interventions to improve professional practice.",
         "authors": "AD Oxman, MA Thomson, DA Davis, RB Haynes",
         "journal": "CMAJ: Canadian Medical Association Journal 153 (10), 1423, 1995",
-        "counts": "2250",
+        "counts": "2251",
         "year": "1995"
       },
       {
         "title": "Evidence-based medicine: how to practice and teach EBMi Sharon E. Straus...[et al.]",
         "authors": "SE Straus",
         "journal": "",
-        "counts": "2228",
+        "counts": "2229",
         "year": "2005"
       },
       {
         "title": "Systematic reviews: synthesis of best evidence for clinical decisions",
         "authors": "DJ Cook, CD Mulrow, RB Haynes",
         "journal": "Annals of internal medicine 126 (5), 376-380, 1997",
-        "counts": "1855",
+        "counts": "1858",
         "year": "1997"
       },
       {
@@ -46039,7 +49777,7 @@ var data = [
         "title": "Educational outreach visits: effects on professional practice and health care outcomes",
         "authors": "MA O'Brien, S Rogers, G Jamtvedt, AD Oxman, J Odgaard‐Jensen, ...",
         "journal": "Cochrane Database of systematic reviews, 2007",
-        "counts": "1382",
+        "counts": "1383",
         "year": "2007"
       },
       {
@@ -46060,21 +49798,21 @@ var data = [
         "title": "Local opinion leaders: effects on professional practice and health care outcomes",
         "authors": "G Flodgren, E Parmelli, G Doumit, M Gattellari, MA O'Brien, J Grimshaw, ...",
         "journal": "Cochrane Database of Systematic Reviews, 2007",
-        "counts": "1042",
+        "counts": "1043",
         "year": "2007"
       },
       {
         "title": "The North American symptomatic carotid endarterectomy trial: surgical results in 1415 patients",
         "authors": "GG Ferguson, M Eliasziw, HWK Barr, GP Clagett, RW Barnes, ...",
         "journal": "Stroke 30 (9), 1751-1758, 1999",
-        "counts": "1029",
+        "counts": "1028",
         "year": "1999"
       },
       {
         "title": "Helping patients follow prescribed treatment: clinical applications",
         "authors": "RB Haynes, HP McDonald, AX Garg",
         "journal": "Jama 288 (22), 2880-2883, 2002",
-        "counts": "977",
+        "counts": "976",
         "year": "2002"
       },
       {
@@ -46095,7 +49833,7 @@ var data = [
         "title": "Interventions to enhance medication adherence in chronic medical conditions: a systematic review",
         "authors": "S Kripalani, X Yao, RB Haynes",
         "journal": "Archives of internal medicine 167 (6), 540-549, 2007",
-        "counts": "794",
+        "counts": "793",
         "year": "2007"
       },
       {
@@ -46109,14 +49847,14 @@ var data = [
         "title": "Randomised clinical trial of strategies for improving medication compliance in primary hypertension",
         "authors": "DL Sackett, ES Gibson, DW Taylor, RB Haynes, BC Hackett, RS Roberts, ...",
         "journal": "The Lancet 305 (7918), 1205-1207, 1975",
-        "counts": "747",
+        "counts": "746",
         "year": "1975"
       },
       {
         "title": "Evidence base of clinical diagnosis: the architecture of diagnostic research",
         "authors": "DL Sackett, RB Haynes",
         "journal": "BMJ: British Medical Journal 324 (7336), 539, 2002",
-        "counts": "717",
+        "counts": "718",
         "year": "2002"
       },
       {
@@ -46158,7 +49896,7 @@ var data = [
         "title": "Low-dose and high-dose acetylsalicylic acid for patients undergoing carotid endarterectomy: a randomised controlled trial",
         "authors": "DW Taylor, HJM Barnett, RB Haynes, GG Ferguson, DL Sackett, ...",
         "journal": "The Lancet 353 (9171), 2179-2184, 1999",
-        "counts": "579",
+        "counts": "580",
         "year": "1999"
       },
       {
@@ -46190,13 +49928,6 @@ var data = [
         "year": "1990"
       },
       {
-        "title": "Richardson ws",
-        "authors": "DL Sackett, WM Rosenberg, JA Gray, RB Haynes",
-        "journal": "Evidence based medicine: what it is and what it isn’t. BMJ 312, 71-72, 1996",
-        "counts": "490",
-        "year": "1996"
-      },
-      {
         "title": "Clinical epidemiology: how to do clinical practice research",
         "authors": "RB Haynes",
         "journal": "Lippincott williams & wilkins, 2012",
@@ -46204,10 +49935,17 @@ var data = [
         "year": "2012"
       },
       {
+        "title": "Richardson ws",
+        "authors": "DL Sackett, WM Rosenberg, JA Gray, RB Haynes",
+        "journal": "Evidence based medicine: what it is and what it isn’t. BMJ 312, 71-72, 1996",
+        "counts": "472",
+        "year": "1996"
+      },
+      {
         "title": "Long-term renal prognosis of diarrhea-associated hemolytic uremic syndrome: a systematic review, meta-analysis, and meta-regression",
         "authors": "AX Garg, RS Suri, N Barrowman, F Rehman, D Matsell, ...",
         "journal": "Jama 290 (10), 1360-1370, 2003",
-        "counts": "458",
+        "counts": "459",
         "year": "2003"
       },
       {
@@ -46614,7 +50352,7 @@ var data = [
         "title": "Data standards in clinical research: gaps, overlaps, challenges and future directions",
         "authors": "RL Richesson, J Krischer",
         "journal": "Journal of the American Medical Informatics Association 14 (6), 687-696, 2007",
-        "counts": "140",
+        "counts": "139",
         "year": "2007"
       },
       {
@@ -46696,7 +50434,7 @@ var data = [
         "title": "Computer keyboard and mouse as a reservoir of pathogens in an intensive care unit",
         "authors": "B Hartmann, M Benson, A Junger, L Quinzio, R Röhrig, B Fengler, ...",
         "journal": "Journal of clinical monitoring and computing 18 (1), 7-12, 2004",
-        "counts": "155",
+        "counts": "156",
         "year": "2004"
       }
     ]
@@ -46913,7 +50651,7 @@ var data = [
         "title": "Analysis of the chronic lymphocytic leukemia coding genome: role of NOTCH1 mutational activation",
         "authors": "G Fabbri, S Rasi, D Rossi, V Trifonov, H Khiabanian, J Ma, A Grunn, ...",
         "journal": "Journal of Experimental Medicine 208 (7), 1389-1401, 2011",
-        "counts": "525",
+        "counts": "526",
         "year": "2011"
       },
       {
@@ -46934,7 +50672,7 @@ var data = [
         "title": "Molecular profiling reveals biologically discrete subsets and pathways of progression in diffuse glioma",
         "authors": "M Ceccarelli, FP Barthel, TM Malta, TS Sabedot, SR Salama, BA Murray, ...",
         "journal": "Cell 164 (3), 550-563, 2016",
-        "counts": "458",
+        "counts": "457",
         "year": "2016"
       },
       {
@@ -46983,7 +50721,7 @@ var data = [
         "title": "Mutations of the SF3B1 splicing factor in chronic lymphocytic leukemia: association with progression and fludarabine-refractoriness",
         "authors": "D Rossi, A Bruscaggin, V Spina, S Rasi, H Khiabanian, M Messina, ...",
         "journal": "Blood, blood-2011-08-373159, 2011",
-        "counts": "328",
+        "counts": "327",
         "year": "2011"
       },
       {
@@ -47004,7 +50742,7 @@ var data = [
         "title": "Recurrent mutations in epigenetic regulators, RHOA and FYN kinase in peripheral T cell lymphomas",
         "authors": "T Palomero, L Couronné, H Khiabanian, MY Kim, A Ambesi-Impiombato, ...",
         "journal": "Nature genetics 46 (2), 166, 2014",
-        "counts": "285",
+        "counts": "286",
         "year": "2014"
       },
       {
@@ -47102,7 +50840,7 @@ var data = [
         "title": "Convergent mutations and kinase fusions lead to oncogenic STAT3 activation in anaplastic large cell lymphoma",
         "authors": "R Crescenzo, F Abate, E Lasorsa, M Gaudiano, N Chiesa, F Di Giacomo, ...",
         "journal": "Cancer cell 27 (4), 516-532, 2015",
-        "counts": "143",
+        "counts": "144",
         "year": "2015"
       },
       {
@@ -47123,7 +50861,7 @@ var data = [
         "title": "A nondegenerate code of deleterious variants in Mendelian loci contributes to complex disease risk",
         "authors": "DR Blair, CS Lyttle, JM Mortensen, CF Bearden, AB Jensen, ...",
         "journal": "Cell 155 (1), 70-80, 2013",
-        "counts": "133",
+        "counts": "134",
         "year": "2013"
       },
       {
@@ -47162,7 +50900,7 @@ var data = [
         "title": "How smartphones are changing the face of mobile and participatory healthcare: an overview, with example from eCAALYX",
         "authors": "MNK Boulos, S Wheeler, C Tavares, R Jones",
         "journal": "Biomedical engineering online 10 (1), 24, 2011",
-        "counts": "912",
+        "counts": "913",
         "year": "2011"
       },
       {
@@ -47176,7 +50914,7 @@ var data = [
         "title": "Health surveys in the workplace: comparison of postal, email and World Wide Web methods",
         "authors": "R Jones, N Pitt",
         "journal": "Occupational Medicine 49 (8), 556-558, 1999",
-        "counts": "203",
+        "counts": "204",
         "year": "1999"
       },
       {
@@ -47345,7 +51083,7 @@ var data = [
         "title": "Development of visual diagnostic expertise in pathology: an information-processing study",
         "authors": "RS Crowley, GJ Naus, J Stewart III, CP Friedman",
         "journal": "Journal of the American Medical Informatics Association 10 (1), 39-51, 2003",
-        "counts": "196",
+        "counts": "197",
         "year": "2003"
       },
       {
@@ -47359,7 +51097,7 @@ var data = [
         "title": "Natural language processing methods and systems for biomedical ontology learning",
         "authors": "K Liu, WR Hogan, RS Crowley",
         "journal": "Journal of biomedical informatics 44 (1), 163-179, 2011",
-        "counts": "104",
+        "counts": "105",
         "year": "2011"
       },
       {
@@ -47380,7 +51118,7 @@ var data = [
         "title": "Assessment of the Health IT Usability Evaluation Model (Health-ITUEM) for evaluating mobile health (mHealth) technology",
         "authors": "W Brown III, PY Yen, M Rojas, R Schnall",
         "journal": "Journal of biomedical informatics 46 (6), 1080-1087, 2013",
-        "counts": "114",
+        "counts": "115",
         "year": "2013"
       }
     ]
@@ -47532,14 +51270,14 @@ var data = [
         "title": "Management of precancerous conditions and lesions in the stomach (MAPS): guideline from the European Society of Gastrointestinal Endoscopy (ESGE), European Helicobacter Study …",
         "authors": "M Dinis-Ribeiro, M Areia, AC de Vries, R Marcos-Pinto, ...",
         "journal": "Virchows Archiv, 1-28, 2012",
-        "counts": "558",
+        "counts": "559",
         "year": "2012"
       },
       {
         "title": "How to break access control in a controlled manner",
         "authors": "A Ferreira, R Cruz-Correia, L Antunes, P Farinha, E Oliveira-Palhares, ...",
         "journal": "Computer-Based Medical Systems, 2006. CBMS 2006. 19th IEEE International …, 2006",
-        "counts": "123",
+        "counts": "124",
         "year": "2006"
       }
     ]
@@ -47656,31 +51394,116 @@ var data = [
   {
     "citations": [
       {
+        "title": "The technology acceptance model: its past and its future in health care",
+        "authors": "RJ Holden, BT Karsh",
+        "journal": "Journal of biomedical informatics 43 (1), 159-172, 2010",
+        "counts": "1149",
+        "year": "2010"
+      },
+      {
+        "title": "Lean thinking in emergency departments: a critical review",
+        "authors": "RJ Holden",
+        "journal": "Annals of emergency medicine 57 (3), 265-278, 2011",
+        "counts": "412",
+        "year": "2011"
+      },
+      {
+        "title": "A human factors engineering paradigm for patient safety: designing to support the performance of the healthcare professional",
+        "authors": "BT Karsh, RJ Holden, SJ Alper, CKL Or",
+        "journal": "BMJ Quality & Safety 15 (suppl 1), i59-i65, 2006",
+        "counts": "276",
+        "year": "2006"
+      },
+      {
+        "title": "Human factors systems approach to healthcare quality and patient safety",
+        "authors": "P Carayon, TB Wetterneck, AJ Rivera-Rodriguez, AS Hundt, P Hoonakker, ...",
+        "journal": "Applied ergonomics 45 (1), 14-25, 2014",
+        "counts": "273",
+        "year": "2014"
+      },
+      {
+        "title": "SEIPS 2.0: a human factors framework for studying and improving the work of healthcare professionals and patients",
+        "authors": "RJ Holden, P Carayon, AP Gurses, P Hoonakker, AS Hundt, AA Ozok, ...",
+        "journal": "Ergonomics 56 (11), 1669-1686, 2013",
+        "counts": "260",
+        "year": "2013"
+      },
+      {
+        "title": "Physicians’ beliefs about using EMR and CPOE: in pursuit of a contextualized understanding of health IT use behavior",
+        "authors": "RJ Holden",
+        "journal": "International journal of medical informatics 79 (2), 71-80, 2010",
+        "counts": "149",
+        "year": "2010"
+      },
+      {
+        "title": "A human factors framework and study of the effect of nursing workload on patient safety and employee quality of working life",
+        "authors": "RJ Holden, MC Scanlon, NR Patel, R Kaushal, KH Escoto, RL Brown, ...",
+        "journal": "BMJ quality & safety 20 (1), 15-24, 2011",
+        "counts": "146",
+        "year": "2011"
+      },
+      {
+        "title": "A theoretical model of health information technology usage behaviour with implications for patient safety",
+        "authors": "RJ Holden, BT Karsh",
+        "journal": "Behaviour & Information Technology 28 (1), 21-38, 2009",
+        "counts": "116",
+        "year": "2009"
+      },
+      {
+        "title": "How does lean work in emergency care? A case study of a lean-inspired intervention at the Astrid Lindgren Children's hospital, Stockholm, Sweden",
+        "authors": "P Mazzocato, RJ Holden, M Brommels, H Aronsson, U Bäckman, M Elg, ...",
+        "journal": "BMC health services research 12 (1), 28, 2012",
+        "counts": "112",
+        "year": "2012"
+      },
+      {
+        "title": "Toward a theoretical approach to medical error reporting system research and design",
+        "authors": "BT Karsh, KH Escoto, JW Beasley, RJ Holden",
+        "journal": "Applied ergonomics 37 (3), 283-295, 2006",
+        "counts": "103",
+        "year": "2006"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Drugdex® system",
+        "authors": "RK Klasco",
+        "journal": "MICROMEDEX® Healthcare Series. Thomson Healthcare. Disponível em:< http …, 2003",
+        "counts": "187",
+        "year": "2003"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
         "authors": "S Chatrchyan, V Khachatryan, AM Sirunyan, A Tumasyan, W Adam, ...",
         "journal": "Physics Letters B 716 (1), 30-61, 2012",
-        "counts": "16702",
+        "counts": "16701",
         "year": "2012"
       },
       {
         "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
         "authors": "S Chatrchyan, V Khachatryan, AM Sirunyan, A Tumasyan, W Adam, ...",
         "journal": "Physics Letters B, 2012",
-        "counts": "16616",
+        "counts": "16615",
         "year": "2012"
       },
       {
         "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
         "authors": "S Chatrchyan, V Khachatryan, AM Sirunyan, A Tumasyan, W Adam, ...",
         "journal": "Physics Letters B 716 (1), 30-61, 2012",
-        "counts": "16610",
+        "counts": "16609",
         "year": "2012"
       },
       {
         "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
         "authors": "S Chatrchyan, V Khachatryan, AM Sirunyan, A Tumasyan, W Adam, ...",
         "journal": "Physics Letters B 716 (1), 30-61, 2012",
-        "counts": "16610",
+        "counts": "16609",
         "year": "2012"
       },
       {
@@ -47736,7 +51559,7 @@ var data = [
         "title": "Standardized reporting of clinical practice guidelines: a proposal from the Conference on Guideline Standardization",
         "authors": "RN Shiffman, P Shekelle, JM Overhage, J Slutsky, J Grimshaw, ...",
         "journal": "Annals of internal medicine 139 (6), 493-498, 2003",
-        "counts": "449",
+        "counts": "450",
         "year": "2003"
       },
       {
@@ -47792,7 +51615,7 @@ var data = [
         "title": "Clinical practice guideline: acute otitis externa",
         "authors": "RM Rosenfeld, L Brown, CR Cannon, RJ Dolor, TG Ganiats, M Hannley, ...",
         "journal": "Otolaryngology-Head and Neck Surgery 134 (4), S4-S23, 2006",
-        "counts": "188",
+        "counts": "189",
         "year": "2006"
       },
       {
@@ -47850,14 +51673,14 @@ var data = [
         "title": "Design features of graphs in health risk communication: a systematic review",
         "authors": "JS Ancker, Y Senathirajah, R Kukafka, JB Starren",
         "journal": "Journal of the American Medical Informatics Association 13 (6), 608-618, 2006",
-        "counts": "377",
+        "counts": "378",
         "year": "2006"
       },
       {
         "title": "Health IT success and failure: recommendations from literature and an AMIA workshop",
         "authors": "B Kaplan, KD Harris-Salamone",
         "journal": "Journal of the American Medical Informatics Association 16 (3), 291-299, 2009",
-        "counts": "370",
+        "counts": "371",
         "year": "2009"
       },
       {
@@ -48040,6 +51863,73 @@ var data = [
   {
     "citations": [
       {
+        "title": "Single-cell mass cytometry of differential immune and drug responses across a human hematopoietic continuum",
+        "authors": "SC Bendall, EF Simonds, P Qiu, ED Amir, PO Krutzik, R Finck, ...",
+        "journal": "Science 332 (6030), 687, 2011",
+        "counts": "1283",
+        "year": "2011"
+      },
+      {
+        "title": "Genome sequence of Aedes aegypti, a major arbovirus vector",
+        "authors": "V Nene, JR Wortman, D Lawson, B Haas, C Kodira, ZJ Tu, B Loftus, Z Xi, ...",
+        "journal": "Science 316 (5832), 1718-1723, 2007",
+        "counts": "990",
+        "year": "2007"
+      },
+      {
+        "title": "Extracting a cellular hierarchy from high-dimensional cytometry data with SPADE",
+        "authors": "P Qiu, EF Simonds, SC Bendall, KD Gibbs Jr, RV Bruggner, ...",
+        "journal": "Nature biotechnology 29 (10), 886-891, 2011",
+        "counts": "516",
+        "year": "2011"
+      },
+      {
+        "title": "Genome sequences of the human body louse and its primary endosymbiont provide insights into the permanent parasitic lifestyle",
+        "authors": "EF Kirkness, BJ Haas, W Sun, HR Braig, MA Perotti, JM Clark, SH Lee, ...",
+        "journal": "Proceedings of the National Academy of Sciences 107 (27), 12168-12173, 2010",
+        "counts": "338",
+        "year": "2010"
+      },
+      {
+        "title": "Multiplexed mass cytometry profiling of cellular states perturbed by small-molecule regulators",
+        "authors": "B Bodenmiller, ER Zunder, R Finck, TJ Chen, ES Savig, RV Bruggner, ...",
+        "journal": "Nature Biotechnology, 2012",
+        "counts": "309",
+        "year": "2012"
+      },
+      {
+        "title": "VectorBase: a data resource for invertebrate vector genomics",
+        "authors": "D Lawson, P Arensburger, P Atkinson, NJ Besansky, RV Bruggner, ...",
+        "journal": "Nucleic acids research 37 (suppl 1), D583-D587, 2009",
+        "counts": "221",
+        "year": "2009"
+      },
+      {
+        "title": "Clinical recovery from surgery correlates with single-cell immune signatures",
+        "authors": "B Gaudillière, GK Fragiadakis, RV Bruggner, M Nicolau, R Finck, M Tingle, ...",
+        "journal": "Science Translational Medicine 6 (255), 255ra131-255ra131, 2014",
+        "counts": "137",
+        "year": "2014"
+      },
+      {
+        "title": "Automated identification of stratifying signatures in cellular subpopulations",
+        "authors": "RV Bruggner, B Bodenmiller, DL Dill, RJ Tibshirani, GP Nolan",
+        "journal": "Proceedings of the National Academy of Sciences 111 (26), E2770-E2777, 2014",
+        "counts": "131",
+        "year": "2014"
+      },
+      {
+        "title": "VectorBase: a home for invertebrate vectors of human pathogens",
+        "authors": "D Lawson, P Arensburger, P Atkinson, NJ Besansky, RV Bruggner, ...",
+        "journal": "Nucleic acids research 35 (suppl 1), D503-D505, 2007",
+        "counts": "122",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Assessment of diagnostic tests when disease verification is subject to selection bias",
         "authors": "CB Begg, RA Greenes",
         "journal": "Biometrics, 207-215, 1983",
@@ -48092,7 +51982,7 @@ var data = [
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -48398,7 +52288,7 @@ var data = [
         "title": "Forty years of SNOMED: a literature review",
         "authors": "R Cornet, N de Keizer",
         "journal": "BMC medical informatics and decision making 8 (1), S2, 2008",
-        "counts": "230",
+        "counts": "229",
         "year": "2008"
       },
       {
@@ -48430,14 +52320,14 @@ var data = [
         "title": "ZDOCK: an initial‐stage protein‐docking algorithm",
         "authors": "R Chen, L Li, Z Weng",
         "journal": "Proteins: Structure, Function, and Bioinformatics 52 (1), 80-87, 2003",
-        "counts": "1112",
+        "counts": "1113",
         "year": "2003"
       },
       {
         "title": "Personal Omics Profiling Reveals Dynamic Molecular and Medical Phenotypes",
         "authors": "R Chen, GI Mias, J Li-Pook-Than, L Jiang, HYK Lam, R Chen, E Miriami, ...",
         "journal": "Cell 148 (6), 1293-1307, 2012",
-        "counts": "867",
+        "counts": "868",
         "year": "2012"
       },
       {
@@ -48458,7 +52348,7 @@ var data = [
         "title": "Performance comparison of exome DNA sequencing technologies",
         "authors": "MJ Clark, R Chen, HYK Lam, KJ Karczewski, R Chen, G Euskirchen, ...",
         "journal": "Nature Biotechnology, 2011",
-        "counts": "410",
+        "counts": "411",
         "year": "2011"
       },
       {
@@ -48479,7 +52369,7 @@ var data = [
         "title": "Protein–protein docking benchmark 2.0: an update",
         "authors": "J Mintseris, K Wiehe, B Pierce, R Anderson, R Chen, J Janin, Z Weng",
         "journal": "Proteins: Structure, Function, and Bioinformatics 60 (2), 214-216, 2005",
-        "counts": "320",
+        "counts": "321",
         "year": "2005"
       },
       {
@@ -48521,7 +52411,7 @@ var data = [
         "title": "Integrating statistical pair potentials into protein complex prediction",
         "authors": "J Mintseris, B Pierce, K Wiehe, R Anderson, R Chen, Z Weng",
         "journal": "Proteins: Structure, Function, and Bioinformatics 69 (3), 511-520, 2007",
-        "counts": "243",
+        "counts": "244",
         "year": "2007"
       },
       {
@@ -48593,14 +52483,14 @@ var data = [
         "title": "Role of computerized physician order entry systems in facilitating medication errors",
         "authors": "R Koppel, JP Metlay, A Cohen, B Abaluck, AR Localio, SE Kimmel, ...",
         "journal": "Jama 293 (10), 1197-1203, 2005",
-        "counts": "2303",
+        "counts": "2304",
         "year": "2005"
       },
       {
         "title": "Workarounds to barcode medication administration systems: their occurrences, causes, and threats to patient safety",
         "authors": "R Koppel, T Wetterneck, JL Telles, BT Karsh",
         "journal": "Journal of the American Medical Informatics Association 15 (4), 408-423, 2008",
-        "counts": "646",
+        "counts": "647",
         "year": "2008"
       },
       {
@@ -48646,6 +52536,31 @@ var data = [
   {
     "citations": [
       {
+        "title": "Multiple feedback successive interference cancellation detection for multiuser MIMO systems",
+        "authors": "P Li, RC De Lamare, R Fa",
+        "journal": "IEEE Transactions on Wireless Communications 10 (8), 2434-2439, 2011",
+        "counts": "148",
+        "year": "2011"
+      },
+      {
+        "title": "Reduced-rank STAP schemes for airborne radar based on switched joint interpolation, decimation and filtering algorithm",
+        "authors": "R Fa, RC de Lamare, L Wang",
+        "journal": "Signal Processing, IEEE Transactions on 58 (8), 4182-4194, 2010",
+        "counts": "126",
+        "year": "2010"
+      },
+      {
+        "title": "Adaptive reduced-rank LCMV beamforming algorithms based on joint iterative optimization of filters: Design and analysis",
+        "authors": "RC De Lamare, L Wang, R Fa",
+        "journal": "Signal processing 90 (2), 640-652, 2010",
+        "counts": "101",
+        "year": "2010"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Interpretability and learning in neuro-fuzzy systems",
         "authors": "RP Paiva, A Dourado",
         "journal": "",
@@ -48678,7 +52593,7 @@ var data = [
         "title": "Missing value estimation methods for DNA microarrays",
         "authors": "O Troyanskaya, M Cantor, G Sherlock, P Brown, T Hastie, R Tibshirani, ...",
         "journal": "Bioinformatics 17 (6), 520-525, 2001",
-        "counts": "2724",
+        "counts": "2726",
         "year": "2001"
       },
       {
@@ -48706,21 +52621,21 @@ var data = [
         "title": "Personal omics profiling reveals dynamic molecular and medical phenotypes",
         "authors": "R Chen, GI Mias, J Li-Pook-Than, L Jiang, HYK Lam, R Chen, E Miriami, ...",
         "journal": "Cell 148 (6), 1293-1307, 2012",
-        "counts": "867",
+        "counts": "868",
         "year": "2012"
       },
       {
         "title": "The chemical genomic portrait of yeast: uncovering a phenotype for all genes",
         "authors": "ME Hillenmeyer, E Fung, J Wildenhain, SE Pierce, S Hoon, W Lee, ...",
         "journal": "Science 320 (5874), 362-365, 2008",
-        "counts": "826",
+        "counts": "828",
         "year": "2008"
       },
       {
         "title": "Guidelines for investigating causality of sequence variants in human disease",
         "authors": "DG MacArthur, TA Manolio, DP Dimmock, HL Rehm, J Shendure, ...",
         "journal": "Nature 508 (7497), 469, 2014",
-        "counts": "759",
+        "counts": "761",
         "year": "2014"
       },
       {
@@ -48804,7 +52719,7 @@ var data = [
         "title": "SAFA: semi-automated footprinting analysis software for high-throughput quantification of nucleic acid footprinting experiments",
         "authors": "R Das, A Laederach, SM Pearlman, D Herschlag, RB Altman",
         "journal": "Rna 11 (3), 344-354, 2005",
-        "counts": "311",
+        "counts": "312",
         "year": "2005"
       },
       {
@@ -48902,7 +52817,7 @@ var data = [
         "title": "Metformin pathways: pharmacokinetics and pharmacodynamics",
         "authors": "L Gong, S Goswami, KM Giacomini, RB Altman, TE Klein",
         "journal": "Pharmacogenetics and genomics 22 (11), 820, 2012",
-        "counts": "217",
+        "counts": "218",
         "year": "2012"
       },
       {
@@ -48923,14 +52838,14 @@ var data = [
         "title": "Quantitative and systems pharmacology in the post-genomic era: new approaches to discovering drugs and understanding therapeutic mechanisms",
         "authors": "PK Sorger, SRB Allerheiligen, DR Abernethy, RB Altman, KLR Brouwer, ...",
         "journal": "An NIH white paper by the QSP workshop group 48, 2011",
-        "counts": "184",
+        "counts": "185",
         "year": "2011"
       },
       {
         "title": "Very important pharmacogene summary: ABCB1 (MDR1, P-glycoprotein)",
         "authors": "LM Hodges, SM Markova, LW Chinn, JM Gow, DL Kroetz, TE Klein, ...",
         "journal": "Pharmacogenetics and genomics 21 (3), 152, 2011",
-        "counts": "183",
+        "counts": "184",
         "year": "2011"
       },
       {
@@ -49035,7 +52950,7 @@ var data = [
         "title": "Clopidogrel pathway",
         "authors": "K Sangkuhl, TE Klein, RB Altman",
         "journal": "Pharmacogenetics and genomics 20 (7), 463, 2010",
-        "counts": "129",
+        "counts": "130",
         "year": "2010"
       },
       {
@@ -49165,6 +53080,13 @@ var data = [
         "year": "2002"
       },
       {
+        "title": "PharmGKB summary: cyclosporine and tacrolimus pathways",
+        "authors": "JM Barbarino, CE Staatz, R Venkataramanan, TE Klein, RB Altman",
+        "journal": "Pharmacogenetics and genomics 23 (10), 563, 2013",
+        "counts": "102",
+        "year": "2013"
+      },
+      {
         "title": "WebFEATURE: an interactive web tool for identifying and visualizing functional sites on macromolecular structures",
         "authors": "MP Liang, DR Banatao, TE Klein, DL Brutlag, RB Altman",
         "journal": "Nucleic acids research 31 (13), 3324-3327, 2003",
@@ -49177,13 +53099,6 @@ var data = [
         "journal": "Bioinformatics (Oxford, England) 14 (7), 549-550, 1998",
         "counts": "102",
         "year": "1998"
-      },
-      {
-        "title": "PharmGKB summary: cyclosporine and tacrolimus pathways",
-        "authors": "JM Barbarino, CE Staatz, R Venkataramanan, TE Klein, RB Altman",
-        "journal": "Pharmacogenetics and genomics 23 (10), 563, 2013",
-        "counts": "101",
-        "year": "2013"
       },
       {
         "title": "Time to organize the bioinformatics resourceome",
@@ -49214,14 +53129,14 @@ var data = [
         "title": "HMDB: a knowledgebase for the human metabolome",
         "authors": "DS Wishart, C Knox, AC Guo, R Eisner, N Young, B Gautam, DD Hau, ...",
         "journal": "Nucleic acids research 37 (suppl_1), D603-D610, 2008",
-        "counts": "1408",
+        "counts": "1407",
         "year": "2008"
       },
       {
         "title": "Learning Bayesian networks from data: an information-theory based approach",
         "authors": "J Cheng, R Greiner, J Kelly, D Bell, W Liu",
         "journal": "Artificial intelligence 137 (1-2), 43-90, 2002",
-        "counts": "1159",
+        "counts": "1160",
         "year": "2002"
       },
       {
@@ -49235,7 +53150,7 @@ var data = [
         "title": "Comparing Bayesian network classifiers",
         "authors": "J Cheng, R Greiner",
         "journal": "Proceedings of the Fifteenth conference on Uncertainty in artificial …, 1999",
-        "counts": "533",
+        "counts": "534",
         "year": "1999"
       },
       {
@@ -49284,7 +53199,7 @@ var data = [
         "title": "Structural extension to logistic regression: Discriminative parameter learning of belief net classifiers",
         "authors": "R Greiner, X Su, B Shen, W Zhou",
         "journal": "Machine Learning 59 (3), 297-322, 2005",
-        "counts": "233",
+        "counts": "234",
         "year": "2005"
       },
       {
@@ -49449,7 +53364,7 @@ var data = [
         "title": "Is Naïve Bayes a Good Classifier for Document Classification?",
         "authors": "SL Ting, WH Ip, AHC Tsang",
         "journal": "International Journal of Software Engineering and Its Applications 5 (3), 37-46, 2011",
-        "counts": "130",
+        "counts": "128",
         "year": "2011"
       },
       {
@@ -49476,7 +53391,95 @@ var data = [
     ]
   },
   {
+    "citations": [
+      {
+        "title": "A single-stage grid connected inverter topology for solar PV systems with maximum power point tracking",
+        "authors": "S Jain, V Agarwal",
+        "journal": "IEEE transactions on power electronics 22 (5), 1928-1940, 2007",
+        "counts": "515",
+        "year": "2007"
+      },
+      {
+        "title": "Comparison of the performance of maximum power point tracking schemes applied to single-stage grid-connected photovoltaic systems",
+        "authors": "S Jain, V Agarwal",
+        "journal": "IET Electric Power Applications 1 (5), 753-762, 2007",
+        "counts": "386",
+        "year": "2007"
+      },
+      {
+        "title": "A new algorithm for rapid tracking of approximate maximum power point in photovoltaic systems",
+        "authors": "S Jain, V Agarwal",
+        "journal": "IEEE power electronics letters 2 (1), 16-19, 2004",
+        "counts": "348",
+        "year": "2004"
+      },
+      {
+        "title": "Practicing medicine in the age of Facebook",
+        "authors": "SH Jain",
+        "journal": "New England Journal of Medicine 361 (7), 649-651, 2009",
+        "counts": "204",
+        "year": "2009"
+      },
+      {
+        "title": "Health information technology: laying the infrastructure for national health reform",
+        "authors": "MB Buntin, SH Jain, D Blumenthal",
+        "journal": "Health Affairs 29 (6), 1214-1219, 2010",
+        "counts": "203",
+        "year": "2010"
+      },
+      {
+        "title": "An integrated hybrid power supply for distributed generation applications fed by nonconventional energy sources",
+        "authors": "S Jain, V Agarwal",
+        "journal": "IEEE transactions on energy conversion 23 (2), 622-631, 2008",
+        "counts": "200",
+        "year": "2008"
+      },
+      {
+        "title": "Mathematics anxiety as a function of multidimensional self-regulation and self-efficacy",
+        "authors": "S Jain, M Dowson",
+        "journal": "Contemporary Educational Psychology 34 (3), 240-249, 2009",
+        "counts": "169",
+        "year": "2009"
+      },
+      {
+        "title": "Universal single-stage grid-connected inverter",
+        "authors": "BS Prasad, S Jain, V Agarwal",
+        "journal": "IEEE Transactions on Energy Conversion 23 (1), 128-137, 2008",
+        "counts": "141",
+        "year": "2008"
+      },
+      {
+        "title": "Topology for multilevel inverters to attain maximum number of levels from given DC sources",
+        "authors": "KK Gupta, S Jain",
+        "journal": "IET Power Electronics 5 (4), 435-446, 2012",
+        "counts": "112",
+        "year": "2012"
+      }
+    ]
+  },
+  {
     "citations": []
+  },
+  {
+    "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Posttraumatic stress disorder prevalence and risk of recurrence in acute coronary syndrome patients: a meta-analytic review",
+        "authors": "D Edmondson, S Richardson, L Falzon, KW Davidson, MA Mills, Y Neria",
+        "journal": "PloS one 7 (6), e38915, 2012",
+        "counts": "175",
+        "year": "2012"
+      },
+      {
+        "title": "Meta-analysis of perceived stress and its association with incident coronary heart disease",
+        "authors": "S Richardson, JA Shaffer, L Falzon, D Krupka, KW Davidson, ...",
+        "journal": "The American journal of cardiology 110 (12), 1711-1716, 2012",
+        "counts": "153",
+        "year": "2012"
+      }
+    ]
   },
   {
     "citations": []
@@ -49528,7 +53531,7 @@ var data = [
         "title": "The evolution of Protégé: an environment for knowledge-based systems development",
         "authors": "JH Gennari, MA Musen, RW Fergerson, WE Grosso, M Crubézy, ...",
         "journal": "International Journal of Human-computer studies 58 (1), 89-123, 2003",
-        "counts": "1439",
+        "counts": "1440",
         "year": "2003"
       },
       {
@@ -49577,7 +53580,7 @@ var data = [
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -49598,14 +53601,14 @@ var data = [
         "title": "Protégé-2000: an open-source ontology-development and knowledge-acquisition environment.",
         "authors": "NF Noy, M Crubézy, RW Fergerson, H Knublauch, SW Tu, J Vendetti, ...",
         "journal": "AMIA... Annual Symposium proceedings. AMIA Symposium 2003, 953-953, 2003",
-        "counts": "236",
+        "counts": "237",
         "year": "2003"
       },
       {
         "title": "The SAGE Guideline Model: achievements and overview",
         "authors": "SW Tu, JR Campbell, J Glasgow, MA Nyman, R McClure, J McClay, ...",
         "journal": "Journal of the American Medical Informatics Association 14 (5), 589-598, 2007",
-        "counts": "233",
+        "counts": "234",
         "year": "2007"
       },
       {
@@ -50090,7 +54093,151 @@ var data = [
     ]
   },
   {
+    "citations": [
+      {
+        "title": "Elements of artificial neural networks",
+        "authors": "K Mehrotra, CK Mohan, S Ranka",
+        "journal": "MIT press, 1997",
+        "counts": "1127",
+        "year": "1997"
+      },
+      {
+        "title": "An efficient k-means clustering algorithm",
+        "authors": "K Alsabti, S Ranka, V Singh",
+        "journal": "",
+        "counts": "585",
+        "year": "1997"
+      },
+      {
+        "title": "Forecasting the behavior of multivariate time series using neural networks",
+        "authors": "K Chakraborty, K Mehrotra, CK Mohan, S Ranka",
+        "journal": "Neural networks 5 (6), 961-970, 1992",
+        "counts": "494",
+        "year": "1992"
+      },
+      {
+        "title": "Efficient classification for multiclass problems using modular neural networks",
+        "authors": "R Anand, K Mehrotra, CK Mohan, S Ranka",
+        "journal": "IEEE Transactions on Neural Networks 6 (1), 117-124, 1995",
+        "counts": "426",
+        "year": "1995"
+      },
+      {
+        "title": "An Efficient Algorithm for the Incremental Updation of Association Rules in Large Databases.",
+        "authors": "S Thomas, S Bodagala, K Alsabti, S Ranka",
+        "journal": "KDD, 263-266, 1997",
+        "counts": "317",
+        "year": "1997"
+      },
+      {
+        "title": "Conditional anomaly detection",
+        "authors": "X Song, M Wu, C Jermaine, S Ranka",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering 19 (5), 631-645, 2007",
+        "counts": "241",
+        "year": "2007"
+      },
+      {
+        "title": "Applications and performance analysis of a compile-time optimization approach for list scheduling algorithms on distributed memory multiprocessors",
+        "authors": "YC Chung, S Ranka",
+        "journal": "Proceedings of the 1992 ACM/IEEE conference on Supercomputing, 512-521, 1992",
+        "counts": "207",
+        "year": "1992"
+      },
+      {
+        "title": "Hypercube algorithms: with applications to image processing and pattern recognition",
+        "authors": "S Ranka, S Sahni",
+        "journal": "Springer Science & Business Media, 2012",
+        "counts": "180",
+        "year": "2012"
+      },
+      {
+        "title": "CLOUDS: A decision tree classifier for large datasets",
+        "authors": "S Ranka, V Singh",
+        "journal": "Proceedings of the 4th Knowledge Discovery and Data Mining Conference 2 (8), 1998",
+        "counts": "171",
+        "year": "1998"
+      },
+      {
+        "title": "An improved algorithm for neural network classification of imbalanced training sets",
+        "authors": "R Anand, KG Mehrotra, CK Mohan, S Ranka",
+        "journal": "IEEE Transactions on Neural Networks 4 (6), 962-969, 1993",
+        "counts": "170",
+        "year": "1993"
+      },
+      {
+        "title": "Parallel out-of-core decision tree classifiers",
+        "authors": "MK Sreenivas, K AlSabti, S Ranka",
+        "journal": "Advances in Distributed and Parallel Knowledge Discovery. Kargupta H. and …, 2000",
+        "counts": "161",
+        "year": "2000"
+      },
+      {
+        "title": "Compiling Fortran 90D/HPF for distributed memory MIMD computers",
+        "authors": "Z Bozkus, A Choudhary, GC Fox, T Haupt",
+        "journal": "",
+        "counts": "132",
+        "year": "1994"
+      },
+      {
+        "title": "System and method for improving the performance of electronic media advertising campaigns through multi-attribute analysis and optimization",
+        "authors": "ED Chang, RE Chatwin, S Kumar, S Ranka, JR Weisinger, J Lenderman",
+        "journal": "US Patent 7,406,434, 2008",
+        "counts": "123",
+        "year": "2008"
+      },
+      {
+        "title": "Fortran 90D/HPF compiler for distributed memory MIMD computers: Design, implementation, and performance results",
+        "authors": "Z Bozkus, A Choudhary, G Fox, T Haupt, S Ranka",
+        "journal": "Proceedings of the 1993 ACM/IEEE conference on Supercomputing, 351-360, 1993",
+        "counts": "123",
+        "year": "1993"
+      },
+      {
+        "title": "Bounds on the number of samples needed for neural learning",
+        "authors": "KG Mehrotra, CK Mohan, S Ranka",
+        "journal": "",
+        "counts": "107",
+        "year": "1980"
+      }
+    ]
+  },
+  {
     "citations": []
+  },
+  {
+    "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Biclustering algorithms for biological data analysis: a survey",
+        "authors": "SC Madeira, AL Oliveira",
+        "journal": "IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) 1 …, 2004",
+        "counts": "2102",
+        "year": "2004"
+      },
+      {
+        "title": "Babelomics: an integrative platform for the analysis of transcriptomics, proteomics and genomic data with advanced functional profiling",
+        "authors": "I Medina, J Carbonell, L Pulido, SC Madeira, S Goetz, A Conesa, ...",
+        "journal": "Nucleic acids research 38 (suppl_2), W210-W213, 2010",
+        "counts": "314",
+        "year": "2010"
+      },
+      {
+        "title": "The YEASTRACT database: an upgraded information system for the analysis of gene and genomic transcription regulation in Saccharomyces cerevisiae",
+        "authors": "MC Teixeira, PT Monteiro, JF Guerreiro, JP Gonçalves, NP Mira, ...",
+        "journal": "Nucleic acids research 42 (D1), D161-D166, 2013",
+        "counts": "195",
+        "year": "2013"
+      },
+      {
+        "title": "YEASTRACT: providing a programmatic access to curated transcriptional regulatory associations in Saccharomyces cerevisiae through a web services interface",
+        "authors": "D Abdulrehman, PT Monteiro, MC Teixeira, NP Mira, AB Lourenco, ...",
+        "journal": "Nucleic acids research 39 (suppl_1), D136-D140, 2010",
+        "counts": "191",
+        "year": "2010"
+      }
+    ]
   },
   {
     "citations": []
@@ -50127,6 +54274,38 @@ var data = [
         "journal": "IEEE Internet Computing 12 (4), 2008",
         "counts": "110",
         "year": "2008"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Patient safety concerns arising from test results that return after hospital discharge",
+        "authors": "CL Roy, EG Poon, AS Karson, Z Ladak-Merchant, RE Johnson, ...",
+        "journal": "Annals of Internal Medicine 143 (2), 121-128, 2005",
+        "counts": "358",
+        "year": "2005"
+      },
+      {
+        "title": "Tiering drug–drug interaction alerts by severity increases compliance rates",
+        "authors": "MD Paterno, SM Maviglia, PN Gorman, DL Seger, E Yoshida, AC Seger, ...",
+        "journal": "Journal of the American Medical Informatics Association 16 (1), 40-46, 2009",
+        "counts": "181",
+        "year": "2009"
+      },
+      {
+        "title": "Automating complex guidelines for chronic disease: lessons learned",
+        "authors": "SM Maviglia, RD Zielstorff, M Paterno, JM Teich, DW Bates, GJ Kuperman",
+        "journal": "Journal of the American Medical Informatics Association 10 (2), 154-165, 2003",
+        "counts": "127",
+        "year": "2003"
+      },
+      {
+        "title": "KnowledgeLink: impact of context-sensitive information retrieval on clinicians' information needs",
+        "authors": "SM Maviglia, CS Yoon, DW Bates, G Kuperman",
+        "journal": "Journal of the American Medical Informatics Association 13 (1), 67-73, 2006",
+        "counts": "118",
+        "year": "2006"
       }
     ]
   },
@@ -50194,6 +54373,13 @@ var data = [
         "journal": "N Engl J Med 365 (19), 1758-1759, 2011",
         "counts": "130",
         "year": "2011"
+      },
+      {
+        "title": "AKI in hospitalized children: epidemiology and clinical associations in a national cohort",
+        "authors": "SM Sutherland, J Ji, FH Sheikhi, E Widen, L Tian, SR Alexander, XB Ling",
+        "journal": "Clinical Journal of the American Society of Nephrology 8 (10), 1661-1669, 2013",
+        "counts": "101",
+        "year": "2013"
       }
     ]
   },
@@ -50203,7 +54389,7 @@ var data = [
         "title": "Comprehensive molecular portraits of human breast tumours",
         "authors": "Cancer Genome Atlas Network",
         "journal": "Nature 490 (7418), 61, 2012",
-        "counts": "4699",
+        "counts": "4698",
         "year": "2012"
       },
       {
@@ -50298,14 +54484,14 @@ var data = [
         "title": "Pushing the EL envelope",
         "authors": "F Baader, S Brandt, C Lutz",
         "journal": "IJCAI 5, 364-369, 2005",
-        "counts": "1083",
+        "counts": "1084",
         "year": "2005"
       },
       {
         "title": "Pushing the EL envelope further",
         "authors": "F Baader, S Brandt, C Lutz",
         "journal": "",
-        "counts": "270",
+        "counts": "269",
         "year": "2008"
       },
       {
@@ -50321,6 +54507,66 @@ var data = [
         "journal": "Proc. of KR-02, 2002",
         "counts": "114",
         "year": "2002"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Walking the interactome for prioritization of candidate disease genes",
+        "authors": "S Köhler, S Bauer, D Horn, PN Robinson",
+        "journal": "The American Journal of Human Genetics 82 (4), 949-958, 2008",
+        "counts": "803",
+        "year": "2008"
+      },
+      {
+        "title": "The Human Phenotype Ontology project: linking molecular biology and disease through phenotype data",
+        "authors": "S Köhler, SC Doelken, CJ Mungall, S Bauer, HV Firth, I Bailleul-Forestier, ...",
+        "journal": "Nucleic acids research 42 (D1), D966-D974, 2014",
+        "counts": "524",
+        "year": "2014"
+      },
+      {
+        "title": "The Human Phenotype Ontology: a tool for annotating and analyzing human hereditary disease",
+        "authors": "PN Robinson, S Köhler, S Bauer, D Seelow, D Horn, S Mundlos",
+        "journal": "The American Journal of Human Genetics 83 (5), 610-615, 2008",
+        "counts": "512",
+        "year": "2008"
+      },
+      {
+        "title": "Identity-by-descent filtering of exome sequence data identifies PIGV mutations in hyperphosphatasia mental retardation syndrome",
+        "authors": "PM Krawitz, MR Schweiger, C Rödelsperger, C Marcelis, U Kölsch, ...",
+        "journal": "Nature genetics 42 (10), 827, 2010",
+        "counts": "291",
+        "year": "2010"
+      },
+      {
+        "title": "Clinical diagnostics in human genetics with semantic similarity searches in ontologies",
+        "authors": "S Köhler, MH Schulz, P Krawitz, S Bauer, S Dölken, CE Ott, C Mundlos, ...",
+        "journal": "The American Journal of Human Genetics 85 (4), 457-464, 2009",
+        "counts": "231",
+        "year": "2009"
+      },
+      {
+        "title": "The Human Phenotype Ontology in 2017",
+        "authors": "S Köhler, NA Vasilevsky, M Engelstad, E Foster, J McMurry, S Aymé, ...",
+        "journal": "Nucleic acids research 45 (D1), D865-D876, 2017",
+        "counts": "212",
+        "year": "2017"
+      },
+      {
+        "title": "Effective diagnosis of genetic disease by computational phenotype analysis of the disease-associated genome",
+        "authors": "T Zemojtel, S Köhler, L Mackenroth, M Jäger, J Hecht, P Krawitz, ...",
+        "journal": "Science translational medicine 6 (252), 252ra123-252ra123, 2014",
+        "counts": "127",
+        "year": "2014"
+      },
+      {
+        "title": "Finding our way through phenotypes",
+        "authors": "AR Deans, SE Lewis, E Huala, SS Anzaldo, M Ashburner, JP Balhoff, ...",
+        "journal": "PLoS biology 13 (1), e1002033, 2015",
+        "counts": "107",
+        "year": "2015"
       }
     ]
   },
@@ -50402,7 +54648,7 @@ var data = [
         "title": "Network motifs: simple building blocks of complex networks",
         "authors": "R Milo, S Shen-Orr, S Itzkovitz, N Kashtan, D Chklovskii, U Alon",
         "journal": "Science 298 (5594), 824-827, 2002",
-        "counts": "5734",
+        "counts": "5733",
         "year": "2002"
       },
       {
@@ -50423,7 +54669,7 @@ var data = [
         "title": "Variation in the human immune system is largely driven by non-heritable influences",
         "authors": "P Brodin, V Jojic, T Gao, S Bhattacharya, CJL Angel, D Furman, ...",
         "journal": "Cell 160 (1-2), 37-47, 2015",
-        "counts": "329",
+        "counts": "330",
         "year": "2015"
       },
       {
@@ -50458,7 +54704,7 @@ var data = [
         "title": "Apoptosis and other immune biomarkers predict influenza vaccine responsiveness",
         "authors": "D Furman, V Jojic, B Kidd, S Shen‐Orr, J Price, J Jarrell, T Tse, H Huang, ...",
         "journal": "Molecular systems biology 9 (1), 659, 2013",
-        "counts": "103",
+        "counts": "104",
         "year": "2013"
       }
     ]
@@ -50505,6 +54751,17 @@ var data = [
   {
     "citations": [
       {
+        "title": "MedEx: a medication information extraction system for clinical narratives",
+        "authors": "H Xu, SP Stenner, S Doan, KB Johnson, LR Waitman, JC Denny",
+        "journal": "Journal of the American Medical Informatics Association 17 (1), 19-24, 2010",
+        "counts": "339",
+        "year": "2010"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Low-level interpretability and high-level interpretability: a unified view of data-driven interpretable fuzzy system modelling",
         "authors": "SM Zhou, JQ Gan",
         "journal": "Fuzzy Sets and Systems 159 (23), 3091-3131, 2008",
@@ -50540,7 +54797,7 @@ var data = [
         "title": "The BioPAX community standard for pathway data sharing",
         "authors": "E Demir, MP Cary, S Paley, K Fukuda, C Lemer, I Vastrik, G Wu, ...",
         "journal": "Nature biotechnology 28 (9), 935, 2010",
-        "counts": "513",
+        "counts": "512",
         "year": "2010"
       },
       {
@@ -50575,7 +54832,7 @@ var data = [
         "title": "The Plasmodium genome database",
         "authors": "JC Kissinger, BP Brunk, J Crabtree, MJ Fraunholz, B Gajria, AJ Milgram, ...",
         "journal": "Nature 419 (6906), 490, 2002",
-        "counts": "181",
+        "counts": "182",
         "year": "2002"
       },
       {
@@ -50653,6 +54910,17 @@ var data = [
   {
     "citations": [
       {
+        "title": "Redesigning electronic health record systems to support public health",
+        "authors": "R Kukafka, JS Ancker, C Chan, J Chelico, S Khan, S Mortoti, K Natarajan, ...",
+        "journal": "Journal of biomedical informatics 40 (4), 398-409, 2007",
+        "counts": "138",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "Designing an EMR planning process based on staff attitudes toward and opinions about computers in healthcare",
         "authors": "S McLane",
         "journal": "CIN: Computers, Informatics, Nursing 23 (2), 85-92, 2005",
@@ -50713,7 +54981,7 @@ var data = [
         "title": "Cluster center initialization algorithm for K-means clustering",
         "authors": "SS Khan, A Ahmad",
         "journal": "Pattern recognition letters 25 (11), 1293-1302, 2004",
-        "counts": "588",
+        "counts": "589",
         "year": "2004"
       },
       {
@@ -50727,7 +54995,7 @@ var data = [
         "title": "One-class classification: taxonomy of study and review of techniques",
         "authors": "SS Khan, MG Madden",
         "journal": "The Knowledge Engineering Review 29 (3), 345-374, 2014",
-        "counts": "124",
+        "counts": "123",
         "year": "2014"
       }
     ]
@@ -50835,21 +55103,21 @@ var data = [
         "title": "Consensus guidelines for the clinical and pathologic diagnosis of dementia with Lewy bodies (DLB): report of the consortium on DLB international workshop",
         "authors": "IG McKeith, D Galasko, K Kosaka, EK Perry, DW Dickson, LA Hansen, ...",
         "journal": "Neurology 47 (5), 1113-1124, 1996",
-        "counts": "4149",
+        "counts": "4151",
         "year": "1996"
       },
       {
         "title": "Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease",
         "authors": "D Harold, R Abraham, P Hollingworth, R Sims, A Gerrish, ML Hamshere, ...",
         "journal": "Nature genetics 41 (10), 1088, 2009",
-        "counts": "2531",
+        "counts": "2532",
         "year": "2009"
       },
       {
         "title": "Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",
         "authors": "JC Lambert, CA Ibrahim-Verbaas, D Harold, AC Naj, R Sims, ...",
         "journal": "Nature genetics 45 (12), 1452, 2013",
-        "counts": "1486",
+        "counts": "1487",
         "year": "2013"
       },
       {
@@ -50982,7 +55250,7 @@ var data = [
         "title": "Genetic evidence implicates the immune system and cholesterol metabolism in the aetiology of Alzheimer's disease",
         "authors": "L Jones, PA Holmans, ML Hamshere, D Harold, V Moskvina, D Ivanov, ...",
         "journal": "PloS one 5 (11), e13950, 2010",
-        "counts": "242",
+        "counts": "241",
         "year": "2010"
       },
       {
@@ -51017,7 +55285,7 @@ var data = [
         "title": "Methylomic profiling implicates cortical deregulation of ANK1 in Alzheimer's disease",
         "authors": "K Lunnon, R Smith, E Hannon, PL De Jager, G Srivastava, M Volta, ...",
         "journal": "Nature neuroscience 17 (9), 1164, 2014",
-        "counts": "215",
+        "counts": "216",
         "year": "2014"
       },
       {
@@ -51059,7 +55327,7 @@ var data = [
         "title": "Schizophrenia as a GSK-3 dysregulation disorder",
         "authors": "S Lovestone, R Killick, M Di Forti, R Murray",
         "journal": "Trends in neurosciences 30 (4), 142-149, 2007",
-        "counts": "170",
+        "counts": "171",
         "year": "2007"
       },
       {
@@ -51231,6 +55499,13 @@ var data = [
         "year": "2001"
       },
       {
+        "title": "Glycogen synthase kinase-3β immunoreactivity is reduced in the prefrontal cortex in schizophrenia",
+        "authors": "C Beasley, D Cotter, N Khan, C Pollard, P Sheppard, I Varndell, ...",
+        "journal": "Neuroscience Letters 302 (2-3), 117-120, 2001",
+        "counts": "118",
+        "year": "2001"
+      },
+      {
         "title": "Long-term predictors of cognitive outcome in a cohort of older people with hypertension",
         "authors": "JA Cervilla, M Prince, S Joels, S Lovestone, A Mann",
         "journal": "The british journal of psychiatry 177 (1), 66-71, 2000",
@@ -51250,13 +55525,6 @@ var data = [
         "journal": "Neuroimage 58 (3), 818-828, 2011",
         "counts": "117",
         "year": "2011"
-      },
-      {
-        "title": "Glycogen synthase kinase-3β immunoreactivity is reduced in the prefrontal cortex in schizophrenia",
-        "authors": "C Beasley, D Cotter, N Khan, C Pollard, P Sheppard, I Varndell, ...",
-        "journal": "Neuroscience Letters 302 (2-3), 117-120, 2001",
-        "counts": "117",
-        "year": "2001"
       },
       {
         "title": "Blood-based biomarkers of Alzheimer’s disease: challenging but feasible",
@@ -51472,7 +55740,7 @@ var data = [
         "title": "Codes, classifications, terminologies and nomenclatures: definition, development and application in practice",
         "authors": "S de Lusignan",
         "journal": "Journal of Innovation in Health Informatics 13 (1), 65-69, 2005",
-        "counts": "115",
+        "counts": "116",
         "year": "2005"
       },
       {
@@ -51496,6 +55764,129 @@ var data = [
   },
   {
     "citations": []
+  },
+  {
+    "citations": [
+      {
+        "title": "Length-dependent prediction of protein intrinsic disorder",
+        "authors": "K Peng, P Radivojac, S Vucetic, AK Dunker, Z Obradovic",
+        "journal": "BMC bioinformatics 7 (1), 208, 2006",
+        "counts": "564",
+        "year": "2006"
+      },
+      {
+        "title": "A large-scale evaluation of computational protein function prediction",
+        "authors": "P Radivojac, WT Clark, TR Oron, AM Schnoes, T Wittkop, A Sokolov, ...",
+        "journal": "Nature methods 10 (3), 221, 2013",
+        "counts": "510",
+        "year": "2013"
+      },
+      {
+        "title": "Functional anthology of intrinsic disorder. 1. Biological processes and functions of proteins with long disordered regions",
+        "authors": "H Xie, S Vucetic, LM Iakoucheva, CJ Oldfield, AK Dunker, VN Uversky, ...",
+        "journal": "Journal of proteome research 6 (5), 1882-1898, 2007",
+        "counts": "444",
+        "year": "2007"
+      },
+      {
+        "title": "Exploiting heterogeneous sequence properties improves prediction of protein disorder",
+        "authors": "Z Obradovic, K Peng, S Vucetic, P Radivojac, AK Dunker",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 61 (S7), 176-182, 2005",
+        "counts": "424",
+        "year": "2005"
+      },
+      {
+        "title": "Flavors of protein disorder",
+        "authors": "S Vucetic, CJ Brown, AK Dunker, Z Obradovic",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 52 (4), 573-584, 2003",
+        "counts": "387",
+        "year": "2003"
+      },
+      {
+        "title": "Predicting intrinsic disorder from amino acid sequence",
+        "authors": "Z Obradovic, K Peng, S Vucetic, P Radivojac, CJ Brown, AK Dunker",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 53 (S6), 566-572, 2003",
+        "counts": "377",
+        "year": "2003"
+      },
+      {
+        "title": "Functional anthology of intrinsic disorder. 3. Ligands, post-translational modifications, and diseases associated with intrinsically disordered proteins",
+        "authors": "H Xie, S Vucetic, LM Iakoucheva, CJ Oldfield, AK Dunker, Z Obradovic, ...",
+        "journal": "Journal of proteome research 6 (5), 1917-1932, 2007",
+        "counts": "318",
+        "year": "2007"
+      },
+      {
+        "title": "Optimizing long intrinsic disorder predictors with protein evolutionary information",
+        "authors": "K Peng, S Vucetic, P Radivojac, CJ Brown, AK Dunker, Z Obradovic",
+        "journal": "Journal of bioinformatics and computational biology 3 (01), 35-60, 2005",
+        "counts": "295",
+        "year": "2005"
+      },
+      {
+        "title": "Protein flexibility and intrinsic disorder",
+        "authors": "P Radivojac, Z Obradovic, DK Smith, G Zhu, S Vucetic, CJ Brown, ...",
+        "journal": "Protein Science 13 (1), 71-80, 2004",
+        "counts": "291",
+        "year": "2004"
+      },
+      {
+        "title": "DisProt: a database of protein disorder",
+        "authors": "S Vucetic, Z Obradovic, V Vacic, P Radivojac, K Peng, LM Iakoucheva, ...",
+        "journal": "Bioinformatics 21 (1), 137-140, 2004",
+        "counts": "235",
+        "year": "2004"
+      },
+      {
+        "title": "Functional anthology of intrinsic disorder. 2. Cellular components, domains, technical terms, developmental processes, and coding sequence diversities correlated with long …",
+        "authors": "S Vucetic, H Xie, LM Iakoucheva, CJ Oldfield, AK Dunker, Z Obradovic, ...",
+        "journal": "Journal of proteome research 6 (5), 1899-1916, 2007",
+        "counts": "214",
+        "year": "2007"
+      },
+      {
+        "title": "Unfoldomics of human diseases: linking protein intrinsic disorder with diseases",
+        "authors": "VN Uversky, CJ Oldfield, U Midic, H Xie, B Xue, S Vucetic, LM Iakoucheva, ...",
+        "journal": "BMC genomics 10 (1), S7, 2009",
+        "counts": "201",
+        "year": "2009"
+      },
+      {
+        "title": "An expanded evaluation of protein function prediction methods shows an improvement in accuracy",
+        "authors": "Y Jiang, TR Oron, WT Clark, AR Bankapur, D D’Andrea, R Lepore, ...",
+        "journal": "Genome biology 17 (1), 184, 2016",
+        "counts": "123",
+        "year": "2016"
+      },
+      {
+        "title": "Breaking the curse of kernelization: Budgeted stochastic gradient descent for large-scale svm training",
+        "authors": "Z Wang, K Crammer, S Vucetic",
+        "journal": "Journal of Machine Learning Research 13 (Oct), 3103-3131, 2012",
+        "counts": "114",
+        "year": "2012"
+      },
+      {
+        "title": "Calmodulin signaling: analysis and prediction of a disorder‐dependent molecular recognition",
+        "authors": "P Radivojac, S Vucetic, TR O'Connor, VN Uversky, Z Obradovic, ...",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 63 (2), 398-410, 2006",
+        "counts": "107",
+        "year": "2006"
+      },
+      {
+        "title": "Collaborative filtering using a regression-based approach",
+        "authors": "S Vucetic, Z Obradovic",
+        "journal": "Knowledge and Information Systems 7 (1), 1-22, 2005",
+        "counts": "107",
+        "year": "2005"
+      },
+      {
+        "title": "Discovering price-load relationships in California's electricity market",
+        "authors": "S Vucetic, K Tomsovic, Z Obradovic",
+        "journal": "IEEE Transactions on power systems 16 (2), 280-286, 2001",
+        "counts": "103",
+        "year": "2001"
+      }
+    ]
   },
   {
     "citations": []
@@ -51613,7 +56004,7 @@ var data = [
         "title": "What it will take to achieve the as-yet-unfulfilled promises of health information technology",
         "authors": "AL Kellermann, SS Jones",
         "journal": "Health affairs 32 (1), 63-68, 2013",
-        "counts": "335",
+        "counts": "336",
         "year": "2013"
       },
       {
@@ -51705,7 +56096,7 @@ var data = [
         "title": "Synthesizing information systems knowledge: A typology of literature reviews",
         "authors": "G Paré, MC Trudel, M Jaana, S Kitsiou",
         "journal": "Information & Management 52 (2), 183-199, 2015",
-        "counts": "184",
+        "counts": "185",
         "year": "2015"
       },
       {
@@ -51764,7 +56155,7 @@ var data = [
         "title": "Assessing the Acceptance of a Blended Learning University Course.",
         "authors": "NK Tselios, S Daskalakis, M Papadopoulou",
         "journal": "Educational Technology & Society 14 (2), 224-235, 2011",
-        "counts": "147",
+        "counts": "148",
         "year": "2011"
       }
     ]
@@ -51802,12 +56193,15 @@ var data = [
     ]
   },
   {
+    "citations": []
+  },
+  {
     "citations": [
       {
         "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs",
         "authors": "SF Altschul, TL Madden, AA Schäffer, J Zhang, Z Zhang, W Miller, ...",
         "journal": "Nucleic acids research 25 (17), 3389-3402, 1997",
-        "counts": "67154",
+        "counts": "67164",
         "year": "1997"
       },
       {
@@ -51828,7 +56222,7 @@ var data = [
         "title": "Methods for assessing the statistical significance of molecular sequence features by using general scoring schemes",
         "authors": "S Karlin, SF Altschul",
         "journal": "Proceedings of the National Academy of Sciences 87 (6), 2264-2268, 1990",
-        "counts": "1951",
+        "counts": "1952",
         "year": "1990"
       },
       {
@@ -51849,7 +56243,7 @@ var data = [
         "title": "Local alignment statistics",
         "authors": "SF Altschul, W Gish",
         "journal": "Methods in enzymology 266 (2), 460-480, 1996",
-        "counts": "1010",
+        "counts": "1011",
         "year": "1996"
       },
       {
@@ -51940,28 +56334,28 @@ var data = [
         "title": "Domain enhanced lookup time accelerated BLAST",
         "authors": "GM Boratyn, AA Schäffer, R Agarwala, SF Altschul, DJ Lipman, ...",
         "journal": "Biology direct 7 (1), 12, 2012",
-        "counts": "351",
+        "counts": "350",
         "year": "2012"
       },
       {
         "title": "IMPALA: matching a protein sequence against a collection of PSI-BLAST-constructed position-specific score matrices",
         "authors": "A A. Schäffer, Y I. Wolf, C P. Ponting, E V. Koonin, L Aravind, S F. Altschul",
         "journal": "Bioinformatics 15 (12), 1000-1011, 1999",
-        "counts": "337",
+        "counts": "338",
         "year": "1999"
       },
       {
         "title": "Protein sequence similarity searches using patterns as seeds",
         "authors": "Z Zhang, W Miller, AA Schäffer, TL Madden, DJ Lipman, EV Koonin, ...",
         "journal": "Nucleic acids research 26 (17), 3986-3990, 1998",
-        "counts": "322",
+        "counts": "323",
         "year": "1998"
       },
       {
         "title": "Optimal sequence alignment using affine gap costs",
         "authors": "SF Altschul, BW Erickson",
         "journal": "Bulletin of mathematical biology 48 (5-6), 603-616, 1986",
-        "counts": "273",
+        "counts": "272",
         "year": "1986"
       },
       {
@@ -52052,7 +56446,7 @@ var data = [
         "title": "Pompe disease diagnosis and management guideline",
         "authors": "PS Kishnani, RD Steiner, D Bali, K Berger, BJ Byrne, LE Case, ...",
         "journal": "Genetics in Medicine 8 (5), 267, 2006",
-        "counts": "417",
+        "counts": "418",
         "year": "2006"
       },
       {
@@ -52322,7 +56716,7 @@ var data = [
         "title": "Epidemiology of medication-related adverse events in nursing homes",
         "authors": "SM Handler, RM Wright, CM Ruby, JT Hanlon",
         "journal": "The American journal of geriatric pharmacotherapy 4 (3), 264-272, 2006",
-        "counts": "163",
+        "counts": "162",
         "year": "2006"
       },
       {
@@ -52445,14 +56839,14 @@ var data = [
         "title": "Cough and ACE inhibitors",
         "authors": "SR Simon, HR Black, M Moser, WE Berland",
         "journal": "Archives of internal medicine 152 (8), 1698-1700, 1992",
-        "counts": "123",
+        "counts": "124",
         "year": "1992"
       },
       {
         "title": "Reducing warfarin medication interactions: an interrupted time series evaluation",
         "authors": "AC Feldstein, DH Smith, N Perrin, X Yang, SR Simon, M Krall, DF Sittig, ...",
         "journal": "Archives of Internal Medicine 166 (9), 1009-1015, 2006",
-        "counts": "113",
+        "counts": "114",
         "year": "2006"
       },
       {
@@ -52470,7 +56864,7 @@ var data = [
         "title": "The representation of meaning in the UMLS",
         "authors": "AT McCray, SJ Nelson",
         "journal": "Methods of information in medicine 34 (01/02), 193-201, 1995",
-        "counts": "252",
+        "counts": "253",
         "year": "1995"
       },
       {
@@ -52509,7 +56903,7 @@ var data = [
         "title": "Factors influencing health information technology adoption in Thailand's community health centers: Applying the UTAUT model",
         "authors": "B Kijsanayotin, S Pannarunothai, SM Speedie",
         "journal": "International journal of medical informatics 78 (6), 404-416, 2009",
-        "counts": "446",
+        "counts": "447",
         "year": "2009"
       },
       {
@@ -52583,7 +56977,7 @@ var data = [
         "title": "Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years",
         "authors": "ER Wald, KE Applegate, C Bordley, DH Darrow, MP Glode, SM Marcy, ...",
         "journal": "Pediatrics, peds. 2013-1071, 2013",
-        "counts": "253",
+        "counts": "254",
         "year": "2013"
       }
     ]
@@ -52594,7 +56988,7 @@ var data = [
         "title": "Comprehensive genomic characterization defines human glioblastoma genes and core pathways",
         "authors": "Cancer Genome Atlas Research Network",
         "journal": "Nature 455 (7216), 1061, 2008",
-        "counts": "4321",
+        "counts": "4323",
         "year": "2008"
       },
       {
@@ -52615,7 +57009,7 @@ var data = [
         "title": "Integrated proteogenomic characterization of human high-grade serous ovarian cancer",
         "authors": "H Zhang, T Liu, Z Zhang, SH Payne, B Zhang, JE McDermott, JY Zhou, ...",
         "journal": "Cell 166 (3), 755-765, 2016",
-        "counts": "187",
+        "counts": "188",
         "year": "2016"
       }
     ]
@@ -52626,7 +57020,7 @@ var data = [
         "title": "Cloud computing—The business perspective",
         "authors": "S Marston, Z Li, S Bandyopadhyay, J Zhang, A Ghalsasi",
         "journal": "Decision support systems 51 (1), 176-189, 2011",
-        "counts": "2274",
+        "counts": "2278",
         "year": "2011"
       },
       {
@@ -52678,21 +57072,21 @@ var data = [
         "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global …",
         "authors": "H Wang, M Naghavi, C Allen, RM Barber, ZA Bhutta, A Carter, DC Casey, ...",
         "journal": "The lancet 388 (10053), 1459-1544, 2016",
-        "counts": "845",
+        "counts": "846",
         "year": "2016"
       },
       {
         "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of …",
         "authors": "T Vos, C Allen, M Arora, RM Barber, ZA Bhutta, A Brown, A Carter, ...",
         "journal": "The Lancet 388 (10053), 1545-1602, 2016",
-        "counts": "590",
+        "counts": "592",
         "year": "2016"
       },
       {
         "title": "Estimates of global, regional, and national incidence, prevalence, and mortality of HIV, 1980–2015: the Global Burden of Disease Study 2015",
         "authors": "H Wang, TM Wolock, A Carter, G Nguyen, HH Kyu, E Gakidou, SI Hay, ...",
         "journal": "The lancet HIV 3 (8), e361-e387, 2016",
-        "counts": "203",
+        "counts": "199",
         "year": "2016"
       },
       {
@@ -52727,7 +57121,7 @@ var data = [
         "title": "Reversible watermarking algorithm using sorting and prediction",
         "authors": "V Sachnev, HJ Kim, J Nam, S Suresh, YQ Shi",
         "journal": "IEEE Transactions on Circuits and Systems for Video Technology 19 (7), 989-999, 2009",
-        "counts": "545",
+        "counts": "546",
         "year": "2009"
       },
       {
@@ -52819,7 +57213,7 @@ var data = [
         "title": "Measurement of organizational culture and climate in healthcare",
         "authors": "RRM Gershon, PW Stone, S Bakken, E Larson",
         "journal": "Journal of Nursing Administration 34 (1), 33-40, 2004",
-        "counts": "297",
+        "counts": "298",
         "year": "2004"
       },
       {
@@ -52914,21 +57308,21 @@ var data = [
         "title": "Managing clinical knowledge for health care improvement",
         "authors": "EA Balas, SA Boren",
         "journal": "Yearbook of medical informatics 2000: Patient-centered systems, 2000",
-        "counts": "982",
+        "counts": "983",
         "year": "2000"
       },
       {
         "title": "Healthcare via cell phones: a systematic review",
         "authors": "S Krishna, SA Boren, EA Balas",
         "journal": "Telemedicine and e-Health 15 (3), 231-240, 2009",
-        "counts": "838",
+        "counts": "837",
         "year": "2009"
       },
       {
         "title": "Improving preventive care by prompting physicians",
         "authors": "EA Balas, S Weingarten, CT Garb, D Blumenthal, SA Boren, GD Brown",
         "journal": "Archives of internal medicine 160 (3), 301-308, 2000",
-        "counts": "438",
+        "counts": "439",
         "year": "2000"
       },
       {
@@ -52970,7 +57364,7 @@ var data = [
         "title": "Effect of physician profiling on utilization",
         "authors": "EA Balas, SA Boren, GD Brown, BG Ewigman, JA Mitchell, GT Perkoff",
         "journal": "Journal of General Internal Medicine 11 (10), 584-590, 1996",
-        "counts": "180",
+        "counts": "181",
         "year": "1996"
       },
       {
@@ -53040,14 +57434,14 @@ var data = [
         "title": "Learning from imbalanced data in presence of noisy and borderline examples",
         "authors": "K Napierała, J Stefanowski, S Wilk",
         "journal": "Rough Sets and Current Trends in Computing. 7th International Conference …, 2010",
-        "counts": "118",
+        "counts": "117",
         "year": "2010"
       },
       {
         "title": "Selective pre-processing of imbalanced data for improving classification performance",
         "authors": "J Stefanowski, S Wilk",
         "journal": "Data Warehousing and Knowledge Discovery. 10th International Conference …, 2008",
-        "counts": "104",
+        "counts": "105",
         "year": "2008"
       }
     ]
@@ -53172,7 +57566,7 @@ var data = [
         "title": "WordNet:: Similarity: measuring the relatedness of concepts",
         "authors": "T Pedersen, S Patwardhan, J Michelizzi",
         "journal": "Demonstration papers at HLT-NAACL 2004, 38-41, 2004",
-        "counts": "1709",
+        "counts": "1706",
         "year": "2004"
       },
       {
@@ -53207,7 +57601,7 @@ var data = [
         "title": "Using WordNet-based context vectors to estimate the semantic relatedness of concepts",
         "authors": "S Patwardhan, T Pedersen",
         "journal": "Proceedings of the Workshop on Making Sense of Sense: Bringing …, 2006",
-        "counts": "442",
+        "counts": "441",
         "year": "2006"
       },
       {
@@ -53256,7 +57650,7 @@ var data = [
         "title": "A decision tree of bigrams is an accurate predictor of word sense",
         "authors": "T Pedersen",
         "journal": "Proceedings of the second meeting of the North American Chapter of the …, 2001",
-        "counts": "172",
+        "counts": "171",
         "year": "2001"
       },
       {
@@ -53302,7 +57696,7 @@ var data = [
         "title": "Production rules as a representation for a knowledge-based consultation program",
         "authors": "R Davis, B Buchanan, E Shortliffe",
         "journal": "Computer-Assisted Medical Decision Making, 3-37, 1977",
-        "counts": "880",
+        "counts": "879",
         "year": "1977"
       },
       {
@@ -53407,7 +57801,7 @@ var data = [
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -53428,7 +57822,7 @@ var data = [
         "title": "Computer-based medical consultations: MYCIN. 1976",
         "authors": "EH Shortliffe",
         "journal": "New York, 1976",
-        "counts": "303",
+        "counts": "302",
         "year": "1976"
       },
       {
@@ -53449,7 +57843,7 @@ var data = [
         "title": "A rule-based computer program for advising physicians regarding antimicrobial therapy selection",
         "authors": "EH Shortliffe",
         "journal": "Proceedings of the 1974 annual ACM conference-Volume 2, 739-739, 1974",
-        "counts": "245",
+        "counts": "244",
         "year": "1974"
       },
       {
@@ -53690,8 +58084,15 @@ var data = [
       {
         "title": "AIDEA: A methodology for supplier evaluation and selection in a supplier-based manufacturing environment",
         "authors": "T Wu, D Shunk, J Blackhurst, R Appalla",
-        "journal": "International journal of manufacturing technology and management 11 (2), 174-192, 2007",
+        "journal": "International journal of manufacturing technology and management 11 (2), 174, 2007",
         "counts": "105",
+        "year": "2007"
+      },
+      {
+        "title": "Evolution of operations management: past, present and future",
+        "authors": "E Bayraktar, MC Jothishankar, E Tatoglu, T Wu",
+        "journal": "Management Research News 30 (11), 843-871, 2007",
+        "counts": "101",
         "year": "2007"
       }
     ]
@@ -53702,7 +58103,7 @@ var data = [
         "title": "Personal omics profiling reveals dynamic molecular and medical phenotypes",
         "authors": "R Chen, GI Mias, J Li-Pook-Than, L Jiang, HYK Lam, R Chen, E Miriami, ...",
         "journal": "Cell 148 (6), 1293-1307, 2012",
-        "counts": "867",
+        "counts": "868",
         "year": "2012"
       },
       {
@@ -53786,7 +58187,7 @@ var data = [
         "title": "Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450 2D6 genotype and codeine therapy: 2014 update",
         "authors": "KR Crews, A Gaedigk, HM Dunnenberger, JS Leeder, TE Klein, ...",
         "journal": "Clinical Pharmacology & Therapeutics 95 (4), 376-382, 2014",
-        "counts": "300",
+        "counts": "301",
         "year": "2014"
       },
       {
@@ -53849,14 +58250,14 @@ var data = [
         "title": "Metformin pathways: pharmacokinetics and pharmacodynamics",
         "authors": "L Gong, S Goswami, KM Giacomini, RB Altman, TE Klein",
         "journal": "Pharmacogenetics and genomics 22 (11), 820, 2012",
-        "counts": "217",
+        "counts": "218",
         "year": "2012"
       },
       {
         "title": "Very important pharmacogene summary: ABCB1 (MDR1, P-glycoprotein)",
         "authors": "LM Hodges, SM Markova, LW Chinn, JM Gow, DL Kroetz, TE Klein, ...",
         "journal": "Pharmacogenetics and genomics 21 (3), 152, 2011",
-        "counts": "183",
+        "counts": "184",
         "year": "2011"
       },
       {
@@ -53947,7 +58348,7 @@ var data = [
         "title": "Clopidogrel pathway",
         "authors": "K Sangkuhl, TE Klein, RB Altman",
         "journal": "Pharmacogenetics and genomics 20 (7), 463, 2010",
-        "counts": "129",
+        "counts": "130",
         "year": "2010"
       },
       {
@@ -53993,18 +58394,18 @@ var data = [
         "year": "2008"
       },
       {
+        "title": "PharmGKB summary: cyclosporine and tacrolimus pathways",
+        "authors": "JM Barbarino, CE Staatz, R Venkataramanan, TE Klein, RB Altman",
+        "journal": "Pharmacogenetics and genomics 23 (10), 563, 2013",
+        "counts": "102",
+        "year": "2013"
+      },
+      {
         "title": "WebFEATURE: an interactive web tool for identifying and visualizing functional sites on macromolecular structures",
         "authors": "MP Liang, DR Banatao, TE Klein, DL Brutlag, RB Altman",
         "journal": "Nucleic acids research 31 (13), 3324-3327, 2003",
         "counts": "102",
         "year": "2003"
-      },
-      {
-        "title": "PharmGKB summary: cyclosporine and tacrolimus pathways",
-        "authors": "JM Barbarino, CE Staatz, R Venkataramanan, TE Klein, RB Altman",
-        "journal": "Pharmacogenetics and genomics 23 (10), 563, 2013",
-        "counts": "101",
-        "year": "2013"
       }
     ]
   },
@@ -54045,14 +58446,14 @@ var data = [
         "title": "Large-scale identification, mapping, and genotyping of single-nucleotide polymorphisms in the human genome",
         "authors": "DG Wang, JB Fan, CJ Siao, A Berno, P Young, R Sapolsky, G Ghandour, ...",
         "journal": "Science 280 (5366), 1077-1082, 1998",
-        "counts": "2764",
+        "counts": "2765",
         "year": "1998"
       },
       {
         "title": "Large‐scale mapping of human protein–protein interactions by mass spectrometry",
         "authors": "RM Ewing, P Chu, F Elisma, H Li, P Taylor, S Climie, ...",
         "journal": "Molecular systems biology 3 (1), 89, 2007",
-        "counts": "893",
+        "counts": "894",
         "year": "2007"
       },
       {
@@ -54061,6 +58462,63 @@ var data = [
         "journal": "US Patent App. 10/096,645, 2003",
         "counts": "197",
         "year": "2003"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Virtual communities and social capital",
+        "authors": "A Blanchard, T Horan",
+        "journal": "Social dimensions of information technology: Issues for the new millennium, 6-22, 2000",
+        "counts": "544",
+        "year": "2000"
+      },
+      {
+        "title": "Introducing e-gov: history, definitions, and issues",
+        "authors": "Å Grönlund, TA Horan",
+        "journal": "Communications of the association for information systems 15 (1), 39, 2005",
+        "counts": "444",
+        "year": "2005"
+      },
+      {
+        "title": "UML 2001: a standardization odyssey",
+        "authors": "C Kobryn",
+        "journal": "Communications of the ACM 42 (10), 29-37, 1999",
+        "counts": "386",
+        "year": "1999"
+      },
+      {
+        "title": "Digital places: Building our city of bits",
+        "authors": "TA Horan, J William",
+        "journal": "Urban Land Institute, 2000",
+        "counts": "212",
+        "year": "2000"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "The use of receiver operating characteristic curves in biomedical informatics",
+        "authors": "TA Lasko, JG Bhagwat, KH Zou, L Ohno-Machado",
+        "journal": "Journal of biomedical informatics 38 (5), 404-415, 2005",
+        "counts": "675",
+        "year": "2005"
+      },
+      {
+        "title": "Computational phenotype discovery using unsupervised feature learning over noisy, sparse, and irregular clinical data",
+        "authors": "TA Lasko, JC Denny, MA Levy",
+        "journal": "PloS one 8 (6), e66341, 2013",
+        "counts": "156",
+        "year": "2013"
+      },
+      {
+        "title": "Portability of an algorithm to identify rheumatoid arthritis in electronic health records",
+        "authors": "RJ Carroll, WK Thompson, AE Eyler, AM Mandelin, T Cai, RM Zink, ...",
+        "journal": "Journal of the American Medical Informatics Association 19 (e1), e162-e169, 2012",
+        "counts": "136",
+        "year": "2012"
       }
     ]
   },
@@ -54076,7 +58534,7 @@ var data = [
         "title": "Heart disease and stroke statistics—2014 update: a report from the American Heart Association",
         "authors": "AS Go, D Mozaffarian, VL Roger, EJ Benjamin, JD Berry, MJ Blaha, S Dai, ...",
         "journal": "Circulation, 01. cir. 0000441139.02102. 80, 2013",
-        "counts": "5949",
+        "counts": "5991",
         "year": "2013"
       },
       {
@@ -54334,7 +58792,7 @@ var data = [
         "title": "Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables",
         "authors": "N Hammerla, S Halloran, T Ploetz",
         "journal": "Proc. IJCAI, 2016",
-        "counts": "153",
+        "counts": "154",
         "year": "2016"
       },
       {
@@ -54401,7 +58859,7 @@ var data = [
         "title": "A comparison of fast blocking methods for record linkage",
         "authors": "R Baxter, P Christen, T Churches",
         "journal": "ACM SIGKDD 3, 25-27, 2003",
-        "counts": "388",
+        "counts": "389",
         "year": "2003"
       },
       {
@@ -54629,7 +59087,7 @@ var data = [
         "title": "Immunohistochemical and clinical characterization of the basal-like subtype of invasive breast carcinoma",
         "authors": "TO Nielsen, FD Hsu, K Jensen, M Cheang, G Karaca, Z Hu, ...",
         "journal": "Clinical cancer research 10 (16), 5367-5374, 2004",
-        "counts": "2784",
+        "counts": "2785",
         "year": "2004"
       },
       {
@@ -54657,7 +59115,7 @@ var data = [
         "title": "Distinct patterns of DNA copy number alteration are associated with different clinicopathological features and gene‐expression subtypes of breast cancer",
         "authors": "A Bergamaschi, YH Kim, P Wang, T Sørlie, T Hernandez‐Boussard, ...",
         "journal": "Genes, Chromosomes and Cancer 45 (11), 1033-1040, 2006",
-        "counts": "497",
+        "counts": "498",
         "year": "2006"
       },
       {
@@ -54818,7 +59276,7 @@ var data = [
         "title": "Mechanical bowel preparation in intestinal surgery: a meta-analysis and review of the literature",
         "authors": "CE Pineda, AA Shelton, T Hernandez-Boussard, JM Morton, ML Welton",
         "journal": "Journal of gastrointestinal surgery 12 (11), 2037-2044, 2008",
-        "counts": "121",
+        "counts": "120",
         "year": "2008"
       },
       {
@@ -54961,6 +59419,76 @@ var data = [
   {
     "citations": [
       {
+        "title": "Workarounds to barcode medication administration systems: their occurrences, causes, and threats to patient safety",
+        "authors": "R Koppel, T Wetterneck, JL Telles, BT Karsh",
+        "journal": "Journal of the American Medical Informatics Association 15 (4), 408-423, 2008",
+        "counts": "647",
+        "year": "2008"
+      },
+      {
+        "title": "Hospital readmission in general medicine patients: a prediction model",
+        "authors": "O Hasan, DO Meltzer, SA Shaykevich, CM Bell, PJ Kaboli, AD Auerbach, ...",
+        "journal": "Journal of general internal medicine 25 (3), 211-219, 2010",
+        "counts": "322",
+        "year": "2010"
+      },
+      {
+        "title": "Human factors systems approach to healthcare quality and patient safety",
+        "authors": "P Carayon, TB Wetterneck, AJ Rivera-Rodriguez, AS Hundt, P Hoonakker, ...",
+        "journal": "Applied ergonomics 45 (1), 14-25, 2014",
+        "counts": "273",
+        "year": "2014"
+      },
+      {
+        "title": "Association of communication between hospital-based physicians and primary care providers with patient outcomes",
+        "authors": "CM Bell, JL Schnipper, AD Auerbach, PJ Kaboli, TB Wetterneck, ...",
+        "journal": "Journal of general internal medicine 24 (3), 381-386, 2009",
+        "counts": "148",
+        "year": "2009"
+      },
+      {
+        "title": "Worklife and satisfaction of general internists",
+        "authors": "TB Wetterneck, M Linzer, JE McMurray, J Douglas, MD Schwartz, ...",
+        "journal": "Archives of Internal Medicine 162 (6), 649-656, 2002",
+        "counts": "136",
+        "year": "2002"
+      },
+      {
+        "title": "US physician satisfaction: a systematic review",
+        "authors": "D Scheurer, S McKean, J Miller, T Wetterneck",
+        "journal": "Journal of Hospital Medicine: An Official Publication of the Society of …, 2009",
+        "counts": "134",
+        "year": "2009"
+      },
+      {
+        "title": "Using failure mode and effects analysis to plan implementation of smart iv pump technology",
+        "authors": "TB Wetterneck, KA Skibinski, TL Roberts, SM Kleppin, ME Schroeder, ...",
+        "journal": "American Journal of Health-System Pharmacy 63 (16), 1528-1538, 2006",
+        "counts": "130",
+        "year": "2006"
+      },
+      {
+        "title": "Information chaos in primary care: implications for physician performance and patient safety",
+        "authors": "JW Beasley, TB Wetterneck, J Temte, JA Lapin, P Smith, ...",
+        "journal": "The Journal of the American Board of Family Medicine 24 (6), 745-751, 2011",
+        "counts": "112",
+        "year": "2011"
+      },
+      {
+        "title": "Evaluation of nurse interaction with bar code medication administration technology in the work environment",
+        "authors": "P Carayon, TB Wetterneck, AS Hundt, M Ozkaynak, J DeSilvey, B Ludwig, ...",
+        "journal": "Journal of Patient Safety 3 (1), 34-42, 2007",
+        "counts": "111",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "citations": []
+  },
+  {
+    "citations": [
+      {
         "title": "Considering complexity in healthcare systems",
         "authors": "TG Kannampallil, GF Schauer, T Cohen, VL Patel",
         "journal": "Journal of biomedical informatics 44 (6), 943-947, 2011",
@@ -54996,7 +59524,7 @@ var data = [
         "title": "BioPortal: ontologies and integrated data resources at the click of a mouse",
         "authors": "NF Noy, NH Shah, PL Whetzel, B Dai, M Dorf, N Griffith, C Jonquet, ...",
         "journal": "Nucleic acids research 37 (suppl_2), W170-W173, 2009",
-        "counts": "749",
+        "counts": "750",
         "year": "2009"
       },
       {
@@ -55031,7 +59559,7 @@ var data = [
         "title": "The Plasmodium genome database",
         "authors": "JC Kissinger, BP Brunk, J Crabtree, MJ Fraunholz, B Gajria, AJ Milgram, ...",
         "journal": "Nature 419 (6906), 490, 2002",
-        "counts": "181",
+        "counts": "182",
         "year": "2002"
       },
       {
@@ -55203,6 +59731,101 @@ var data = [
   {
     "citations": [
       {
+        "title": "Is self-efficacy associated with diabetes self-management across race/ethnicity and health literacy?",
+        "authors": "U Sarkar, L Fisher, D Schillinger",
+        "journal": "Diabetes care 29 (4), 823-829, 2006",
+        "counts": "551",
+        "year": "2006"
+      },
+      {
+        "title": "The literacy divide: health literacy and the use of an internet-based patient portal in an integrated health system—results from the Diabetes Study of Northern California …",
+        "authors": "U Sarkar, AJ Karter, JY Liu, NE Adler, R Nguyen, A Lopez, D Schillinger",
+        "journal": "Journal of health communication 15 (S2), 183-196, 2010",
+        "counts": "246",
+        "year": "2010"
+      },
+      {
+        "title": "Social disparities in internet patient portal use in diabetes: evidence that the digital divide extends beyond access",
+        "authors": "U Sarkar, AJ Karter, JY Liu, NE Adler, R Nguyen, A López, D Schillinger",
+        "journal": "Journal of the American Medical Informatics Association 18 (3), 318-321, 2011",
+        "counts": "238",
+        "year": "2011"
+      },
+      {
+        "title": "Population-based case-control investigation of risk factors for leptospirosis during an urban epidemic.",
+        "authors": "U Sarkar, SF Nascimento, R Barbosa, R Martins, H Nuevo, I Kalofonos, ...",
+        "journal": "The American journal of tropical medicine and hygiene 66 (5), 605-610, 2002",
+        "counts": "236",
+        "year": "2002"
+      },
+      {
+        "title": "Validation of self-reported health literacy questions among diverse English and Spanish-speaking populations",
+        "authors": "U Sarkar, D Schillinger, A López, R Sudore",
+        "journal": "Journal of general internal medicine 26 (3), 265-271, 2011",
+        "counts": "134",
+        "year": "2011"
+      },
+      {
+        "title": "Hypoglycemia is more common among type 2 diabetes patients with limited health literacy: the Diabetes Study of Northern California (DISTANCE)",
+        "authors": "U Sarkar, AJ Karter, JY Liu, HH Moffet, NE Adler, D Schillinger",
+        "journal": "Journal of general internal medicine 25 (9), 962-968, 2010",
+        "counts": "126",
+        "year": "2010"
+      },
+      {
+        "title": "Frequency of failure to inform patients of clinically significant outpatient test results",
+        "authors": "LP Casalino, D Dunham, MH Chin, R Bielang, EO Kistner, TG Karrison, ...",
+        "journal": "Archives of internal medicine 169 (12), 1123-1129, 2009",
+        "counts": "124",
+        "year": "2009"
+      },
+      {
+        "title": "What patients say about their doctors online: a qualitative content analysis",
+        "authors": "A López, A Detz, N Ratanawongsa, U Sarkar",
+        "journal": "Journal of general internal medicine 27 (6), 685-692, 2012",
+        "counts": "123",
+        "year": "2012"
+      },
+      {
+        "title": "Lower health literacy is associated with poorer health status and outcomes in chronic obstructive pulmonary disease",
+        "authors": "TA Omachi, U Sarkar, EH Yelin, PD Blanc, PP Katz",
+        "journal": "Journal of general internal medicine 28 (1), 74-81, 2013",
+        "counts": "120",
+        "year": "2013"
+      },
+      {
+        "title": "Factors associated with longer ED lengths of stay",
+        "authors": "RL Gardner, U Sarkar, JH Maselli, R Gonzales",
+        "journal": "The American journal of emergency medicine 25 (6), 643-650, 2007",
+        "counts": "120",
+        "year": "2007"
+      },
+      {
+        "title": "Preferences for self-management support: findings from a survey of diabetes patients in safety-net health systems",
+        "authors": "U Sarkar, JD Piette, R Gonzales, D Lessler, LD Chew, B Reilly, J Johnson, ...",
+        "journal": "Patient education and counseling 70 (1), 102-110, 2008",
+        "counts": "119",
+        "year": "2008"
+      },
+      {
+        "title": "Self-efficacy and health status in patients with coronary heart disease: findings from the heart and soul study",
+        "authors": "U Sarkar, S Ali, MA Whooley",
+        "journal": "Psychosomatic medicine 69 (4), 306, 2007",
+        "counts": "117",
+        "year": "2007"
+      },
+      {
+        "title": "Adverse drug events in US adult ambulatory medical care",
+        "authors": "U Sarkar, A López, JH Maselli, R Gonzales",
+        "journal": "Health services research 46 (5), 1517-1533, 2011",
+        "counts": "101",
+        "year": "2011"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "mHealth 2.0: experiences, possibilities, and perspectives",
         "authors": "S Becker, T Miron-Shatz, N Schumacher, J Krocza, C Diamantidis, ...",
         "journal": "JMIR mHealth and uHealth 2 (2), 2014",
@@ -55335,7 +59958,7 @@ var data = [
         "title": "Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome",
         "authors": "Acute Respiratory Distress Syndrome Network",
         "journal": "New England Journal of Medicine 342 (18), 1301-1308, 2000",
-        "counts": "3107",
+        "counts": "3108",
         "year": "2000"
       },
       {
@@ -55408,7 +60031,7 @@ var data = [
         "title": "A mega-analysis of genome-wide association studies for major depressive disorder",
         "authors": "S Ripke, NR Wray, CM Lewis, SP Hamilton, MM Weissman, G Breen, ...",
         "journal": "Molecular psychiatry 18 (4), 497, 2013",
-        "counts": "714",
+        "counts": "713",
         "year": "2013"
       },
       {
@@ -55450,7 +60073,7 @@ var data = [
         "title": "Prenatal antidepressant exposure is associated with risk for attention-deficit hyperactivity disorder but not autism spectrum disorder in a large health system",
         "authors": "CC Clements, VM Castro, SR Blumenthal, HR Rosenfield, SN Murphy, ...",
         "journal": "Molecular psychiatry 20 (6), 727, 2015",
-        "counts": "114",
+        "counts": "115",
         "year": "2015"
       },
       {
@@ -55492,7 +60115,7 @@ var data = [
         "title": "Decision trees: an overview and their use in medicine",
         "authors": "V Podgorelec, P Kokol, B Stiglic, I Rozman",
         "journal": "Journal of medical systems 26 (5), 445-463, 2002",
-        "counts": "323",
+        "counts": "324",
         "year": "2002"
       }
     ]
@@ -55503,21 +60126,21 @@ var data = [
         "title": "Knowledge based solution strategies in medical reasoning",
         "authors": "VL Patel, GJ Groen",
         "journal": "Cognitive science 10 (1), 91-116, 1986",
-        "counts": "722",
+        "counts": "721",
         "year": "1986"
       },
       {
         "title": "Cognitive and usability engineering methods for the evaluation of clinical information systems",
         "authors": "AW Kushniruk, VL Patel",
         "journal": "Journal of biomedical informatics 37 (1), 56-76, 2004",
-        "counts": "610",
+        "counts": "611",
         "year": "2004"
       },
       {
         "title": "The general and specific nature of medical expertise: A critical look",
         "authors": "VL Patel, GJ Groen",
         "journal": "Toward a general theory of expertise: Prospects and limits, 93-125, 1991",
-        "counts": "588",
+        "counts": "587",
         "year": "1991"
       },
       {
@@ -55538,14 +60161,14 @@ var data = [
         "title": "The relationship between comprehension and reasoning in medical expertise.",
         "authors": "GJ Groen, VL Patel",
         "journal": "Lawrence Erlbaum Associates, Inc, 1988",
-        "counts": "345",
+        "counts": "344",
         "year": "1988"
       },
       {
         "title": "GLIF3: a representation format for sharable computer-interpretable clinical practice guidelines",
         "authors": "AA Boxwala, M Peleg, S Tu, O Ogunyemi, QT Zeng, D Wang, VL Patel, ...",
         "journal": "Journal of biomedical informatics 37 (3), 147-161, 2004",
-        "counts": "322",
+        "counts": "323",
         "year": "2004"
       },
       {
@@ -55566,7 +60189,7 @@ var data = [
         "title": "Emerging paradigms of cognition in medical decision-making",
         "authors": "VL Patel, DR Kaufman, JF Arocha",
         "journal": "Journal of biomedical informatics 35 (1), 52-75, 2002",
-        "counts": "298",
+        "counts": "297",
         "year": "2002"
       },
       {
@@ -55696,18 +60319,18 @@ var data = [
         "year": "2011"
       },
       {
-        "title": "The acquisition of medical expertise in complex dynamic environments",
-        "authors": "VL Patel, DR Kaufman, SA Magder",
-        "journal": "The road to excellence: The acquisition of expert performance in the arts …, 1996",
-        "counts": "183",
-        "year": "1996"
-      },
-      {
         "title": "Representation primitives, process models and patient data in computer-interpretable clinical practice guidelines:: A literature review of guideline representation models",
         "authors": "D Wang, M Peleg, SW Tu, AA Boxwala, RA Greenes, VL Patel, ...",
         "journal": "International journal of medical informatics 68 (1-3), 59-70, 2002",
         "counts": "182",
         "year": "2002"
+      },
+      {
+        "title": "The acquisition of medical expertise in complex dynamic environments",
+        "authors": "VL Patel, DR Kaufman, SA Magder",
+        "journal": "The road to excellence: The acquisition of expert performance in the arts …, 1996",
+        "counts": "182",
+        "year": "1996"
       },
       {
         "title": "The coming of age of artificial intelligence in medicine",
@@ -55720,7 +60343,7 @@ var data = [
         "title": "Faculty development in assessment: the missing link in competency-based medical education",
         "authors": "ES Holmboe, DS Ward, RK Reznick, PJ Katsufrakis, KM Leslie, VL Patel, ...",
         "journal": "Academic Medicine 86 (4), 460-467, 2011",
-        "counts": "177",
+        "counts": "178",
         "year": "2011"
       },
       {
@@ -55952,6 +60575,94 @@ var data = [
   {
     "citations": [
       {
+        "title": "Efficient algorithms for mining high utility itemsets from transactional databases",
+        "authors": "VS Tseng, BE Shie, CW Wu, PS Yu",
+        "journal": "IEEE transactions on knowledge and data engineering, 2012",
+        "counts": "314",
+        "year": "2012"
+      },
+      {
+        "title": "UP-Growth: an efficient algorithm for high utility itemset mining",
+        "authors": "VS Tseng, CW Wu, BE Shie, PS Yu",
+        "journal": "Proceedings of the 16th ACM SIGKDD international conference on Knowledge …, 2010",
+        "counts": "272",
+        "year": "2010"
+      },
+      {
+        "title": "SPMF: a Java open-source pattern mining library",
+        "authors": "P Fournier-Viger, A Gomariz, T Gueniche, A Soltani, CW Wu, VS Tseng",
+        "journal": "The Journal of Machine Learning Research 15 (1), 3389-3393, 2014",
+        "counts": "244",
+        "year": "2014"
+      },
+      {
+        "title": "Semantic trajectory mining for location prediction",
+        "authors": "JJC Ying, WC Lee, TC Weng, VS Tseng",
+        "journal": "Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances …, 2011",
+        "counts": "201",
+        "year": "2011"
+      },
+      {
+        "title": "Efficient relevance feedback for content-based image retrieval by mining user navigation patterns",
+        "authors": "JH Su, WJ Huang, SY Philip, VS Tseng",
+        "journal": "IEEE transactions on knowledge and data engineering 23 (3), 360-372, 2011",
+        "counts": "186",
+        "year": "2011"
+      },
+      {
+        "title": "Mining user similarity from semantic trajectories",
+        "authors": "JJC Ying, EHC Lu, WC Lee, TC Weng, VS Tseng",
+        "journal": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Location …, 2010",
+        "counts": "172",
+        "year": "2010"
+      },
+      {
+        "title": "FHM: Faster high-utility itemset mining using estimated utility co-occurrence pruning",
+        "authors": "P Fournier-Viger, CW Wu, S Zida, VS Tseng",
+        "journal": "International symposium on methodologies for intelligent systems, 83-92, 2014",
+        "counts": "163",
+        "year": "2014"
+      },
+      {
+        "title": "Music recommendation using content and context information mining",
+        "authors": "JH Su, HH Yeh, SY Philip, VS Tseng",
+        "journal": "IEEE Intelligent Systems 25 (1), 2010",
+        "counts": "158",
+        "year": "2010"
+      },
+      {
+        "title": "Efficiently mining gene expression data via a novel parameterless clustering method",
+        "authors": "VS Tseng, CP Kao",
+        "journal": "IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) 2 …, 2005",
+        "counts": "132",
+        "year": "2005"
+      },
+      {
+        "title": "Efficient mining and prediction of user behavior patterns in mobile web systems",
+        "authors": "VS Tseng, KW Lin",
+        "journal": "Information and software technology 48 (6), 357-369, 2006",
+        "counts": "126",
+        "year": "2006"
+      },
+      {
+        "title": "On the security of some proxy blind signature schemes",
+        "authors": "HM Sun, BT Hsieh, SM Tseng",
+        "journal": "Journal of systems and software 74 (3), 297-302, 2005",
+        "counts": "111",
+        "year": "2005"
+      },
+      {
+        "title": "Mining top-k high utility itemsets",
+        "authors": "CW Wu, BE Shie, VS Tseng, PS Yu",
+        "journal": "Proceedings of the 18th ACM SIGKDD international conference on Knowledge …, 2012",
+        "counts": "109",
+        "year": "2012"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
         "title": "What is e-Health (2): The death of telemedicine?",
         "authors": "V Della Mea",
         "journal": "Journal of medical Internet research 3 (2), 2001",
@@ -55973,7 +60684,7 @@ var data = [
         "title": "Automated EEG analysis of epilepsy: A review",
         "authors": "U Rajendra Acharya, S Vinitha Sree, G Swapna, RJ Martis, JS Suri",
         "journal": "Knowledge-Based Systems 45, 147-165, 2013",
-        "counts": "250",
+        "counts": "251",
         "year": "2013"
       },
       {
@@ -56040,7 +60751,7 @@ var data = [
         "title": "Data-Centric Systems and Applications",
         "authors": "MJ Carey, S Ceri, P Bernstein, U Dayal, C Faloutsos, JC Freytag, ...",
         "journal": "Springer, Verlag Berlin Heidelberg,[doi: 10.1007/978-3-540-76452-6], 2006",
-        "counts": "1174",
+        "counts": "1176",
         "year": "2006"
       },
       {
@@ -56096,7 +60807,7 @@ var data = [
         "title": "Emergent semantics principles and issues",
         "authors": "K Aberer, P Cudré-Mauroux, AM Ouksel, T Catarci, MS Hacid, ...",
         "journal": "International Conference on Database Systems for Advanced Applications, 25-38, 2004",
-        "counts": "170",
+        "counts": "171",
         "year": "2004"
       },
       {
@@ -56191,7 +60902,7 @@ var data = [
         "title": "GeneWays: a system for extracting, analyzing, visualizing, and integrating molecular pathway data",
         "authors": "A Rzhetsky, I Iossifov, T Koike, M Krauthammer, P Kra, M Morris, H Yu, ...",
         "journal": "Journal of biomedical informatics 37 (1), 43-53, 2004",
-        "counts": "318",
+        "counts": "319",
         "year": "2004"
       },
       {
@@ -56212,7 +60923,7 @@ var data = [
         "title": "The automatic identification of stop words",
         "authors": "WJ Wilbur, K Sirotkin",
         "journal": "Journal of information science 18 (1), 45-55, 1992",
-        "counts": "250",
+        "counts": "249",
         "year": "1992"
       },
       {
@@ -56342,7 +61053,7 @@ var data = [
         "title": "Toward a national framework for the secondary use of health data: an American Medical Informatics Association White Paper",
         "authors": "C Safran, M Bloomrosen, WE Hammond, S Labkoff, S Markel-Fox, ...",
         "journal": "Journal of the American Medical Informatics Association 14 (1), 1-9, 2007",
-        "counts": "537",
+        "counts": "538",
         "year": "2007"
       },
       {
@@ -56463,21 +61174,21 @@ var data = [
         "title": "Healthcare in the pocket: mapping the space of mobile-phone health interventions",
         "authors": "P Klasnja, W Pratt",
         "journal": "Journal of biomedical informatics 45 (1), 184-198, 2012",
-        "counts": "722",
+        "counts": "723",
         "year": "2012"
       },
       {
         "title": "Understanding quantified-selfers' practices in collecting and exploring personal data",
         "authors": "EK Choe, NB Lee, B Lee, W Pratt, JA Kientz",
         "journal": "Proceedings of the 32nd annual ACM conference on Human factors in computing …, 2014",
-        "counts": "405",
+        "counts": "406",
         "year": "2014"
       },
       {
         "title": "How to evaluate technologies for health behavior change in HCI research",
         "authors": "P Klasnja, S Consolvo, W Pratt",
         "journal": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011",
-        "counts": "275",
+        "counts": "274",
         "year": "2011"
       },
       {
@@ -56512,7 +61223,7 @@ var data = [
         "title": "A Knowledge-Based Approach to Organizing Retrieved Documents.",
         "authors": "W Pratt, MA Hearst, LM Fagan",
         "journal": "AAAI/IAAI, 80-85, 1999",
-        "counts": "154",
+        "counts": "155",
         "year": "1999"
       },
       {
@@ -56586,28 +61297,28 @@ var data = [
         "title": "The Gene Ontology (GO) database and informatics resource",
         "authors": "Gene Ontology Consortium",
         "journal": "Nucleic acids research 32 (suppl_1), D258-D261, 2004",
-        "counts": "3037",
+        "counts": "3036",
         "year": "2004"
       },
       {
         "title": "lumi: a pipeline for processing Illumina microarray",
         "authors": "P Du, WA Kibbe, SM Lin",
         "journal": "Bioinformatics 24 (13), 1547-1548, 2008",
-        "counts": "1584",
+        "counts": "1585",
         "year": "2008"
       },
       {
         "title": "OligoCalc: an online oligonucleotide properties calculator",
         "authors": "WA Kibbe",
         "journal": "Nucleic acids research 35 (suppl_2), W43-W46, 2007",
-        "counts": "866",
+        "counts": "867",
         "year": "2007"
       },
       {
         "title": "Comparison of Beta-value and M-value methods for quantifying methylation levels by microarray analysis",
         "authors": "P Du, X Zhang, CC Huang, N Jafari, WA Kibbe, L Hou, SM Lin",
         "journal": "BMC bioinformatics 11 (1), 587, 2010",
-        "counts": "800",
+        "counts": "802",
         "year": "2010"
       },
       {
@@ -56779,7 +61490,7 @@ var data = [
         "title": "Pharmacogenetic meta-analysis of genome-wide association studies of LDL cholesterol response to statins",
         "authors": "I Postmus, S Trompet, HA Deshmukh, MR Barnes, X Li, HR Warren, ...",
         "journal": "Nature communications 5, 5068, 2014",
-        "counts": "126",
+        "counts": "127",
         "year": "2014"
       }
     ]
@@ -56949,7 +61660,7 @@ var data = [
         "title": "Does the internet change how we die and mourn? Overview and analysis",
         "authors": "T Walter, R Hourizi, W Moncur, S Pitsillides",
         "journal": "OMEGA-Journal of Death and Dying 64 (4), 275-302, 2012",
-        "counts": "237",
+        "counts": "240",
         "year": "2012"
       },
       {
@@ -57016,7 +61727,7 @@ var data = [
         "title": "A terminological and ontological analysis of the NCI Thesaurus",
         "authors": "W Ceusters, B Smith, L Goldberg",
         "journal": "Methods of information in medicine 44 (4), 498, 2005",
-        "counts": "156",
+        "counts": "157",
         "year": "2005"
       },
       {
@@ -57123,7 +61834,7 @@ var data = [
         "title": "Beyond Regression:\" New Tools for Prediction and Analysis in the Behavioral Sciences",
         "authors": "P Werbos",
         "journal": "Ph. D. dissertation, Harvard University, 1974",
-        "counts": "4668",
+        "counts": "4667",
         "year": "1974"
       },
       {
@@ -57137,7 +61848,7 @@ var data = [
         "title": "Solution of incorrectly formaulated problems and the regularization method",
         "authors": "AN Tikhonov",
         "journal": "Dokl. Akad. Nauk. 151, 1035-1038, 1963",
-        "counts": "2700",
+        "counts": "2668",
         "year": "1963"
       },
       {
@@ -57519,14 +62230,14 @@ var data = [
         "title": "Further evidence supporting an SEM-based criterion for identifying meaningful intra-individual changes in health-related quality of life",
         "authors": "KW Wyrwich, WM Tierney, FD Wolinsky",
         "journal": "Journal of clinical epidemiology 52 (9), 861-873, 1999",
-        "counts": "672",
+        "counts": "673",
         "year": "1999"
       },
       {
         "title": "Documentation and evaluation of cognitive impairment in elderly primary care patients",
         "authors": "CM Callahan, HC Hendrie, WM Tierney",
         "journal": "Annals of internal medicine 122 (6), 422-429, 1995",
-        "counts": "610",
+        "counts": "609",
         "year": "1995"
       },
       {
@@ -57659,7 +62370,7 @@ var data = [
         "title": "Effectiveness of pharmacist care for patients with reactive airways disease: a randomized controlled trial",
         "authors": "M Weinberger, MD Murray, DG Marrero, N Brewer, M Lykens, LE Harris, ...",
         "journal": "Jama 288 (13), 1594-1602, 2002",
-        "counts": "237",
+        "counts": "236",
         "year": "2002"
       },
       {
@@ -57848,7 +62559,7 @@ var data = [
         "title": "Failure of computerized treatment suggestions to improve health outcomes of outpatients with uncomplicated hypertension: results of a randomized controlled trial",
         "authors": "MD Murray, LE Harris, JM Overhage, XH Zhou, GJ Eckert, FE Smith, ...",
         "journal": "Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy 24 (3 …, 2004",
-        "counts": "123",
+        "counts": "122",
         "year": "2004"
       },
       {
@@ -58020,7 +62731,7 @@ var data = [
         "title": "Natural language processing methods and systems for biomedical ontology learning",
         "authors": "K Liu, WR Hogan, RS Crowley",
         "journal": "Journal of biomedical informatics 44 (1), 163-179, 2011",
-        "counts": "104",
+        "counts": "105",
         "year": "2011"
       },
       {
@@ -58048,7 +62759,7 @@ var data = [
         "title": "data mining: know it all: know it all",
         "authors": "S chakrabarti",
         "journal": "morgan kaufmann, 2008",
-        "counts": "119",
+        "counts": "120",
         "year": "2008"
       }
     ]
@@ -58090,7 +62801,7 @@ var data = [
         "title": "Modeling and predicting the helpfulness of online reviews",
         "authors": "Y Liu, X Huang, A An, X Yu",
         "journal": "Data mining, 2008. ICDM'08. Eighth IEEE international conference on, 443-452, 2008",
-        "counts": "220",
+        "counts": "221",
         "year": "2008"
       },
       {
@@ -58234,7 +62945,7 @@ var data = [
         "title": "Distance and similarity measures for hesitant fuzzy linguistic term sets and their application in multi-criteria decision making",
         "authors": "H Liao, Z Xu, XJ Zeng",
         "journal": "Information Sciences 271, 125-142, 2014",
-        "counts": "268",
+        "counts": "269",
         "year": "2014"
       },
       {
@@ -58266,7 +62977,7 @@ var data = [
         "title": "MeCP2, a key contributor to neurological disease, activates and represses transcription",
         "authors": "M Chahrour, SY Jung, C Shaw, X Zhou, STC Wong, J Qin, HY Zoghbi",
         "journal": "Science 320 (5880), 1224-1229, 2008",
-        "counts": "1333",
+        "counts": "1334",
         "year": "2008"
       },
       {
@@ -58322,7 +63033,7 @@ var data = [
         "title": "Using manifold embedding for assessing and predicting protein interactions from high-throughput experimental data",
         "authors": "ZH You, YK Lei, J Gui, DS Huang, X Zhou",
         "journal": "Bioinformatics 26 (21), 2744-2751, 2010",
-        "counts": "123",
+        "counts": "124",
         "year": "2010"
       },
       {
@@ -58389,7 +63100,7 @@ var data = [
         "title": "Hierarchical active shape models, using the wavelet transform",
         "authors": "C Davatzikos, X Tao, D Shen",
         "journal": "IEEE transactions on medical imaging 22 (3), 414-423, 2003",
-        "counts": "246",
+        "counts": "247",
         "year": "2003"
       },
       {
@@ -58519,7 +63230,7 @@ var data = [
         "title": "A grid-based evolutionary algorithm for many-objective optimization",
         "authors": "S Yang, M Li, X Liu, J Zheng",
         "journal": "IEEE Transactions on Evolutionary Computation 17 (5), 721-736, 2013",
-        "counts": "255",
+        "counts": "256",
         "year": "2013"
       },
       {
@@ -58575,7 +63286,7 @@ var data = [
         "title": "H∞ filtering with randomly occurring sensor saturations and missing measurements",
         "authors": "Z Wang, B Shen, X Liu",
         "journal": "Automatica 48 (3), 556-562, 2012",
-        "counts": "204",
+        "counts": "205",
         "year": "2012"
       },
       {
@@ -58670,24 +63381,24 @@ var data = [
         "year": "2004"
       },
       {
-        "title": "On delayed genetic regulatory networks with polytopic uncertainties: robust stability analysis",
-        "authors": "Z Wang, H Gao, J Cao, X Liu",
-        "journal": "IEEE Transactions on Nanobioscience 7 (2), 154-163, 2008",
-        "counts": "136",
-        "year": "2008"
-      },
-      {
         "title": "Consensus clustering and functional interpretation of gene-expression data",
         "authors": "S Swift, A Tucker, V Vinciotti, N Martin, C Orengo, X Liu, P Kellam",
         "journal": "Genome biology 5 (11), R94, 2004",
-        "counts": "136",
+        "counts": "137",
         "year": "2004"
+      },
+      {
+        "title": "On delayed genetic regulatory networks with polytopic uncertainties: robust stability analysis",
+        "authors": "Z Wang, H Gao, J Cao, X Liu",
+        "journal": "IEEE Transactions on Nanobioscience 7 (2), 154-163, 2008",
+        "counts": "135",
+        "year": "2008"
       },
       {
         "title": "A Stochastic Sampled-Data Approach to Distributed  Filtering in Sensor Networks",
         "authors": "B Shen, Z Wang, X Liu",
         "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers 58 (9), 2237-2246, 2011",
-        "counts": "132",
+        "counts": "133",
         "year": "2011"
       },
       {
@@ -58729,7 +63440,7 @@ var data = [
         "title": "Distributed state estimation for discrete-time sensor networks with randomly varying nonlinearities and missing measurements",
         "authors": "J Liang, Z Wang, X Liu",
         "journal": "IEEE Transactions on Neural Networks 22 (3), 486-496, 2011",
-        "counts": "127",
+        "counts": "128",
         "year": "2011"
       },
       {
@@ -58852,7 +63563,7 @@ var data = [
         "title": "Genetics of rheumatoid arthritis contributes to biology and drug discovery",
         "authors": "Y Okada, D Wu, G Trynka, T Raj, C Terao, K Ikari, Y Kochi, K Ohmura, ...",
         "journal": "Nature 506 (7488), 376, 2014",
-        "counts": "924",
+        "counts": "925",
         "year": "2014"
       },
       {
@@ -58920,9 +63631,6 @@ var data = [
         "year": "2012"
       }
     ]
-  },
-  {
-    "citations": []
   },
   {
     "citations": [
@@ -59077,7 +63785,7 @@ var data = [
         "title": "A probabilistic model for multimodal hash function learning",
         "authors": "Y Zhen, DY Yeung",
         "journal": "Proceedings of the 18th ACM SIGKDD international conference on Knowledge …, 2012",
-        "counts": "161",
+        "counts": "162",
         "year": "2012"
       },
       {
@@ -59091,7 +63799,7 @@ var data = [
         "title": "Co-regularized hashing for multimodal data",
         "authors": "Y Zhen, DY Yeung",
         "journal": "Advances in neural information processing systems, 1376-1384, 2012",
-        "counts": "129",
+        "counts": "130",
         "year": "2012"
       }
     ]
@@ -59217,7 +63925,7 @@ var data = [
         "title": "A framework for knowledge-based temporal abstraction",
         "authors": "Y Shahar",
         "journal": "Artificial intelligence 90 (1-2), 79-133, 1997",
-        "counts": "529",
+        "counts": "530",
         "year": "1997"
       },
       {
@@ -59238,7 +63946,7 @@ var data = [
         "title": "Knowledge-based temporal abstraction in clinical domains",
         "authors": "Y Shahar, MA Musen",
         "journal": "Artificial intelligence in medicine 8 (3), 267-298, 1996",
-        "counts": "347",
+        "counts": "348",
         "year": "1996"
       },
       {
@@ -59273,7 +63981,7 @@ var data = [
         "title": "Temporal reasoning and temporal data maintenance in medicine: issues and challenges",
         "authors": "C Combi, Y Shahar",
         "journal": "Computers in biology and medicine 27 (5), 353-368, 1997",
-        "counts": "135",
+        "counts": "136",
         "year": "1997"
       },
       {
@@ -59358,11 +64066,11 @@ var data = [
         "year": "2011"
       },
       {
-        "title": "Genomic assessment of a multikinase inhibitor, sorafenib, in a rodent model of pulmonary hypertension",
+        "title": "Genomic assessment of a multi-kinase inhibitor, sorafenib, in a rodent model of pulmonary hypertension",
         "authors": "L Moreno-Vinasco, M Gomberg-Maitland, ML Maitland, AA Desai, ...",
-        "journal": "Physiological genomics 33 (2), 278-291, 2008",
+        "journal": "Physiological genomics, 2017",
         "counts": "115",
-        "year": "2008"
+        "year": "2017"
       },
       {
         "title": "Essential role of pre–B-cell colony enhancing factor in ventilator-induced lung injury",
@@ -59437,7 +64145,7 @@ var data = [
         "title": "PubMed and beyond: a survey of web tools for searching biomedical literature",
         "authors": "Z Lu",
         "journal": "Database: the journal of biological databases and curation 2011, 2011",
-        "counts": "328",
+        "counts": "329",
         "year": "2011"
       },
       {
@@ -59732,7 +64440,7 @@ var data = [
         "title": "Image segmentation by data-driven Markov chain Monte Carlo",
         "authors": "Z Tu, SC Zhu",
         "journal": "IEEE Transactions on pattern analysis and machine intelligence 24 (5), 657-673, 2002",
-        "counts": "774",
+        "counts": "775",
         "year": "2002"
       },
       {
@@ -59932,6 +64640,448 @@ var data = [
         "year": "2000"
       }
     ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Intrinsically disordered protein",
+        "authors": "AK Dunker, JD Lawson, CJ Brown, RM Williams, P Romero, JS Oh, ...",
+        "journal": "Journal of molecular graphics and modelling 19 (1), 26-59, 2001",
+        "counts": "1906",
+        "year": "2001"
+      },
+      {
+        "title": "Intrinsic disorder and protein function",
+        "authors": "AK Dunker, CJ Brown, JD Lawson, LM Iakoucheva, Z Obradović",
+        "journal": "Biochemistry 41 (21), 6573-6582, 2002",
+        "counts": "1589",
+        "year": "2002"
+      },
+      {
+        "title": "Sequence complexity of disordered protein",
+        "authors": "P Romero, Z Obradovic, X Li, EC Garner, CJ Brown, AK Dunker",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 42 (1), 38-48, 2001",
+        "counts": "1321",
+        "year": "2001"
+      },
+      {
+        "title": "The importance of intrinsic disorder for protein phosphorylation",
+        "authors": "LM Iakoucheva, P Radivojac, CJ Brown, TR O’Connor, JG Sikes, ...",
+        "journal": "Nucleic acids research 32 (3), 1037-1049, 2004",
+        "counts": "1098",
+        "year": "2004"
+      },
+      {
+        "title": "Intrinsic disorder in cell-signaling and cancer-associated proteins",
+        "authors": "LM Iakoucheva, CJ Brown, JD Lawson, Z Obradović, AK Dunker",
+        "journal": "Journal of molecular biology 323 (3), 573-584, 2002",
+        "counts": "990",
+        "year": "2002"
+      },
+      {
+        "title": "DisProt: the database of disordered proteins",
+        "authors": "M Sickmeier, JA Hamilton, T LeGall, V Vacic, MS Cortese, A Tantos, ...",
+        "journal": "Nucleic acids research 35 (suppl_1), D786-D793, 2006",
+        "counts": "730",
+        "year": "2006"
+      },
+      {
+        "title": "Intrinsic protein disorder in complete genomes",
+        "authors": "AK Dunker, P Romero, Z Obradovic, EC Garner, CJ Brown",
+        "journal": "Genome Informatics 11, 161-171, 2000",
+        "counts": "659",
+        "year": "2000"
+      },
+      {
+        "title": "Intrinsic disorder and functional proteomics",
+        "authors": "P Radivojac, LM Iakoucheva, CJ Oldfield, Z Obradovic, VN Uversky, ...",
+        "journal": "Biophysical journal 92 (5), 1439-1456, 2007",
+        "counts": "603",
+        "year": "2007"
+      },
+      {
+        "title": "Predicting protein disorder for N-, C-and internal regions",
+        "authors": "X Li, P Romero, M Rani, AK Dunker, Z Obradovic",
+        "journal": "Genome Informatics 10, 30-40, 1999",
+        "counts": "602",
+        "year": "1999"
+      },
+      {
+        "title": "Length-dependent prediction of protein intrinsic disorder",
+        "authors": "K Peng, P Radivojac, S Vucetic, AK Dunker, Z Obradovic",
+        "journal": "BMC bioinformatics 7 (1), 208, 2006",
+        "counts": "564",
+        "year": "2006"
+      },
+      {
+        "title": "The protein trinity—linking function and disorder",
+        "authors": "AK Dunker, Z Obradovic",
+        "journal": "Nature biotechnology 19 (9), 805, 2001",
+        "counts": "556",
+        "year": "2001"
+      },
+      {
+        "title": "The unfoldomics decade: an update on intrinsically disordered proteins",
+        "authors": "AK Dunker, CJ Oldfield, J Meng, P Romero, JY Yang, JW Chen, V Vacic, ...",
+        "journal": "BMC genomics 9 (2), S1, 2008",
+        "counts": "451",
+        "year": "2008"
+      },
+      {
+        "title": "Functional anthology of intrinsic disorder. 1. Biological processes and functions of proteins with long disordered regions",
+        "authors": "H Xie, S Vucetic, LM Iakoucheva, CJ Oldfield, AK Dunker, VN Uversky, ...",
+        "journal": "Journal of proteome research 6 (5), 1882-1898, 2007",
+        "counts": "444",
+        "year": "2007"
+      },
+      {
+        "title": "Exploiting heterogeneous sequence properties improves prediction of protein disorder",
+        "authors": "Z Obradovic, K Peng, S Vucetic, P Radivojac, AK Dunker",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 61 (S7), 176-182, 2005",
+        "counts": "424",
+        "year": "2005"
+      },
+      {
+        "title": "Flavors of protein disorder",
+        "authors": "S Vucetic, CJ Brown, AK Dunker, Z Obradovic",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 52 (4), 573-584, 2003",
+        "counts": "387",
+        "year": "2003"
+      },
+      {
+        "title": "Predicting intrinsic disorder from amino acid sequence",
+        "authors": "Z Obradovic, K Peng, S Vucetic, P Radivojac, CJ Brown, AK Dunker",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 53 (S6), 566-572, 2003",
+        "counts": "377",
+        "year": "2003"
+      },
+      {
+        "title": "Protein disorder and the evolution of molecular recognition: theory, predictions and observations",
+        "authors": "AK Dunker, E Garner, S Guilliot, P Romero, K Albrecht, J Hart, ...",
+        "journal": "Pac Symp Biocomput 3, 473-484, 1998",
+        "counts": "362",
+        "year": "1998"
+      },
+      {
+        "title": "Alternative splicing in concert with protein intrinsic disorder enables increased functional diversity in multicellular organisms",
+        "authors": "PR Romero, S Zaidi, YY Fang, VN Uversky, P Radivojac, CJ Oldfield, ...",
+        "journal": "Proceedings of the National Academy of Sciences 103 (22), 8390-8395, 2006",
+        "counts": "354",
+        "year": "2006"
+      },
+      {
+        "title": "Identification and functions of usefully disordered proteins",
+        "authors": "AK Dunker, CJ Brown, Z Obradovic",
+        "journal": "Adv Protein Chem 62, 25-49, 2002",
+        "counts": "347",
+        "year": "2002"
+      },
+      {
+        "title": "Functional anthology of intrinsic disorder. 3. Ligands, post-translational modifications, and diseases associated with intrinsically disordered proteins",
+        "authors": "H Xie, S Vucetic, LM Iakoucheva, CJ Oldfield, AK Dunker, Z Obradovic, ...",
+        "journal": "Journal of proteome research 6 (5), 1917-1932, 2007",
+        "counts": "318",
+        "year": "2007"
+      },
+      {
+        "title": "Optimizing long intrinsic disorder predictors with protein evolutionary information",
+        "authors": "K Peng, S Vucetic, P Radivojac, CJ Brown, AK Dunker, Z Obradovic",
+        "journal": "Journal of bioinformatics and computational biology 3 (01), 35-60, 2005",
+        "counts": "295",
+        "year": "2005"
+      },
+      {
+        "title": "Protein flexibility and intrinsic disorder",
+        "authors": "P Radivojac, Z Obradovic, DK Smith, G Zhu, S Vucetic, CJ Brown, ...",
+        "journal": "Protein Science 13 (1), 71-80, 2004",
+        "counts": "291",
+        "year": "2004"
+      },
+      {
+        "title": "Sequence data analysis for long disordered regions prediction in the calcineurin family",
+        "authors": "P Romero, Z Obradovic, AK Dunker",
+        "journal": "Genome Informatics 8, 110-124, 1997",
+        "counts": "272",
+        "year": "1997"
+      },
+      {
+        "title": "Identifying disordered regions in proteins from amino acid sequence",
+        "authors": "P Romero, Z Obradovic, C Kissinger, JE Villafranca, AK Dunker",
+        "journal": "Neural Networks, 1997., International Conference on 1, 90-95, 1997",
+        "counts": "270",
+        "year": "1997"
+      },
+      {
+        "title": "Thousands of proteins likely to have long disordered regions",
+        "authors": "P Romero, Z Obradovic, CR Kissinger, JE Villafranca, E Garner, S Guilliot, ...",
+        "journal": "Pac Symp Biocomput 3, 437-448, 1998",
+        "counts": "252",
+        "year": "1998"
+      },
+      {
+        "title": "DisProt: a database of protein disorder",
+        "authors": "S Vucetic, Z Obradovic, V Vacic, P Radivojac, K Peng, LM Iakoucheva, ...",
+        "journal": "Bioinformatics 21 (1), 137-140, 2004",
+        "counts": "235",
+        "year": "2004"
+      },
+      {
+        "title": "D2P2: database of disordered protein predictions",
+        "authors": "ME Oates, P Romero, T Ishida, M Ghalwash, MJ Mizianty, B Xue, ...",
+        "journal": "Nucleic acids research 41 (D1), D508-D516, 2012",
+        "counts": "220",
+        "year": "2012"
+      },
+      {
+        "title": "Functional anthology of intrinsic disorder. 2. Cellular components, domains, technical terms, developmental processes, and coding sequence diversities correlated with long …",
+        "authors": "S Vucetic, H Xie, LM Iakoucheva, CJ Oldfield, AK Dunker, Z Obradovic, ...",
+        "journal": "Journal of proteome research 6 (5), 1899-1916, 2007",
+        "counts": "214",
+        "year": "2007"
+      },
+      {
+        "title": "Unfoldomics of human diseases: linking protein intrinsic disorder with diseases",
+        "authors": "VN Uversky, CJ Oldfield, U Midic, H Xie, B Xue, S Vucetic, LM Iakoucheva, ...",
+        "journal": "BMC genomics 10 (1), S7, 2009",
+        "counts": "201",
+        "year": "2009"
+      },
+      {
+        "title": "Training an artificial neural network to discriminate between magnetizing inrush and internal faults",
+        "authors": "LG Perez, AJ Flechsig, JL Meador, Z Obradovic",
+        "journal": "IEEE Transactions on Power Delivery 9 (1), 434-441, 1994",
+        "counts": "187",
+        "year": "1994"
+      },
+      {
+        "title": "The protein non-folding problem: amino acid determinants of intrinsic order and disorder",
+        "authors": "RM Williams, Z Obradovic, V Mathura, W Braun, EC Garner, J Young, ...",
+        "journal": "Biocomputing 2001, 89-100, 2000",
+        "counts": "173",
+        "year": "2000"
+      },
+      {
+        "title": "Predicting binding regions within disordered proteins",
+        "authors": "E Garner, P Romero, AK Dunker, C Brown, Z Obradovic",
+        "journal": "Genome informatics 10, 41-50, 1999",
+        "counts": "160",
+        "year": "1999"
+      },
+      {
+        "title": "Improved amino acid flexibility parameters",
+        "authors": "DK Smith, P Radivojac, Z Obradovic, AK Dunker, G Zhu",
+        "journal": "Protein Science 12 (5), 1060-1072, 2003",
+        "counts": "146",
+        "year": "2003"
+      },
+      {
+        "title": "Natively disordered proteins",
+        "authors": "P Romero, Z Obradovic, AK Dunker",
+        "journal": "Applied bioinformatics 3 (2-3), 105-113, 2004",
+        "counts": "143",
+        "year": "2004"
+      },
+      {
+        "title": "Predicting disordered regions from amino acid sequence",
+        "authors": "E Garner, P Cannon, P Romero, Z Obradovic, AK Dunker",
+        "journal": "Genome Informatics 9, 201-213, 1998",
+        "counts": "140",
+        "year": "1998"
+      },
+      {
+        "title": "Calmodulin signaling: analysis and prediction of a disorder‐dependent molecular recognition",
+        "authors": "P Radivojac, S Vucetic, TR O'Connor, VN Uversky, Z Obradovic, ...",
+        "journal": "Proteins: Structure, Function, and Bioinformatics 63 (2), 398-410, 2006",
+        "counts": "107",
+        "year": "2006"
+      },
+      {
+        "title": "Collaborative filtering using a regression-based approach",
+        "authors": "S Vucetic, Z Obradovic",
+        "journal": "Knowledge and Information Systems 7 (1), 1-22, 2005",
+        "counts": "107",
+        "year": "2005"
+      },
+      {
+        "title": "Discovering price-load relationships in California's electricity market",
+        "authors": "S Vucetic, K Tomsovic, Z Obradovic",
+        "journal": "IEEE Transactions on power systems 16 (2), 280-286, 2001",
+        "counts": "103",
+        "year": "2001"
+      },
+      {
+        "title": "The distributed boosting algorithm",
+        "authors": "A Lazarevic, Z Obradovic",
+        "journal": "Proceedings of the seventh ACM SIGKDD international conference on Knowledge …, 2001",
+        "counts": "102",
+        "year": "2001"
+      },
+      {
+        "title": "Classification and knowledge discovery in protein databases",
+        "authors": "P Radivojac, NV Chawla, AK Dunker, Z Obradovic",
+        "journal": "Journal of Biomedical Informatics 37 (4), 224-239, 2004",
+        "counts": "101",
+        "year": "2004"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Towards answering opinion questions: Separating facts from opinions and identifying the polarity of opinion sentences",
+        "authors": "H Yu, V Hatzivassiloglou",
+        "journal": "Proceedings of the 2003 conference on Empirical methods in natural language …, 2003",
+        "counts": "1271",
+        "year": "2003"
+      },
+      {
+        "title": "GENIES: a natural-language processing system for the extraction of molecular pathways from journal articles",
+        "authors": "C Friedman, P Kra, H Yu, M Krauthammer, A Rzhetsky",
+        "journal": "ISMB (supplement of bioinformatics), 74-82, 2001",
+        "counts": "640",
+        "year": "2001"
+      },
+      {
+        "title": "GeneWays: a system for extracting, analyzing, visualizing, and integrating molecular pathway data",
+        "authors": "A Rzhetsky, I Iossifov, T Koike, M Krauthammer, P Kra, M Morris, H Yu, ...",
+        "journal": "Journal of biomedical informatics 37 (1), 43-53, 2004",
+        "counts": "319",
+        "year": "2004"
+      },
+      {
+        "title": "Frontiers of biomedical text mining: current progress",
+        "authors": "P Zweigenbaum, D Demner-Fushman, H Yu, KB Cohen",
+        "journal": "Briefings in bioinformatics 8 (5), 358-375, 2007",
+        "counts": "309",
+        "year": "2007"
+      },
+      {
+        "title": "Automatic extraction of opinion propositions and their holders",
+        "authors": "S Bethard, H Yu, A Thornton, V Hatzivassiloglou, D Jurafsky",
+        "journal": "2004 AAAI spring symposium on exploring attitude and affect in text 2224, 2004",
+        "counts": "235",
+        "year": "2004"
+      },
+      {
+        "title": "Mapping abbreviations to full forms in biomedical articles",
+        "authors": "H Yu, G Hripcsak, C Friedman",
+        "journal": "Journal of the American Medical Informatics Association 9 (3), 262-272, 2002",
+        "counts": "168",
+        "year": "2002"
+      },
+      {
+        "title": "AskHERMES: An online question answering system for complex clinical questions",
+        "authors": "Y Cao, F Liu, P Simpson, L Antieau, A Bennett, JJ Cimino, J Ely, H Yu",
+        "journal": "Journal of biomedical informatics 44 (2), 277-288, 2011",
+        "counts": "145",
+        "year": "2011"
+      },
+      {
+        "title": "Extracting synonymous gene and protein terms from biological literature",
+        "authors": "H Yu, E Agichtein",
+        "journal": "Bioinformatics 19 (suppl_1), i340-i349, 2003",
+        "counts": "125",
+        "year": "2003"
+      }
+    ]
+  },
+  {
+    "citations": [
+      {
+        "title": "Screening for frailty: criteria and predictors of outcomes",
+        "authors": "CH Winograd, MB Gerety, M Chung, MK Goldstein, F Dominguez Jr, ...",
+        "journal": "Journal of the American Geriatrics Society 39 (8), 778-784, 1991",
+        "counts": "416",
+        "year": "1991"
+      },
+      {
+        "title": "Quality improvement strategies for hypertension management: a systematic review",
+        "authors": "JME Walsh, KM McDonald, KG Shojania, V Sundaram, S Nayak, R Lewis, ...",
+        "journal": "Medical care, 646-657, 2006",
+        "counts": "285",
+        "year": "2006"
+      },
+      {
+        "title": "Ethical decision making and patient autonomy: a comparison of physicians and patients in Japan and the United States",
+        "authors": "GW Ruhnke, SR Wilson, T Akamatsu, T Kinoue, Y Takashima, ...",
+        "journal": "Chest 118 (4), 1172-1182, 2000",
+        "counts": "244",
+        "year": "2000"
+      },
+      {
+        "title": "Racial differences in blood pressure control: potential explanatory factors",
+        "authors": "HB Bosworth, T Dudley, MK Olsen, CI Voils, B Powers, MK Goldstein, ...",
+        "journal": "The American journal of medicine 119 (1), 70. e9-70. e15, 2006",
+        "counts": "231",
+        "year": "2006"
+      },
+      {
+        "title": "The influence of physician race, age, and gender on physician attitudes toward advance care directives and preferences for end‐of‐life decision‐making",
+        "authors": "EW Mebane, RF Oman, LT Kroonen, MK Goldstein",
+        "journal": "Journal of the American Geriatrics Society 47 (5), 579-591, 1999",
+        "counts": "226",
+        "year": "1999"
+      },
+      {
+        "title": "Health outcomes associated with polypharmacy in community‐dwelling older adults: A systematic review",
+        "authors": "TR Fried, J O'leary, V Towle, MK Goldstein, M Trentalange, DK Martin",
+        "journal": "Journal of the American Geriatrics Society 62 (12), 2261-2272, 2014",
+        "counts": "192",
+        "year": "2014"
+      },
+      {
+        "title": "Accuracy of computerized outpatient diagnoses in a Veterans Affairs general medicine clinic.",
+        "authors": "HC Szeto, RK Coleman, P Gholami, BB Hoffman, MK Goldstein",
+        "journal": "The American journal of managed care 8 (1), 37-43, 2002",
+        "counts": "167",
+        "year": "2002"
+      },
+      {
+        "title": "The effect of search procedures on utility elicitations",
+        "authors": "LA Lenert, DJ Cher, MK Goldstein, MR Bergen, A Garber",
+        "journal": "Medical Decision Making 18 (1), 76-83, 1998",
+        "counts": "143",
+        "year": "1998"
+      },
+      {
+        "title": "Home blood pressure management and improved blood pressure control: results from a randomized controlled trial",
+        "authors": "HB Bosworth, BJ Powers, MK Olsen, F McCant, J Grubber, V Smith, ...",
+        "journal": "Archives of internal medicine 171 (13), 1173-1180, 2011",
+        "counts": "140",
+        "year": "2011"
+      },
+      {
+        "title": "Health-related quality of life in patients with pulmonary arterial hypertension",
+        "authors": "S Shafazand, MK Goldstein, RL Doyle, MA Hlatky, MK Gould",
+        "journal": "Chest 126 (5), 1452-1459, 2004",
+        "counts": "130",
+        "year": "2004"
+      },
+      {
+        "title": "The effects of CPOE on ICU workflow: an observational study",
+        "authors": "CH Cheng, MK Goldstein, E Geller, RE Levitt",
+        "journal": "AMIA Annual Symposium Proceedings 2003, 150, 2003",
+        "counts": "114",
+        "year": "2003"
+      },
+      {
+        "title": "Implementing clinical practice guidelines while taking account of changing evidence: ATHENA DSS, an easily modifiable decision-support system for managing hypertension in …",
+        "authors": "MK Goldstein, BB Hoffman, RW Coleman, MA Musen, SW Tu, A Advani, ...",
+        "journal": "Proceedings of the AMIA Symposium, 300, 2000",
+        "counts": "111",
+        "year": "2000"
+      },
+      {
+        "title": "Translating research into practice: organizational issues in implementing automated decision support for hypertension in three medical centers",
+        "authors": "MK Goldstein, RW Coleman, SW Tu, RD Shankar, MJ O'Connor, ...",
+        "journal": "Journal of the American Medical Informatics Association 11 (5), 368-376, 2004",
+        "counts": "107",
+        "year": "2004"
+      }
+    ]
+  },
+  {
+    "citations": []
   },
   {
     "citations": []

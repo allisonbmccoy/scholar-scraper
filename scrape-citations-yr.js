@@ -31,8 +31,9 @@ var scrapeEntry = function(person, doneCallback) {
 				c['counts'] = $(this).find('.gsc_a_c').text();
 				c['year'] = $(this).find('.gsc_a_y').text();
 				
-				if ((c['year'] >= currentYear - 1) && (c['counts'] >= 1))
+				if ((c['year'] >= (currentYear - 1)) && (c['counts'] >= 1)) {
 					citations.push(c);
+				}
 			});
 
       citation_data = {
