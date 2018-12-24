@@ -1,4 +1,4 @@
-var date = "Thu Dec 20 2018 13:29:22 GMT-0500 (EST)"
+var date = "Mon Dec 24 2018 14:53:13 GMT-0500 (EST)"
 var data = [
   {
     "name": "A.Karim Jabali",
@@ -66,8 +66,8 @@ var data = [
     "affiliation": "Assistant Professor of Emergency Medicine, Georgetown University School of Medicine",
     "stats": {
       "citations": [
-        "526",
-        "508"
+        "525",
+        "507"
       ],
       "hindex": [
         "13",
@@ -106,16 +106,16 @@ var data = [
     "affiliation": "A’Sharqiyah University",
     "stats": {
       "citations": [
-        "71",
-        "64"
+        "72",
+        "65"
       ],
       "hindex": [
         "4",
         "4"
       ],
       "i10index": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     "year": "2011"
@@ -146,8 +146,8 @@ var data = [
     "affiliation": "Associate Professor, Northwestern University",
     "stats": {
       "citations": [
-        "4134",
-        "3855"
+        "4143",
+        "3864"
       ],
       "hindex": [
         "28",
@@ -226,8 +226,8 @@ var data = [
     "affiliation": "Macquarie University",
     "stats": {
       "citations": [
-        "934",
-        "855"
+        "936",
+        "857"
       ],
       "hindex": [
         "18",
@@ -246,8 +246,8 @@ var data = [
     "affiliation": "Associate Professor, Harvard Medical School",
     "stats": {
       "citations": [
-        "1015",
-        "815"
+        "1016",
+        "816"
       ],
       "hindex": [
         "18",
@@ -267,7 +267,7 @@ var data = [
     "stats": {
       "citations": [
         "2110",
-        "1263"
+        "1265"
       ],
       "hindex": [
         "26",
@@ -286,8 +286,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Brigham and Women's Hospital, Harvard Medical School",
     "stats": {
       "citations": [
-        "5170",
-        "3908"
+        "5173",
+        "3912"
       ],
       "hindex": [
         "39",
@@ -346,8 +346,8 @@ var data = [
     "affiliation": "Mayo clinic",
     "stats": {
       "citations": [
-        "1180",
-        "1115"
+        "1183",
+        "1117"
       ],
       "hindex": [
         "20",
@@ -366,8 +366,8 @@ var data = [
     "affiliation": "Dokuz Eylul University",
     "stats": {
       "citations": [
-        "536",
-        "316"
+        "539",
+        "318"
       ],
       "hindex": [
         "12",
@@ -386,8 +386,8 @@ var data = [
     "affiliation": "LORIA - INRIA Nancy-Grand Est & Stanford University",
     "stats": {
       "citations": [
-        "1327",
-        "865"
+        "1329",
+        "867"
       ],
       "hindex": [
         "12",
@@ -406,8 +406,8 @@ var data = [
     "affiliation": "Associate Professor at HES-SO Valais",
     "stats": {
       "citations": [
-        "1703",
-        "1355"
+        "1705",
+        "1357"
       ],
       "hindex": [
         "24",
@@ -446,8 +446,8 @@ var data = [
     "affiliation": "Systems Faculty, Carnegie Mellon University",
     "stats": {
       "citations": [
-        "878",
-        "821"
+        "879",
+        "822"
       ],
       "hindex": [
         "11",
@@ -486,8 +486,8 @@ var data = [
     "affiliation": "Assistant Professor at Faculty of Computer Science, Bialystok University of Technology, Poland and",
     "stats": {
       "citations": [
-        "1083",
-        "616"
+        "1080",
+        "613"
       ],
       "hindex": [
         "16",
@@ -546,8 +546,8 @@ var data = [
     "affiliation": "University of Colorado Anschutz Medical Campus",
     "stats": {
       "citations": [
-        "7438",
-        "6052"
+        "7447",
+        "6060"
       ],
       "hindex": [
         "41",
@@ -567,7 +567,7 @@ var data = [
     "stats": {
       "citations": [
         "285",
-        "205"
+        "204"
       ],
       "hindex": [
         "7",
@@ -626,8 +626,8 @@ var data = [
     "affiliation": "School of Computer Science, University of Manchester",
     "stats": {
       "citations": [
-        "12427",
-        "3544"
+        "12429",
+        "3547"
       ],
       "hindex": [
         "53",
@@ -646,8 +646,8 @@ var data = [
     "affiliation": "Assistant Professor of Biomedical Informatics, The Ohio State University",
     "stats": {
       "citations": [
-        "1416",
-        "990"
+        "1417",
+        "991"
       ],
       "hindex": [
         "16",
@@ -707,7 +707,7 @@ var data = [
     "stats": {
       "citations": [
         "942",
-        "419"
+        "421"
       ],
       "hindex": [
         "16",
@@ -746,8 +746,8 @@ var data = [
     "affiliation": "Centro RNASA-IMEDIR. UDC. INIBIC",
     "stats": {
       "citations": [
-        "3963",
-        "2314"
+        "3960",
+        "2311"
       ],
       "hindex": [
         "27",
@@ -786,8 +786,8 @@ var data = [
     "affiliation": "Universidad Politecnica de Madrid - Departamento de Lenguajes y Sistemas Informáticos e Ingeniería",
     "stats": {
       "citations": [
-        "803",
-        "674"
+        "805",
+        "676"
       ],
       "hindex": [
         "14",
@@ -826,7 +826,7 @@ var data = [
     "affiliation": "Professor of Computer Science, University of São Paulo",
     "stats": {
       "citations": [
-        "443",
+        "442",
         "162"
       ],
       "hindex": [
@@ -866,8 +866,8 @@ var data = [
     "affiliation": "PhD Student",
     "stats": {
       "citations": [
-        "111",
-        "106"
+        "112",
+        "107"
       ],
       "hindex": [
         "6",
@@ -906,15 +906,15 @@ var data = [
     "affiliation": "National Institutes of Health",
     "stats": {
       "citations": [
-        "36383",
-        "24660"
+        "36413",
+        "24693"
       ],
       "hindex": [
         "72",
         "58"
       ],
       "i10index": [
-        "902",
+        "901",
         "663"
       ]
     },
@@ -926,8 +926,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, University at Buffalo",
     "stats": {
       "citations": [
-        "4683",
-        "2871"
+        "4694",
+        "2882"
       ],
       "hindex": [
         "26",
@@ -966,8 +966,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "3216",
-        "2332"
+        "3222",
+        "2338"
       ],
       "hindex": [
         "27",
@@ -1046,8 +1046,8 @@ var data = [
     "affiliation": "Assistant Professor of Anesthesiology & Critical Care, Children's Hospital of Philadelphia",
     "stats": {
       "citations": [
-        "368",
-        "338"
+        "369",
+        "339"
       ],
       "hindex": [
         "11",
@@ -1126,8 +1126,8 @@ var data = [
     "affiliation": "Associate Professor of Surgery and Health Informatics, University of the Philippines Manila",
     "stats": {
       "citations": [
-        "316",
-        "195"
+        "317",
+        "196"
       ],
       "hindex": [
         "10",
@@ -1146,8 +1146,8 @@ var data = [
     "affiliation": "Director, Learning Health Systems, IBM",
     "stats": {
       "citations": [
-        "3551",
-        "1383"
+        "3554",
+        "1384"
       ],
       "hindex": [
         "28",
@@ -1226,8 +1226,8 @@ var data = [
     "affiliation": "Professor of Medical Informatics",
     "stats": {
       "citations": [
-        "6608",
-        "4502"
+        "6619",
+        "4512"
       ],
       "hindex": [
         "42",
@@ -1326,8 +1326,8 @@ var data = [
     "affiliation": "Faculty Fellow, Institute of Health and Society, Newcastle University",
     "stats": {
       "citations": [
-        "605",
-        "588"
+        "608",
+        "591"
       ],
       "hindex": [
         "10",
@@ -1346,8 +1346,8 @@ var data = [
     "affiliation": "Professor of Computer Science, INESC-ID, Instituto Superior Técnico, Universidade Técnica de Lisboa",
     "stats": {
       "citations": [
-        "2297",
-        "1234"
+        "2299",
+        "1236"
       ],
       "hindex": [
         "19",
@@ -1386,8 +1386,8 @@ var data = [
     "affiliation": "Assistant Professor, Rutgers University",
     "stats": {
       "citations": [
-        "2432",
-        "1716"
+        "2439",
+        "1723"
       ],
       "hindex": [
         "16",
@@ -1406,8 +1406,8 @@ var data = [
     "affiliation": "Professor of Clinical Data Science, MAASTRO Clinic, Maastricht University, GROW, Maastricht UMC+",
     "stats": {
       "citations": [
-        "8887",
-        "6340"
+        "8902",
+        "6353"
       ],
       "hindex": [
         "48",
@@ -1426,8 +1426,8 @@ var data = [
     "affiliation": "Director and Professor at the School of Health Information Science, University of Victoria",
     "stats": {
       "citations": [
-        "6672",
-        "3594"
+        "6674",
+        "3596"
       ],
       "hindex": [
         "40",
@@ -1466,8 +1466,8 @@ var data = [
     "affiliation": "Columbia ",
     "stats": {
       "citations": [
-        "22768",
-        "13232"
+        "22779",
+        "13247"
       ],
       "hindex": [
         "64",
@@ -1486,8 +1486,8 @@ var data = [
     "affiliation": "Assistant Professor, Northeastern University",
     "stats": {
       "citations": [
-        "1077",
-        "723"
+        "1079",
+        "725"
       ],
       "hindex": [
         "16",
@@ -1506,16 +1506,16 @@ var data = [
     "affiliation": "Biomedical Informatics and Medical Education, University of Washington",
     "stats": {
       "citations": [
-        "2109",
-        "1701"
+        "2115",
+        "1707"
       ],
       "hindex": [
         "25",
         "23"
       ],
       "i10index": [
-        "53",
-        "50"
+        "54",
+        "51"
       ]
     },
     "year": "2005"
@@ -1546,8 +1546,8 @@ var data = [
     "affiliation": "MUG, Medical Informatics, Statistics, HCI-KDD; Computer Science, Graz University of Technology",
     "stats": {
       "citations": [
-        "10374",
-        "6552"
+        "10386",
+        "6564"
       ],
       "hindex": [
         "46",
@@ -1566,8 +1566,8 @@ var data = [
     "affiliation": "Centre for Research & Technology Hellas",
     "stats": {
       "citations": [
-        "321",
-        "262"
+        "320",
+        "261"
       ],
       "hindex": [
         "8",
@@ -1586,8 +1586,8 @@ var data = [
     "affiliation": "Biomedical and Health Information Sciences, University of Illinois at Chicago",
     "stats": {
       "citations": [
-        "1985",
-        "1137"
+        "1988",
+        "1140"
       ],
       "hindex": [
         "12",
@@ -1606,8 +1606,8 @@ var data = [
     "affiliation": "Professor, Macquarie University",
     "stats": {
       "citations": [
-        "3453",
-        "2526"
+        "3456",
+        "2529"
       ],
       "hindex": [
         "32",
@@ -1626,8 +1626,8 @@ var data = [
     "affiliation": "Professor, The Scripps Research Institute",
     "stats": {
       "citations": [
-        "16757",
-        "7425"
+        "16762",
+        "7431"
       ],
       "hindex": [
         "46",
@@ -1666,8 +1666,8 @@ var data = [
     "affiliation": "Director of Evaluation Research, Health Services Research Center, University of California, San Diego",
     "stats": {
       "citations": [
-        "3157",
-        "2179"
+        "3160",
+        "2181"
       ],
       "hindex": [
         "15",
@@ -1687,7 +1687,7 @@ var data = [
     "stats": {
       "citations": [
         "739",
-        "209"
+        "210"
       ],
       "hindex": [
         "15",
@@ -1707,7 +1707,7 @@ var data = [
     "stats": {
       "citations": [
         "1473",
-        "1007"
+        "1008"
       ],
       "hindex": [
         "23",
@@ -1727,7 +1727,7 @@ var data = [
     "stats": {
       "citations": [
         "3176",
-        "1054"
+        "1056"
       ],
       "hindex": [
         "32",
@@ -1747,7 +1747,7 @@ var data = [
     "stats": {
       "citations": [
         "8527",
-        "1949"
+        "1948"
       ],
       "hindex": [
         "47",
@@ -1766,16 +1766,16 @@ var data = [
     "affiliation": "Chief Medical Information Officer, Cincinnati Children's Hospital Medical Center",
     "stats": {
       "citations": [
-        "1012",
-        "453"
+        "1013",
+        "454"
       ],
       "hindex": [
         "20",
         "14"
       ],
       "i10index": [
-        "27",
-        "16"
+        "28",
+        "17"
       ]
     },
     "year": "1996"
@@ -1806,16 +1806,16 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, Cincinnati Children's Hospital Medical Center",
     "stats": {
       "citations": [
-        "6523",
-        "4052"
+        "6527",
+        "4057"
       ],
       "hindex": [
         "40",
         "31"
       ],
       "i10index": [
-        "71",
-        "66"
+        "72",
+        "67"
       ]
     },
     "year": "2003"
@@ -1866,8 +1866,8 @@ var data = [
     "affiliation": "Computer Scientist, Manhattan College",
     "stats": {
       "citations": [
-        "147",
-        "143"
+        "146",
+        "142"
       ],
       "hindex": [
         "8",
@@ -1906,8 +1906,8 @@ var data = [
     "affiliation": "Professor, Computer Science and Linguistics, University of Cambridge",
     "stats": {
       "citations": [
-        "4449",
-        "3205"
+        "4456",
+        "3212"
       ],
       "hindex": [
         "34",
@@ -1926,7 +1926,7 @@ var data = [
     "affiliation": "Open University",
     "stats": {
       "citations": [
-        "4877",
+        "4878",
         "2722"
       ],
       "hindex": [
@@ -1986,7 +1986,7 @@ var data = [
     "affiliation": "Professor of Informatics, University of Skövde, Sweden",
     "stats": {
       "citations": [
-        "2052",
+        "2051",
         "1005"
       ],
       "hindex": [
@@ -2026,8 +2026,8 @@ var data = [
     "affiliation": "Associate Professor of Health Services, University of Washington",
     "stats": {
       "citations": [
-        "2310",
-        "1469"
+        "2313",
+        "1472"
       ],
       "hindex": [
         "22",
@@ -2066,8 +2066,8 @@ var data = [
     "affiliation": "Professor of Information Systems, University of South Florida",
     "stats": {
       "citations": [
-        "18431",
-        "11643"
+        "18434",
+        "11645"
       ],
       "hindex": [
         "37",
@@ -2086,8 +2086,8 @@ var data = [
     "affiliation": "Columbia University",
     "stats": {
       "citations": [
-        "734",
-        "507"
+        "735",
+        "508"
       ],
       "hindex": [
         "14",
@@ -2106,8 +2106,8 @@ var data = [
     "affiliation": "Research Institute, NorthShore University HealthSystem",
     "stats": {
       "citations": [
-        "2047",
-        "1463"
+        "2050",
+        "1465"
       ],
       "hindex": [
         "9",
@@ -2126,8 +2126,8 @@ var data = [
     "affiliation": "Dept. of Biomedical & Health Information Sciences, University of Illinois at Chicago",
     "stats": {
       "citations": [
-        "1175",
-        "746"
+        "1176",
+        "747"
       ],
       "hindex": [
         "19",
@@ -2146,8 +2146,8 @@ var data = [
     "affiliation": "Professor of Digital Health Systems, Flinders University",
     "stats": {
       "citations": [
-        "2419",
-        "1162"
+        "2431",
+        "1165"
       ],
       "hindex": [
         "25",
@@ -2166,8 +2166,8 @@ var data = [
     "affiliation": "Clinical Informatics Developer, University of Melbourne",
     "stats": {
       "citations": [
-        "793",
-        "376"
+        "794",
+        "377"
       ],
       "hindex": [
         "16",
@@ -2186,8 +2186,8 @@ var data = [
     "affiliation": "Professor of Medicine, Geneva University",
     "stats": {
       "citations": [
-        "6666",
-        "2651"
+        "6667",
+        "2652"
       ],
       "hindex": [
         "38",
@@ -2206,8 +2206,8 @@ var data = [
     "affiliation": "Centre for Health Systems and Safety Research, University of New South Wales",
     "stats": {
       "citations": [
-        "310",
-        "274"
+        "311",
+        "275"
       ],
       "hindex": [
         "10",
@@ -2226,8 +2226,8 @@ var data = [
     "affiliation": "Lab of Medical Physics, Medical School, Aristotle University of Thessaloniki",
     "stats": {
       "citations": [
-        "477",
-        "451"
+        "478",
+        "452"
       ],
       "hindex": [
         "10",
@@ -2246,8 +2246,8 @@ var data = [
     "affiliation": "Scientific Director, Oxford Centre for Fetal Monitoring Technologies, University of Oxford",
     "stats": {
       "citations": [
-        "423",
-        "336"
+        "413",
+        "326"
       ],
       "hindex": [
         "12",
@@ -2266,16 +2266,16 @@ var data = [
     "affiliation": "CSIR Institute of Genomics & Integrative Biology, Center for Translational Research in Asthma & Lung",
     "stats": {
       "citations": [
-        "6367",
-        "6001"
+        "6353",
+        "5986"
       ],
       "hindex": [
         "35",
         "35"
       ],
       "i10index": [
-        "69",
-        "64"
+        "70",
+        "65"
       ]
     },
     "year": "2009"
@@ -2326,8 +2326,8 @@ var data = [
     "affiliation": "Brigham & Women's Hospital, Harvard Medical School",
     "stats": {
       "citations": [
-        "1234",
-        "896"
+        "1237",
+        "899"
       ],
       "hindex": [
         "13",
@@ -2366,11 +2366,11 @@ var data = [
     "affiliation": "NTNU",
     "stats": {
       "citations": [
-        "1585",
-        "577"
+        "1587",
+        "580"
       ],
       "hindex": [
-        "19",
+        "20",
         "15"
       ],
       "i10index": [
@@ -2506,8 +2506,8 @@ var data = [
     "affiliation": "Adjunct Assistant Professor, Emory University School of Medicine",
     "stats": {
       "citations": [
-        "265",
-        "240"
+        "266",
+        "241"
       ],
       "hindex": [
         "11",
@@ -2526,16 +2526,16 @@ var data = [
     "affiliation": "Harvard School of Public Health",
     "stats": {
       "citations": [
-        "24598",
-        "16713"
+        "24626",
+        "16738"
       ],
       "hindex": [
         "81",
         "71"
       ],
       "i10index": [
-        "205",
-        "198"
+        "204",
+        "197"
       ]
     },
     "year": "2001"
@@ -2566,8 +2566,8 @@ var data = [
     "affiliation": "Professor of Radiology, Ophthalmology, and Neurosurgery, University of Tennessee HSC",
     "stats": {
       "citations": [
-        "3708",
-        "1857"
+        "3703",
+        "1854"
       ],
       "hindex": [
         "28",
@@ -2606,8 +2606,8 @@ var data = [
     "affiliation": "Vanderbilt University",
     "stats": {
       "citations": [
-        "1172",
-        "528"
+        "1174",
+        "530"
       ],
       "hindex": [
         "17",
@@ -2646,8 +2646,8 @@ var data = [
     "affiliation": "Machine Learning for Healthcare and Life Sciences group, Haifa Research Lab, IBM",
     "stats": {
       "citations": [
-        "1648",
-        "1342"
+        "1649",
+        "1343"
       ],
       "hindex": [
         "17",
@@ -2686,16 +2686,16 @@ var data = [
     "affiliation": "Director, Institute for Computational Health Sciences, University of California, San Francisco",
     "stats": {
       "citations": [
-        "23103",
-        "14672"
+        "23130",
+        "14697"
       ],
       "hindex": [
         "73",
-        "60"
+        "59"
       ],
       "i10index": [
         "189",
-        "164"
+        "165"
       ]
     },
     "year": "2001"
@@ -2746,8 +2746,8 @@ var data = [
     "affiliation": "Department of Social and Preventive Medicine, Faculty of Medicine Building, University of Malaya, 50603 Kuala Lumpur, MALAYSIA",
     "stats": {
       "citations": [
-        "1957",
-        "1720"
+        "1958",
+        "1721"
       ],
       "hindex": [
         "24",
@@ -2786,8 +2786,8 @@ var data = [
     "affiliation": "Professor, Computer Engineering Department, Balikesir University, 10145-Balikesir,TURKEY",
     "stats": {
       "citations": [
-        "241",
-        "205"
+        "242",
+        "206"
       ],
       "hindex": [
         "8",
@@ -2806,8 +2806,8 @@ var data = [
     "affiliation": "Professor of Primary Care, Imperial College London",
     "stats": {
       "citations": [
-        "27626",
-        "18773"
+        "27646",
+        "18799"
       ],
       "hindex": [
         "86",
@@ -2815,7 +2815,7 @@ var data = [
       ],
       "i10index": [
         "396",
-        "310"
+        "309"
       ]
     },
     "year": "1998"
@@ -2826,12 +2826,12 @@ var data = [
     "affiliation": "Associate professor, Department of Surgery, Virginia Commonwealth University",
     "stats": {
       "citations": [
-        "1949",
-        "655"
+        "1950",
+        "656"
       ],
       "hindex": [
         "23",
-        "14"
+        "15"
       ],
       "i10index": [
         "38",
@@ -2846,11 +2846,11 @@ var data = [
     "affiliation": "Director, Usher Institute of Population Health Sciences & Informatics, University of Edinburgh",
     "stats": {
       "citations": [
-        "53570",
-        "36014"
+        "53625",
+        "36070"
       ],
       "hindex": [
-        "104",
+        "105",
         "83"
       ],
       "i10index": [
@@ -2946,16 +2946,16 @@ var data = [
     "affiliation": "Professor of  Philosophy, Biomedical Informatics, and Computer Science, University at Buffalo",
     "stats": {
       "citations": [
-        "29781",
-        "11896"
+        "29832",
+        "11956"
       ],
       "hindex": [
-        "84",
-        "49"
+        "85",
+        "50"
       ],
       "i10index": [
-        "341",
-        "203"
+        "342",
+        "204"
       ]
     },
     "year": "1994"
@@ -3066,8 +3066,8 @@ var data = [
     "affiliation": "Health eResearch Centre, Farr Institute for Health Informatics Research, University of Manchester",
     "stats": {
       "citations": [
-        "675",
-        "461"
+        "672",
+        "460"
       ],
       "hindex": [
         "11",
@@ -3107,7 +3107,7 @@ var data = [
     "stats": {
       "citations": [
         "16046",
-        "6195"
+        "6196"
       ],
       "hindex": [
         "68",
@@ -3126,8 +3126,8 @@ var data = [
     "affiliation": "Professor, University of Washington",
     "stats": {
       "citations": [
-        "3561",
-        "2039"
+        "3562",
+        "2041"
       ],
       "hindex": [
         "29",
@@ -3166,7 +3166,7 @@ var data = [
     "affiliation": "MSU",
     "stats": {
       "citations": [
-        "1297",
+        "1298",
         "1044"
       ],
       "hindex": [
@@ -3186,8 +3186,8 @@ var data = [
     "affiliation": "Chief Informatics and Innovation Officer, Apervita, Inc.",
     "stats": {
       "citations": [
-        "12580",
-        "6773"
+        "12593",
+        "6788"
       ],
       "hindex": [
         "50",
@@ -3206,8 +3206,8 @@ var data = [
     "affiliation": "Associate Professor of Nursing, University of Minnesota",
     "stats": {
       "citations": [
-        "1470",
-        "917"
+        "1469",
+        "916"
       ],
       "hindex": [
         "19",
@@ -3226,8 +3226,8 @@ var data = [
     "affiliation": "Comprehensive Cancer Institute of Rennes",
     "stats": {
       "citations": [
-        "395",
-        "368"
+        "397",
+        "370"
       ],
       "hindex": [
         "11",
@@ -3246,16 +3246,16 @@ var data = [
     "affiliation": "Clinical/Research Fellow. Clinical Islet Transplant Program. University of Alberta",
     "stats": {
       "citations": [
-        "8465",
-        "4783"
+        "8639",
+        "4848"
       ],
       "hindex": [
-        "40",
-        "32"
+        "42",
+        "33"
       ],
       "i10index": [
-        "163",
-        "95"
+        "165",
+        "97"
       ]
     },
     "year": "1993"
@@ -3286,8 +3286,8 @@ var data = [
     "affiliation": "Professor, Science of Healthcare Delivery & Biomedical Informatics, College of Health Solutions, ASU",
     "stats": {
       "citations": [
-        "13006",
-        "4281"
+        "13008",
+        "4284"
       ],
       "hindex": [
         "63",
@@ -3295,7 +3295,7 @@ var data = [
       ],
       "i10index": [
         "151",
-        "98"
+        "99"
       ]
     },
     "year": "1991"
@@ -3306,8 +3306,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, Biostatistics, and Computer Science, Vanderbilt",
     "stats": {
       "citations": [
-        "5250",
-        "3677"
+        "5253",
+        "3678"
       ],
       "hindex": [
         "41",
@@ -3326,8 +3326,8 @@ var data = [
     "affiliation": "Medical College of Wisconson",
     "stats": {
       "citations": [
-        "734",
-        "526"
+        "736",
+        "528"
       ],
       "hindex": [
         "12",
@@ -3346,8 +3346,8 @@ var data = [
     "affiliation": "Assistant Professor of Radiology & Health Sciences Informatics, Johns Hopkins School of Medicine",
     "stats": {
       "citations": [
-        "1928",
-        "1841"
+        "1933",
+        "1846"
       ],
       "hindex": [
         "22",
@@ -3366,8 +3366,8 @@ var data = [
     "affiliation": "Associate Professor, Indiana University; Research Scientist, Regenstrief Institute",
     "stats": {
       "citations": [
-        "1222",
-        "1063"
+        "1221",
+        "1062"
       ],
       "hindex": [
         "18",
@@ -3386,8 +3386,8 @@ var data = [
     "affiliation": "University of Toronto Scarborough",
     "stats": {
       "citations": [
-        "136",
-        "76"
+        "138",
+        "78"
       ],
       "hindex": [
         "6",
@@ -3406,8 +3406,8 @@ var data = [
     "affiliation": "Associate Professor at Wake Forest School of Medicine",
     "stats": {
       "citations": [
-        "1621",
-        "993"
+        "1622",
+        "994"
       ],
       "hindex": [
         "23",
@@ -3426,8 +3426,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "81555",
-        "72066"
+        "81664",
+        "72175"
       ],
       "hindex": [
         "123",
@@ -3446,7 +3446,7 @@ var data = [
     "affiliation": "CSU Channel Islands",
     "stats": {
       "citations": [
-        "476",
+        "477",
         "366"
       ],
       "hindex": [
@@ -3466,12 +3466,12 @@ var data = [
     "affiliation": "University Professor of Computer Science, University of Pittsburgh",
     "stats": {
       "citations": [
-        "48398",
-        "9831"
+        "48420",
+        "9849"
       ],
       "hindex": [
         "71",
-        "35"
+        "36"
       ],
       "i10index": [
         "189",
@@ -3506,8 +3506,8 @@ var data = [
     "affiliation": "Professor of Medicine and Biomedical Informatics, University of Utah",
     "stats": {
       "citations": [
-        "1654",
-        "551"
+        "1655",
+        "552"
       ],
       "hindex": [
         "17",
@@ -3526,8 +3526,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "5537",
-        "2850"
+        "5544",
+        "2855"
       ],
       "hindex": [
         "41",
@@ -3546,8 +3546,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "5537",
-        "2850"
+        "5544",
+        "2855"
       ],
       "hindex": [
         "41",
@@ -3566,8 +3566,8 @@ var data = [
     "affiliation": "Ph.D. Candidate, York University",
     "stats": {
       "citations": [
-        "35",
-        "35"
+        "36",
+        "36"
       ],
       "hindex": [
         "4",
@@ -3586,7 +3586,7 @@ var data = [
     "affiliation": "Professor of Computer Science,  Director of Data Science Research Center RPI",
     "stats": {
       "citations": [
-        "8420",
+        "8419",
         "4298"
       ],
       "hindex": [
@@ -3606,8 +3606,8 @@ var data = [
     "affiliation": "Associate Professor of Clinical Medicine, Indiana University",
     "stats": {
       "citations": [
-        "2723",
-        "1305"
+        "2724",
+        "1306"
       ],
       "hindex": [
         "25",
@@ -3626,8 +3626,8 @@ var data = [
     "affiliation": "Assistant Professor, Northeastern University",
     "stats": {
       "citations": [
-        "2615",
-        "2358"
+        "2624",
+        "2367"
       ],
       "hindex": [
         "26",
@@ -3666,8 +3666,8 @@ var data = [
     "affiliation": "Duke University",
     "stats": {
       "citations": [
-        "9192",
-        "885"
+        "9197",
+        "889"
       ],
       "hindex": [
         "45",
@@ -3726,8 +3726,8 @@ var data = [
     "affiliation": "Professor, University of Colorado School of Medicine",
     "stats": {
       "citations": [
-        "2075",
-        "933"
+        "2077",
+        "935"
       ],
       "hindex": [
         "15",
@@ -3766,8 +3766,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of Verona",
     "stats": {
       "citations": [
-        "2757",
-        "1158"
+        "2759",
+        "1160"
       ],
       "hindex": [
         "31",
@@ -3846,8 +3846,8 @@ var data = [
     "affiliation": "Librarian Assistant Professor & Head, Reference & Education Department, Calder Library, University of Miami",
     "stats": {
       "citations": [
-        "1067",
-        "685"
+        "1068",
+        "687"
       ],
       "hindex": [
         "2",
@@ -3866,8 +3866,8 @@ var data = [
     "affiliation": "Columbia University",
     "stats": {
       "citations": [
-        "12459",
-        "4918"
+        "12460",
+        "4919"
       ],
       "hindex": [
         "63",
@@ -3926,8 +3926,8 @@ var data = [
     "affiliation": "King's College London",
     "stats": {
       "citations": [
-        "1687",
-        "1280"
+        "1690",
+        "1284"
       ],
       "hindex": [
         "16",
@@ -3946,8 +3946,8 @@ var data = [
     "affiliation": "Mayo Clinic",
     "stats": {
       "citations": [
-        "376",
-        "237"
+        "377",
+        "238"
       ],
       "hindex": [
         "9",
@@ -3966,8 +3966,8 @@ var data = [
     "affiliation": "Mayo Clinic",
     "stats": {
       "citations": [
-        "376",
-        "237"
+        "377",
+        "238"
       ],
       "hindex": [
         "9",
@@ -3986,8 +3986,8 @@ var data = [
     "affiliation": "Associate Professor, Karolinska Institutet",
     "stats": {
       "citations": [
-        "9133",
-        "7017"
+        "9150",
+        "7035"
       ],
       "hindex": [
         "39",
@@ -4046,8 +4046,8 @@ var data = [
     "affiliation": "Board of Governors Professor of Computer Science, Rutgers - The State University of New Jersey",
     "stats": {
       "citations": [
-        "8466",
-        "1695"
+        "8469",
+        "1698"
       ],
       "hindex": [
         "29",
@@ -4066,8 +4066,8 @@ var data = [
     "affiliation": "Executive Director, OpenNotes",
     "stats": {
       "citations": [
-        "11789",
-        "5946"
+        "11794",
+        "5951"
       ],
       "hindex": [
         "46",
@@ -4106,8 +4106,8 @@ var data = [
     "affiliation": "University of Wisconsin-Madison",
     "stats": {
       "citations": [
-        "1009",
-        "525"
+        "1008",
+        "523"
       ],
       "hindex": [
         "17",
@@ -4126,16 +4126,16 @@ var data = [
     "affiliation": "Curtin University",
     "stats": {
       "citations": [
-        "18001",
-        "12131"
+        "18010",
+        "12137"
       ],
       "hindex": [
         "40",
         "36"
       ],
       "i10index": [
-        "531",
-        "385"
+        "532",
+        "386"
       ]
     },
     "year": "1995"
@@ -4166,8 +4166,8 @@ var data = [
     "affiliation": "Mathematics Department, Aristotle University of Thesssaloniki & Open Knowledge Greece",
     "stats": {
       "citations": [
-        "789",
-        "588"
+        "790",
+        "589"
       ],
       "hindex": [
         "13",
@@ -4186,8 +4186,8 @@ var data = [
     "affiliation": "University of Uath",
     "stats": {
       "citations": [
-        "3141",
-        "1657"
+        "3144",
+        "1660"
       ],
       "hindex": [
         "28",
@@ -4206,7 +4206,7 @@ var data = [
     "affiliation": "Department of Computer Science, Oxford University",
     "stats": {
       "citations": [
-        "867",
+        "866",
         "625"
       ],
       "hindex": [
@@ -4246,16 +4246,16 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "5839",
-        "1780"
+        "5868",
+        "1808"
       ],
       "hindex": [
         "37",
         "22"
       ],
       "i10index": [
-        "100",
-        "42"
+        "101",
+        "43"
       ]
     },
     "year": "1983"
@@ -4266,8 +4266,8 @@ var data = [
     "affiliation": "University of Pennsylvania",
     "stats": {
       "citations": [
-        "3192",
-        "1386"
+        "3189",
+        "1385"
       ],
       "hindex": [
         "28",
@@ -4286,8 +4286,8 @@ var data = [
     "affiliation": "Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "7072",
-        "2065"
+        "7068",
+        "2061"
       ],
       "hindex": [
         "45",
@@ -4346,8 +4346,8 @@ var data = [
     "affiliation": "University of Illinois at Urbana-Champaign",
     "stats": {
       "citations": [
-        "27662",
-        "16421"
+        "27689",
+        "16447"
       ],
       "hindex": [
         "76",
@@ -4366,8 +4366,8 @@ var data = [
     "affiliation": "Embedded Intelligence, LLC",
     "stats": {
       "citations": [
-        "245",
-        "234"
+        "246",
+        "235"
       ],
       "hindex": [
         "9",
@@ -4406,8 +4406,8 @@ var data = [
     "affiliation": "Amara Home Care",
     "stats": {
       "citations": [
-        "656",
-        "311"
+        "657",
+        "312"
       ],
       "hindex": [
         "9",
@@ -4446,16 +4446,16 @@ var data = [
     "affiliation": "Bloomberg Distinguished Professor of Health Informatics, Johns Hopkins",
     "stats": {
       "citations": [
-        "23954",
-        "11044"
+        "23957",
+        "11047"
       ],
       "hindex": [
         "72",
         "48"
       ],
       "i10index": [
-        "249",
-        "176"
+        "250",
+        "177"
       ]
     },
     "year": "1991"
@@ -4466,8 +4466,8 @@ var data = [
     "affiliation": "UC San Diego",
     "stats": {
       "citations": [
-        "1481",
-        "1250"
+        "1482",
+        "1251"
       ],
       "hindex": [
         "20",
@@ -4486,7 +4486,7 @@ var data = [
     "affiliation": "Group Head, Global Health Informatics, University of Oxford",
     "stats": {
       "citations": [
-        "524",
+        "523",
         "430"
       ],
       "hindex": [
@@ -4506,8 +4506,8 @@ var data = [
     "affiliation": "Health Informatician, BMJ Group",
     "stats": {
       "citations": [
-        "5062",
-        "1316"
+        "5065",
+        "1319"
       ],
       "hindex": [
         "27",
@@ -4526,8 +4526,8 @@ var data = [
     "affiliation": "Professor, university of Geneva and university hospitals of Geneva",
     "stats": {
       "citations": [
-        "4993",
-        "2135"
+        "4995",
+        "2136"
       ],
       "hindex": [
         "37",
@@ -4546,7 +4546,7 @@ var data = [
     "affiliation": "University of Southern Denmark",
     "stats": {
       "citations": [
-        "1514",
+        "1513",
         "911"
       ],
       "hindex": [
@@ -4586,8 +4586,8 @@ var data = [
     "affiliation": "Professor, Biomedical Informatics and Pediatrics, Vanderbilt University Medical Center",
     "stats": {
       "citations": [
-        "6141",
-        "4263"
+        "6149",
+        "4268"
       ],
       "hindex": [
         "41",
@@ -4626,8 +4626,8 @@ var data = [
     "affiliation": "Professor of Radiology, Stanford University",
     "stats": {
       "citations": [
-        "9835",
-        "3494"
+        "9838",
+        "3497"
       ],
       "hindex": [
         "51",
@@ -4635,7 +4635,7 @@ var data = [
       ],
       "i10index": [
         "128",
-        "85"
+        "86"
       ]
     },
     "year": "1997"
@@ -4646,8 +4646,8 @@ var data = [
     "affiliation": "Emory University",
     "stats": {
       "citations": [
-        "12915",
-        "10127"
+        "12933",
+        "10146"
       ],
       "hindex": [
         "51",
@@ -4666,8 +4666,8 @@ var data = [
     "affiliation": "Associate Professor of Health Policy and Management, Indiana University Richard M. Fairbanks School",
     "stats": {
       "citations": [
-        "522",
-        "485"
+        "521",
+        "484"
       ],
       "hindex": [
         "14",
@@ -4686,8 +4686,8 @@ var data = [
     "affiliation": "Clinical Assist Professor of Neurology, Stanford University",
     "stats": {
       "citations": [
-        "1179",
-        "708"
+        "1180",
+        "707"
       ],
       "hindex": [
         "8",
@@ -4746,7 +4746,7 @@ var data = [
     "affiliation": "Director of Research, Outcome Health",
     "stats": {
       "citations": [
-        "1272",
+        "1273",
         "891"
       ],
       "hindex": [
@@ -4826,8 +4826,8 @@ var data = [
     "affiliation": "University of California, San Diego",
     "stats": {
       "citations": [
-        "5355",
-        "1770"
+        "5359",
+        "1771"
       ],
       "hindex": [
         "31",
@@ -4866,8 +4866,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, Columbia University",
     "stats": {
       "citations": [
-        "2923",
-        "2469"
+        "2927",
+        "2473"
       ],
       "hindex": [
         "28",
@@ -4927,7 +4927,7 @@ var data = [
     "stats": {
       "citations": [
         "18529",
-        "4756"
+        "4755"
       ],
       "hindex": [
         "68",
@@ -4946,8 +4946,8 @@ var data = [
     "affiliation": "FURG",
     "stats": {
       "citations": [
-        "67",
-        "45"
+        "69",
+        "46"
       ],
       "hindex": [
         "4",
@@ -4966,8 +4966,8 @@ var data = [
     "affiliation": "Professor of Population Health, Faculty of Health, Victoria University of Wellington",
     "stats": {
       "citations": [
-        "3833",
-        "2387"
+        "3832",
+        "2388"
       ],
       "hindex": [
         "36",
@@ -4975,7 +4975,7 @@ var data = [
       ],
       "i10index": [
         "65",
-        "55"
+        "56"
       ]
     },
     "year": "2003"
@@ -4986,8 +4986,8 @@ var data = [
     "affiliation": "University of Catania",
     "stats": {
       "citations": [
-        "2415",
-        "1891"
+        "2414",
+        "1890"
       ],
       "hindex": [
         "27",
@@ -5046,16 +5046,16 @@ var data = [
     "affiliation": "Professor and Associate Chair for Information Systems, Department of Radiology, Stanford University",
     "stats": {
       "citations": [
-        "5713",
-        "1980"
+        "5720",
+        "1989"
       ],
       "hindex": [
         "41",
         "23"
       ],
       "i10index": [
-        "93",
-        "49"
+        "94",
+        "50"
       ]
     },
     "year": "1986"
@@ -5146,8 +5146,8 @@ var data = [
     "affiliation": "Affiliate Professor, Biomedical and Health Informatics, University of Washington, Seattle",
     "stats": {
       "citations": [
-        "6897",
-        "4301"
+        "6896",
+        "4300"
       ],
       "hindex": [
         "39",
@@ -5166,8 +5166,8 @@ var data = [
     "affiliation": "Pediatric Emergency Medicine Associates - PEMA LLC",
     "stats": {
       "citations": [
-        "572",
-        "484"
+        "573",
+        "485"
       ],
       "hindex": [
         "14",
@@ -5186,8 +5186,8 @@ var data = [
     "affiliation": "Raj Soin College of Business, Wright State University",
     "stats": {
       "citations": [
-        "107",
-        "104"
+        "106",
+        "103"
       ],
       "hindex": [
         "6",
@@ -5206,8 +5206,8 @@ var data = [
     "affiliation": "Associate Professor at Pontificia Universidad Catolica de Chile",
     "stats": {
       "citations": [
-        "822",
-        "688"
+        "825",
+        "691"
       ],
       "hindex": [
         "13",
@@ -5226,7 +5226,7 @@ var data = [
     "affiliation": "Faculty, Keck School of Medicine, University of Southern California",
     "stats": {
       "citations": [
-        "821",
+        "822",
         "224"
       ],
       "hindex": [
@@ -5266,11 +5266,11 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "11733",
-        "7252"
+        "11743",
+        "7257"
       ],
       "hindex": [
-        "52",
+        "53",
         "41"
       ],
       "i10index": [
@@ -5286,8 +5286,8 @@ var data = [
     "affiliation": "CIO - Hospital Italiano de Buenos Aires",
     "stats": {
       "citations": [
-        "964",
-        "509"
+        "967",
+        "512"
       ],
       "hindex": [
         "15",
@@ -5306,8 +5306,8 @@ var data = [
     "affiliation": "Chief Information Officer, Boston Children's Hospital; Assistant Professor, Harvard Medical School",
     "stats": {
       "citations": [
-        "1033",
-        "456"
+        "1035",
+        "457"
       ],
       "hindex": [
         "13",
@@ -5346,8 +5346,8 @@ var data = [
     "affiliation": "Baylor College of Medicine; Michael E. DeBakey VA Medical Center",
     "stats": {
       "citations": [
-        "692",
-        "650"
+        "694",
+        "652"
       ],
       "hindex": [
         "15",
@@ -5386,7 +5386,7 @@ var data = [
     "affiliation": "Assistant Clinical Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "5544",
+        "5546",
         "2295"
       ],
       "hindex": [
@@ -5406,7 +5406,7 @@ var data = [
     "affiliation": "Professor of Artificial Intelligence at the University of Catania",
     "stats": {
       "citations": [
-        "2622",
+        "2623",
         "1747"
       ],
       "hindex": [
@@ -5415,7 +5415,7 @@ var data = [
       ],
       "i10index": [
         "74",
-        "51"
+        "50"
       ]
     },
     "year": "1997"
@@ -5426,8 +5426,8 @@ var data = [
     "affiliation": "Professor",
     "stats": {
       "citations": [
-        "2323",
-        "1359"
+        "2321",
+        "1356"
       ],
       "hindex": [
         "21",
@@ -5447,7 +5447,7 @@ var data = [
     "stats": {
       "citations": [
         "680",
-        "657"
+        "656"
       ],
       "hindex": [
         "13",
@@ -5506,8 +5506,8 @@ var data = [
     "affiliation": "Associate Professor AUT",
     "stats": {
       "citations": [
-        "1043",
-        "506"
+        "1042",
+        "505"
       ],
       "hindex": [
         "13",
@@ -5526,8 +5526,8 @@ var data = [
     "affiliation": "University of Michigan",
     "stats": {
       "citations": [
-        "2935",
-        "2310"
+        "2938",
+        "2314"
       ],
       "hindex": [
         "28",
@@ -5547,7 +5547,7 @@ var data = [
     "stats": {
       "citations": [
         "1497",
-        "1094"
+        "1095"
       ],
       "hindex": [
         "14",
@@ -5586,16 +5586,16 @@ var data = [
     "affiliation": "Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "107733",
-        "47090"
+        "107762",
+        "47122"
       ],
       "hindex": [
         "147",
         "107"
       ],
       "i10index": [
-        "683",
-        "552"
+        "684",
+        "554"
       ]
     },
     "year": "1997"
@@ -5606,8 +5606,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "464",
-        "300"
+        "465",
+        "301"
       ],
       "hindex": [
         "8",
@@ -5626,8 +5626,8 @@ var data = [
     "affiliation": "associate professor of medicine university of utah",
     "stats": {
       "citations": [
-        "23438",
-        "8299"
+        "23442",
+        "8308"
       ],
       "hindex": [
         "64",
@@ -5646,12 +5646,12 @@ var data = [
     "affiliation": "University of Newcastle",
     "stats": {
       "citations": [
-        "2000",
-        "1295"
+        "2002",
+        "1297"
       ],
       "hindex": [
         "24",
-        "18"
+        "19"
       ],
       "i10index": [
         "58",
@@ -5666,8 +5666,8 @@ var data = [
     "affiliation": "OHSU",
     "stats": {
       "citations": [
-        "3025",
-        "1313"
+        "3027",
+        "1317"
       ],
       "hindex": [
         "24",
@@ -5686,8 +5686,8 @@ var data = [
     "affiliation": "Professor, New York University",
     "stats": {
       "citations": [
-        "8605",
-        "4164"
+        "8620",
+        "4180"
       ],
       "hindex": [
         "46",
@@ -5706,8 +5706,8 @@ var data = [
     "affiliation": "Senior Research Fellow, University of Western Australia",
     "stats": {
       "citations": [
-        "848",
-        "562"
+        "852",
+        "566"
       ],
       "hindex": [
         "14",
@@ -5726,8 +5726,8 @@ var data = [
     "affiliation": "University of North Carolina at Chapel Hill",
     "stats": {
       "citations": [
-        "3057",
-        "2118"
+        "3062",
+        "2122"
       ],
       "hindex": [
         "29",
@@ -5746,8 +5746,8 @@ var data = [
     "affiliation": "Assistant Professor of Neurology, Psychiatry, Biomedical Informatics, Emory University",
     "stats": {
       "citations": [
-        "6804",
-        "4751"
+        "6814",
+        "4762"
       ],
       "hindex": [
         "40",
@@ -5766,8 +5766,8 @@ var data = [
     "affiliation": "CEO, Australian E-Health Research Centre, CSIRO ICT Centre",
     "stats": {
       "citations": [
-        "757",
-        "417"
+        "759",
+        "418"
       ],
       "hindex": [
         "15",
@@ -5786,8 +5786,8 @@ var data = [
     "affiliation": "Microsoft Research",
     "stats": {
       "citations": [
-        "69772",
-        "28837"
+        "69742",
+        "28810"
       ],
       "hindex": [
         "113",
@@ -5795,7 +5795,7 @@ var data = [
       ],
       "i10index": [
         "348",
-        "261"
+        "262"
       ]
     },
     "year": "1992"
@@ -5806,16 +5806,16 @@ var data = [
     "affiliation": "CMIO/VP, The MetroHealth System; Prof. Med-Peds & PQHS @ CWRU",
     "stats": {
       "citations": [
-        "2930",
-        "1976"
+        "2943",
+        "1989"
       ],
       "hindex": [
         "20",
         "18"
       ],
       "i10index": [
-        "36",
-        "28"
+        "35",
+        "27"
       ]
     },
     "year": "2005"
@@ -5826,8 +5826,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, University of Chicago",
     "stats": {
       "citations": [
-        "720",
-        "558"
+        "719",
+        "557"
       ],
       "hindex": [
         "14",
@@ -5846,7 +5846,7 @@ var data = [
     "affiliation": "Associate Consulting Professor, Duke University",
     "stats": {
       "citations": [
-        "6486",
+        "6485",
         "2951"
       ],
       "hindex": [
@@ -5886,8 +5886,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "464",
-        "300"
+        "465",
+        "301"
       ],
       "hindex": [
         "8",
@@ -5906,8 +5906,8 @@ var data = [
     "affiliation": "CIBER Research Ltd",
     "stats": {
       "citations": [
-        "9692",
-        "4449"
+        "9707",
+        "4459"
       ],
       "hindex": [
         "51",
@@ -5926,8 +5926,8 @@ var data = [
     "affiliation": "Assistant Professor of Medicine, Division of Cardiology, University of Colorado",
     "stats": {
       "citations": [
-        "1047",
-        "759"
+        "1050",
+        "761"
       ],
       "hindex": [
         "18",
@@ -5966,16 +5966,16 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics Arizona State University",
     "stats": {
       "citations": [
-        "4677",
-        "1885"
+        "4681",
+        "1889"
       ],
       "hindex": [
         "36",
         "22"
       ],
       "i10index": [
-        "74",
-        "52"
+        "75",
+        "53"
       ]
     },
     "year": "1995"
@@ -5986,16 +5986,16 @@ var data = [
     "affiliation": "Associate Professor, Universitat Rovira i Virgili",
     "stats": {
       "citations": [
-        "1065",
-        "490"
+        "1048",
+        "477"
       ],
       "hindex": [
         "14",
         "9"
       ],
       "i10index": [
-        "29",
-        "8"
+        "28",
+        "9"
       ]
     },
     "year": "1997"
@@ -6006,8 +6006,8 @@ var data = [
     "affiliation": "Head of Data Science @ Bayer",
     "stats": {
       "citations": [
-        "3797",
-        "2028"
+        "3796",
+        "2030"
       ],
       "hindex": [
         "16",
@@ -6026,8 +6026,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, Columbia University",
     "stats": {
       "citations": [
-        "2339",
-        "2056"
+        "2342",
+        "2059"
       ],
       "hindex": [
         "25",
@@ -6046,8 +6046,8 @@ var data = [
     "affiliation": "Christopher Sarofim Family Professor of Biomedical Informatics and Bioengineering, Univ Texas",
     "stats": {
       "citations": [
-        "15458",
-        "8477"
+        "15466",
+        "8485"
       ],
       "hindex": [
         "65",
@@ -6066,8 +6066,8 @@ var data = [
     "affiliation": "Department of Biomedical and Health Informatics, The Children's Hospital of Philadelphia",
     "stats": {
       "citations": [
-        "3960",
-        "2069"
+        "3968",
+        "2077"
       ],
       "hindex": [
         "19",
@@ -6106,8 +6106,8 @@ var data = [
     "affiliation": "Associate Professor, University of Texas Health Science Center at Houston",
     "stats": {
       "citations": [
-        "2790",
-        "2364"
+        "2791",
+        "2365"
       ],
       "hindex": [
         "25",
@@ -6126,8 +6126,8 @@ var data = [
     "affiliation": "University Grenoble Alpes",
     "stats": {
       "citations": [
-        "7301",
-        "2484"
+        "7310",
+        "2488"
       ],
       "hindex": [
         "41",
@@ -6146,8 +6146,8 @@ var data = [
     "affiliation": "Associate Professor, Stanford University",
     "stats": {
       "citations": [
-        "4119",
-        "2283"
+        "4124",
+        "2288"
       ],
       "hindex": [
         "29",
@@ -6166,8 +6166,8 @@ var data = [
     "affiliation": "Associate Professor: Computer Science, University of Cape Town",
     "stats": {
       "citations": [
-        "599",
-        "342"
+        "598",
+        "341"
       ],
       "hindex": [
         "10",
@@ -6186,12 +6186,12 @@ var data = [
     "affiliation": "University of California, San Francisco",
     "stats": {
       "citations": [
-        "3172",
-        "2252"
+        "3177",
+        "2256"
       ],
       "hindex": [
-        "18",
-        "17"
+        "19",
+        "18"
       ],
       "i10index": [
         "22",
@@ -6206,8 +6206,8 @@ var data = [
     "affiliation": "Spanish National Cancer Research Centre (CNIO), Bioinformatics Unit",
     "stats": {
       "citations": [
-        "293",
-        "189"
+        "292",
+        "188"
       ],
       "hindex": [
         "12",
@@ -6215,7 +6215,7 @@ var data = [
       ],
       "i10index": [
         "14",
-        "9"
+        "8"
       ]
     },
     "year": "2009"
@@ -6226,8 +6226,8 @@ var data = [
     "affiliation": "University of Cauca, Colombia",
     "stats": {
       "citations": [
-        "578",
-        "335"
+        "580",
+        "337"
       ],
       "hindex": [
         "11",
@@ -6246,8 +6246,8 @@ var data = [
     "affiliation": "Department of Visceral-, Transplant- and Thoracic Surgery, Innsbruck Medical University",
     "stats": {
       "citations": [
-        "6209",
-        "2176"
+        "6210",
+        "2177"
       ],
       "hindex": [
         "44",
@@ -6266,8 +6266,8 @@ var data = [
     "affiliation": "Senior Clinical Fellow, Department of HPB Surgery and Liver Transplantation, Royal Free Hospital",
     "stats": {
       "citations": [
-        "3511",
-        "3141"
+        "3521",
+        "3151"
       ],
       "hindex": [
         "28",
@@ -6286,8 +6286,8 @@ var data = [
     "affiliation": "Assistant Professor, Central Michigan University",
     "stats": {
       "citations": [
-        "1880",
-        "1770"
+        "1884",
+        "1774"
       ],
       "hindex": [
         "7",
@@ -6306,8 +6306,8 @@ var data = [
     "affiliation": "National Library of Medicine",
     "stats": {
       "citations": [
-        "5134",
-        "3313"
+        "5137",
+        "3314"
       ],
       "hindex": [
         "37",
@@ -6386,7 +6386,7 @@ var data = [
     "affiliation": "Queens University Belfast",
     "stats": {
       "citations": [
-        "67",
+        "66",
         "50"
       ],
       "hindex": [
@@ -6426,7 +6426,7 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "2005",
+        "2004",
         "252"
       ],
       "hindex": [
@@ -6467,7 +6467,7 @@ var data = [
     "stats": {
       "citations": [
         "767",
-        "320"
+        "321"
       ],
       "hindex": [
         "8",
@@ -6506,8 +6506,8 @@ var data = [
     "affiliation": "University of Rochester Medical Center",
     "stats": {
       "citations": [
-        "6208",
-        "4288"
+        "6218",
+        "4300"
       ],
       "hindex": [
         "37",
@@ -6526,8 +6526,8 @@ var data = [
     "affiliation": "Professor Emeritus of Biochemistry and Medicine, Stanford University",
     "stats": {
       "citations": [
-        "12722",
-        "2078"
+        "12717",
+        "2077"
       ],
       "hindex": [
         "54",
@@ -6546,8 +6546,8 @@ var data = [
     "affiliation": "Professor of Medicine, Biostatistics, Biomedical Informatics and Clinical and Translational Science",
     "stats": {
       "citations": [
-        "5309",
-        "2608"
+        "5312",
+        "2612"
       ],
       "hindex": [
         "39",
@@ -6586,8 +6586,8 @@ var data = [
     "affiliation": "Director, Biomedical Informatics, UCLA Clinical Translational Sci. Inst; Assoc Prof Dept of Medicine",
     "stats": {
       "citations": [
-        "4775",
-        "2512"
+        "4771",
+        "2511"
       ],
       "hindex": [
         "40",
@@ -6666,8 +6666,8 @@ var data = [
     "affiliation": "Associate Professor and Health IT Consultant,  Graduate Institute of Biomedical Informatics, Taipei",
     "stats": {
       "citations": [
-        "835",
-        "784"
+        "837",
+        "786"
       ],
       "hindex": [
         "16",
@@ -6686,7 +6686,7 @@ var data = [
     "affiliation": "Senior Lecturer in Medical Statistics, King's College London",
     "stats": {
       "citations": [
-        "1295",
+        "1294",
         "916"
       ],
       "hindex": [
@@ -6706,7 +6706,7 @@ var data = [
     "affiliation": "Sidra Medical and Research Center ( Sidra Medicine)",
     "stats": {
       "citations": [
-        "300",
+        "301",
         "246"
       ],
       "hindex": [
@@ -6726,8 +6726,8 @@ var data = [
     "affiliation": "Senior Lecturer, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka",
     "stats": {
       "citations": [
-        "4467",
-        "4436"
+        "4457",
+        "4425"
       ],
       "hindex": [
         "15",
@@ -6886,8 +6886,8 @@ var data = [
     "affiliation": "Associate Professor in Biomedical Informatics, University College London",
     "stats": {
       "citations": [
-        "2487",
-        "2421"
+        "2488",
+        "2422"
       ],
       "hindex": [
         "21",
@@ -6946,8 +6946,8 @@ var data = [
     "affiliation": "Professor, Department of Computer Science, Faculty of Electronic Engineering, University of Nis",
     "stats": {
       "citations": [
-        "572",
-        "232"
+        "573",
+        "233"
       ],
       "hindex": [
         "12",
@@ -6967,7 +6967,7 @@ var data = [
     "stats": {
       "citations": [
         "3254",
-        "1081"
+        "1083"
       ],
       "hindex": [
         "19",
@@ -6986,8 +6986,8 @@ var data = [
     "affiliation": "Postdoctoral fellow at UCSF",
     "stats": {
       "citations": [
-        "1187",
-        "1120"
+        "1189",
+        "1121"
       ],
       "hindex": [
         "11",
@@ -7026,8 +7026,8 @@ var data = [
     "affiliation": "Augusta University",
     "stats": {
       "citations": [
-        "8505",
-        "3335"
+        "8506",
+        "3337"
       ],
       "hindex": [
         "32",
@@ -7046,16 +7046,16 @@ var data = [
     "affiliation": "University of Washington - Institute of Translational Health Science",
     "stats": {
       "citations": [
-        "21045",
-        "13151"
+        "21075",
+        "13183"
       ],
       "hindex": [
         "60",
         "45"
       ],
       "i10index": [
-        "461",
-        "330"
+        "463",
+        "331"
       ]
     },
     "year": "1996"
@@ -7106,8 +7106,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, part-time, Harvard",
     "stats": {
       "citations": [
-        "1115",
-        "244"
+        "1116",
+        "245"
       ],
       "hindex": [
         "16",
@@ -7146,8 +7146,8 @@ var data = [
     "affiliation": "Radboud University Nijmegen",
     "stats": {
       "citations": [
-        "3696",
-        "1485"
+        "3701",
+        "1489"
       ],
       "hindex": [
         "33",
@@ -7187,7 +7187,7 @@ var data = [
     "stats": {
       "citations": [
         "311",
-        "152"
+        "153"
       ],
       "hindex": [
         "9",
@@ -7206,7 +7206,7 @@ var data = [
     "affiliation": "Professor, School of Health Information Science; Director, Social Dimensions of Health Program",
     "stats": {
       "citations": [
-        "4069",
+        "4071",
         "2613"
       ],
       "hindex": [
@@ -7246,8 +7246,8 @@ var data = [
     "affiliation": "The University of Texas Health Science Center at Houston",
     "stats": {
       "citations": [
-        "3907",
-        "2294"
+        "3911",
+        "2298"
       ],
       "hindex": [
         "28",
@@ -7266,8 +7266,8 @@ var data = [
     "affiliation": "UMIT - University for Health Sciences, Medical Informatics and Technology, Hall in Tirol, Austria",
     "stats": {
       "citations": [
-        "8580",
-        "4650"
+        "8579",
+        "4654"
       ],
       "hindex": [
         "42",
@@ -7286,8 +7286,8 @@ var data = [
     "affiliation": "Lecturer, School of Information Systems, Deakin University",
     "stats": {
       "citations": [
-        "712",
-        "351"
+        "713",
+        "352"
       ],
       "hindex": [
         "13",
@@ -7307,7 +7307,7 @@ var data = [
     "stats": {
       "citations": [
         "2854",
-        "1508"
+        "1509"
       ],
       "hindex": [
         "18",
@@ -7326,8 +7326,8 @@ var data = [
     "affiliation": "Associate Professor, School of Health and Rehabilitation Sciences, College of Medicine, Ohio State",
     "stats": {
       "citations": [
-        "6398",
-        "3039"
+        "6404",
+        "3045"
       ],
       "hindex": [
         "35",
@@ -7406,8 +7406,8 @@ var data = [
     "affiliation": "Department of Public Health, CHRU Lille; Univ Lille Nord de France; EA 2694; Lille, France",
     "stats": {
       "citations": [
-        "463",
-        "350"
+        "464",
+        "351"
       ],
       "hindex": [
         "12",
@@ -7426,7 +7426,7 @@ var data = [
     "affiliation": "Associate Professor of Biostatistics and Medical Informatics and Pediatrics, University of Wisconsin",
     "stats": {
       "citations": [
-        "2707",
+        "2708",
         "1670"
       ],
       "hindex": [
@@ -7466,8 +7466,8 @@ var data = [
     "affiliation": "Macquarie University",
     "stats": {
       "citations": [
-        "13526",
-        "6860"
+        "13533",
+        "6866"
       ],
       "hindex": [
         "58",
@@ -7526,7 +7526,7 @@ var data = [
     "affiliation": "[SAIC-Frederick] Director - NCI Center for Cancer Research Bioinformatics Core",
     "stats": {
       "citations": [
-        "3170",
+        "3168",
         "1617"
       ],
       "hindex": [
@@ -7546,8 +7546,8 @@ var data = [
     "affiliation": "Microsoft Research",
     "stats": {
       "citations": [
-        "62780",
-        "32144"
+        "62828",
+        "32189"
       ],
       "hindex": [
         "131",
@@ -7566,12 +7566,12 @@ var data = [
     "affiliation": "Deputy Director and Director of Digital Health Innovation – Center for Healthcare Innovation, Wake",
     "stats": {
       "citations": [
-        "630",
-        "619"
+        "631",
+        "620"
       ],
       "hindex": [
-        "13",
-        "13"
+        "14",
+        "14"
       ],
       "i10index": [
         "16",
@@ -7586,8 +7586,8 @@ var data = [
     "affiliation": "Duke Medicine",
     "stats": {
       "citations": [
-        "7432",
-        "3710"
+        "7437",
+        "3716"
       ],
       "hindex": [
         "41",
@@ -7606,8 +7606,8 @@ var data = [
     "affiliation": "Associate Professor, Cincinnati Children's Hospital Medical Center",
     "stats": {
       "citations": [
-        "819",
-        "639"
+        "821",
+        "641"
       ],
       "hindex": [
         "16",
@@ -7646,8 +7646,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "665",
-        "647"
+        "666",
+        "648"
       ],
       "hindex": [
         "9",
@@ -7666,8 +7666,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "2993",
-        "2515"
+        "3000",
+        "2522"
       ],
       "hindex": [
         "27",
@@ -7675,7 +7675,7 @@ var data = [
       ],
       "i10index": [
         "69",
-        "63"
+        "64"
       ]
     },
     "year": "2007"
@@ -7706,8 +7706,8 @@ var data = [
     "affiliation": "University of Alabama at Birmingham",
     "stats": {
       "citations": [
-        "4207",
-        "2057"
+        "4210",
+        "2060"
       ],
       "hindex": [
         "28",
@@ -7726,11 +7726,11 @@ var data = [
     "affiliation": "Senior Investigator, NCBI, NIH",
     "stats": {
       "citations": [
-        "164330",
-        "62717"
+        "164441",
+        "62831"
       ],
       "hindex": [
-        "196",
+        "195",
         "115"
       ],
       "i10index": [
@@ -7746,11 +7746,11 @@ var data = [
     "affiliation": "University of Maryland",
     "stats": {
       "citations": [
-        "1247",
-        "1209"
+        "1255",
+        "1217"
       ],
       "hindex": [
-        "15",
+        "16",
         "15"
       ],
       "i10index": [
@@ -7786,8 +7786,8 @@ var data = [
     "affiliation": "independent",
     "stats": {
       "citations": [
-        "40",
-        "38"
+        "41",
+        "39"
       ],
       "hindex": [
         "3",
@@ -7806,8 +7806,8 @@ var data = [
     "affiliation": "University of Washington",
     "stats": {
       "citations": [
-        "103",
-        "101"
+        "104",
+        "102"
       ],
       "hindex": [
         "5",
@@ -7846,8 +7846,8 @@ var data = [
     "affiliation": "Macquarie University",
     "stats": {
       "citations": [
-        "1861",
-        "1309"
+        "1863",
+        "1311"
       ],
       "hindex": [
         "23",
@@ -7946,7 +7946,7 @@ var data = [
     "affiliation": "Professor of Health Informatics, College of Computer Science and Technology, Jilin University",
     "stats": {
       "citations": [
-        "1713",
+        "1712",
         "983"
       ],
       "hindex": [
@@ -7966,8 +7966,8 @@ var data = [
     "affiliation": "Professor of Medical Physics and Informatics, University of Szeged",
     "stats": {
       "citations": [
-        "4516",
-        "1949"
+        "4519",
+        "1952"
       ],
       "hindex": [
         "37",
@@ -7986,8 +7986,8 @@ var data = [
     "affiliation": "Instituto de Salud Carlos III",
     "stats": {
       "citations": [
-        "2688",
-        "1458"
+        "2692",
+        "1462"
       ],
       "hindex": [
         "25",
@@ -8026,7 +8026,7 @@ var data = [
     "affiliation": "Hospital Italiano de Buenos Aires",
     "stats": {
       "citations": [
-        "1017",
+        "1018",
         "617"
       ],
       "hindex": [
@@ -8046,8 +8046,8 @@ var data = [
     "affiliation": "Faculty of internal medicine and dermatology, King Faisal University, associate professor, Amrita",
     "stats": {
       "citations": [
-        "832",
-        "708"
+        "833",
+        "709"
       ],
       "hindex": [
         "14",
@@ -8066,8 +8066,8 @@ var data = [
     "affiliation": "Director, Research Programme on Biomedical Informatics (GRIB), IMIM, Universitat Pompeu Fabra, Barcelona",
     "stats": {
       "citations": [
-        "5174",
-        "2658"
+        "5184",
+        "2668"
       ],
       "hindex": [
         "37",
@@ -8086,8 +8086,8 @@ var data = [
     "affiliation": "Assistant Professor, Harvard",
     "stats": {
       "citations": [
-        "1891",
-        "1616"
+        "1906",
+        "1631"
       ],
       "hindex": [
         "24",
@@ -8106,8 +8106,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of Copenhagen, Denmark",
     "stats": {
       "citations": [
-        "3986",
-        "1498"
+        "3988",
+        "1500"
       ],
       "hindex": [
         "24",
@@ -8206,8 +8206,8 @@ var data = [
     "affiliation": "Luxembourg Institute of Health (LIH), Luxembourg",
     "stats": {
       "citations": [
-        "4977",
-        "2409"
+        "4979",
+        "2410"
       ],
       "hindex": [
         "36",
@@ -8266,8 +8266,8 @@ var data = [
     "affiliation": "University of St Andrews",
     "stats": {
       "citations": [
-        "9756",
-        "4928"
+        "9761",
+        "4933"
       ],
       "hindex": [
         "41",
@@ -8286,8 +8286,8 @@ var data = [
     "affiliation": "Brigham and Women's Hospital, Division of General Internal Medicine and Primary Care and Lausanne University Hospital, Department of Medicine",
     "stats": {
       "citations": [
-        "1632",
-        "1564"
+        "1633",
+        "1565"
       ],
       "hindex": [
         "14",
@@ -8306,8 +8306,8 @@ var data = [
     "affiliation": "Lipscomb University",
     "stats": {
       "citations": [
-        "172",
-        "169"
+        "173",
+        "170"
       ],
       "hindex": [
         "8",
@@ -8326,8 +8326,8 @@ var data = [
     "affiliation": "Professor, Vrije Universiteit Brussel",
     "stats": {
       "citations": [
-        "822",
-        "304"
+        "824",
+        "306"
       ],
       "hindex": [
         "16",
@@ -8347,7 +8347,7 @@ var data = [
     "stats": {
       "citations": [
         "4891",
-        "1412"
+        "1415"
       ],
       "hindex": [
         "35",
@@ -8366,8 +8366,8 @@ var data = [
     "affiliation": "Ag. Director, Kenyatta University Hospital, Kenyatta Universityrsity",
     "stats": {
       "citations": [
-        "246",
-        "170"
+        "247",
+        "171"
       ],
       "hindex": [
         "6",
@@ -8386,8 +8386,8 @@ var data = [
     "affiliation": "Assistant Professor, Evidence-Based Healthcare Program, Ponticia Universidad Católica de Chile",
     "stats": {
       "citations": [
-        "1682",
-        "1371"
+        "1684",
+        "1373"
       ],
       "hindex": [
         "19",
@@ -8406,8 +8406,8 @@ var data = [
     "affiliation": "Assistant Professor at University of Michigan",
     "stats": {
       "citations": [
-        "791",
-        "656"
+        "788",
+        "653"
       ],
       "hindex": [
         "10",
@@ -8466,8 +8466,8 @@ var data = [
     "affiliation": "Scientist C, National Institute of Epidemiology, Indian Council of Medical Research, Chennai",
     "stats": {
       "citations": [
-        "301",
-        "294"
+        "304",
+        "297"
       ],
       "hindex": [
         "7",
@@ -8486,8 +8486,8 @@ var data = [
     "affiliation": "Faculty Member of Biomedical Informatics and Medical Education, University of Washington",
     "stats": {
       "citations": [
-        "1689",
-        "891"
+        "1690",
+        "892"
       ],
       "hindex": [
         "21",
@@ -8506,8 +8506,8 @@ var data = [
     "affiliation": "Dept of Genetics, Washington University School of Medicine",
     "stats": {
       "citations": [
-        "25710",
-        "6496"
+        "25702",
+        "6492"
       ],
       "hindex": [
         "78",
@@ -8566,8 +8566,8 @@ var data = [
     "affiliation": "Senior research scientist at SINTEF Digital",
     "stats": {
       "citations": [
-        "1448",
-        "1001"
+        "1451",
+        "1004"
       ],
       "hindex": [
         "19",
@@ -8575,7 +8575,7 @@ var data = [
       ],
       "i10index": [
         "29",
-        "21"
+        "22"
       ]
     },
     "year": "2004"
@@ -8586,12 +8586,12 @@ var data = [
     "affiliation": "Professor of Surgery and Informatics Core Faculty, University of Minnesota",
     "stats": {
       "citations": [
-        "4444",
+        "4445",
         "2768"
       ],
       "hindex": [
         "32",
-        "28"
+        "27"
       ],
       "i10index": [
         "75",
@@ -8606,8 +8606,8 @@ var data = [
     "affiliation": "Makerere University Business School",
     "stats": {
       "citations": [
-        "307",
-        "276"
+        "306",
+        "275"
       ],
       "hindex": [
         "9",
@@ -8646,8 +8646,8 @@ var data = [
     "affiliation": "Medical University of Innsbruck",
     "stats": {
       "citations": [
-        "4730",
-        "2570"
+        "4733",
+        "2573"
       ],
       "hindex": [
         "36",
@@ -8666,15 +8666,15 @@ var data = [
     "affiliation": "PIK (Penn Integrates Knowledge) University Professor, University of Pennsylvania",
     "stats": {
       "citations": [
-        "8470",
-        "5658"
+        "8477",
+        "5664"
       ],
       "hindex": [
         "46",
         "35"
       ],
       "i10index": [
-        "164",
+        "165",
         "138"
       ]
     },
@@ -8686,8 +8686,8 @@ var data = [
     "affiliation": "Columbia University",
     "stats": {
       "citations": [
-        "15229",
-        "7294"
+        "15238",
+        "7304"
       ],
       "hindex": [
         "65",
@@ -8706,8 +8706,8 @@ var data = [
     "affiliation": "Oak Ridge National Lab",
     "stats": {
       "citations": [
-        "4202",
-        "1871"
+        "4206",
+        "1872"
       ],
       "hindex": [
         "31",
@@ -8766,8 +8766,8 @@ var data = [
     "affiliation": "Tomsk Polytechnic University",
     "stats": {
       "citations": [
-        "300",
-        "300"
+        "301",
+        "301"
       ],
       "hindex": [
         "11",
@@ -8806,11 +8806,11 @@ var data = [
     "affiliation": "Professor of Design and Assessment of Technology, TU Wien (Vienna University of Technology)",
     "stats": {
       "citations": [
-        "6253",
-        "3093"
+        "6254",
+        "3096"
       ],
       "hindex": [
-        "44",
+        "43",
         "29"
       ],
       "i10index": [
@@ -8846,8 +8846,8 @@ var data = [
     "affiliation": "Program Lead, Machine Learning & Biomedical Informatics",
     "stats": {
       "citations": [
-        "3976",
-        "3668"
+        "3979",
+        "3671"
       ],
       "hindex": [
         "17",
@@ -8867,7 +8867,7 @@ var data = [
     "stats": {
       "citations": [
         "14482",
-        "4966"
+        "4967"
       ],
       "hindex": [
         "53",
@@ -8886,8 +8886,8 @@ var data = [
     "affiliation": "University of Michigan",
     "stats": {
       "citations": [
-        "36540",
-        "12260"
+        "36551",
+        "12270"
       ],
       "hindex": [
         "78",
@@ -8906,8 +8906,8 @@ var data = [
     "affiliation": "Kleist Professor in Informatics, University of California, Irvine",
     "stats": {
       "citations": [
-        "4519",
-        "3265"
+        "4520",
+        "3264"
       ],
       "hindex": [
         "37",
@@ -8926,8 +8926,8 @@ var data = [
     "affiliation": "Emeritus Professor of Computer Science, Electrical Enginering, & Medicine, Stanford University",
     "stats": {
       "citations": [
-        "25565",
-        "3924"
+        "25564",
+        "3922"
       ],
       "hindex": [
         "62",
@@ -8946,8 +8946,8 @@ var data = [
     "affiliation": "University of Skövde, Sweden",
     "stats": {
       "citations": [
-        "1401",
-        "867"
+        "1402",
+        "868"
       ],
       "hindex": [
         "18",
@@ -8955,7 +8955,7 @@ var data = [
       ],
       "i10index": [
         "39",
-        "26"
+        "25"
       ]
     },
     "year": "1994"
@@ -8966,11 +8966,11 @@ var data = [
     "affiliation": "School of Computer Science, University of Manchester",
     "stats": {
       "citations": [
-        "2374",
-        "1242"
+        "2378",
+        "1246"
       ],
       "hindex": [
-        "25",
+        "26",
         "17"
       ],
       "i10index": [
@@ -8986,8 +8986,8 @@ var data = [
     "affiliation": "Associate Director Center for Patient Safety Research and Practice",
     "stats": {
       "citations": [
-        "4421",
-        "2693"
+        "4425",
+        "2697"
       ],
       "hindex": [
         "34",
@@ -9006,8 +9006,8 @@ var data = [
     "affiliation": "Dep. of Epidemiology, Biostatistics, and Informatics, Univ of Pennsylvania",
     "stats": {
       "citations": [
-        "3136",
-        "2460"
+        "3138",
+        "2462"
       ],
       "hindex": [
         "27",
@@ -9066,8 +9066,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, University of Pittsburgh",
     "stats": {
       "citations": [
-        "24096",
-        "8236"
+        "24099",
+        "8240"
       ],
       "hindex": [
         "51",
@@ -9086,7 +9086,7 @@ var data = [
     "affiliation": "Mount Sinai Health System, New York, New York",
     "stats": {
       "citations": [
-        "2272",
+        "2273",
         "1626"
       ],
       "hindex": [
@@ -9106,8 +9106,8 @@ var data = [
     "affiliation": "Assistant Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "6086",
-        "3147"
+        "6094",
+        "3156"
       ],
       "hindex": [
         "25",
@@ -9126,7 +9126,7 @@ var data = [
     "affiliation": "Professor and Chair, Medical and Bioinformatics Graduate Program, Grand Valley State University",
     "stats": {
       "citations": [
-        "4403",
+        "4404",
         "864"
       ],
       "hindex": [
@@ -9167,7 +9167,7 @@ var data = [
     "stats": {
       "citations": [
         "1902",
-        "1746"
+        "1747"
       ],
       "hindex": [
         "23",
@@ -9186,8 +9186,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, University of Utah",
     "stats": {
       "citations": [
-        "1360",
-        "1030"
+        "1361",
+        "1031"
       ],
       "hindex": [
         "21",
@@ -9226,8 +9226,8 @@ var data = [
     "affiliation": "Professor, medical informatics & telemedicine, University of Tromsø - The Arctic University of",
     "stats": {
       "citations": [
-        "2498",
-        "1758"
+        "2502",
+        "1762"
       ],
       "hindex": [
         "24",
@@ -9247,14 +9247,14 @@ var data = [
     "stats": {
       "citations": [
         "30394",
-        "15153"
+        "15152"
       ],
       "hindex": [
         "64",
         "47"
       ],
       "i10index": [
-        "137",
+        "136",
         "112"
       ]
     },
@@ -9266,8 +9266,8 @@ var data = [
     "affiliation": "Professor and Infodemiologist, University of Toronto & University Health Network",
     "stats": {
       "citations": [
-        "30311",
-        "18462"
+        "30326",
+        "18480"
       ],
       "hindex": [
         "68",
@@ -9286,8 +9286,8 @@ var data = [
     "affiliation": "Professor of Pattern Recognition, China Academy of Chinese Medical Science",
     "stats": {
       "citations": [
-        "3009",
-        "1566"
+        "3014",
+        "1569"
       ],
       "hindex": [
         "27",
@@ -9306,8 +9306,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine",
     "stats": {
       "citations": [
-        "966",
-        "746"
+        "968",
+        "748"
       ],
       "hindex": [
         "15",
@@ -9326,8 +9326,8 @@ var data = [
     "affiliation": "Associate Lecturer and Researcher - Center of Informatics, Federal University of Paraíba",
     "stats": {
       "citations": [
-        "350",
-        "136"
+        "348",
+        "134"
       ],
       "hindex": [
         "8",
@@ -9346,12 +9346,12 @@ var data = [
     "affiliation": "Senior Research Fellow, Centre for Health Informatics, Macquarie University",
     "stats": {
       "citations": [
-        "1357",
-        "1003"
+        "1365",
+        "1011"
       ],
       "hindex": [
         "17",
-        "13"
+        "14"
       ],
       "i10index": [
         "24",
@@ -9406,8 +9406,8 @@ var data = [
     "affiliation": "Assistant Professor, Johns Hopkins University",
     "stats": {
       "citations": [
-        "880",
-        "795"
+        "881",
+        "796"
       ],
       "hindex": [
         "14",
@@ -9506,8 +9506,8 @@ var data = [
     "affiliation": "Imperial College London",
     "stats": {
       "citations": [
-        "5483",
-        "4559"
+        "5488",
+        "4562"
       ],
       "hindex": [
         "26",
@@ -9526,8 +9526,8 @@ var data = [
     "affiliation": "Health Technolgy Assessment Dep,Consultation Center for SecondaryResearches, Data Mining, and",
     "stats": {
       "citations": [
-        "212",
-        "198"
+        "213",
+        "199"
       ],
       "hindex": [
         "8",
@@ -9586,8 +9586,8 @@ var data = [
     "affiliation": "Norwegian University of Science and Technology",
     "stats": {
       "citations": [
-        "476",
-        "285"
+        "477",
+        "286"
       ],
       "hindex": [
         "10",
@@ -9606,8 +9606,8 @@ var data = [
     "affiliation": "Chief, Health Policy, Quality, and Informatics Program, Houston VA HSRD Center of Innovation",
     "stats": {
       "citations": [
-        "7349",
-        "6056"
+        "7355",
+        "6063"
       ],
       "hindex": [
         "48",
@@ -9626,8 +9626,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, University of Pittsburgh",
     "stats": {
       "citations": [
-        "3456",
-        "2260"
+        "3461",
+        "2265"
       ],
       "hindex": [
         "25",
@@ -9686,8 +9686,8 @@ var data = [
     "affiliation": "University of Sydney",
     "stats": {
       "citations": [
-        "1176",
-        "678"
+        "1175",
+        "677"
       ],
       "hindex": [
         "18",
@@ -9706,16 +9706,16 @@ var data = [
     "affiliation": "Universidade Federal de São Paulo",
     "stats": {
       "citations": [
-        "2587",
-        "1128"
+        "2588",
+        "1130"
       ],
       "hindex": [
         "26",
         "16"
       ],
       "i10index": [
-        "62",
-        "29"
+        "63",
+        "30"
       ]
     },
     "year": "2000"
@@ -9786,8 +9786,8 @@ var data = [
     "affiliation": "John A. Jurenko Endowed Professor, Electrical and Computer Engineering, University of Pittsburgh",
     "stats": {
       "citations": [
-        "7595",
-        "6863"
+        "7610",
+        "6878"
       ],
       "hindex": [
         "45",
@@ -9846,15 +9846,15 @@ var data = [
     "affiliation": "Professor in computer science at HES-SO & in radiology at the University of Geneva",
     "stats": {
       "citations": [
-        "12540",
-        "6724"
+        "12546",
+        "6730"
       ],
       "hindex": [
         "55",
         "41"
       ],
       "i10index": [
-        "218",
+        "217",
         "154"
       ]
     },
@@ -9886,8 +9886,8 @@ var data = [
     "affiliation": "Clinical Instructor in Medicine, Cornell University (Weill Medical College)",
     "stats": {
       "citations": [
-        "180",
-        "66"
+        "181",
+        "67"
       ],
       "hindex": [
         "4",
@@ -9926,8 +9926,8 @@ var data = [
     "affiliation": "Principal Researcher, Department of Clinical Data Management and Research, Clinical Research Center",
     "stats": {
       "citations": [
-        "4247",
-        "3766"
+        "4250",
+        "3769"
       ],
       "hindex": [
         "36",
@@ -9986,8 +9986,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Université Laval",
     "stats": {
       "citations": [
-        "1628",
-        "1504"
+        "1630",
+        "1506"
       ],
       "hindex": [
         "21",
@@ -10006,8 +10006,8 @@ var data = [
     "affiliation": "Professor Emeritus, University of Utah",
     "stats": {
       "citations": [
-        "7370",
-        "843"
+        "7371",
+        "845"
       ],
       "hindex": [
         "43",
@@ -10026,8 +10026,8 @@ var data = [
     "affiliation": "Professor, Depts Computer Science at Lowell and Amherst (Adjunct) and Medicine (Adjunct), UMass",
     "stats": {
       "citations": [
-        "5502",
-        "2582"
+        "5505",
+        "2586"
       ],
       "hindex": [
         "33",
@@ -10046,16 +10046,16 @@ var data = [
     "affiliation": "Texas A&M University Health Science Center",
     "stats": {
       "citations": [
-        "1438",
-        "778"
+        "1446",
+        "786"
       ],
       "hindex": [
         "19",
         "12"
       ],
       "i10index": [
-        "29",
-        "16"
+        "31",
+        "17"
       ]
     },
     "year": "1998"
@@ -10066,8 +10066,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, Mayo Clinic",
     "stats": {
       "citations": [
-        "6854",
-        "4313"
+        "6859",
+        "4318"
       ],
       "hindex": [
         "44",
@@ -10086,16 +10086,16 @@ var data = [
     "affiliation": "The University of Queensland",
     "stats": {
       "citations": [
-        "1759",
-        "1742"
+        "1764",
+        "1747"
       ],
       "hindex": [
         "20",
         "20"
       ],
       "i10index": [
-        "26",
-        "26"
+        "27",
+        "27"
       ]
     },
     "year": "2012"
@@ -10166,8 +10166,8 @@ var data = [
     "affiliation": "Professor, School of Biomedical Informatics, UTHealth",
     "stats": {
       "citations": [
-        "5021",
-        "4150"
+        "5034",
+        "4162"
       ],
       "hindex": [
         "39",
@@ -10206,7 +10206,7 @@ var data = [
     "affiliation": "Research Analyst, RTI International",
     "stats": {
       "citations": [
-        "27539",
+        "27537",
         "8291"
       ],
       "hindex": [
@@ -10266,16 +10266,16 @@ var data = [
     "affiliation": "Dentsply Sirona",
     "stats": {
       "citations": [
-        "25336",
-        "18490"
+        "25347",
+        "18503"
       ],
       "hindex": [
         "62",
         "54"
       ],
       "i10index": [
-        "539",
-        "429"
+        "540",
+        "430"
       ]
     },
     "year": "1999"
@@ -10366,8 +10366,8 @@ var data = [
     "affiliation": "Professor of Public Health and Clinical Informatics, University of Liverpool",
     "stats": {
       "citations": [
-        "12854",
-        "7678"
+        "12873",
+        "7696"
       ],
       "hindex": [
         "48",
@@ -10406,8 +10406,8 @@ var data = [
     "affiliation": "Department for Digital, Culture, Media and Sport",
     "stats": {
       "citations": [
-        "1821",
-        "1048"
+        "1822",
+        "1049"
       ],
       "hindex": [
         "23",
@@ -10426,8 +10426,8 @@ var data = [
     "affiliation": "University of Chicago and Argonne National Laboratory",
     "stats": {
       "citations": [
-        "113876",
-        "23356"
+        "113872",
+        "23360"
       ],
       "hindex": [
         "127",
@@ -10446,8 +10446,8 @@ var data = [
     "affiliation": "Universiti Sains Malaysia",
     "stats": {
       "citations": [
-        "675",
-        "521"
+        "681",
+        "527"
       ],
       "hindex": [
         "15",
@@ -10466,8 +10466,8 @@ var data = [
     "affiliation": "Professor of Medicine, UCSF and Co-Founder, Open mHealth",
     "stats": {
       "citations": [
-        "5034",
-        "2446"
+        "5038",
+        "2451"
       ],
       "hindex": [
         "30",
@@ -10486,8 +10486,8 @@ var data = [
     "affiliation": "Postdoctoral fellow at UCSF",
     "stats": {
       "citations": [
-        "1167",
-        "1089"
+        "1170",
+        "1092"
       ],
       "hindex": [
         "12",
@@ -10506,8 +10506,8 @@ var data = [
     "affiliation": "Associate Professor Dept. of Digital Systems University of Piraeus",
     "stats": {
       "citations": [
-        "4586",
-        "2998"
+        "4589",
+        "3000"
       ],
       "hindex": [
         "35",
@@ -10526,8 +10526,8 @@ var data = [
     "affiliation": "eHealth4everyone Nigeria",
     "stats": {
       "citations": [
-        "299",
-        "260"
+        "300",
+        "261"
       ],
       "hindex": [
         "7",
@@ -10546,8 +10546,8 @@ var data = [
     "affiliation": "Stanford",
     "stats": {
       "citations": [
-        "98",
-        "94"
+        "99",
+        "95"
       ],
       "hindex": [
         "6",
@@ -10626,8 +10626,8 @@ var data = [
     "affiliation": "Professor of Computer Science, Univ. of Crete",
     "stats": {
       "citations": [
-        "8872",
-        "1947"
+        "8903",
+        "1976"
       ],
       "hindex": [
         "41",
@@ -10635,7 +10635,7 @@ var data = [
       ],
       "i10index": [
         "93",
-        "26"
+        "28"
       ]
     },
     "year": "1989"
@@ -10646,8 +10646,8 @@ var data = [
     "affiliation": "Consultant Rheumatology, Nottingham University Hospitals NHS Trust, Nottingham, UK",
     "stats": {
       "citations": [
-        "1525",
-        "617"
+        "1527",
+        "619"
       ],
       "hindex": [
         "22",
@@ -10663,11 +10663,11 @@ var data = [
   {
     "name": "Irena Koprinska",
     "url": "http://scholar.google.com/citations?user=hUkXZXQAAAAJ&hl=en",
-    "affiliation": "School of Information Technologies, University of Sydney",
+    "affiliation": "School of Computer Science, University of Sydney",
     "stats": {
       "citations": [
-        "2920",
-        "1698"
+        "2925",
+        "1701"
       ],
       "hindex": [
         "26",
@@ -10686,8 +10686,8 @@ var data = [
     "affiliation": "Professor in Computer Science, Cardiff University",
     "stats": {
       "citations": [
-        "3039",
-        "1547"
+        "3043",
+        "1552"
       ],
       "hindex": [
         "26",
@@ -10706,8 +10706,8 @@ var data = [
     "affiliation": "Harvard Medical School, Children's Hospital, Brigham and Women's Hospital",
     "stats": {
       "citations": [
-        "35498",
-        "19278"
+        "35516",
+        "19297"
       ],
       "hindex": [
         "86",
@@ -10746,8 +10746,8 @@ var data = [
     "affiliation": "State University of New York at Oswego",
     "stats": {
       "citations": [
-        "1527",
-        "574"
+        "1528",
+        "576"
       ],
       "hindex": [
         "21",
@@ -10766,16 +10766,16 @@ var data = [
     "affiliation": "ClopiNet / ChaLearn",
     "stats": {
       "citations": [
-        "43504",
-        "22621"
+        "43533",
+        "22651"
       ],
       "hindex": [
         "58",
         "41"
       ],
       "i10index": [
-        "137",
-        "103"
+        "138",
+        "104"
       ]
     },
     "year": "1990"
@@ -10806,8 +10806,8 @@ var data = [
     "affiliation": "Faculty of medicine, University of Sarajevo, BiH",
     "stats": {
       "citations": [
-        "2652",
-        "1954"
+        "2658",
+        "1960"
       ],
       "hindex": [
         "25",
@@ -10826,8 +10826,8 @@ var data = [
     "affiliation": "Fox Chase Cancer Center",
     "stats": {
       "citations": [
-        "10828",
-        "2783"
+        "10832",
+        "2788"
       ],
       "hindex": [
         "45",
@@ -10906,8 +10906,8 @@ var data = [
     "affiliation": "Biomedical Informatics at Vanderbilt",
     "stats": {
       "citations": [
-        "1199",
-        "923"
+        "1202",
+        "926"
       ],
       "hindex": [
         "13",
@@ -10926,8 +10926,8 @@ var data = [
     "affiliation": "Professor of Nursing in Biomedical Informatics",
     "stats": {
       "citations": [
-        "1070",
-        "620"
+        "1071",
+        "621"
       ],
       "hindex": [
         "20",
@@ -10946,8 +10946,8 @@ var data = [
     "affiliation": "University of Campinas",
     "stats": {
       "citations": [
-        "4105",
-        "1840"
+        "4111",
+        "1842"
       ],
       "hindex": [
         "34",
@@ -10966,8 +10966,8 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "3615",
-        "966"
+        "3614",
+        "965"
       ],
       "hindex": [
         "33",
@@ -10986,15 +10986,15 @@ var data = [
     "affiliation": "University of Alabama at Birmingham",
     "stats": {
       "citations": [
-        "14756",
-        "4908"
+        "14760",
+        "4912"
       ],
       "hindex": [
         "64",
         "33"
       ],
       "i10index": [
-        "216",
+        "217",
         "114"
       ]
     },
@@ -11026,8 +11026,8 @@ var data = [
     "affiliation": "Purdue University",
     "stats": {
       "citations": [
-        "12790",
-        "3542"
+        "12791",
+        "3546"
       ],
       "hindex": [
         "45",
@@ -11046,7 +11046,7 @@ var data = [
     "affiliation": "Professor of Computer Science, New Jersey Institute of Technology",
     "stats": {
       "citations": [
-        "3001",
+        "3002",
         "1078"
       ],
       "hindex": [
@@ -11106,15 +11106,15 @@ var data = [
     "affiliation": "Speciality Doctor, Leeds Teaching Hospitals",
     "stats": {
       "citations": [
-        "4409",
-        "2403"
+        "4413",
+        "2405"
       ],
       "hindex": [
         "28",
         "20"
       ],
       "i10index": [
-        "47",
+        "48",
         "31"
       ]
     },
@@ -11126,8 +11126,8 @@ var data = [
     "affiliation": "Professor of Informatics, Bioinformatics and Genomics, and Data Sciences, Penn State",
     "stats": {
       "citations": [
-        "20104",
-        "8776"
+        "20110",
+        "8781"
       ],
       "hindex": [
         "55",
@@ -11146,8 +11146,8 @@ var data = [
     "affiliation": "University of Birmingham",
     "stats": {
       "citations": [
-        "1880",
-        "1382"
+        "1881",
+        "1384"
       ],
       "hindex": [
         "21",
@@ -11186,8 +11186,8 @@ var data = [
     "affiliation": "Associate Professor Pediatrics, Erasmus MC, Professor in Healthcare Quality & Outcome",
     "stats": {
       "citations": [
-        "6795",
-        "2695"
+        "6796",
+        "2696"
       ],
       "hindex": [
         "44",
@@ -11206,8 +11206,8 @@ var data = [
     "affiliation": "Brigham & Women's Hospital, Harvard University",
     "stats": {
       "citations": [
-        "2111",
-        "942"
+        "2113",
+        "944"
       ],
       "hindex": [
         "19",
@@ -11226,7 +11226,7 @@ var data = [
     "affiliation": "Maastricht university",
     "stats": {
       "citations": [
-        "2965",
+        "2964",
         "962"
       ],
       "hindex": [
@@ -11286,8 +11286,8 @@ var data = [
     "affiliation": "Associate Professor of Information Systems, Wits University",
     "stats": {
       "citations": [
-        "579",
-        "459"
+        "580",
+        "460"
       ],
       "hindex": [
         "13",
@@ -11346,16 +11346,16 @@ var data = [
     "affiliation": "Professor and Director, Institute for Biomedical Informatics, University of Pennsylvania",
     "stats": {
       "citations": [
-        "29587",
-        "15347"
+        "29583",
+        "15348"
       ],
       "hindex": [
         "79",
         "55"
       ],
       "i10index": [
-        "329",
-        "253"
+        "328",
+        "252"
       ]
     },
     "year": "1996"
@@ -11366,8 +11366,8 @@ var data = [
     "affiliation": "Associate Professor, Division of Informatics, Department of Emergency Medicine, Mount Sinai Medical Center",
     "stats": {
       "citations": [
-        "1046",
-        "792"
+        "1047",
+        "793"
       ],
       "hindex": [
         "18",
@@ -11446,8 +11446,8 @@ var data = [
     "affiliation": "MGH/Harvard Medical School",
     "stats": {
       "citations": [
-        "5531",
-        "4441"
+        "5541",
+        "4450"
       ],
       "hindex": [
         "30",
@@ -11486,8 +11486,8 @@ var data = [
     "affiliation": "MCU-PH, Biostatistique et Informatique Médicale, Université Paris-Descartes",
     "stats": {
       "citations": [
-        "10651",
-        "6358"
+        "10659",
+        "6365"
       ],
       "hindex": [
         "52",
@@ -11506,8 +11506,8 @@ var data = [
     "affiliation": "Instructor in Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "283",
-        "240"
+        "282",
+        "239"
       ],
       "hindex": [
         "11",
@@ -11526,8 +11526,8 @@ var data = [
     "affiliation": "imec-ETRO-VUB, Vrije Universiteit Brussel",
     "stats": {
       "citations": [
-        "977",
-        "817"
+        "979",
+        "819"
       ],
       "hindex": [
         "11",
@@ -11546,8 +11546,8 @@ var data = [
     "affiliation": "Northwestern University Feinberg School of Medicine",
     "stats": {
       "citations": [
-        "5310",
-        "3510"
+        "5324",
+        "3526"
       ],
       "hindex": [
         "36",
@@ -11566,8 +11566,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, Ohio State University",
     "stats": {
       "citations": [
-        "11328",
-        "3497"
+        "11333",
+        "3501"
       ],
       "hindex": [
         "55",
@@ -11586,8 +11586,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "11883",
-        "5640"
+        "11885",
+        "5642"
       ],
       "hindex": [
         "41",
@@ -11646,8 +11646,8 @@ var data = [
     "affiliation": "Division Director and Associate Professor The Ohio State University and Research Scientist",
     "stats": {
       "citations": [
-        "312",
-        "257"
+        "313",
+        "258"
       ],
       "hindex": [
         "9",
@@ -11666,8 +11666,8 @@ var data = [
     "affiliation": "Senior Vice President of Product at GetLinks",
     "stats": {
       "citations": [
-        "718",
-        "452"
+        "719",
+        "453"
       ],
       "hindex": [
         "17",
@@ -11726,8 +11726,8 @@ var data = [
     "affiliation": "Professor of Digital Healthcare and Director, Wessex Institute, University of Southampton",
     "stats": {
       "citations": [
-        "12740",
-        "5353"
+        "12745",
+        "5358"
       ],
       "hindex": [
         "53",
@@ -11735,7 +11735,7 @@ var data = [
       ],
       "i10index": [
         "137",
-        "77"
+        "78"
       ]
     },
     "year": "1991"
@@ -11747,7 +11747,7 @@ var data = [
     "stats": {
       "citations": [
         "4905",
-        "1871"
+        "1873"
       ],
       "hindex": [
         "23",
@@ -11806,8 +11806,8 @@ var data = [
     "affiliation": "Distinguished Professor, Tufts University School of Medicine",
     "stats": {
       "citations": [
-        "22526",
-        "3419"
+        "22522",
+        "3420"
       ],
       "hindex": [
         "74",
@@ -11826,8 +11826,8 @@ var data = [
     "affiliation": "Associate Professor, Department of Computer Science, KU Leuven",
     "stats": {
       "citations": [
-        "4213",
-        "3056"
+        "4219",
+        "3060"
       ],
       "hindex": [
         "22",
@@ -11846,8 +11846,8 @@ var data = [
     "affiliation": "Professor of Anesthesiology, Surgery, Biomedical Informatics, & Health Policy, Vanderbilt",
     "stats": {
       "citations": [
-        "2953",
-        "2699"
+        "2960",
+        "2706"
       ],
       "hindex": [
         "28",
@@ -11866,8 +11866,8 @@ var data = [
     "affiliation": "Associate Professor of Computer Science, University of Waterloo",
     "stats": {
       "citations": [
-        "5086",
-        "3140"
+        "5096",
+        "3148"
       ],
       "hindex": [
         "35",
@@ -11886,7 +11886,7 @@ var data = [
     "affiliation": "Weill Cornell Medical College",
     "stats": {
       "citations": [
-        "2112",
+        "2111",
         "1612"
       ],
       "hindex": [
@@ -11906,8 +11906,8 @@ var data = [
     "affiliation": "Biomedical Informatics, Duke University",
     "stats": {
       "citations": [
-        "902",
-        "556"
+        "904",
+        "557"
       ],
       "hindex": [
         "13",
@@ -11926,8 +11926,8 @@ var data = [
     "affiliation": "university of texas; ohio state university, university of california",
     "stats": {
       "citations": [
-        "10372",
-        "5082"
+        "10375",
+        "5087"
       ],
       "hindex": [
         "46",
@@ -11946,8 +11946,8 @@ var data = [
     "affiliation": "Department of Computer Science, College of Science, Old Dominion University",
     "stats": {
       "citations": [
-        "278",
-        "240"
+        "279",
+        "241"
       ],
       "hindex": [
         "9",
@@ -11966,8 +11966,8 @@ var data = [
     "affiliation": "Director, Strategic Informatics Initiatives, Center for Biomedical Informatics & Biostatistics",
     "stats": {
       "citations": [
-        "1036",
-        "643"
+        "1038",
+        "645"
       ],
       "hindex": [
         "17",
@@ -11986,8 +11986,8 @@ var data = [
     "affiliation": "IBM T.J. Wastson Research Center",
     "stats": {
       "citations": [
-        "5345",
-        "2699"
+        "5347",
+        "2702"
       ],
       "hindex": [
         "40",
@@ -12006,8 +12006,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of Rochester",
     "stats": {
       "citations": [
-        "19846",
-        "12586"
+        "19869",
+        "12609"
       ],
       "hindex": [
         "77",
@@ -12026,8 +12026,8 @@ var data = [
     "affiliation": "University of Michigan",
     "stats": {
       "citations": [
-        "15499",
-        "11813"
+        "15524",
+        "11834"
       ],
       "hindex": [
         "66",
@@ -12046,8 +12046,8 @@ var data = [
     "affiliation": "Medical University of South Carolina",
     "stats": {
       "citations": [
-        "1429",
-        "573"
+        "1427",
+        "571"
       ],
       "hindex": [
         "16",
@@ -12086,8 +12086,8 @@ var data = [
     "affiliation": "University of Portsmouth",
     "stats": {
       "citations": [
-        "452",
-        "310"
+        "454",
+        "312"
       ],
       "hindex": [
         "11",
@@ -12126,8 +12126,8 @@ var data = [
     "affiliation": "Michigan State University",
     "stats": {
       "citations": [
-        "754",
-        "643"
+        "756",
+        "645"
       ],
       "hindex": [
         "16",
@@ -12226,11 +12226,11 @@ var data = [
     "affiliation": "Bank of America",
     "stats": {
       "citations": [
-        "156",
-        "137"
+        "157",
+        "138"
       ],
       "hindex": [
-        "5",
+        "6",
         "5"
       ],
       "i10index": [
@@ -12247,7 +12247,7 @@ var data = [
     "stats": {
       "citations": [
         "8592",
-        "3253"
+        "3252"
       ],
       "hindex": [
         "39",
@@ -12266,8 +12266,8 @@ var data = [
     "affiliation": "Region Östergötland",
     "stats": {
       "citations": [
-        "667",
-        "572"
+        "668",
+        "573"
       ],
       "hindex": [
         "14",
@@ -12286,8 +12286,8 @@ var data = [
     "affiliation": "Professor, Oregon Health & Science University",
     "stats": {
       "citations": [
-        "11701",
-        "5383"
+        "11702",
+        "5386"
       ],
       "hindex": [
         "45",
@@ -12326,8 +12326,8 @@ var data = [
     "affiliation": "Assistant Professor of Anesthesiology and Institute for Informatics, Washington University",
     "stats": {
       "citations": [
-        "798",
-        "672"
+        "800",
+        "674"
       ],
       "hindex": [
         "15",
@@ -12346,8 +12346,8 @@ var data = [
     "affiliation": "Associate Professor, Macquarie University",
     "stats": {
       "citations": [
-        "1480",
-        "1036"
+        "1481",
+        "1037"
       ],
       "hindex": [
         "21",
@@ -12426,8 +12426,8 @@ var data = [
     "affiliation": "Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain",
     "stats": {
       "citations": [
-        "20559",
-        "10810"
+        "20571",
+        "10822"
       ],
       "hindex": [
         "71",
@@ -12446,8 +12446,8 @@ var data = [
     "affiliation": "University of Illinois at Urbana-Champaign",
     "stats": {
       "citations": [
-        "555",
-        "460"
+        "556",
+        "461"
       ],
       "hindex": [
         "12",
@@ -12486,8 +12486,8 @@ var data = [
     "affiliation": "Institute Director and Associate Professor, Icahn School of Medicine at Mount Sinai",
     "stats": {
       "citations": [
-        "44345",
-        "20596"
+        "44378",
+        "20617"
       ],
       "hindex": [
         "44",
@@ -12495,7 +12495,7 @@ var data = [
       ],
       "i10index": [
         "96",
-        "92"
+        "93"
       ]
     },
     "year": "2007"
@@ -12506,12 +12506,12 @@ var data = [
     "affiliation": "Director of Translational Informatics & Clinical Resources, Assoc. Res. Member, Arthritis & Clinical",
     "stats": {
       "citations": [
-        "7284",
-        "4410"
+        "7295",
+        "4421"
       ],
       "hindex": [
         "44",
-        "37"
+        "38"
       ],
       "i10index": [
         "88",
@@ -12526,8 +12526,8 @@ var data = [
     "affiliation": "Professor and Chair of Biomedical Informatics, Stony Brook University",
     "stats": {
       "citations": [
-        "17980",
-        "5634"
+        "17989",
+        "5643"
       ],
       "hindex": [
         "68",
@@ -12546,8 +12546,8 @@ var data = [
     "affiliation": "Professor of Information Systems, Iowa State University",
     "stats": {
       "citations": [
-        "10226",
-        "3074"
+        "10223",
+        "3072"
       ],
       "hindex": [
         "42",
@@ -12586,8 +12586,8 @@ var data = [
     "affiliation": "Macquarie University",
     "stats": {
       "citations": [
-        "10701",
-        "7405"
+        "10710",
+        "7409"
       ],
       "hindex": [
         "53",
@@ -12626,8 +12626,8 @@ var data = [
     "affiliation": "University of Manchester",
     "stats": {
       "citations": [
-        "1328",
-        "1120"
+        "1334",
+        "1126"
       ],
       "hindex": [
         "16",
@@ -12667,14 +12667,14 @@ var data = [
     "stats": {
       "citations": [
         "14212",
-        "5516"
+        "5518"
       ],
       "hindex": [
         "55",
         "33"
       ],
       "i10index": [
-        "267",
+        "266",
         "137"
       ]
     },
@@ -12686,8 +12686,8 @@ var data = [
     "affiliation": "Biomedical & Health Informatics, University of Washington",
     "stats": {
       "citations": [
-        "6679",
-        "1740"
+        "6678",
+        "1742"
       ],
       "hindex": [
         "32",
@@ -12706,8 +12706,8 @@ var data = [
     "affiliation": "University of Pennsylvania Perelman School of Medicine",
     "stats": {
       "citations": [
-        "7554",
-        "2053"
+        "7556",
+        "2054"
       ],
       "hindex": [
         "41",
@@ -12726,8 +12726,8 @@ var data = [
     "affiliation": "Professor of Health Informatics, National and Kapodistrian University of Athens",
     "stats": {
       "citations": [
-        "5734",
-        "4396"
+        "5746",
+        "4408"
       ],
       "hindex": [
         "26",
@@ -12806,8 +12806,8 @@ var data = [
     "affiliation": "FOODAKAI",
     "stats": {
       "citations": [
-        "1075",
-        "754"
+        "1076",
+        "755"
       ],
       "hindex": [
         "17",
@@ -12827,7 +12827,7 @@ var data = [
     "stats": {
       "citations": [
         "1150",
-        "682"
+        "684"
       ],
       "hindex": [
         "15",
@@ -12867,7 +12867,7 @@ var data = [
     "stats": {
       "citations": [
         "1970",
-        "1747"
+        "1749"
       ],
       "hindex": [
         "28",
@@ -12886,7 +12886,7 @@ var data = [
     "affiliation": "Professor of Family Medicine, University of Wisconsin",
     "stats": {
       "citations": [
-        "6721",
+        "6722",
         "1321"
       ],
       "hindex": [
@@ -12966,8 +12966,8 @@ var data = [
     "affiliation": "Dept. of Emergency Medicine and Medicine, Harvard University",
     "stats": {
       "citations": [
-        "10994",
-        "2950"
+        "10995",
+        "2951"
       ],
       "hindex": [
         "37",
@@ -12986,8 +12986,8 @@ var data = [
     "affiliation": "Associate Professor, Virginia Commonwealth University",
     "stats": {
       "citations": [
-        "558",
-        "484"
+        "559",
+        "485"
       ],
       "hindex": [
         "10",
@@ -13006,8 +13006,8 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "1756",
-        "1094"
+        "1761",
+        "1096"
       ],
       "hindex": [
         "22",
@@ -13026,8 +13026,8 @@ var data = [
     "affiliation": "Associate Professor, Cumming School of Medicine, University of Calgary",
     "stats": {
       "citations": [
-        "1468",
-        "1308"
+        "1472",
+        "1312"
       ],
       "hindex": [
         "22",
@@ -13106,15 +13106,15 @@ var data = [
     "affiliation": "Universidad de Antioquia,Universidad Pontificia Bolivariana, Texas A&M University",
     "stats": {
       "citations": [
-        "293",
-        "220"
+        "294",
+        "221"
       ],
       "hindex": [
         "9",
         "8"
       ],
       "i10index": [
-        "8",
+        "9",
         "7"
       ]
     },
@@ -13126,8 +13126,8 @@ var data = [
     "affiliation": "Profesor Titular en la Facultad de Informática de la Universidad de Murcia",
     "stats": {
       "citations": [
-        "4765",
-        "2931"
+        "4770",
+        "2932"
       ],
       "hindex": [
         "34",
@@ -13146,8 +13146,8 @@ var data = [
     "affiliation": "Universidade do Minho",
     "stats": {
       "citations": [
-        "2161",
-        "1580"
+        "2165",
+        "1584"
       ],
       "hindex": [
         "23",
@@ -13186,8 +13186,8 @@ var data = [
     "affiliation": "University Health Network and University of Toronto",
     "stats": {
       "citations": [
-        "2951",
-        "2587"
+        "2953",
+        "2589"
       ],
       "hindex": [
         "25",
@@ -13226,8 +13226,8 @@ var data = [
     "affiliation": "Columbia University",
     "stats": {
       "citations": [
-        "4742",
-        "2808"
+        "4745",
+        "2811"
       ],
       "hindex": [
         "36",
@@ -13286,8 +13286,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics and Medicine, Vanderbilt University",
     "stats": {
       "citations": [
-        "14429",
-        "13278"
+        "14448",
+        "13297"
       ],
       "hindex": [
         "61",
@@ -13306,16 +13306,16 @@ var data = [
     "affiliation": "Associate Professor, Vanderbilt University Medical Center",
     "stats": {
       "citations": [
-        "9983",
-        "6017"
+        "9993",
+        "6021"
       ],
       "hindex": [
         "40",
         "37"
       ],
       "i10index": [
-        "73",
-        "63"
+        "74",
+        "64"
       ]
     },
     "year": "2003"
@@ -13326,8 +13326,8 @@ var data = [
     "affiliation": "Indiana University Richard M. Fairbanks School of Public Health at IUPUI",
     "stats": {
       "citations": [
-        "2860",
-        "1966"
+        "2861",
+        "1967"
       ],
       "hindex": [
         "24",
@@ -13366,8 +13366,8 @@ var data = [
     "affiliation": "University of Sydney",
     "stats": {
       "citations": [
-        "1678",
-        "808"
+        "1679",
+        "809"
       ],
       "hindex": [
         "18",
@@ -13386,8 +13386,8 @@ var data = [
     "affiliation": "(Chaired) Professor, ECE Dept., Univ. of Texas at Austin",
     "stats": {
       "citations": [
-        "25973",
-        "12999"
+        "25985",
+        "13003"
       ],
       "hindex": [
         "64",
@@ -13426,8 +13426,8 @@ var data = [
     "affiliation": "Professor of Computer Science and of Biostatistics & Medical Informatics, University of Wisconsin",
     "stats": {
       "citations": [
-        "15416",
-        "4982"
+        "15421",
+        "4987"
       ],
       "hindex": [
         "57",
@@ -13486,8 +13486,8 @@ var data = [
     "affiliation": "UCSF",
     "stats": {
       "citations": [
-        "3424",
-        "2541"
+        "3425",
+        "2542"
       ],
       "hindex": [
         "27",
@@ -13526,8 +13526,8 @@ var data = [
     "affiliation": "Assistant Professor, University of Texas School of Biomedical Informatics",
     "stats": {
       "citations": [
-        "668",
-        "383"
+        "669",
+        "384"
       ],
       "hindex": [
         "11",
@@ -13546,8 +13546,8 @@ var data = [
     "affiliation": "Associate Professor, University of Washington",
     "stats": {
       "citations": [
-        "4768",
-        "3463"
+        "4780",
+        "3475"
       ],
       "hindex": [
         "33",
@@ -13606,8 +13606,8 @@ var data = [
     "affiliation": "Professor of Biomedical Inforamtics",
     "stats": {
       "citations": [
-        "5806",
-        "1830"
+        "5809",
+        "1833"
       ],
       "hindex": [
         "41",
@@ -13626,8 +13626,8 @@ var data = [
     "affiliation": "Technology Program Manager and Biomedical Informatics Master's student, University of Washington",
     "stats": {
       "citations": [
-        "238",
-        "227"
+        "240",
+        "229"
       ],
       "hindex": [
         "8",
@@ -13666,8 +13666,8 @@ var data = [
     "affiliation": "Northwestern University Feinberg School of Medicine",
     "stats": {
       "citations": [
-        "5652",
-        "2907"
+        "5654",
+        "2908"
       ],
       "hindex": [
         "40",
@@ -13686,8 +13686,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, Mayo Clinic",
     "stats": {
       "citations": [
-        "5179",
-        "4106"
+        "5181",
+        "4108"
       ],
       "hindex": [
         "38",
@@ -13706,8 +13706,8 @@ var data = [
     "affiliation": "Technical Lead, Global Data Insight & Analytics (GDIA), Ford Motor Company",
     "stats": {
       "citations": [
-        "1645",
-        "464"
+        "1647",
+        "465"
       ],
       "hindex": [
         "19",
@@ -13726,8 +13726,8 @@ var data = [
     "affiliation": "Chief Architect, Protocol & Networking Research, Huawei Technologies",
     "stats": {
       "citations": [
-        "5979",
-        "5072"
+        "5986",
+        "5079"
       ],
       "hindex": [
         "40",
@@ -13766,7 +13766,7 @@ var data = [
     "affiliation": "Associate Professor of Software Engineering, University of Ontario Institute of Technology",
     "stats": {
       "citations": [
-        "1053",
+        "1054",
         "496"
       ],
       "hindex": [
@@ -13786,8 +13786,8 @@ var data = [
     "affiliation": "Professor of Medical Informatics, OHSU",
     "stats": {
       "citations": [
-        "8014",
-        "4816"
+        "8015",
+        "4817"
       ],
       "hindex": [
         "25",
@@ -13835,7 +13835,7 @@ var data = [
       ],
       "i10index": [
         "41",
-        "37"
+        "36"
       ]
     },
     "year": "1992"
@@ -13846,8 +13846,8 @@ var data = [
     "affiliation": "Pittsburgh, PA",
     "stats": {
       "citations": [
-        "1148",
-        "524"
+        "1150",
+        "526"
       ],
       "hindex": [
         "16",
@@ -13887,7 +13887,7 @@ var data = [
     "stats": {
       "citations": [
         "6941",
-        "4257"
+        "4258"
       ],
       "hindex": [
         "28",
@@ -13966,8 +13966,8 @@ var data = [
     "affiliation": "University of Melbourne, Health and Biomedical Informatics Centre",
     "stats": {
       "citations": [
-        "4526",
-        "3014"
+        "4536",
+        "3023"
       ],
       "hindex": [
         "25",
@@ -13986,8 +13986,8 @@ var data = [
     "affiliation": "Intermountain Healthcare",
     "stats": {
       "citations": [
-        "520",
-        "505"
+        "519",
+        "504"
       ],
       "hindex": [
         "8",
@@ -14006,16 +14006,16 @@ var data = [
     "affiliation": "Professor of Nursing, University of Pennsylvania ",
     "stats": {
       "citations": [
-        "2976",
-        "1931"
+        "2981",
+        "1936"
       ],
       "hindex": [
         "31",
         "28"
       ],
       "i10index": [
-        "69",
-        "58"
+        "70",
+        "59"
       ]
     },
     "year": "2000"
@@ -14026,8 +14026,8 @@ var data = [
     "affiliation": "Associate Professor of Informatics; Indiana University Bloomington",
     "stats": {
       "citations": [
-        "1607",
-        "1179"
+        "1610",
+        "1182"
       ],
       "hindex": [
         "23",
@@ -14066,8 +14066,8 @@ var data = [
     "affiliation": "Director, Elsevier",
     "stats": {
       "citations": [
-        "1379",
-        "757"
+        "1378",
+        "756"
       ],
       "hindex": [
         "16",
@@ -14106,8 +14106,8 @@ var data = [
     "affiliation": "Github, UIUC",
     "stats": {
       "citations": [
-        "761",
-        "640"
+        "762",
+        "641"
       ],
       "hindex": [
         "10",
@@ -14126,8 +14126,8 @@ var data = [
     "affiliation": "Professor of Computer Science, Associate Dean for Research, Indiana University",
     "stats": {
       "citations": [
-        "2655",
-        "1786"
+        "2657",
+        "1788"
       ],
       "hindex": [
         "28",
@@ -14147,7 +14147,7 @@ var data = [
     "stats": {
       "citations": [
         "6552",
-        "2100"
+        "2101"
       ],
       "hindex": [
         "33",
@@ -14166,15 +14166,15 @@ var data = [
     "affiliation": "Professor of Medicine, Washington University School of Medicine",
     "stats": {
       "citations": [
-        "2525",
-        "954"
+        "2527",
+        "956"
       ],
       "hindex": [
         "22",
         "15"
       ],
       "i10index": [
-        "35",
+        "36",
         "21"
       ]
     },
@@ -14206,8 +14206,8 @@ var data = [
     "affiliation": "Associate Professor, Clemson University",
     "stats": {
       "citations": [
-        "1265",
-        "1058"
+        "1270",
+        "1063"
       ],
       "hindex": [
         "21",
@@ -14226,8 +14226,8 @@ var data = [
     "affiliation": "Associate Professor: Medical Informatics, CoM&HS, Sultan Qaboos University, Oman",
     "stats": {
       "citations": [
-        "1360",
-        "875"
+        "1362",
+        "877"
       ],
       "hindex": [
         "16",
@@ -14246,8 +14246,8 @@ var data = [
     "affiliation": "Professor, Harvard Medical School; Director, Intelligent Laboratory, Boston Children's Hospital",
     "stats": {
       "citations": [
-        "12387",
-        "6522"
+        "12388",
+        "6524"
       ],
       "hindex": [
         "63",
@@ -14267,7 +14267,7 @@ var data = [
     "stats": {
       "citations": [
         "3770",
-        "2208"
+        "2209"
       ],
       "hindex": [
         "22",
@@ -14286,8 +14286,8 @@ var data = [
     "affiliation": "IHTSDO",
     "stats": {
       "citations": [
-        "3546",
-        "1357"
+        "3545",
+        "1356"
       ],
       "hindex": [
         "31",
@@ -14326,8 +14326,8 @@ var data = [
     "affiliation": "Vanderbilt University Medical Center",
     "stats": {
       "citations": [
-        "6347",
-        "3605"
+        "6352",
+        "3610"
       ],
       "hindex": [
         "43",
@@ -14466,8 +14466,8 @@ var data = [
     "affiliation": "School of Biomedical Informatics, University of Texas Health Science Center",
     "stats": {
       "citations": [
-        "1171",
-        "903"
+        "1175",
+        "907"
       ],
       "hindex": [
         "17",
@@ -14486,8 +14486,8 @@ var data = [
     "affiliation": "Indiana University School of Informatics at IUPUI",
     "stats": {
       "citations": [
-        "248",
-        "105"
+        "249",
+        "106"
       ],
       "hindex": [
         "5",
@@ -14526,8 +14526,8 @@ var data = [
     "affiliation": "Professor für Medizinische Informatik, Furtwangen University",
     "stats": {
       "citations": [
-        "1997",
-        "1269"
+        "2004",
+        "1275"
       ],
       "hindex": [
         "20",
@@ -14566,8 +14566,8 @@ var data = [
     "affiliation": "Post-doc Researcher, University of Ioannina; Research Assistant, FORTH Biomedical Research Institute",
     "stats": {
       "citations": [
-        "732",
-        "622"
+        "731",
+        "621"
       ],
       "hindex": [
         "9",
@@ -14586,8 +14586,8 @@ var data = [
     "affiliation": "Johns Hopkins University School of Medicine",
     "stats": {
       "citations": [
-        "427",
-        "298"
+        "428",
+        "299"
       ],
       "hindex": [
         "7",
@@ -14626,8 +14626,8 @@ var data = [
     "affiliation": "Professor and Chair of Computer Science, VCU",
     "stats": {
       "citations": [
-        "6206",
-        "2697"
+        "6212",
+        "2702"
       ],
       "hindex": [
         "35",
@@ -14666,8 +14666,8 @@ var data = [
     "affiliation": "Prof. of Medicine; IUSM PHI Chair; Director for Data Science & Informatics for PHI; Assistant Dean",
     "stats": {
       "citations": [
-        "3343",
-        "2204"
+        "3344",
+        "2205"
       ],
       "hindex": [
         "32",
@@ -14686,8 +14686,8 @@ var data = [
     "affiliation": "Department of Computer Engineering, Chulalongkorn University, Thailand",
     "stats": {
       "citations": [
-        "4914",
-        "1312"
+        "4915",
+        "1314"
       ],
       "hindex": [
         "22",
@@ -14766,8 +14766,8 @@ var data = [
     "affiliation": "Facebook",
     "stats": {
       "citations": [
-        "449",
-        "430"
+        "450",
+        "431"
       ],
       "hindex": [
         "4",
@@ -14806,7 +14806,7 @@ var data = [
     "affiliation": "Professor, University of Minnesota",
     "stats": {
       "citations": [
-        "3178",
+        "3179",
         "765"
       ],
       "hindex": [
@@ -14846,7 +14846,7 @@ var data = [
     "affiliation": "Professor Computer Information Systems, Georgia State University",
     "stats": {
       "citations": [
-        "9176",
+        "9175",
         "3603"
       ],
       "hindex": [
@@ -14886,8 +14886,8 @@ var data = [
     "affiliation": "University of Colorado Anschutz Medical Campus",
     "stats": {
       "citations": [
-        "194",
-        "194"
+        "198",
+        "198"
       ],
       "hindex": [
         "4",
@@ -14906,8 +14906,8 @@ var data = [
     "affiliation": "Assistant Professor, Georgia Institute of Technology",
     "stats": {
       "citations": [
-        "756",
-        "650"
+        "757",
+        "651"
       ],
       "hindex": [
         "16",
@@ -14926,8 +14926,8 @@ var data = [
     "affiliation": "Queensland University of Technology",
     "stats": {
       "citations": [
-        "818",
-        "612"
+        "819",
+        "614"
       ],
       "hindex": [
         "16",
@@ -14966,7 +14966,7 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "5408",
+        "5405",
         "927"
       ],
       "hindex": [
@@ -14986,8 +14986,8 @@ var data = [
     "affiliation": "Professor of Pharmacology, University of Colorado School of Medicine",
     "stats": {
       "citations": [
-        "7946",
-        "3231"
+        "7954",
+        "3237"
       ],
       "hindex": [
         "48",
@@ -15046,8 +15046,8 @@ var data = [
     "affiliation": "Associate Professor of Medical Informatics, Kerman University of Medical Scineces",
     "stats": {
       "citations": [
-        "343",
-        "292"
+        "344",
+        "293"
       ],
       "hindex": [
         "9",
@@ -15066,12 +15066,12 @@ var data = [
     "affiliation": "Assistant Professor of Biomedical Informatics, Columbia University",
     "stats": {
       "citations": [
-        "2672",
-        "1943"
+        "2676",
+        "1948"
       ],
       "hindex": [
         "17",
-        "14"
+        "15"
       ],
       "i10index": [
         "25",
@@ -15106,8 +15106,8 @@ var data = [
     "affiliation": "Professor of Medicine and Biomedical Informatics",
     "stats": {
       "citations": [
-        "7878",
-        "2150"
+        "7882",
+        "2151"
       ],
       "hindex": [
         "43",
@@ -15126,8 +15126,8 @@ var data = [
     "affiliation": "Design Researcher, Motorola Mobility",
     "stats": {
       "citations": [
-        "325",
-        "294"
+        "326",
+        "295"
       ],
       "hindex": [
         "6",
@@ -15146,8 +15146,8 @@ var data = [
     "affiliation": "The Children's Hospital of Philadelphia",
     "stats": {
       "citations": [
-        "64",
-        "46"
+        "66",
+        "48"
       ],
       "hindex": [
         "6",
@@ -15166,8 +15166,8 @@ var data = [
     "affiliation": "Assistant Professor, Mount Sinai School of Medicine",
     "stats": {
       "citations": [
-        "5342",
-        "3433"
+        "5347",
+        "3438"
       ],
       "hindex": [
         "34",
@@ -15186,8 +15186,8 @@ var data = [
     "affiliation": "Emory University",
     "stats": {
       "citations": [
-        "6546",
-        "3537"
+        "6551",
+        "3540"
       ],
       "hindex": [
         "32",
@@ -15206,8 +15206,8 @@ var data = [
     "affiliation": "Associate Professor, Brigham and Women's Hospital, Harvard Medical School, Partners HealthCare",
     "stats": {
       "citations": [
-        "1233",
-        "806"
+        "1234",
+        "808"
       ],
       "hindex": [
         "19",
@@ -15247,7 +15247,7 @@ var data = [
     "stats": {
       "citations": [
         "1613",
-        "1090"
+        "1092"
       ],
       "hindex": [
         "19",
@@ -15286,16 +15286,16 @@ var data = [
     "affiliation": "Yarmouk University, Biomedical Systems and Informatics Engineering",
     "stats": {
       "citations": [
-        "73",
-        "65"
+        "74",
+        "66"
       ],
       "hindex": [
         "4",
         "4"
       ],
       "i10index": [
-        "2",
-        "2"
+        "3",
+        "3"
       ]
     },
     "year": "2011"
@@ -15327,7 +15327,7 @@ var data = [
     "stats": {
       "citations": [
         "779",
-        "535"
+        "536"
       ],
       "hindex": [
         "15",
@@ -15346,8 +15346,8 @@ var data = [
     "affiliation": "Professor of Computer Science & Engineering, University of Washington",
     "stats": {
       "citations": [
-        "19477",
-        "4649"
+        "19479",
+        "4655"
       ],
       "hindex": [
         "51",
@@ -15366,8 +15366,8 @@ var data = [
     "affiliation": "Brigham and Women's Hospital",
     "stats": {
       "citations": [
-        "1025",
-        "802"
+        "1027",
+        "804"
       ],
       "hindex": [
         "16",
@@ -15386,8 +15386,8 @@ var data = [
     "affiliation": "Pathologist, UPMC",
     "stats": {
       "citations": [
-        "8702",
-        "5330"
+        "8710",
+        "5341"
       ],
       "hindex": [
         "47",
@@ -15486,8 +15486,8 @@ var data = [
     "affiliation": "Flinders University",
     "stats": {
       "citations": [
-        "72",
-        "70"
+        "73",
+        "71"
       ],
       "hindex": [
         "5",
@@ -15506,8 +15506,8 @@ var data = [
     "affiliation": "Università di Torino, Dipartimento di Informatica",
     "stats": {
       "citations": [
-        "445",
-        "244"
+        "446",
+        "245"
       ],
       "hindex": [
         "12",
@@ -15526,8 +15526,8 @@ var data = [
     "affiliation": "Center for Precision Health, SBMI, University of Texas Health Science Center at Houston",
     "stats": {
       "citations": [
-        "1072",
-        "919"
+        "1074",
+        "921"
       ],
       "hindex": [
         "15",
@@ -15566,12 +15566,12 @@ var data = [
     "affiliation": "University of California San Diego",
     "stats": {
       "citations": [
-        "12462",
-        "6874"
+        "12477",
+        "6887"
       ],
       "hindex": [
         "48",
-        "37"
+        "38"
       ],
       "i10index": [
         "193",
@@ -15586,16 +15586,16 @@ var data = [
     "affiliation": "National Research Council of Italy, CNR-ICAR",
     "stats": {
       "citations": [
-        "905",
-        "698"
+        "907",
+        "700"
       ],
       "hindex": [
         "14",
         "13"
       ],
       "i10index": [
-        "18",
-        "17"
+        "19",
+        "18"
       ]
     },
     "year": "2008"
@@ -15606,8 +15606,8 @@ var data = [
     "affiliation": "www.qcri.org",
     "stats": {
       "citations": [
-        "1910",
-        "1718"
+        "1912",
+        "1719"
       ],
       "hindex": [
         "22",
@@ -15686,8 +15686,8 @@ var data = [
     "affiliation": "Gadjah Mada University",
     "stats": {
       "citations": [
-        "563",
-        "341"
+        "565",
+        "343"
       ],
       "hindex": [
         "8",
@@ -15746,7 +15746,7 @@ var data = [
     "affiliation": "Professor of Communication Studies, Northwestern University",
     "stats": {
       "citations": [
-        "3515",
+        "3516",
         "1952"
       ],
       "hindex": [
@@ -15786,8 +15786,8 @@ var data = [
     "affiliation": "Postdoctoral Research Fellow, Queensland University of Technology",
     "stats": {
       "citations": [
-        "131",
-        "115"
+        "132",
+        "117"
       ],
       "hindex": [
         "6",
@@ -15806,8 +15806,8 @@ var data = [
     "affiliation": "PhD Candidate at University of Toronto, Department of Mechanical and Industrial Eng",
     "stats": {
       "citations": [
-        "131",
-        "130"
+        "132",
+        "131"
       ],
       "hindex": [
         "6",
@@ -15906,8 +15906,8 @@ var data = [
     "affiliation": "Professor, Head of School, University of Greenwich",
     "stats": {
       "citations": [
-        "5253",
-        "2126"
+        "5252",
+        "2125"
       ],
       "hindex": [
         "34",
@@ -15926,8 +15926,8 @@ var data = [
     "affiliation": "Chief Medical Informatics Officer, Cerner Health Services; [former] Regenstrief Professor of",
     "stats": {
       "citations": [
-        "14054",
-        "5330"
+        "14058",
+        "5334"
       ],
       "hindex": [
         "57",
@@ -15946,16 +15946,16 @@ var data = [
     "affiliation": "Director, Genomic Medicine Institute, Geisinger Health System",
     "stats": {
       "citations": [
-        "8553",
-        "6482"
+        "8567",
+        "6496"
       ],
       "hindex": [
         "44",
         "38"
       ],
       "i10index": [
-        "144",
-        "108"
+        "145",
+        "109"
       ]
     },
     "year": "1998"
@@ -15986,8 +15986,8 @@ var data = [
     "affiliation": "Reserach Scientist, National Library of Medicine",
     "stats": {
       "citations": [
-        "2518",
-        "1404"
+        "2519",
+        "1405"
       ],
       "hindex": [
         "28",
@@ -16006,8 +16006,8 @@ var data = [
     "affiliation": "Professor Associado de Informática Médica da FMUSP & Professor Livre-Docente de Infectologia UNIFESP",
     "stats": {
       "citations": [
-        "3884",
-        "1674"
+        "3890",
+        "1675"
       ],
       "hindex": [
         "37",
@@ -16046,15 +16046,15 @@ var data = [
     "affiliation": "Senior Medical Informatician and Instructor of Medicine, Partners Healthcare, Brigham & Women's Hospital, Harvard Medical School",
     "stats": {
       "citations": [
-        "1206",
-        "614"
+        "1208",
+        "615"
       ],
       "hindex": [
         "14",
         "12"
       ],
       "i10index": [
-        "20",
+        "19",
         "12"
       ]
     },
@@ -16066,8 +16066,8 @@ var data = [
     "affiliation": "Professora Associada, Faculdade de Enfermagem, Universidade Estadual de Campinas",
     "stats": {
       "citations": [
-        "4086",
-        "2407"
+        "4093",
+        "2410"
       ],
       "hindex": [
         "32",
@@ -16106,8 +16106,8 @@ var data = [
     "affiliation": "Senior Lecturer, Malmö University",
     "stats": {
       "citations": [
-        "239",
-        "145"
+        "240",
+        "146"
       ],
       "hindex": [
         "10",
@@ -16126,8 +16126,8 @@ var data = [
     "affiliation": "CNRS, LORIA UMR7503",
     "stats": {
       "citations": [
-        "2013",
-        "995"
+        "2012",
+        "994"
       ],
       "hindex": [
         "21",
@@ -16146,8 +16146,8 @@ var data = [
     "affiliation": "Assistant Professor, Institute for Computational Health Sciences, UCSF",
     "stats": {
       "citations": [
-        "5492",
-        "4101"
+        "5501",
+        "4108"
       ],
       "hindex": [
         "20",
@@ -16166,8 +16166,8 @@ var data = [
     "affiliation": "Researcher, Sao Paulo Heart Institute, University of Sao Paulo Medical School",
     "stats": {
       "citations": [
-        "364",
-        "149"
+        "365",
+        "150"
       ],
       "hindex": [
         "11",
@@ -16206,8 +16206,8 @@ var data = [
     "affiliation": "Professor of Computer Science and Engineering at IST, Portugal; Senior Researcher at INESC-ID Lisboa",
     "stats": {
       "citations": [
-        "3680",
-        "1608"
+        "3684",
+        "1613"
       ],
       "hindex": [
         "30",
@@ -16266,8 +16266,8 @@ var data = [
     "affiliation": "Swansea University",
     "stats": {
       "citations": [
-        "2840",
-        "1016"
+        "2842",
+        "1018"
       ],
       "hindex": [
         "25",
@@ -16286,8 +16286,8 @@ var data = [
     "affiliation": "Alberta Health Services, Edmonton",
     "stats": {
       "citations": [
-        "873",
-        "395"
+        "874",
+        "396"
       ],
       "hindex": [
         "12",
@@ -16307,7 +16307,7 @@ var data = [
     "stats": {
       "citations": [
         "8212",
-        "3084"
+        "3085"
       ],
       "hindex": [
         "36",
@@ -16326,12 +16326,12 @@ var data = [
     "affiliation": "Johns Hopkins University",
     "stats": {
       "citations": [
-        "10029",
-        "8197"
+        "10031",
+        "8198"
       ],
       "hindex": [
         "46",
-        "43"
+        "44"
       ],
       "i10index": [
         "127",
@@ -16346,8 +16346,8 @@ var data = [
     "affiliation": "Vanderbilt University",
     "stats": {
       "citations": [
-        "3220",
-        "983"
+        "3219",
+        "982"
       ],
       "hindex": [
         "28",
@@ -16366,8 +16366,8 @@ var data = [
     "affiliation": "Associate Professor of Oral and Maxillofacial Surgery and Medical Informatics",
     "stats": {
       "citations": [
-        "572",
-        "524"
+        "579",
+        "531"
       ],
       "hindex": [
         "11",
@@ -16386,8 +16386,8 @@ var data = [
     "affiliation": "University of Cincinnati, Division of General Internal Medicine, Center for Clinical Effectiveness",
     "stats": {
       "citations": [
-        "10415",
-        "5915"
+        "10424",
+        "5921"
       ],
       "hindex": [
         "41",
@@ -16406,8 +16406,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics Research, Stanford University",
     "stats": {
       "citations": [
-        "35034",
-        "10937"
+        "35030",
+        "10936"
       ],
       "hindex": [
         "86",
@@ -16415,7 +16415,7 @@ var data = [
       ],
       "i10index": [
         "332",
-        "171"
+        "170"
       ]
     },
     "year": "1989"
@@ -16486,8 +16486,8 @@ var data = [
     "affiliation": "Professor of Medicine, Emeritus, Duke University",
     "stats": {
       "citations": [
-        "1265",
-        "861"
+        "1264",
+        "863"
       ],
       "hindex": [
         "12",
@@ -16506,8 +16506,8 @@ var data = [
     "affiliation": "Professor of Linguistics, Computer Science, University of Colorado",
     "stats": {
       "citations": [
-        "20039",
-        "9520"
+        "20051",
+        "9530"
       ],
       "hindex": [
         "61",
@@ -16526,8 +16526,8 @@ var data = [
     "affiliation": "Professor, Senior Consultant Physician NM/PET-center Bergen",
     "stats": {
       "citations": [
-        "1447",
-        "738"
+        "1449",
+        "740"
       ],
       "hindex": [
         "20",
@@ -16546,8 +16546,8 @@ var data = [
     "affiliation": "Head Medical Informatics, Inst. Med. Biometry & Med. Informatics, University of Freiburg, Germany",
     "stats": {
       "citations": [
-        "1337",
-        "732"
+        "1338",
+        "734"
       ],
       "hindex": [
         "18",
@@ -16566,8 +16566,8 @@ var data = [
     "affiliation": "Lecturer in Computer and Systems Sciences, Stockholm University",
     "stats": {
       "citations": [
-        "918",
-        "557"
+        "919",
+        "558"
       ],
       "hindex": [
         "17",
@@ -16586,8 +16586,8 @@ var data = [
     "affiliation": "Vanderbilt University",
     "stats": {
       "citations": [
-        "1052",
-        "879"
+        "1055",
+        "882"
       ],
       "hindex": [
         "19",
@@ -16626,8 +16626,8 @@ var data = [
     "affiliation": "professor of medicine, stanford university",
     "stats": {
       "citations": [
-        "5774",
-        "2491"
+        "5784",
+        "2499"
       ],
       "hindex": [
         "41",
@@ -16646,8 +16646,8 @@ var data = [
     "affiliation": "Assistant Professor of Informatics, University of Pennsylvania",
     "stats": {
       "citations": [
-        "568",
-        "552"
+        "569",
+        "553"
       ],
       "hindex": [
         "14",
@@ -16666,16 +16666,16 @@ var data = [
     "affiliation": "University of Pennsylvania",
     "stats": {
       "citations": [
-        "26358",
-        "17943"
+        "26343",
+        "17931"
       ],
       "hindex": [
         "76",
         "61"
       ],
       "i10index": [
-        "247",
-        "222"
+        "248",
+        "223"
       ]
     },
     "year": "2004"
@@ -16726,8 +16726,8 @@ var data = [
     "affiliation": "Assistant Professor of Systems and Information Engineering, University of Virginia",
     "stats": {
       "citations": [
-        "910",
-        "841"
+        "912",
+        "843"
       ],
       "hindex": [
         "11",
@@ -16746,8 +16746,8 @@ var data = [
     "affiliation": "Carnegie Mellon University",
     "stats": {
       "citations": [
-        "667",
-        "452"
+        "669",
+        "454"
       ],
       "hindex": [
         "13",
@@ -16846,8 +16846,8 @@ var data = [
     "affiliation": "Simcere Diagnostics Co., Ltd.",
     "stats": {
       "citations": [
-        "1024",
-        "779"
+        "1027",
+        "781"
       ],
       "hindex": [
         "15",
@@ -16866,8 +16866,8 @@ var data = [
     "affiliation": "Columbia University, School of Nursing & Data Science Institute",
     "stats": {
       "citations": [
-        "640",
-        "638"
+        "643",
+        "641"
       ],
       "hindex": [
         "14",
@@ -16886,12 +16886,12 @@ var data = [
     "affiliation": "Professor of Biomedical Engineering, Georgia Institute of Technology and Emory University",
     "stats": {
       "citations": [
-        "8335",
-        "5269"
+        "8342",
+        "5276"
       ],
       "hindex": [
         "35",
-        "32"
+        "33"
       ],
       "i10index": [
         "83",
@@ -16986,8 +16986,8 @@ var data = [
     "affiliation": "Associate Professor, University of Washington",
     "stats": {
       "citations": [
-        "1117",
-        "771"
+        "1119",
+        "773"
       ],
       "hindex": [
         "18",
@@ -17046,8 +17046,8 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "5364",
-        "3121"
+        "5381",
+        "3136"
       ],
       "hindex": [
         "33",
@@ -17067,7 +17067,7 @@ var data = [
     "stats": {
       "citations": [
         "5384",
-        "3530"
+        "3531"
       ],
       "hindex": [
         "31",
@@ -17086,8 +17086,8 @@ var data = [
     "affiliation": "Professor, Tung Wah College",
     "stats": {
       "citations": [
-        "536",
-        "402"
+        "538",
+        "403"
       ],
       "hindex": [
         "9",
@@ -17106,15 +17106,15 @@ var data = [
     "affiliation": "Professor, Biomedical Engineering, The University of Texas at Austin",
     "stats": {
       "citations": [
-        "4203",
-        "2339"
+        "4200",
+        "2336"
       ],
       "hindex": [
         "34",
         "23"
       ],
       "i10index": [
-        "74",
+        "73",
         "53"
       ]
     },
@@ -17146,8 +17146,8 @@ var data = [
     "affiliation": "Innovation Center for Biomedical Informatics / Lombardi Comprehensive Cancer Center, Georgetown University",
     "stats": {
       "citations": [
-        "25675",
-        "6453"
+        "25678",
+        "6465"
       ],
       "hindex": [
         "20",
@@ -17226,16 +17226,16 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics - Vanderbilt, VA Physician Scientist",
     "stats": {
       "citations": [
-        "3993",
-        "3055"
+        "4004",
+        "3063"
       ],
       "hindex": [
         "33",
         "31"
       ],
       "i10index": [
-        "74",
-        "64"
+        "73",
+        "63"
       ]
     },
     "year": "2007"
@@ -17246,8 +17246,8 @@ var data = [
     "affiliation": "Knowles Professor of Ophthalmology & Medical Informatics and Clinical Epidemiology, Oregon Health",
     "stats": {
       "citations": [
-        "8546",
-        "5683"
+        "8550",
+        "5688"
       ],
       "hindex": [
         "42",
@@ -17266,8 +17266,8 @@ var data = [
     "affiliation": "University of Colorado Anschutz Medical Center",
     "stats": {
       "citations": [
-        "3754",
-        "1642"
+        "3755",
+        "1643"
       ],
       "hindex": [
         "33",
@@ -17306,8 +17306,8 @@ var data = [
     "affiliation": "University of Applied Sciences and Arts Western Switzerland (HES-SO)",
     "stats": {
       "citations": [
-        "994",
-        "567"
+        "998",
+        "571"
       ],
       "hindex": [
         "16",
@@ -17326,8 +17326,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, University of Pittsburgh",
     "stats": {
       "citations": [
-        "8371",
-        "2978"
+        "8370",
+        "2980"
       ],
       "hindex": [
         "48",
@@ -17346,8 +17346,8 @@ var data = [
     "affiliation": "University of Colorado Boulder",
     "stats": {
       "citations": [
-        "3033",
-        "2846"
+        "3031",
+        "2844"
       ],
       "hindex": [
         "24",
@@ -17366,8 +17366,8 @@ var data = [
     "affiliation": "University of Zurich",
     "stats": {
       "citations": [
-        "6507",
-        "3951"
+        "6518",
+        "3962"
       ],
       "hindex": [
         "31",
@@ -17386,8 +17386,8 @@ var data = [
     "affiliation": "Structural Biology, Stanford University",
     "stats": {
       "citations": [
-        "38018",
-        "9096"
+        "38006",
+        "9086"
       ],
       "hindex": [
         "92",
@@ -17426,8 +17426,8 @@ var data = [
     "affiliation": "Emeritus Professor of Health Information Strategy",
     "stats": {
       "citations": [
-        "2129",
-        "815"
+        "2132",
+        "816"
       ],
       "hindex": [
         "24",
@@ -17446,8 +17446,8 @@ var data = [
     "affiliation": "Wilmer Eye Institute, Johns Hopkins University",
     "stats": {
       "citations": [
-        "2356",
-        "1449"
+        "2357",
+        "1450"
       ],
       "hindex": [
         "22",
@@ -17487,7 +17487,7 @@ var data = [
     "stats": {
       "citations": [
         "5750",
-        "1699"
+        "1703"
       ],
       "hindex": [
         "39",
@@ -17506,7 +17506,7 @@ var data = [
     "affiliation": "Professor of Medicine, Indiana University School of Medicine",
     "stats": {
       "citations": [
-        "3256",
+        "3255",
         "1404"
       ],
       "hindex": [
@@ -17546,8 +17546,8 @@ var data = [
     "affiliation": "University Hospitals Leuven, KU Leuven",
     "stats": {
       "citations": [
-        "1894",
-        "1705"
+        "1899",
+        "1710"
       ],
       "hindex": [
         "22",
@@ -17566,8 +17566,8 @@ var data = [
     "affiliation": "Distinguished Professor, Maastricht University",
     "stats": {
       "citations": [
-        "5180",
-        "3649"
+        "5190",
+        "3658"
       ],
       "hindex": [
         "36",
@@ -17606,8 +17606,8 @@ var data = [
     "affiliation": "Postdoctoral Researcher / Data Scientist / Software Developer",
     "stats": {
       "citations": [
-        "111",
-        "105"
+        "110",
+        "104"
       ],
       "hindex": [
         "6",
@@ -17626,8 +17626,8 @@ var data = [
     "affiliation": "Associate Professor, Management Science, e-Commerce, Athabasca University ",
     "stats": {
       "citations": [
-        "1071",
-        "619"
+        "1073",
+        "621"
       ],
       "hindex": [
         "16",
@@ -17635,7 +17635,7 @@ var data = [
       ],
       "i10index": [
         "18",
-        "15"
+        "16"
       ]
     },
     "year": "2000"
@@ -17646,8 +17646,8 @@ var data = [
     "affiliation": "Associate Professor of Medical Informatics, University of Missouri, Columbia",
     "stats": {
       "citations": [
-        "2880",
-        "2141"
+        "2883",
+        "2144"
       ],
       "hindex": [
         "27",
@@ -17686,7 +17686,7 @@ var data = [
     "affiliation": "TRU",
     "stats": {
       "citations": [
-        "553",
+        "552",
         "332"
       ],
       "hindex": [
@@ -17734,8 +17734,8 @@ var data = [
         "11"
       ],
       "i10index": [
-        "12",
-        "12"
+        "11",
+        "11"
       ]
     },
     "year": "2010"
@@ -17766,8 +17766,8 @@ var data = [
     "affiliation": "Macquarie University",
     "stats": {
       "citations": [
-        "1072",
-        "927"
+        "1073",
+        "928"
       ],
       "hindex": [
         "13",
@@ -17806,8 +17806,8 @@ var data = [
     "affiliation": "Health Informatics Specialist",
     "stats": {
       "citations": [
-        "634",
-        "618"
+        "635",
+        "619"
       ],
       "hindex": [
         "11",
@@ -17826,8 +17826,8 @@ var data = [
     "affiliation": "Associate Professor, Director of Curriculum Evaluation, Oakland University William Beaumont School",
     "stats": {
       "citations": [
-        "137",
-        "123"
+        "138",
+        "124"
       ],
       "hindex": [
         "7",
@@ -17846,8 +17846,8 @@ var data = [
     "affiliation": "Assistant Professor (Research Track)",
     "stats": {
       "citations": [
-        "570",
-        "561"
+        "571",
+        "562"
       ],
       "hindex": [
         "9",
@@ -17966,16 +17966,16 @@ var data = [
     "affiliation": "Universiti Teknikal Malaysia Melaka",
     "stats": {
       "citations": [
-        "679",
-        "585"
+        "704",
+        "610"
       ],
       "hindex": [
-        "13",
-        "13"
+        "14",
+        "14"
       ],
       "i10index": [
-        "23",
-        "21"
+        "24",
+        "22"
       ]
     },
     "year": "2008"
@@ -17986,8 +17986,8 @@ var data = [
     "affiliation": "Associate Professor, University of Utah",
     "stats": {
       "citations": [
-        "435",
-        "337"
+        "434",
+        "336"
       ],
       "hindex": [
         "9",
@@ -18026,15 +18026,15 @@ var data = [
     "affiliation": "Profesora de Física y de Informática Médica en la UPV. Instituto Universitario ITACA",
     "stats": {
       "citations": [
-        "13786",
-        "10930"
+        "13804",
+        "10947"
       ],
       "hindex": [
         "37",
         "32"
       ],
       "i10index": [
-        "83",
+        "82",
         "61"
       ]
     },
@@ -18046,8 +18046,8 @@ var data = [
     "affiliation": "University of Haifa",
     "stats": {
       "citations": [
-        "5029",
-        "2058"
+        "5039",
+        "2068"
       ],
       "hindex": [
         "35",
@@ -18066,8 +18066,8 @@ var data = [
     "affiliation": "Professor of Information Science, University of Copenhagen",
     "stats": {
       "citations": [
-        "5105",
-        "2460"
+        "5107",
+        "2461"
       ],
       "hindex": [
         "36",
@@ -18086,8 +18086,8 @@ var data = [
     "affiliation": "Iran University of Medical Sciences",
     "stats": {
       "citations": [
-        "170",
-        "166"
+        "169",
+        "165"
       ],
       "hindex": [
         "7",
@@ -18146,8 +18146,8 @@ var data = [
     "affiliation": "Assistant Professor Sejong Unviversity",
     "stats": {
       "citations": [
-        "485",
-        "442"
+        "486",
+        "443"
       ],
       "hindex": [
         "14",
@@ -18286,8 +18286,8 @@ var data = [
     "affiliation": "Independent Consulatant",
     "stats": {
       "citations": [
-        "576",
-        "517"
+        "578",
+        "519"
       ],
       "hindex": [
         "13",
@@ -18306,8 +18306,8 @@ var data = [
     "affiliation": "Harvard University",
     "stats": {
       "citations": [
-        "11407",
-        "11126"
+        "11428",
+        "11146"
       ],
       "hindex": [
         "11",
@@ -18326,12 +18326,12 @@ var data = [
     "affiliation": "Duke-NUS Medical School & Singapore General Hospital",
     "stats": {
       "citations": [
-        "952",
-        "880"
+        "955",
+        "883"
       ],
       "hindex": [
-        "13",
-        "13"
+        "14",
+        "14"
       ],
       "i10index": [
         "20",
@@ -18346,8 +18346,8 @@ var data = [
     "affiliation": "University of Hawaii",
     "stats": {
       "citations": [
-        "343",
-        "105"
+        "344",
+        "106"
       ],
       "hindex": [
         "9",
@@ -18367,7 +18367,7 @@ var data = [
     "stats": {
       "citations": [
         "85",
-        "84"
+        "85"
       ],
       "hindex": [
         "4",
@@ -18406,8 +18406,8 @@ var data = [
     "affiliation": "Saudi Food and Drug Authority",
     "stats": {
       "citations": [
-        "539",
-        "537"
+        "541",
+        "539"
       ],
       "hindex": [
         "13",
@@ -18466,8 +18466,8 @@ var data = [
     "affiliation": "Google Inc.",
     "stats": {
       "citations": [
-        "27246",
-        "9935"
+        "27237",
+        "9928"
       ],
       "hindex": [
         "58",
@@ -18475,7 +18475,7 @@ var data = [
       ],
       "i10index": [
         "149",
-        "115"
+        "114"
       ]
     },
     "year": "2000"
@@ -18546,8 +18546,8 @@ var data = [
     "affiliation": "Clinical Professor of Neurology, University of Pittsburgh School of Medicine",
     "stats": {
       "citations": [
-        "1903",
-        "344"
+        "1902",
+        "343"
       ],
       "hindex": [
         "21",
@@ -18566,8 +18566,8 @@ var data = [
     "affiliation": "Cleveland Clinic, Cleveland Clinic Lerner College of Medicine of Case Western Reserve University",
     "stats": {
       "citations": [
-        "822",
-        "549"
+        "823",
+        "550"
       ],
       "hindex": [
         "12",
@@ -18606,8 +18606,8 @@ var data = [
     "affiliation": "Informática Médica, Faculdade de Medicina, Universidade de São Paulo",
     "stats": {
       "citations": [
-        "1206",
-        "656"
+        "1207",
+        "657"
       ],
       "hindex": [
         "18",
@@ -18626,8 +18626,8 @@ var data = [
     "affiliation": "Assistant Professor, University of Pittsburgh",
     "stats": {
       "citations": [
-        "1089",
-        "805"
+        "1090",
+        "806"
       ],
       "hindex": [
         "10",
@@ -18666,12 +18666,12 @@ var data = [
     "affiliation": "Western Paraná State University",
     "stats": {
       "citations": [
-        "461",
-        "422"
+        "464",
+        "425"
       ],
       "hindex": [
         "12",
-        "11"
+        "12"
       ],
       "i10index": [
         "13",
@@ -18686,8 +18686,8 @@ var data = [
     "affiliation": "Herbert Irving Assistant Professor of Biomedical Informatics, Columbia University",
     "stats": {
       "citations": [
-        "2437",
-        "2317"
+        "2442",
+        "2323"
       ],
       "hindex": [
         "24",
@@ -18695,7 +18695,7 @@ var data = [
       ],
       "i10index": [
         "46",
-        "45"
+        "46"
       ]
     },
     "year": "2010"
@@ -18706,8 +18706,8 @@ var data = [
     "affiliation": "MITRE Corp",
     "stats": {
       "citations": [
-        "23",
-        "22"
+        "24",
+        "23"
       ],
       "hindex": [
         "2",
@@ -18726,8 +18726,8 @@ var data = [
     "affiliation": "Professor and Associate Dean (Research & Enterprise), University of Huddersfield",
     "stats": {
       "citations": [
-        "1539",
-        "809"
+        "1542",
+        "812"
       ],
       "hindex": [
         "22",
@@ -18746,8 +18746,8 @@ var data = [
     "affiliation": "Professor of Management Sciences, University of Iowa",
     "stats": {
       "citations": [
-        "6336",
-        "2783"
+        "6340",
+        "2788"
       ],
       "hindex": [
         "35",
@@ -18786,12 +18786,12 @@ var data = [
     "affiliation": "Professor of Medical Informatics, University of Amsterdam - Academic Medical Center",
     "stats": {
       "citations": [
-        "7561",
-        "5158"
+        "7573",
+        "5167"
       ],
       "hindex": [
         "45",
-        "39"
+        "40"
       ],
       "i10index": [
         "125",
@@ -18806,8 +18806,8 @@ var data = [
     "affiliation": "Health e-Research Centre, The University of Manchester",
     "stats": {
       "citations": [
-        "2539",
-        "1898"
+        "2544",
+        "1903"
       ],
       "hindex": [
         "29",
@@ -18826,11 +18826,11 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Stanford University",
     "stats": {
       "citations": [
-        "10626",
-        "7565"
+        "10639",
+        "7576"
       ],
       "hindex": [
-        "48",
+        "49",
         "41"
       ],
       "i10index": [
@@ -18846,8 +18846,8 @@ var data = [
     "affiliation": "Assistant Professor - Department of Biomedical Informatics, Harvard Medical School",
     "stats": {
       "citations": [
-        "27861",
-        "27062"
+        "27943",
+        "27138"
       ],
       "hindex": [
         "37",
@@ -18886,8 +18886,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, Columbia University",
     "stats": {
       "citations": [
-        "4883",
-        "3798"
+        "4884",
+        "3799"
       ],
       "hindex": [
         "35",
@@ -18946,8 +18946,8 @@ var data = [
     "affiliation": "University of Calgary",
     "stats": {
       "citations": [
-        "3391",
-        "3350"
+        "3396",
+        "3355"
       ],
       "hindex": [
         "13",
@@ -18986,8 +18986,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, Columbia University",
     "stats": {
       "citations": [
-        "4883",
-        "3798"
+        "4884",
+        "3799"
       ],
       "hindex": [
         "35",
@@ -19086,8 +19086,8 @@ var data = [
     "affiliation": "Harvard Medical School",
     "stats": {
       "citations": [
-        "853",
-        "487"
+        "855",
+        "489"
       ],
       "hindex": [
         "11",
@@ -19106,12 +19106,12 @@ var data = [
     "affiliation": "University Senior Research Fellow, Discipline of General Practice,  University of Adelaide",
     "stats": {
       "citations": [
-        "1546",
+        "1547",
         "1127"
       ],
       "hindex": [
         "16",
-        "16"
+        "15"
       ],
       "i10index": [
         "23",
@@ -19126,8 +19126,8 @@ var data = [
     "affiliation": "Senior Scientist, National Library of Medicine",
     "stats": {
       "citations": [
-        "9156",
-        "4171"
+        "9158",
+        "4172"
       ],
       "hindex": [
         "43",
@@ -19146,8 +19146,8 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "3554",
-        "2806"
+        "3561",
+        "2812"
       ],
       "hindex": [
         "32",
@@ -19166,8 +19166,8 @@ var data = [
     "affiliation": "Associate professor, University of Gothenburg",
     "stats": {
       "citations": [
-        "466",
-        "243"
+        "465",
+        "242"
       ],
       "hindex": [
         "12",
@@ -19175,7 +19175,7 @@ var data = [
       ],
       "i10index": [
         "15",
-        "9"
+        "8"
       ]
     },
     "year": "1994"
@@ -19226,8 +19226,8 @@ var data = [
     "affiliation": "Philips Healthcare; University of Maryland School of Pharmacy",
     "stats": {
       "citations": [
-        "770",
-        "696"
+        "773",
+        "699"
       ],
       "hindex": [
         "12",
@@ -19286,8 +19286,8 @@ var data = [
     "affiliation": "Associate Professor, Department of Preventive and Social Medicine, Charles Drew University",
     "stats": {
       "citations": [
-        "1467",
-        "462"
+        "1472",
+        "467"
       ],
       "hindex": [
         "16",
@@ -19306,8 +19306,8 @@ var data = [
     "affiliation": "Professor of Computer Science, Federal Fluminense University",
     "stats": {
       "citations": [
-        "1149",
-        "466"
+        "1150",
+        "467"
       ],
       "hindex": [
         "20",
@@ -19326,8 +19326,8 @@ var data = [
     "affiliation": "Research Fellow, University of New South Wales Sydney",
     "stats": {
       "citations": [
-        "453",
-        "280"
+        "452",
+        "279"
       ],
       "hindex": [
         "12",
@@ -19346,8 +19346,8 @@ var data = [
     "affiliation": "University of Alberta - Alberta Machine Intelligence Institute",
     "stats": {
       "citations": [
-        "11532",
-        "4567"
+        "11539",
+        "4573"
       ],
       "hindex": [
         "55",
@@ -19355,7 +19355,7 @@ var data = [
       ],
       "i10index": [
         "142",
-        "103"
+        "104"
       ]
     },
     "year": "1997"
@@ -19366,7 +19366,7 @@ var data = [
     "affiliation": "University of Minnesota ",
     "stats": {
       "citations": [
-        "231",
+        "232",
         "191"
       ],
       "hindex": [
@@ -19386,8 +19386,8 @@ var data = [
     "affiliation": "George Mason University",
     "stats": {
       "citations": [
-        "3652",
-        "2797"
+        "3657",
+        "2801"
       ],
       "hindex": [
         "29",
@@ -19406,8 +19406,8 @@ var data = [
     "affiliation": "Professor, The International Faculty of the University of Sheffield, CITY College",
     "stats": {
       "citations": [
-        "611",
-        "429"
+        "610",
+        "428"
       ],
       "hindex": [
         "9",
@@ -19446,8 +19446,8 @@ var data = [
     "affiliation": "Ass. Professor, Department of BioMedical Engineering, Technological Educational Institute of",
     "stats": {
       "citations": [
-        "961",
-        "503"
+        "962",
+        "504"
       ],
       "hindex": [
         "16",
@@ -19486,8 +19486,8 @@ var data = [
     "affiliation": "Centre for Health Innovation, Leadership and Learning (CHILL), Nottingham University Business School",
     "stats": {
       "citations": [
-        "142",
-        "134"
+        "143",
+        "135"
       ],
       "hindex": [
         "6",
@@ -19526,8 +19526,8 @@ var data = [
     "affiliation": "SimTabs",
     "stats": {
       "citations": [
-        "4884",
-        "1466"
+        "4885",
+        "1469"
       ],
       "hindex": [
         "31",
@@ -19546,8 +19546,8 @@ var data = [
     "affiliation": "Université Nice Sophia Antipolis - Centre Hospitalier Universitaire de Nice",
     "stats": {
       "citations": [
-        "2333",
-        "965"
+        "2332",
+        "964"
       ],
       "hindex": [
         "31",
@@ -19567,7 +19567,7 @@ var data = [
     "stats": {
       "citations": [
         "5770",
-        "1297"
+        "1296"
       ],
       "hindex": [
         "40",
@@ -19606,8 +19606,8 @@ var data = [
     "affiliation": "Associate Professor, University of Michigan",
     "stats": {
       "citations": [
-        "1441",
-        "762"
+        "1444",
+        "764"
       ],
       "hindex": [
         "15",
@@ -19626,8 +19626,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "2517",
-        "1863"
+        "2523",
+        "1874"
       ],
       "hindex": [
         "26",
@@ -19646,8 +19646,8 @@ var data = [
     "affiliation": "University of Wisconsin-Madison, Wisconsin Institute for Discovery",
     "stats": {
       "citations": [
-        "7440",
-        "2758"
+        "7439",
+        "2757"
       ],
       "hindex": [
         "44",
@@ -19686,8 +19686,8 @@ var data = [
     "affiliation": "Janssen Research and Development",
     "stats": {
       "citations": [
-        "3281",
-        "2909"
+        "3286",
+        "2914"
       ],
       "hindex": [
         "28",
@@ -19726,8 +19726,8 @@ var data = [
     "affiliation": "Assistant Professor Harvard Medical School",
     "stats": {
       "citations": [
-        "1052",
-        "960"
+        "1053",
+        "961"
       ],
       "hindex": [
         "20",
@@ -19746,8 +19746,8 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "5834",
-        "2834"
+        "5836",
+        "2835"
       ],
       "hindex": [
         "29",
@@ -19766,8 +19766,8 @@ var data = [
     "affiliation": "Indiana University, Regenstrief Institute",
     "stats": {
       "citations": [
-        "15374",
-        "5750"
+        "15382",
+        "5756"
       ],
       "hindex": [
         "33",
@@ -19826,8 +19826,8 @@ var data = [
     "affiliation": "Oregon Health & Science University",
     "stats": {
       "citations": [
-        "8844",
-        "3828"
+        "8851",
+        "3834"
       ],
       "hindex": [
         "42",
@@ -19835,7 +19835,7 @@ var data = [
       ],
       "i10index": [
         "77",
-        "53"
+        "54"
       ]
     },
     "year": "1997"
@@ -19846,8 +19846,8 @@ var data = [
     "affiliation": "vanderbilt university",
     "stats": {
       "citations": [
-        "12171",
-        "9728"
+        "12191",
+        "9746"
       ],
       "hindex": [
         "31",
@@ -19866,8 +19866,8 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "29147",
-        "17922"
+        "29158",
+        "17930"
       ],
       "hindex": [
         "82",
@@ -19906,12 +19906,12 @@ var data = [
     "affiliation": "Information Analyst, Portsmouth Hospitals NHS Trust",
     "stats": {
       "citations": [
-        "720",
-        "706"
+        "728",
+        "714"
       ],
       "hindex": [
-        "11",
-        "11"
+        "12",
+        "12"
       ],
       "i10index": [
         "13",
@@ -19926,15 +19926,15 @@ var data = [
     "affiliation": "UCL",
     "stats": {
       "citations": [
-        "5471",
-        "2150"
+        "5472",
+        "2151"
       ],
       "hindex": [
         "37",
         "23"
       ],
       "i10index": [
-        "92",
+        "91",
         "44"
       ]
     },
@@ -19946,8 +19946,8 @@ var data = [
     "affiliation": "Department of Health Informatics",
     "stats": {
       "citations": [
-        "727",
-        "413"
+        "730",
+        "416"
       ],
       "hindex": [
         "13",
@@ -19966,8 +19966,8 @@ var data = [
     "affiliation": "Information Access Consultant",
     "stats": {
       "citations": [
-        "61",
-        "59"
+        "62",
+        "60"
       ],
       "hindex": [
         "3",
@@ -20006,8 +20006,8 @@ var data = [
     "affiliation": "Universidade do Extremo Sul Catarinense",
     "stats": {
       "citations": [
-        "3164",
-        "2161"
+        "3179",
+        "2176"
       ],
       "hindex": [
         "29",
@@ -20026,8 +20026,8 @@ var data = [
     "affiliation": "McMaster University",
     "stats": {
       "citations": [
-        "1805",
-        "1702"
+        "1809",
+        "1706"
       ],
       "hindex": [
         "15",
@@ -20046,8 +20046,8 @@ var data = [
     "affiliation": "Tehran University of Medical Sciences",
     "stats": {
       "citations": [
-        "449",
-        "306"
+        "450",
+        "307"
       ],
       "hindex": [
         "12",
@@ -20066,8 +20066,8 @@ var data = [
     "affiliation": "Instituto Politécnico de Leiria",
     "stats": {
       "citations": [
-        "350",
-        "122"
+        "351",
+        "123"
       ],
       "hindex": [
         "11",
@@ -20127,7 +20127,7 @@ var data = [
     "stats": {
       "citations": [
         "5862",
-        "2247"
+        "2249"
       ],
       "hindex": [
         "39",
@@ -20146,8 +20146,8 @@ var data = [
     "affiliation": "Lecturer, University of Hull",
     "stats": {
       "citations": [
-        "760",
-        "252"
+        "761",
+        "253"
       ],
       "hindex": [
         "7",
@@ -20167,7 +20167,7 @@ var data = [
     "stats": {
       "citations": [
         "4307",
-        "2028"
+        "2029"
       ],
       "hindex": [
         "38",
@@ -20186,8 +20186,8 @@ var data = [
     "affiliation": "Senior Lecturer, Computer science & Engineering Department,  Obafemi Awolowo University, Ile-Ife",
     "stats": {
       "citations": [
-        "472",
-        "306"
+        "471",
+        "305"
       ],
       "hindex": [
         "8",
@@ -20206,8 +20206,8 @@ var data = [
     "affiliation": "Professor and Chair, Biomedical Informatics, University at Buffalo",
     "stats": {
       "citations": [
-        "4294",
-        "1912"
+        "4296",
+        "1916"
       ],
       "hindex": [
         "38",
@@ -20226,8 +20226,8 @@ var data = [
     "affiliation": "President & CEO, Regenstrief Institute",
     "stats": {
       "citations": [
-        "2522",
-        "1892"
+        "2528",
+        "1896"
       ],
       "hindex": [
         "28",
@@ -20246,7 +20246,7 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Case Western Reserve University of Medicine",
     "stats": {
       "citations": [
-        "1778",
+        "1777",
         "226"
       ],
       "hindex": [
@@ -20266,8 +20266,8 @@ var data = [
     "affiliation": "University of Maribor, Faculty of electrical, engineering and computer science",
     "stats": {
       "citations": [
-        "2667",
-        "1089"
+        "2671",
+        "1093"
       ],
       "hindex": [
         "22",
@@ -20286,8 +20286,8 @@ var data = [
     "affiliation": "Radboud University Nijmegen, Leiden University",
     "stats": {
       "citations": [
-        "4277",
-        "1950"
+        "4282",
+        "1952"
       ],
       "hindex": [
         "33",
@@ -20298,7 +20298,7 @@ var data = [
         "53"
       ]
     },
-    "year": "1991"
+    "year": "1993"
   },
   {
     "name": "Peter Schulam",
@@ -20306,8 +20306,8 @@ var data = [
     "affiliation": "PhD Student in Computer Science, Johns Hopkins University",
     "stats": {
       "citations": [
-        "331",
-        "324"
+        "332",
+        "325"
       ],
       "hindex": [
         "10",
@@ -20326,8 +20326,8 @@ var data = [
     "affiliation": "Professor of Computer Science and Engineering, MIT",
     "stats": {
       "citations": [
-        "9417",
-        "4576"
+        "9422",
+        "4579"
       ],
       "hindex": [
         "46",
@@ -20346,7 +20346,7 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, Computer Science, Neonatology, University of Washington, Seattle WA",
     "stats": {
       "citations": [
-        "3549",
+        "3550",
         "1525"
       ],
       "hindex": [
@@ -20354,7 +20354,7 @@ var data = [
         "21"
       ],
       "i10index": [
-        "69",
+        "70",
         "38"
       ]
     },
@@ -20386,8 +20386,8 @@ var data = [
     "affiliation": "University of Virginia",
     "stats": {
       "citations": [
-        "45527",
-        "19850"
+        "45530",
+        "19857"
       ],
       "hindex": [
         "62",
@@ -20406,8 +20406,8 @@ var data = [
     "affiliation": "Professor and Director, Institute for Informatics, Washington University School of Medicine",
     "stats": {
       "citations": [
-        "1614",
-        "1155"
+        "1619",
+        "1160"
       ],
       "hindex": [
         "20",
@@ -20446,8 +20446,8 @@ var data = [
     "affiliation": "Furman University",
     "stats": {
       "citations": [
-        "450",
-        "423"
+        "451",
+        "424"
       ],
       "hindex": [
         "12",
@@ -20466,8 +20466,8 @@ var data = [
     "affiliation": "Associate Professor of Computer Science, Department of Surgical and Clinical Science University of",
     "stats": {
       "citations": [
-        "2017",
-        "783"
+        "2019",
+        "785"
       ],
       "hindex": [
         "22",
@@ -20486,8 +20486,8 @@ var data = [
     "affiliation": "Senior Researcher, LIMSI, CNRS, Université Paris-Saclay, Orsay, France",
     "stats": {
       "citations": [
-        "4876",
-        "2290"
+        "4878",
+        "2292"
       ],
       "hindex": [
         "36",
@@ -20506,8 +20506,8 @@ var data = [
     "affiliation": "School of Computing and Information Technology, University of Wollongong",
     "stats": {
       "citations": [
-        "1572",
-        "1255"
+        "1575",
+        "1258"
       ],
       "hindex": [
         "17",
@@ -20526,8 +20526,8 @@ var data = [
     "affiliation": "Griffith University",
     "stats": {
       "citations": [
-        "800",
-        "463"
+        "804",
+        "467"
       ],
       "hindex": [
         "16",
@@ -20606,8 +20606,8 @@ var data = [
     "affiliation": "Assistant Professor of Information, University of Michigan",
     "stats": {
       "citations": [
-        "5319",
-        "4061"
+        "5322",
+        "4065"
       ],
       "hindex": [
         "26",
@@ -20666,8 +20666,8 @@ var data = [
     "affiliation": "University of Sussex, School of Engineering & Informatics",
     "stats": {
       "citations": [
-        "4524",
-        "2124"
+        "4519",
+        "2119"
       ],
       "hindex": [
         "31",
@@ -20675,7 +20675,7 @@ var data = [
       ],
       "i10index": [
         "101",
-        "60"
+        "59"
       ]
     },
     "year": "1994"
@@ -20706,16 +20706,16 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "9003",
-        "5265"
+        "9010",
+        "5276"
       ],
       "hindex": [
         "34",
         "31"
       ],
       "i10index": [
-        "52",
-        "47"
+        "53",
+        "48"
       ]
     },
     "year": "2003"
@@ -20746,8 +20746,8 @@ var data = [
     "affiliation": "Informatics Scientist @ National Center for Advancing Translational Sciences (NCATS)",
     "stats": {
       "citations": [
-        "592",
-        "468"
+        "593",
+        "469"
       ],
       "hindex": [
         "12",
@@ -20766,8 +20766,8 @@ var data = [
     "affiliation": "Associate Professor, University of Michigan",
     "stats": {
       "citations": [
-        "8465",
-        "6342"
+        "8483",
+        "6360"
       ],
       "hindex": [
         "41",
@@ -20806,8 +20806,8 @@ var data = [
     "affiliation": "Professor Emeritus, McMaster University",
     "stats": {
       "citations": [
-        "113674",
-        "35298"
+        "113706",
+        "35330"
       ],
       "hindex": [
         "111",
@@ -20826,8 +20826,8 @@ var data = [
     "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London",
     "stats": {
       "citations": [
-        "662",
-        "656"
+        "665",
+        "659"
       ],
       "hindex": [
         "11",
@@ -20886,8 +20886,8 @@ var data = [
     "affiliation": "External Lecturer, Department of Computer Science, University of Copenhagen",
     "stats": {
       "citations": [
-        "61",
-        "59"
+        "62",
+        "60"
       ],
       "hindex": [
         "3",
@@ -20906,8 +20906,8 @@ var data = [
     "affiliation": "Professor of Department of Biomedical Informatics, Ajou University School of Medicine",
     "stats": {
       "citations": [
-        "1553",
-        "1293"
+        "1555",
+        "1294"
       ],
       "hindex": [
         "22",
@@ -20946,8 +20946,8 @@ var data = [
     "affiliation": "Assistant Professor of Anesthesiology, Mayo Clinic",
     "stats": {
       "citations": [
-        "2297",
-        "2092"
+        "2310",
+        "2103"
       ],
       "hindex": [
         "21",
@@ -20966,8 +20966,8 @@ var data = [
     "affiliation": "Carl von Ossietzky University, Oldenburg",
     "stats": {
       "citations": [
-        "1430",
-        "907"
+        "1431",
+        "908"
       ],
       "hindex": [
         "20",
@@ -21006,8 +21006,8 @@ var data = [
     "affiliation": "National Institute of Standards and Technology",
     "stats": {
       "citations": [
-        "9558",
-        "3365"
+        "9554",
+        "3362"
       ],
       "hindex": [
         "52",
@@ -21026,7 +21026,7 @@ var data = [
     "affiliation": "Chorus.ai",
     "stats": {
       "citations": [
-        "294",
+        "295",
         "197"
       ],
       "hindex": [
@@ -21066,7 +21066,7 @@ var data = [
     "affiliation": "Guilan University of Medical Sciences",
     "stats": {
       "citations": [
-        "429",
+        "430",
         "297"
       ],
       "hindex": [
@@ -21086,8 +21086,8 @@ var data = [
     "affiliation": "Professor, Columbia University",
     "stats": {
       "citations": [
-        "15200",
-        "11056"
+        "15204",
+        "11062"
       ],
       "hindex": [
         "55",
@@ -21106,8 +21106,8 @@ var data = [
     "affiliation": "Professor of Health Informatics",
     "stats": {
       "citations": [
-        "5470",
-        "2677"
+        "5477",
+        "2683"
       ],
       "hindex": [
         "38",
@@ -21126,8 +21126,8 @@ var data = [
     "affiliation": "Ohio University",
     "stats": {
       "citations": [
-        "6546",
-        "3235"
+        "6550",
+        "3238"
       ],
       "hindex": [
         "27",
@@ -21146,8 +21146,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics",
     "stats": {
       "citations": [
-        "2686",
-        "1193"
+        "2694",
+        "1197"
       ],
       "hindex": [
         "30",
@@ -21166,8 +21166,8 @@ var data = [
     "affiliation": "Associate Professor in Applied Health Research",
     "stats": {
       "citations": [
-        "1107",
-        "797"
+        "1108",
+        "796"
       ],
       "hindex": [
         "18",
@@ -21206,11 +21206,11 @@ var data = [
     "affiliation": "Computing and Information systems, University of Melbourne",
     "stats": {
       "citations": [
-        "834",
-        "675"
+        "841",
+        "682"
       ],
       "hindex": [
-        "16",
+        "17",
         "15"
       ],
       "i10index": [
@@ -21226,7 +21226,7 @@ var data = [
     "affiliation": "PLRI, TU Braunschweig and Hannover Medical School",
     "stats": {
       "citations": [
-        "7736",
+        "7731",
         "3171"
       ],
       "hindex": [
@@ -21246,7 +21246,7 @@ var data = [
     "affiliation": "Professor and Researcher, Edumed Institute for Education in Medicine and Health. Adjunct Professor",
     "stats": {
       "citations": [
-        "1293",
+        "1294",
         "320"
       ],
       "hindex": [
@@ -21266,8 +21266,8 @@ var data = [
     "affiliation": "University Medical Center Hamburg-Eppendorf, Dept. of Computational Neuroscience",
     "stats": {
       "citations": [
-        "1626",
-        "1209"
+        "1627",
+        "1210"
       ],
       "hindex": [
         "18",
@@ -21326,8 +21326,8 @@ var data = [
     "affiliation": "CINTESIS - Faculdade de Medicina da Universidade do Porto",
     "stats": {
       "citations": [
-        "2103",
-        "1533"
+        "2105",
+        "1535"
       ],
       "hindex": [
         "22",
@@ -21346,8 +21346,8 @@ var data = [
     "affiliation": "Professor of Bioengineering and Medical Informatics, University of Pavia",
     "stats": {
       "citations": [
-        "8584",
-        "4571"
+        "8586",
+        "4573"
       ],
       "hindex": [
         "46",
@@ -21386,8 +21386,8 @@ var data = [
     "affiliation": "Assistant Professor of Biomedical Informatics, University of Pittsburgh",
     "stats": {
       "citations": [
-        "839",
-        "738"
+        "841",
+        "740"
       ],
       "hindex": [
         "18",
@@ -21406,8 +21406,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Indiana University School of Medicine",
     "stats": {
       "citations": [
-        "4843",
-        "4110"
+        "4844",
+        "4111"
       ],
       "hindex": [
         "29",
@@ -21446,8 +21446,8 @@ var data = [
     "affiliation": "Centre for Complex Cooperative Systems, University of the West of England",
     "stats": {
       "citations": [
-        "22474",
-        "17338"
+        "22476",
+        "17341"
       ],
       "hindex": [
         "28",
@@ -21486,8 +21486,8 @@ var data = [
     "affiliation": "Professor of Pediatrics, Yale University",
     "stats": {
       "citations": [
-        "7972",
-        "4360"
+        "7982",
+        "4369"
       ],
       "hindex": [
         "36",
@@ -21586,8 +21586,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics and Sociomedical Sciences",
     "stats": {
       "citations": [
-        "3292",
-        "1803"
+        "3294",
+        "1806"
       ],
       "hindex": [
         "24",
@@ -21606,8 +21606,8 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "58",
-        "58"
+        "59",
+        "59"
       ],
       "hindex": [
         "4",
@@ -21646,8 +21646,8 @@ var data = [
     "affiliation": "Vanderbilt University",
     "stats": {
       "citations": [
-        "2615",
-        "2225"
+        "2619",
+        "2229"
       ],
       "hindex": [
         "24",
@@ -21666,8 +21666,8 @@ var data = [
     "affiliation": "Assistant Professor of Biomedical Data Science, Dartmouth College",
     "stats": {
       "citations": [
-        "468",
-        "199"
+        "467",
+        "198"
       ],
       "hindex": [
         "10",
@@ -21686,7 +21686,7 @@ var data = [
     "affiliation": "Professor of Social Informatics, University of Warwick",
     "stats": {
       "citations": [
-        "7817",
+        "7820",
         "4631"
       ],
       "hindex": [
@@ -21706,8 +21706,8 @@ var data = [
     "affiliation": "Professor of Medicine, Kansas University School of Medicine - Wichita",
     "stats": {
       "citations": [
-        "1767",
-        "457"
+        "1768",
+        "459"
       ],
       "hindex": [
         "19",
@@ -21726,8 +21726,8 @@ var data = [
     "affiliation": "Graduate Student in Biomedical Informatics, Stanford University",
     "stats": {
       "citations": [
-        "4342",
-        "3262"
+        "4344",
+        "3264"
       ],
       "hindex": [
         "15",
@@ -21746,8 +21746,8 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "9990",
-        "2713"
+        "10005",
+        "2728"
       ],
       "hindex": [
         "47",
@@ -21766,8 +21766,8 @@ var data = [
     "affiliation": "Software and Information Systems Engineering, Ben Gurion University of the Negev",
     "stats": {
       "citations": [
-        "2264",
-        "1653"
+        "2269",
+        "1658"
       ],
       "hindex": [
         "27",
@@ -21806,7 +21806,7 @@ var data = [
     "affiliation": "PGY-3, Anesthesia, Stanford University",
     "stats": {
       "citations": [
-        "504",
+        "505",
         "471"
       ],
       "hindex": [
@@ -21846,8 +21846,8 @@ var data = [
     "affiliation": "Managing Director, Semedy Inc.; Assistant Professor, Harvard Medical School",
     "stats": {
       "citations": [
-        "1667",
-        "610"
+        "1668",
+        "611"
       ],
       "hindex": [
         "21",
@@ -21886,8 +21886,8 @@ var data = [
     "affiliation": "University of the West of England",
     "stats": {
       "citations": [
-        "780",
-        "437"
+        "781",
+        "438"
       ],
       "hindex": [
         "11",
@@ -21926,8 +21926,8 @@ var data = [
     "affiliation": "Associate professor in Medical Informatics, Amsterdam UMC - University of Amsterdam",
     "stats": {
       "citations": [
-        "3435",
-        "1682"
+        "3433",
+        "1679"
       ],
       "hindex": [
         "23",
@@ -21946,8 +21946,8 @@ var data = [
     "affiliation": "Assistant Professor, University of Maryland School of Nursing",
     "stats": {
       "citations": [
-        "239",
-        "233"
+        "240",
+        "234"
       ],
       "hindex": [
         "9",
@@ -21966,8 +21966,8 @@ var data = [
     "affiliation": "Director of Clinical Genome Informatics & Assistant Professor, Mount Sinai School of Medicine",
     "stats": {
       "citations": [
-        "9622",
-        "6324"
+        "9640",
+        "6340"
       ],
       "hindex": [
         "44",
@@ -21986,8 +21986,8 @@ var data = [
     "affiliation": "Case Western Reserve University",
     "stats": {
       "citations": [
-        "988",
-        "903"
+        "990",
+        "905"
       ],
       "hindex": [
         "17",
@@ -22086,16 +22086,16 @@ var data = [
     "affiliation": "University of Pennsylvania",
     "stats": {
       "citations": [
-        "5328",
-        "2906"
+        "5327",
+        "2905"
       ],
       "hindex": [
         "24",
         "20"
       ],
       "i10index": [
-        "33",
-        "29"
+        "32",
+        "28"
       ]
     },
     "year": "2005"
@@ -22106,8 +22106,8 @@ var data = [
     "affiliation": "Emory University",
     "stats": {
       "citations": [
-        "1489",
-        "377"
+        "1486",
+        "375"
       ],
       "hindex": [
         "17",
@@ -22126,8 +22126,8 @@ var data = [
     "affiliation": "Elsevier",
     "stats": {
       "citations": [
-        "1068",
-        "912"
+        "1071",
+        "915"
       ],
       "hindex": [
         "14",
@@ -22146,8 +22146,8 @@ var data = [
     "affiliation": "Professor @ University of Coimbra, Portugal",
     "stats": {
       "citations": [
-        "1021",
-        "645"
+        "1020",
+        "644"
       ],
       "hindex": [
         "17",
@@ -22186,8 +22186,8 @@ var data = [
     "affiliation": "Professor Stanford University",
     "stats": {
       "citations": [
-        "35035",
-        "18875"
+        "35056",
+        "18891"
       ],
       "hindex": [
         "86",
@@ -22195,7 +22195,7 @@ var data = [
       ],
       "i10index": [
         "355",
-        "254"
+        "255"
       ]
     },
     "year": "1994"
@@ -22206,8 +22206,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of Alberta",
     "stats": {
       "citations": [
-        "17332",
-        "9441"
+        "17343",
+        "9456"
       ],
       "hindex": [
         "50",
@@ -22246,8 +22246,8 @@ var data = [
     "affiliation": "Graduate Student, Biomedical Engineering, Georgia Institute of Technology and Emory University",
     "stats": {
       "citations": [
-        "257",
-        "256"
+        "258",
+        "257"
       ],
       "hindex": [
         "4",
@@ -22286,8 +22286,8 @@ var data = [
     "affiliation": "Associate Professor of Pathology and Immunology, Washington University in St. Louis",
     "stats": {
       "citations": [
-        "2299",
-        "1478"
+        "2311",
+        "1490"
       ],
       "hindex": [
         "22",
@@ -22306,8 +22306,8 @@ var data = [
     "affiliation": "Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University",
     "stats": {
       "citations": [
-        "936",
-        "731"
+        "940",
+        "735"
       ],
       "hindex": [
         "17",
@@ -22326,19 +22326,19 @@ var data = [
     "affiliation": "Professor of Computer Science, Lakehead University",
     "stats": {
       "citations": [
-        "891",
-        "636"
+        "812",
+        "563"
       ],
       "hindex": [
-        "15",
+        "13",
         "12"
       ],
       "i10index": [
-        "23",
-        "18"
+        "20",
+        "15"
       ]
     },
-    "year": "1996"
+    "year": "1995"
   },
   {
     "name": "Sabine Koch, FACMI, FIAHSI",
@@ -22346,8 +22346,8 @@ var data = [
     "affiliation": "Professor in Health Informatics, Karolinska Institutet",
     "stats": {
       "citations": [
-        "1867",
-        "1094"
+        "1868",
+        "1095"
       ],
       "hindex": [
         "22",
@@ -22366,8 +22366,8 @@ var data = [
     "affiliation": "Attending Physician, VA Boston; Lecturer, Medicine and Health Care Policy, Harvard Medical School",
     "stats": {
       "citations": [
-        "5365",
-        "4007"
+        "5377",
+        "4016"
       ],
       "hindex": [
         "34",
@@ -22406,8 +22406,8 @@ var data = [
     "affiliation": "Director of Algorithm Research, Philips Healthcare",
     "stats": {
       "citations": [
-        "632",
-        "503"
+        "635",
+        "506"
       ],
       "hindex": [
         "14",
@@ -22526,8 +22526,8 @@ var data = [
     "affiliation": "Head of Health Data Sciences",
     "stats": {
       "citations": [
-        "874",
-        "813"
+        "873",
+        "812"
       ],
       "hindex": [
         "8",
@@ -22586,8 +22586,8 @@ var data = [
     "affiliation": "UNIVERSITY OF MALAYA",
     "stats": {
       "citations": [
-        "1131",
-        "935"
+        "1129",
+        "933"
       ],
       "hindex": [
         "16",
@@ -22626,8 +22626,8 @@ var data = [
     "affiliation": "Senior Research Engineer, Biomedical Informatics, Stanford University",
     "stats": {
       "citations": [
-        "12099",
-        "3034"
+        "12118",
+        "3054"
       ],
       "hindex": [
         "53",
@@ -22647,7 +22647,7 @@ var data = [
     "stats": {
       "citations": [
         "750",
-        "170"
+        "169"
       ],
       "hindex": [
         "11",
@@ -22666,8 +22666,8 @@ var data = [
     "affiliation": "Harvard Vanguard Medical Associates",
     "stats": {
       "citations": [
-        "792",
-        "651"
+        "793",
+        "652"
       ],
       "hindex": [
         "11",
@@ -22686,8 +22686,8 @@ var data = [
     "affiliation": "Vanderbilt University Medical Center",
     "stats": {
       "citations": [
-        "3273",
-        "1993"
+        "3276",
+        "1996"
       ],
       "hindex": [
         "30",
@@ -22706,8 +22706,8 @@ var data = [
     "affiliation": "University of Texas at Dallas",
     "stats": {
       "citations": [
-        "7267",
-        "2432"
+        "7270",
+        "2435"
       ],
       "hindex": [
         "43",
@@ -22727,7 +22727,7 @@ var data = [
     "stats": {
       "citations": [
         "1899",
-        "686"
+        "685"
       ],
       "hindex": [
         "12",
@@ -22746,8 +22746,8 @@ var data = [
     "affiliation": "Professor, School of Pharmacy, University of Pittsburgh",
     "stats": {
       "citations": [
-        "4765",
-        "3124"
+        "4769",
+        "3126"
       ],
       "hindex": [
         "38",
@@ -22766,8 +22766,8 @@ var data = [
     "affiliation": "Assistant Professor, Chungnam National University",
     "stats": {
       "citations": [
-        "1347",
-        "1005"
+        "1350",
+        "1008"
       ],
       "hindex": [
         "16",
@@ -22786,8 +22786,8 @@ var data = [
     "affiliation": "University of Florida",
     "stats": {
       "citations": [
-        "10896",
-        "3679"
+        "10901",
+        "3684"
       ],
       "hindex": [
         "51",
@@ -22806,7 +22806,7 @@ var data = [
     "affiliation": "Bioinformatics Data Analyst at University of Nebraska Medical Center",
     "stats": {
       "citations": [
-        "153",
+        "154",
         "150"
       ],
       "hindex": [
@@ -22846,8 +22846,8 @@ var data = [
     "affiliation": "Associate Professor,LASIGE,Departamento de Informática,Faculdade de Ciências,Universidade de Lisboa",
     "stats": {
       "citations": [
-        "3574",
-        "2032"
+        "3579",
+        "2037"
       ],
       "hindex": [
         "16",
@@ -22866,8 +22866,8 @@ var data = [
     "affiliation": "Columbia University, Department of Biomedical Informatics",
     "stats": {
       "citations": [
-        "1292",
-        "1118"
+        "1296",
+        "1121"
       ],
       "hindex": [
         "21",
@@ -22886,7 +22886,7 @@ var data = [
     "affiliation": "Medical Informatics and Computer Science, Case Western Reserve University",
     "stats": {
       "citations": [
-        "2968",
+        "2967",
         "2034"
       ],
       "hindex": [
@@ -22906,8 +22906,8 @@ var data = [
     "affiliation": "Assistant Professor of Medicine, Harvard Medical School",
     "stats": {
       "citations": [
-        "1491",
-        "786"
+        "1492",
+        "787"
       ],
       "hindex": [
         "16",
@@ -22946,8 +22946,8 @@ var data = [
     "affiliation": "Associate Professor,Federal University of Santa Catarina",
     "stats": {
       "citations": [
-        "714",
-        "503"
+        "712",
+        "502"
       ],
       "hindex": [
         "15",
@@ -22967,7 +22967,7 @@ var data = [
     "stats": {
       "citations": [
         "241",
-        "240"
+        "241"
       ],
       "hindex": [
         "7",
@@ -23006,8 +23006,8 @@ var data = [
     "affiliation": "Pediatric Nephrology, Stanford University School of Medicine",
     "stats": {
       "citations": [
-        "1669",
-        "1468"
+        "1670",
+        "1469"
       ],
       "hindex": [
         "19",
@@ -23026,8 +23026,8 @@ var data = [
     "affiliation": "Professor, University of Washington",
     "stats": {
       "citations": [
-        "10130",
-        "8752"
+        "10140",
+        "8762"
       ],
       "hindex": [
         "36",
@@ -23046,8 +23046,8 @@ var data = [
     "affiliation": "School of Computer Science, The University of Manchester",
     "stats": {
       "citations": [
-        "2442",
-        "1338"
+        "2438",
+        "1334"
       ],
       "hindex": [
         "18",
@@ -23066,8 +23066,8 @@ var data = [
     "affiliation": "Juniorprofessor @ Berlin Institute of Health & Einstein Center Digital Future & Charité",
     "stats": {
       "citations": [
-        "4219",
-        "3587"
+        "4239",
+        "3605"
       ],
       "hindex": [
         "26",
@@ -23086,8 +23086,8 @@ var data = [
     "affiliation": "Assistant Professor, Department of Computer Science, New Jersey Institute of Technology",
     "stats": {
       "citations": [
-        "2645",
-        "1956"
+        "2649",
+        "1960"
       ],
       "hindex": [
         "24",
@@ -23226,8 +23226,8 @@ var data = [
     "affiliation": "TECHNION-ISRAEL INSTITUTE OF TECHNOLOGY",
     "stats": {
       "citations": [
-        "12068",
-        "5786"
+        "12082",
+        "5799"
       ],
       "hindex": [
         "21",
@@ -23246,8 +23246,8 @@ var data = [
     "affiliation": "Senior Research Scientist - Nvidia Research",
     "stats": {
       "citations": [
-        "1486",
-        "1134"
+        "1494",
+        "1142"
       ],
       "hindex": [
         "17",
@@ -23306,8 +23306,8 @@ var data = [
     "affiliation": "Professor, Biostatistics and Bioinformatics, Oregon Health and Science University",
     "stats": {
       "citations": [
-        "6820",
-        "4006"
+        "6822",
+        "4011"
       ],
       "hindex": [
         "41",
@@ -23366,7 +23366,7 @@ var data = [
     "affiliation": "Associate Professor of Family Medicine, I.U. School of Medicine",
     "stats": {
       "citations": [
-        "2270",
+        "2268",
         "1330"
       ],
       "hindex": [
@@ -23406,8 +23406,8 @@ var data = [
     "affiliation": "Associate Professor, College of Nursing, The University of Arizona",
     "stats": {
       "citations": [
-        "799",
-        "766"
+        "800",
+        "767"
       ],
       "hindex": [
         "16",
@@ -23526,7 +23526,7 @@ var data = [
     "affiliation": "Thapar University Patiala, Punjab, India",
     "stats": {
       "citations": [
-        "198",
+        "199",
         "181"
       ],
       "hindex": [
@@ -23566,8 +23566,8 @@ var data = [
     "affiliation": "Associate Professor of Biomedical Informatics, University of Pittsburgh",
     "stats": {
       "citations": [
-        "1171",
-        "924"
+        "1173",
+        "926"
       ],
       "hindex": [
         "20",
@@ -23606,8 +23606,8 @@ var data = [
     "affiliation": "Professor of General Practice, UNSW Medicine Australia",
     "stats": {
       "citations": [
-        "2182",
-        "1478"
+        "2183",
+        "1480"
       ],
       "hindex": [
         "26",
@@ -23647,7 +23647,7 @@ var data = [
     "stats": {
       "citations": [
         "1000",
-        "721"
+        "722"
       ],
       "hindex": [
         "12",
@@ -23666,16 +23666,16 @@ var data = [
     "affiliation": "University of Oxford",
     "stats": {
       "citations": [
-        "36076",
-        "19506"
+        "36097",
+        "19539"
       ],
       "hindex": [
         "92",
         "66"
       ],
       "i10index": [
-        "319",
-        "257"
+        "320",
+        "258"
       ]
     },
     "year": "1996"
@@ -23706,11 +23706,11 @@ var data = [
     "affiliation": "Professor of Primary Care and Clinical Informatics, University of Surrey",
     "stats": {
       "citations": [
-        "8938",
-        "5549"
+        "8945",
+        "5557"
       ],
       "hindex": [
-        "47",
+        "48",
         "37"
       ],
       "i10index": [
@@ -23726,8 +23726,8 @@ var data = [
     "affiliation": "Lecturer in Nursing",
     "stats": {
       "citations": [
-        "270",
-        "266"
+        "271",
+        "267"
       ],
       "hindex": [
         "7",
@@ -23746,8 +23746,8 @@ var data = [
     "affiliation": "Principal researcher/ Bioinformatics Lab head",
     "stats": {
       "citations": [
-        "1107",
-        "705"
+        "1110",
+        "708"
       ],
       "hindex": [
         "17",
@@ -23766,8 +23766,8 @@ var data = [
     "affiliation": "Temple University",
     "stats": {
       "citations": [
-        "6440",
-        "3750"
+        "6441",
+        "3751"
       ],
       "hindex": [
         "31",
@@ -23806,8 +23806,8 @@ var data = [
     "affiliation": "Dept. of Biomedical Informatics, University of Pittsburgh",
     "stats": {
       "citations": [
-        "1170",
-        "724"
+        "1176",
+        "728"
       ],
       "hindex": [
         "15",
@@ -23826,11 +23826,11 @@ var data = [
     "affiliation": "HIBA",
     "stats": {
       "citations": [
-        "38",
-        "32"
+        "41",
+        "35"
       ],
       "hindex": [
-        "4",
+        "5",
         "4"
       ],
       "i10index": [
@@ -23846,8 +23846,8 @@ var data = [
     "affiliation": "Assistant Professor, Sungkyunkwan University",
     "stats": {
       "citations": [
-        "1464",
-        "703"
+        "1465",
+        "704"
       ],
       "hindex": [
         "20",
@@ -23866,16 +23866,16 @@ var data = [
     "affiliation": "University of Southern Queensland",
     "stats": {
       "citations": [
-        "433",
-        "151"
+        "434",
+        "152"
       ],
       "hindex": [
         "12",
         "7"
       ],
       "i10index": [
-        "13",
-        "5"
+        "14",
+        "6"
       ]
     },
     "year": "1996"
@@ -23886,8 +23886,8 @@ var data = [
     "affiliation": "\"Iuliu Hatieganu\" University of Medicine and Pharmacy, Cluj-Napoca, Romania",
     "stats": {
       "citations": [
-        "1943",
-        "1137"
+        "1946",
+        "1141"
       ],
       "hindex": [
         "20",
@@ -23906,7 +23906,7 @@ var data = [
     "affiliation": "Research Director, Insitute of Communication and Computer Systems, National Technical University of Athens, Greece",
     "stats": {
       "citations": [
-        "2326",
+        "2327",
         "858"
       ],
       "hindex": [
@@ -23966,8 +23966,8 @@ var data = [
     "affiliation": "Tenet Healthcare Corporation",
     "stats": {
       "citations": [
-        "2485",
-        "1811"
+        "2491",
+        "1812"
       ],
       "hindex": [
         "21",
@@ -23986,8 +23986,8 @@ var data = [
     "affiliation": "Associate Professor in Biomedical Informatics, University College London",
     "stats": {
       "citations": [
-        "2487",
-        "2421"
+        "2488",
+        "2422"
       ],
       "hindex": [
         "21",
@@ -24106,8 +24106,8 @@ var data = [
     "affiliation": "Medical University of Graz",
     "stats": {
       "citations": [
-        "5740",
-        "2606"
+        "5741",
+        "2607"
       ],
       "hindex": [
         "40",
@@ -24146,8 +24146,8 @@ var data = [
     "affiliation": "Medical University of South Carolina",
     "stats": {
       "citations": [
-        "2026",
-        "1350"
+        "2027",
+        "1351"
       ],
       "hindex": [
         "18",
@@ -24186,8 +24186,8 @@ var data = [
     "affiliation": "NCBI, NLM, NIH",
     "stats": {
       "citations": [
-        "160297",
-        "49626"
+        "160288",
+        "49629"
       ],
       "hindex": [
         "47",
@@ -24226,15 +24226,15 @@ var data = [
     "affiliation": "Jean and Jerry Bepko Professor of Pediatrics, Indiana University School of Medicine",
     "stats": {
       "citations": [
-        "5166",
-        "2701"
+        "5170",
+        "2705"
       ],
       "hindex": [
         "38",
         "27"
       ],
       "i10index": [
-        "93",
+        "94",
         "67"
       ]
     },
@@ -24246,15 +24246,15 @@ var data = [
     "affiliation": "Volunteer Professor, University of Miami",
     "stats": {
       "citations": [
-        "6964",
-        "1122"
+        "6966",
+        "1126"
       ],
       "hindex": [
         "50",
         "16"
       ],
       "i10index": [
-        "92",
+        "93",
         "32"
       ]
     },
@@ -24266,8 +24266,8 @@ var data = [
     "affiliation": "University of Memphis",
     "stats": {
       "citations": [
-        "152",
-        "136"
+        "150",
+        "134"
       ],
       "hindex": [
         "5",
@@ -24306,8 +24306,8 @@ var data = [
     "affiliation": "Oregon Health & Science University",
     "stats": {
       "citations": [
-        "723",
-        "449"
+        "724",
+        "450"
       ],
       "hindex": [
         "11",
@@ -24326,8 +24326,8 @@ var data = [
     "affiliation": "Unknown affiliation",
     "stats": {
       "citations": [
-        "837",
-        "392"
+        "836",
+        "391"
       ],
       "hindex": [
         "12",
@@ -24366,8 +24366,8 @@ var data = [
     "affiliation": "Assistant Professor of Medicine, University of Pittsburgh",
     "stats": {
       "citations": [
-        "3321",
-        "2530"
+        "3319",
+        "2528"
       ],
       "hindex": [
         "31",
@@ -24386,8 +24386,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, Harvard Medical School; Chief, General Internal Medicine, VA Boston",
     "stats": {
       "citations": [
-        "6144",
-        "3102"
+        "6146",
+        "3108"
       ],
       "hindex": [
         "42",
@@ -24395,7 +24395,7 @@ var data = [
       ],
       "i10index": [
         "110",
-        "82"
+        "83"
       ]
     },
     "year": "1999"
@@ -24426,11 +24426,11 @@ var data = [
     "affiliation": "Professor of health informatics, University of Minnesota",
     "stats": {
       "citations": [
-        "3013",
-        "1479"
+        "3012",
+        "1478"
       ],
       "hindex": [
-        "27",
+        "26",
         "17"
       ],
       "i10index": [
@@ -24446,8 +24446,8 @@ var data = [
     "affiliation": "Assistant Professor, Vanderbilt University School of Medicine",
     "stats": {
       "citations": [
-        "1343",
-        "1086"
+        "1346",
+        "1089"
       ],
       "hindex": [
         "11",
@@ -24466,8 +24466,8 @@ var data = [
     "affiliation": "Georgetown University",
     "stats": {
       "citations": [
-        "5929",
-        "4267"
+        "5939",
+        "4276"
       ],
       "hindex": [
         "18",
@@ -24486,8 +24486,8 @@ var data = [
     "affiliation": "Professor of Information Systems, University of Florida",
     "stats": {
       "citations": [
-        "3674",
-        "2805"
+        "3677",
+        "2808"
       ],
       "hindex": [
         "17",
@@ -24546,8 +24546,8 @@ var data = [
     "affiliation": "Department of Health Informatics, College of Public Health and Health Informatics, University of Ha",
     "stats": {
       "citations": [
-        "4032",
-        "4022"
+        "4016",
+        "4005"
       ],
       "hindex": [
         "12",
@@ -24586,8 +24586,8 @@ var data = [
     "affiliation": "KTH, Stockholm and King's College, London",
     "stats": {
       "citations": [
-        "997",
-        "867"
+        "999",
+        "868"
       ],
       "hindex": [
         "14",
@@ -24626,8 +24626,8 @@ var data = [
     "affiliation": "School of Computer Science and Engineering, Nanyang Technological University",
     "stats": {
       "citations": [
-        "5037",
-        "3921"
+        "5036",
+        "3918"
       ],
       "hindex": [
         "37",
@@ -24666,8 +24666,8 @@ var data = [
     "affiliation": "Columbia University",
     "stats": {
       "citations": [
-        "11772",
-        "6164"
+        "11780",
+        "6171"
       ],
       "hindex": [
         "56",
@@ -24686,8 +24686,8 @@ var data = [
     "affiliation": "Associate Professor, Health Management & Informatics, University of Missouri",
     "stats": {
       "citations": [
-        "6672",
-        "3363"
+        "6674",
+        "3364"
       ],
       "hindex": [
         "35",
@@ -24746,7 +24746,7 @@ var data = [
     "affiliation": "Freelance!",
     "stats": {
       "citations": [
-        "1885",
+        "1884",
         "391"
       ],
       "hindex": [
@@ -24766,16 +24766,16 @@ var data = [
     "affiliation": "Academia Sinica, Taiwan",
     "stats": {
       "citations": [
-        "772",
-        "701"
+        "774",
+        "703"
       ],
       "hindex": [
         "14",
         "13"
       ],
       "i10index": [
-        "25",
-        "22"
+        "26",
+        "23"
       ]
     },
     "year": "2010"
@@ -24886,8 +24886,8 @@ var data = [
     "affiliation": "Director, Medical Data for Innovation, Integration and Implementation (MDi3), The Ohio State",
     "stats": {
       "citations": [
-        "583",
-        "308"
+        "582",
+        "307"
       ],
       "hindex": [
         "10",
@@ -24906,8 +24906,8 @@ var data = [
     "affiliation": "University Hospital of North Norway",
     "stats": {
       "citations": [
-        "788",
-        "741"
+        "789",
+        "742"
       ],
       "hindex": [
         "9",
@@ -24926,8 +24926,8 @@ var data = [
     "affiliation": "Assistant Professor, JHU-School of Medicine",
     "stats": {
       "citations": [
-        "1039",
-        "745"
+        "1043",
+        "749"
       ],
       "hindex": [
         "14",
@@ -24966,8 +24966,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of Minnesota Duluth",
     "stats": {
       "citations": [
-        "9575",
-        "4330"
+        "9583",
+        "4336"
       ],
       "hindex": [
         "39",
@@ -24986,8 +24986,8 @@ var data = [
     "affiliation": "Adjunct Professor of Biomedical Informatics (Columbia, Arizona State, and Cornell Universities)",
     "stats": {
       "citations": [
-        "31714",
-        "5928"
+        "31730",
+        "5944"
       ],
       "hindex": [
         "70",
@@ -25006,15 +25006,15 @@ var data = [
     "affiliation": "Professor of Industrial Engineering, School of Computing, Informatics, Decision Systems Engineering",
     "stats": {
       "citations": [
-        "3904",
-        "2779"
+        "3910",
+        "2783"
       ],
       "hindex": [
         "34",
         "30"
       ],
       "i10index": [
-        "69",
+        "70",
         "59"
       ]
     },
@@ -25026,11 +25026,11 @@ var data = [
     "affiliation": "Director, PharmGKB, Stanford University",
     "stats": {
       "citations": [
-        "18119",
-        "13857"
+        "18135",
+        "13868"
       ],
       "hindex": [
-        "66",
+        "67",
         "58"
       ],
       "i10index": [
@@ -25046,7 +25046,7 @@ var data = [
     "affiliation": "Australasian College of Health Informatics",
     "stats": {
       "citations": [
-        "998",
+        "999",
         "392"
       ],
       "hindex": [
@@ -25126,8 +25126,8 @@ var data = [
     "affiliation": "Northwestern University",
     "stats": {
       "citations": [
-        "11028",
-        "2750"
+        "11029",
+        "2752"
       ],
       "hindex": [
         "26",
@@ -25146,8 +25146,8 @@ var data = [
     "affiliation": "Rouge Valley Health System and University of Toronto",
     "stats": {
       "citations": [
-        "4683",
-        "1246"
+        "4685",
+        "1248"
       ],
       "hindex": [
         "19",
@@ -25186,8 +25186,8 @@ var data = [
     "affiliation": "Assistant Professor of Biomedical Informatics, Vanderbilt University School of Medicine",
     "stats": {
       "citations": [
-        "1427",
-        "945"
+        "1429",
+        "947"
       ],
       "hindex": [
         "14",
@@ -25206,8 +25206,8 @@ var data = [
     "affiliation": "Grad student, NTNU",
     "stats": {
       "citations": [
-        "67",
-        "23"
+        "68",
+        "24"
       ],
       "hindex": [
         "4",
@@ -25246,16 +25246,16 @@ var data = [
     "affiliation": "University of Massachusetts Medical School",
     "stats": {
       "citations": [
-        "13377",
-        "10233"
+        "13393",
+        "10247"
       ],
       "hindex": [
         "43",
-        "34"
+        "35"
       ],
       "i10index": [
         "106",
-        "84"
+        "83"
       ]
     },
     "year": "2002"
@@ -25266,8 +25266,8 @@ var data = [
     "affiliation": "Institute for Informatics & Dept of Anesthesiology, Washington University in St Louis",
     "stats": {
       "citations": [
-        "1413",
-        "1076"
+        "1416",
+        "1079"
       ],
       "hindex": [
         "20",
@@ -25286,8 +25286,8 @@ var data = [
     "affiliation": "NIHR Academic Clinical Fellow Trauma & Orthopaedic Surgery, NHS",
     "stats": {
       "citations": [
-        "500",
-        "497"
+        "499",
+        "496"
       ],
       "hindex": [
         "10",
@@ -25326,8 +25326,8 @@ var data = [
     "affiliation": "University of Washington",
     "stats": {
       "citations": [
-        "3386",
-        "1785"
+        "3389",
+        "1788"
       ],
       "hindex": [
         "30",
@@ -25346,8 +25346,8 @@ var data = [
     "affiliation": "Georgia Institute of Technology",
     "stats": {
       "citations": [
-        "3000",
-        "2494"
+        "3009",
+        "2504"
       ],
       "hindex": [
         "29",
@@ -25386,8 +25386,8 @@ var data = [
     "affiliation": "Professor of Medicine, Virginia Commonwealth University",
     "stats": {
       "citations": [
-        "648",
-        "490"
+        "649",
+        "491"
       ],
       "hindex": [
         "12",
@@ -25446,8 +25446,8 @@ var data = [
     "affiliation": "R-Outcomes Ltd",
     "stats": {
       "citations": [
-        "1071",
-        "599"
+        "1070",
+        "598"
       ],
       "hindex": [
         "11",
@@ -25466,8 +25466,8 @@ var data = [
     "affiliation": "UNSW Australia, Faculty of Medicine",
     "stats": {
       "citations": [
-        "1998",
-        "854"
+        "1997",
+        "853"
       ],
       "hindex": [
         "20",
@@ -25486,8 +25486,8 @@ var data = [
     "affiliation": "Northeastern University",
     "stats": {
       "citations": [
-        "10673",
-        "5109"
+        "10677",
+        "5114"
       ],
       "hindex": [
         "47",
@@ -25506,8 +25506,8 @@ var data = [
     "affiliation": "MLHIM Lab",
     "stats": {
       "citations": [
-        "188",
-        "75"
+        "186",
+        "73"
       ],
       "hindex": [
         "8",
@@ -25546,16 +25546,16 @@ var data = [
     "affiliation": "Stanford University",
     "stats": {
       "citations": [
-        "13209",
-        "6164"
+        "13216",
+        "6170"
       ],
       "hindex": [
         "48",
         "39"
       ],
       "i10index": [
-        "100",
-        "91"
+        "101",
+        "92"
       ]
     },
     "year": "1999"
@@ -25566,8 +25566,8 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics",
     "stats": {
       "citations": [
-        "2416",
-        "1047"
+        "2418",
+        "1049"
       ],
       "hindex": [
         "27",
@@ -25586,15 +25586,15 @@ var data = [
     "affiliation": "University of Lausanne",
     "stats": {
       "citations": [
-        "1425",
-        "1145"
+        "1429",
+        "1149"
       ],
       "hindex": [
         "19",
         "17"
       ],
       "i10index": [
-        "33",
+        "34",
         "28"
       ]
     },
@@ -25606,15 +25606,15 @@ var data = [
     "affiliation": "The University of Texas School of Biomedical Informatics at Houston",
     "stats": {
       "citations": [
-        "4028",
-        "1713"
+        "4032",
+        "1717"
       ],
       "hindex": [
         "30",
         "20"
       ],
       "i10index": [
-        "67",
+        "68",
         "39"
       ]
     },
@@ -25626,8 +25626,8 @@ var data = [
     "affiliation": "Kyoto University",
     "stats": {
       "citations": [
-        "1698",
-        "723"
+        "1697",
+        "722"
       ],
       "hindex": [
         "19",
@@ -25646,8 +25646,8 @@ var data = [
     "affiliation": "College of Computer Science, Zhejiang University",
     "stats": {
       "citations": [
-        "280",
-        "195"
+        "282",
+        "196"
       ],
       "hindex": [
         "8",
@@ -25686,8 +25686,8 @@ var data = [
     "affiliation": "Associate Professor of Medicine, University of Wisconsin School of Medicine and Public Health",
     "stats": {
       "citations": [
-        "3308",
-        "2407"
+        "3311",
+        "2410"
       ],
       "hindex": [
         "27",
@@ -25746,15 +25746,15 @@ var data = [
     "affiliation": "University of Texas Health Science Center at Houston",
     "stats": {
       "citations": [
-        "2062",
-        "1639"
+        "2065",
+        "1642"
       ],
       "hindex": [
         "24",
         "21"
       ],
       "i10index": [
-        "50",
+        "51",
         "43"
       ]
     },
@@ -25767,7 +25767,7 @@ var data = [
     "stats": {
       "citations": [
         "5233",
-        "2807"
+        "2806"
       ],
       "hindex": [
         "21",
@@ -25806,8 +25806,8 @@ var data = [
     "affiliation": "National University of Singapore",
     "stats": {
       "citations": [
-        "1377",
-        "590"
+        "1370",
+        "583"
       ],
       "hindex": [
         "21",
@@ -25866,11 +25866,11 @@ var data = [
     "affiliation": "University of Pittsburgh",
     "stats": {
       "citations": [
-        "3667",
-        "2019"
+        "3666",
+        "2018"
       ],
       "hindex": [
-        "24",
+        "25",
         "19"
       ],
       "i10index": [
@@ -25906,8 +25906,8 @@ var data = [
     "affiliation": "Professor, Computational Science and Engineering, Georgia Institute of Technology",
     "stats": {
       "citations": [
-        "8271",
-        "4810"
+        "8275",
+        "4814"
       ],
       "hindex": [
         "47",
@@ -25946,8 +25946,8 @@ var data = [
     "affiliation": "Associate Professor, University of California, San Francisco",
     "stats": {
       "citations": [
-        "4139",
-        "3279"
+        "4142",
+        "3278"
       ],
       "hindex": [
         "33",
@@ -25966,8 +25966,8 @@ var data = [
     "affiliation": "Hannover Medical School, Deputy Director of the Peter L. Reichertz Institute for Medical Informatics",
     "stats": {
       "citations": [
-        "1067",
-        "1001"
+        "1068",
+        "1002"
       ],
       "hindex": [
         "17",
@@ -25986,8 +25986,8 @@ var data = [
     "affiliation": "Global Health and Development, College of Public Health, Taipei Medical University",
     "stats": {
       "citations": [
-        "540",
-        "532"
+        "543",
+        "535"
       ],
       "hindex": [
         "12",
@@ -26026,8 +26026,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of California - Riverside",
     "stats": {
       "citations": [
-        "6895",
-        "3284"
+        "6899",
+        "3285"
       ],
       "hindex": [
         "33",
@@ -26066,8 +26066,8 @@ var data = [
     "affiliation": "Associate Professor, Weber State University",
     "stats": {
       "citations": [
-        "3601",
-        "1608"
+        "3610",
+        "1612"
       ],
       "hindex": [
         "7",
@@ -26126,8 +26126,8 @@ var data = [
     "affiliation": "Senior lecturer in health informatics, King's College London",
     "stats": {
       "citations": [
-        "1920",
-        "1269"
+        "1918",
+        "1267"
       ],
       "hindex": [
         "22",
@@ -26166,7 +26166,7 @@ var data = [
     "affiliation": "Researcher, Institute of Applied Biosciences, Centre for Research & Technology Hellas, Thessaloniki",
     "stats": {
       "citations": [
-        "1357",
+        "1358",
         "668"
       ],
       "hindex": [
@@ -26206,8 +26206,8 @@ var data = [
     "affiliation": "Partners Healthcare, Harvard Medical School",
     "stats": {
       "citations": [
-        "2623",
-        "2407"
+        "2619",
+        "2403"
       ],
       "hindex": [
         "21",
@@ -26226,8 +26226,8 @@ var data = [
     "affiliation": "Biomedical Informatics Group, Universidad Politecnica de Madrid",
     "stats": {
       "citations": [
-        "2073",
-        "779"
+        "2074",
+        "780"
       ],
       "hindex": [
         "21",
@@ -26306,8 +26306,8 @@ var data = [
     "affiliation": "Professor of Computer Science, University of Maribor, Slovenia",
     "stats": {
       "citations": [
-        "1424",
-        "695"
+        "1426",
+        "697"
       ],
       "hindex": [
         "18",
@@ -26326,8 +26326,8 @@ var data = [
     "affiliation": "Senior Research Scientist, New York Academy of Medicine",
     "stats": {
       "citations": [
-        "20977",
-        "7565"
+        "20978",
+        "7571"
       ],
       "hindex": [
         "79",
@@ -26347,15 +26347,15 @@ var data = [
     "stats": {
       "citations": [
         "7254",
-        "5878"
+        "5877"
       ],
       "hindex": [
         "45",
         "40"
       ],
       "i10index": [
-        "139",
-        "125"
+        "140",
+        "126"
       ]
     },
     "year": "2005"
@@ -26366,8 +26366,8 @@ var data = [
     "affiliation": "Associate Professor of Medical Informatics, University of Udine",
     "stats": {
       "citations": [
-        "1880",
-        "742"
+        "1881",
+        "743"
       ],
       "hindex": [
         "25",
@@ -26386,8 +26386,8 @@ var data = [
     "affiliation": "Director, Customer Analytic Core Lab, Cyrcadia Health",
     "stats": {
       "citations": [
-        "3542",
-        "3342"
+        "3545",
+        "3345"
       ],
       "hindex": [
         "29",
@@ -26395,7 +26395,7 @@ var data = [
       ],
       "i10index": [
         "54",
-        "52"
+        "53"
       ]
     },
     "year": "2011"
@@ -26406,7 +26406,7 @@ var data = [
     "affiliation": "Director, Informatics, Cigna Healthcare",
     "stats": {
       "citations": [
-        "6978",
+        "6977",
         "1660"
       ],
       "hindex": [
@@ -26466,8 +26466,8 @@ var data = [
     "affiliation": "Associate Professor of Anesthesiology and Medicine, Mayo Clinic",
     "stats": {
       "citations": [
-        "2062",
-        "1840"
+        "2068",
+        "1845"
       ],
       "hindex": [
         "24",
@@ -26486,8 +26486,8 @@ var data = [
     "affiliation": "Senior scientist,  National Center for Biotechnology Information",
     "stats": {
       "citations": [
-        "15730",
-        "6688"
+        "15731",
+        "6695"
       ],
       "hindex": [
         "43",
@@ -26506,8 +26506,8 @@ var data = [
     "affiliation": "Professor, Community and Family Medicine, Duke University",
     "stats": {
       "citations": [
-        "4359",
-        "1431"
+        "4357",
+        "1429"
       ],
       "hindex": [
         "31",
@@ -26526,8 +26526,8 @@ var data = [
     "affiliation": "USM",
     "stats": {
       "citations": [
-        "492",
-        "467"
+        "491",
+        "466"
       ],
       "hindex": [
         "10",
@@ -26546,8 +26546,8 @@ var data = [
     "affiliation": "Professor of Computer Science, Iowa State University",
     "stats": {
       "citations": [
-        "1990",
-        "844"
+        "1989",
+        "843"
       ],
       "hindex": [
         "23",
@@ -26566,8 +26566,8 @@ var data = [
     "affiliation": "Research Professor, Universidad Peruana Cayetano Heredia",
     "stats": {
       "citations": [
-        "1727",
-        "995"
+        "1732",
+        "1000"
       ],
       "hindex": [
         "21",
@@ -26586,11 +26586,11 @@ var data = [
     "affiliation": "Professor of Biomedical & Health Informatics and the Information School, University of Washington",
     "stats": {
       "citations": [
-        "6380",
-        "4052"
+        "6388",
+        "4061"
       ],
       "hindex": [
-        "40",
+        "41",
         "31"
       ],
       "i10index": [
@@ -26606,8 +26606,8 @@ var data = [
     "affiliation": "Duke University",
     "stats": {
       "citations": [
-        "12722",
-        "7552"
+        "12723",
+        "7557"
       ],
       "hindex": [
         "34",
@@ -26626,8 +26626,8 @@ var data = [
     "affiliation": "Vanderbilt University School of Medicine",
     "stats": {
       "citations": [
-        "3646",
-        "1924"
+        "3650",
+        "1929"
       ],
       "hindex": [
         "34",
@@ -26666,8 +26666,8 @@ var data = [
     "affiliation": "Vanderbilt University",
     "stats": {
       "citations": [
-        "1189",
-        "1104"
+        "1194",
+        "1109"
       ],
       "hindex": [
         "18",
@@ -26726,12 +26726,12 @@ var data = [
     "affiliation": "Professor of Biomedical Informatics, University of Utah",
     "stats": {
       "citations": [
-        "6246",
-        "3894"
+        "6245",
+        "3893"
       ],
       "hindex": [
         "41",
-        "32"
+        "31"
       ],
       "i10index": [
         "91",
@@ -26746,8 +26746,8 @@ var data = [
     "affiliation": "Interdisciplinary Professor of Digital Living, University of Dundee",
     "stats": {
       "citations": [
-        "994",
-        "818"
+        "995",
+        "819"
       ],
       "hindex": [
         "15",
@@ -26766,8 +26766,8 @@ var data = [
     "affiliation": "University at Buffalo",
     "stats": {
       "citations": [
-        "10157",
-        "4213"
+        "10162",
+        "4216"
       ],
       "hindex": [
         "32",
@@ -26786,8 +26786,8 @@ var data = [
     "affiliation": "U.S. Naval Research Laboratory",
     "stats": {
       "citations": [
-        "1533",
-        "777"
+        "1535",
+        "779"
       ],
       "hindex": [
         "14",
@@ -26806,8 +26806,8 @@ var data = [
     "affiliation": "Dept of Medicine, Univ of Illinois at Chicago",
     "stats": {
       "citations": [
-        "1178",
-        "780"
+        "1179",
+        "781"
       ],
       "hindex": [
         "17",
@@ -26826,8 +26826,8 @@ var data = [
     "affiliation": "Researcher health informatics & Director Results 4 Care B.V.",
     "stats": {
       "citations": [
-        "1630",
-        "675"
+        "1629",
+        "674"
       ],
       "hindex": [
         "20",
@@ -26846,8 +26846,8 @@ var data = [
     "affiliation": "Senior Research Scientist, Florida Institute for Human and Machine Cognition",
     "stats": {
       "citations": [
-        "41811",
-        "8572"
+        "41825",
+        "8585"
       ],
       "hindex": [
         "69",
@@ -26866,8 +26866,8 @@ var data = [
     "affiliation": "Department of Population Health, Dell Medical School, University of Texas at Austin",
     "stats": {
       "citations": [
-        "24982",
-        "7012"
+        "24988",
+        "7018"
       ],
       "hindex": [
         "82",
@@ -26875,7 +26875,7 @@ var data = [
       ],
       "i10index": [
         "296",
-        "188"
+        "187"
       ]
     },
     "year": "1988"
@@ -26886,8 +26886,8 @@ var data = [
     "affiliation": "Professor of Health Outcomes and Biomedical Informatics, University of Florida",
     "stats": {
       "citations": [
-        "2504",
-        "1025"
+        "2509",
+        "1031"
       ],
       "hindex": [
         "24",
@@ -26966,8 +26966,8 @@ var data = [
     "affiliation": "Department of Computer Science, New Jersey Institute of Technology",
     "stats": {
       "citations": [
-        "148",
-        "146"
+        "150",
+        "148"
       ],
       "hindex": [
         "6",
@@ -26986,8 +26986,8 @@ var data = [
     "affiliation": "Google",
     "stats": {
       "citations": [
-        "838",
-        "754"
+        "840",
+        "756"
       ],
       "hindex": [
         "13",
@@ -27006,8 +27006,8 @@ var data = [
     "affiliation": "Professor of Information Technology, York University, Toronto, Canada",
     "stats": {
       "citations": [
-        "19792",
-        "13653"
+        "19805",
+        "13662"
       ],
       "hindex": [
         "58",
@@ -27026,8 +27026,8 @@ var data = [
     "affiliation": "School of Computer Science, University of Manchester",
     "stats": {
       "citations": [
-        "6968",
-        "5226"
+        "6976",
+        "5234"
       ],
       "hindex": [
         "27",
@@ -27046,8 +27046,8 @@ var data = [
     "affiliation": "Professor of Radiology, Bioinformatics and Systems Biology, Wake Forest University School of",
     "stats": {
       "citations": [
-        "10177",
-        "6585"
+        "10189",
+        "6596"
       ],
       "hindex": [
         "48",
@@ -27086,8 +27086,8 @@ var data = [
     "affiliation": "M.D., Ph.D. of Occupational and Environmental Health Sciences, Peking University",
     "stats": {
       "citations": [
-        "137",
-        "129"
+        "136",
+        "128"
       ],
       "hindex": [
         "6",
@@ -27106,8 +27106,8 @@ var data = [
     "affiliation": "Institute for Systems Biology",
     "stats": {
       "citations": [
-        "739",
-        "465"
+        "738",
+        "464"
       ],
       "hindex": [
         "13",
@@ -27126,8 +27126,8 @@ var data = [
     "affiliation": "Professor of Computing, Brunel University",
     "stats": {
       "citations": [
-        "18768",
-        "11245"
+        "18788",
+        "11265"
       ],
       "hindex": [
         "72",
@@ -27146,7 +27146,7 @@ var data = [
     "affiliation": "Northeastern University",
     "stats": {
       "citations": [
-        "417",
+        "416",
         "263"
       ],
       "hindex": [
@@ -27206,8 +27206,8 @@ var data = [
     "affiliation": "Senior Lecturer (Adjunct), University of New South Wales; Chief Scientific Officer, Techcul Research",
     "stats": {
       "citations": [
-        "432",
-        "342"
+        "431",
+        "341"
       ],
       "hindex": [
         "11",
@@ -27226,8 +27226,8 @@ var data = [
     "affiliation": "uvigo",
     "stats": {
       "citations": [
-        "1346",
-        "596"
+        "1347",
+        "597"
       ],
       "hindex": [
         "18",
@@ -27246,8 +27246,8 @@ var data = [
     "affiliation": "Beijing Jiaotong University",
     "stats": {
       "citations": [
-        "3350",
-        "2552"
+        "3353",
+        "2555"
       ],
       "hindex": [
         "23",
@@ -27266,8 +27266,8 @@ var data = [
     "affiliation": "University of Southern Queensland",
     "stats": {
       "citations": [
-        "536",
-        "417"
+        "537",
+        "418"
       ],
       "hindex": [
         "10",
@@ -27286,8 +27286,8 @@ var data = [
     "affiliation": "National Chung Cheng University",
     "stats": {
       "citations": [
-        "1258",
-        "1049"
+        "1261",
+        "1052"
       ],
       "hindex": [
         "18",
@@ -27306,7 +27306,7 @@ var data = [
     "affiliation": "Visiting Associate Professor, University of Pittsburgh School of Medicine",
     "stats": {
       "citations": [
-        "547",
+        "546",
         "380"
       ],
       "hindex": [
@@ -27326,15 +27326,15 @@ var data = [
     "affiliation": "Victoria University",
     "stats": {
       "citations": [
-        "7014",
-        "3161"
+        "7050",
+        "3182"
       ],
       "hindex": [
         "40",
         "27"
       ],
       "i10index": [
-        "165",
+        "167",
         "89"
       ]
     },
@@ -27346,8 +27346,8 @@ var data = [
     "affiliation": "University of Missouri; University of Texas Health Science Center at Houston",
     "stats": {
       "citations": [
-        "431",
-        "310"
+        "430",
+        "309"
       ],
       "hindex": [
         "10",
@@ -27427,7 +27427,7 @@ var data = [
     "stats": {
       "citations": [
         "5085",
-        "1589"
+        "1588"
       ],
       "hindex": [
         "36",
@@ -27486,7 +27486,7 @@ var data = [
     "affiliation": "CASIA;UPenn;Center for Health Informatics, Macquarie University",
     "stats": {
       "citations": [
-        "501",
+        "500",
         "339"
       ],
       "hindex": [
@@ -27506,16 +27506,16 @@ var data = [
     "affiliation": "Cincinnati Children's Hospital Medical Center",
     "stats": {
       "citations": [
-        "565",
-        "486"
+        "566",
+        "487"
       ],
       "hindex": [
         "13",
         "13"
       ],
       "i10index": [
-        "18",
-        "14"
+        "19",
+        "15"
       ]
     },
     "year": "2009"
@@ -27527,7 +27527,7 @@ var data = [
     "stats": {
       "citations": [
         "566",
-        "459"
+        "461"
       ],
       "hindex": [
         "14",
@@ -27546,8 +27546,8 @@ var data = [
     "affiliation": "Dean, College of Medical Science and Technology; Professor, Dept. Biomedical Informatics, Taipei",
     "stats": {
       "citations": [
-        "10370",
-        "6197"
+        "10379",
+        "6206"
       ],
       "hindex": [
         "37",
@@ -27566,8 +27566,8 @@ var data = [
     "affiliation": "School of Computer Sciences, Universiti Sains Malaysia",
     "stats": {
       "citations": [
-        "536",
-        "317"
+        "538",
+        "319"
       ],
       "hindex": [
         "12",
@@ -27586,8 +27586,8 @@ var data = [
     "affiliation": "Robert E. Doherty Career Development Professor, Carnegie Mellon University",
     "stats": {
       "citations": [
-        "1803",
-        "1706"
+        "1805",
+        "1708"
       ],
       "hindex": [
         "19",
@@ -27606,8 +27606,8 @@ var data = [
     "affiliation": "University of California Irvine",
     "stats": {
       "citations": [
-        "956",
-        "885"
+        "961",
+        "888"
       ],
       "hindex": [
         "17",
@@ -27646,8 +27646,8 @@ var data = [
     "affiliation": "Professor of software and information systems engineering, Ben Gurion University",
     "stats": {
       "citations": [
-        "7658",
-        "2492"
+        "7671",
+        "2505"
       ],
       "hindex": [
         "41",
@@ -27666,8 +27666,8 @@ var data = [
     "affiliation": "Associate VP of Information Science (CKO); Professor and Director, Center for Biomedical Informatics",
     "stats": {
       "citations": [
-        "4946",
-        "2837"
+        "4952",
+        "2843"
       ],
       "hindex": [
         "38",
@@ -27706,8 +27706,8 @@ var data = [
     "affiliation": "Institute of Endocrinology and Metabolism, Endocrine Research Center, Iran University of Medical",
     "stats": {
       "citations": [
-        "154",
-        "148"
+        "153",
+        "147"
       ],
       "hindex": [
         "5",
@@ -27786,8 +27786,8 @@ var data = [
     "affiliation": "Assistant Professor, School of Information, Florida State University",
     "stats": {
       "citations": [
-        "308",
-        "305"
+        "309",
+        "306"
       ],
       "hindex": [
         "11",
@@ -27826,8 +27826,8 @@ var data = [
     "affiliation": "Deputy Director for Literature Search, NCBI; Senior Investigator, NCBI-NLM",
     "stats": {
       "citations": [
-        "10416",
-        "7166"
+        "10437",
+        "7189"
       ],
       "hindex": [
         "45",
@@ -27846,16 +27846,16 @@ var data = [
     "affiliation": "University of Texas Health Science Center at Houston",
     "stats": {
       "citations": [
-        "9489",
-        "7397"
+        "9504",
+        "7413"
       ],
       "hindex": [
         "52",
         "45"
       ],
       "i10index": [
-        "189",
-        "171"
+        "190",
+        "172"
       ]
     },
     "year": "2001"
@@ -27866,12 +27866,12 @@ var data = [
     "affiliation": "Associate Professor, Cognitive Science, Computer Science&Engineering, UCSD",
     "stats": {
       "citations": [
-        "14096",
-        "10395"
+        "14125",
+        "10422"
       ],
       "hindex": [
         "55",
-        "46"
+        "47"
       ],
       "i10index": [
         "90",
@@ -27886,8 +27886,8 @@ var data = [
     "affiliation": "Data Analytics and Biomedical Informatics Center, Temple University",
     "stats": {
       "citations": [
-        "22315",
-        "10100"
+        "22308",
+        "10091"
       ],
       "hindex": [
         "54",
@@ -27926,8 +27926,8 @@ var data = [
     "affiliation": "Department of Computer and Information Science",
     "stats": {
       "citations": [
-        "378",
-        "154"
+        "379",
+        "155"
       ],
       "hindex": [
         "12",
