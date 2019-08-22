@@ -1,4 +1,4 @@
-var date = "Thu Aug 22 2019 10:12:22 GMT-0500 (Central Daylight Time)"
+var date = "Thu Aug 22 2019 14:38:54 GMT-0400 (EDT)"
 var data = [
   {
     "name": "A.Karim Jabali",
@@ -903,7 +903,7 @@ var data = [
   {
     "name": "Alejandro RodrÃƒÆ’Ã‚Â­guez GonzÃƒÆ’Ã‚Â¡lez",
     "url": "http://scholar.google.com/citations?user=iMMxQK4AAAAJ&hl=en",
-    "affiliation": "Universidad Politecnica de Madrid - Departamento de Lenguajes y Sistemas InformÃ¡ticos e IngenierÃ­a",
+    "affiliation": "Universidad Politecnica de Madrid - Departamento de Lenguajes y Sistemas Informáticos e Ingeniería",
     "stats": {
       "citations": [
         "926",
@@ -963,7 +963,7 @@ var data = [
   {
     "name": "Alessandra Alaniz Macedo",
     "url": "http://scholar.google.com/citations?user=tJAsNzYAAAAJ&hl=en",
-    "affiliation": "Professor of Computer Science, University of SÃ£o Paulo",
+    "affiliation": "Professor of Computer Science, University of São Paulo",
     "stats": {
       "citations": [
         "498",
@@ -1423,7 +1423,7 @@ var data = [
   {
     "name": "Amate, FC",
     "url": "http://scholar.google.com/citations?user=xzyvT6EAAAAJ&hl=en",
-    "affiliation": "Instituto Federal de EducaÃ§Ã£o, CiÃªncia e Tecnologia de SÃ£o Paulo - IFSP",
+    "affiliation": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP",
     "stats": {
       "citations": [
         "60",
@@ -1683,7 +1683,7 @@ var data = [
   {
     "name": "Ana Teresa Freitas",
     "url": "http://scholar.google.com/citations?user=INpn7mMAAAAJ&hl=en",
-    "affiliation": "Professor of Computer Science, INESC-ID, Instituto Superior TÃ©cnico, Universidade TÃ©cnica de Lisboa",
+    "affiliation": "Professor of Computer Science, INESC-ID, Instituto Superior Técnico, Universidade Técnica de Lisboa",
     "stats": {
       "citations": [
         "2417",
@@ -2483,7 +2483,7 @@ var data = [
   {
     "name": "Anne Persson",
     "url": "http://scholar.google.com/citations?user=RfhRuRQAAAAJ&hl=en",
-    "affiliation": "Professor of Informatics, University of SkÃ¶vde, Sweden",
+    "affiliation": "Professor of Informatics, University of Skövde, Sweden",
     "stats": {
       "citations": [
         "2142",
@@ -3123,7 +3123,7 @@ var data = [
   {
     "name": "Arturo GonzÃƒÆ’Ã‚Â¡lez-Ferrer",
     "url": "http://scholar.google.com/citations?user=XLJB_pwAAAAJ&hl=en",
-    "affiliation": "Chief Research Informatics Officer, Innovation Unit of Hospital ClÃ­nico San Carlos, Madrid",
+    "affiliation": "Chief Research Informatics Officer, Innovation Unit of Hospital Clínico San Carlos, Madrid",
     "stats": {
       "citations": [
         "440",
@@ -4803,7 +4803,7 @@ var data = [
   {
     "name": "Carlos SÃƒÆ’Ã‚Â¡ez",
     "url": "http://scholar.google.com/citations?user=OkBVoyoAAAAJ&hl=en",
-    "affiliation": "Biomedical Data Science Lab, IBIME, ITACA, Universitat PolitÃ¨cnica de ValÃ¨ncia",
+    "affiliation": "Biomedical Data Science Lab, IBIME, ITACA, Universitat Politècnica de València",
     "stats": {
       "citations": [
         "275",
@@ -5763,7 +5763,7 @@ var data = [
   {
     "name": "Christoph Rinner",
     "url": "http://scholar.google.com/citations?user=ymjV2r8AAAAJ&hl=en",
-    "affiliation": "Postdoc fÃ¼r Medizinische Informatik, Medizinische UniversitÃ¤t Wien",
+    "affiliation": "Postdoc für Medizinische Informatik, Medizinische Universität Wien",
     "stats": {
       "citations": [
         "324",
@@ -9743,7 +9743,7 @@ var data = [
   {
     "name": "Emma Chavez",
     "url": "http://scholar.google.com/citations?user=c-aH0XAAAAAJ&hl=en",
-    "affiliation": "Universidad CatÃ³lica de la Ssma.Concepcion",
+    "affiliation": "Universidad Católica de la Ssma.Concepcion",
     "stats": {
       "citations": [
         "23",
@@ -9943,7 +9943,7 @@ var data = [
   {
     "name": "Eric Kirkendall",
     "url": "http://scholar.google.com/citations?user=KqOr10wAAAAJ&hl=en",
-    "affiliation": "Deputy Director and Director of Digital Health Innovation â€“ Center for Healthcare Innovation, Wake",
+    "affiliation": "Deputy Director and Director of Digital Health Innovation – Center for Healthcare Innovation, Wake",
     "stats": {
       "citations": [
         "756",
@@ -10063,7 +10063,7 @@ var data = [
   {
     "name": "Erik Sundvall",
     "url": "http://scholar.google.com/citations?user=riUPE7QAAAAJ&hl=en",
-    "affiliation": "LinkÃ¶ping University",
+    "affiliation": "Linköping University",
     "stats": {
       "citations": [
         "387",
@@ -10123,7 +10123,7 @@ var data = [
   {
     "name": "EstevÃƒÆ’Ã‚Â£o Soares dos Santos",
     "url": "http://scholar.google.com/citations?user=waUZZBwAAAAJ&hl=en",
-    "affiliation": "MÃ©dico Investigador, Centro de InvestigaÃ§Ã£o & Creatividade em InformÃ¡tica",
+    "affiliation": "Médico Investigador, Centro de Investigação & Creatividade em Informática",
     "stats": {
       "citations": [
         "4",
@@ -10963,7 +10963,7 @@ var data = [
   {
     "name": "Gabriel Rada",
     "url": "http://scholar.google.com/citations?user=m5X3w4sAAAAJ&hl=en",
-    "affiliation": "Assistant Professor, Evidence-Based Healthcare Program, Ponticia Universidad CatÃ³lica de Chile",
+    "affiliation": "Assistant Professor, Evidence-Based Healthcare Program, Ponticia Universidad Católica de Chile",
     "stats": {
       "citations": [
         "2109",
@@ -11563,7 +11563,7 @@ var data = [
   {
     "name": "Gersende Georg",
     "url": "http://scholar.google.com/citations?user=Rij_jJqLTI0C&hl=en",
-    "affiliation": "Head of Information Systems, Haute AutoritÃ© de SantÃ©",
+    "affiliation": "Head of Information Systems, Haute Autorité de Santé",
     "stats": {
       "citations": [
         "198",
@@ -11703,7 +11703,7 @@ var data = [
   {
     "name": "Goran Falkman",
     "url": "http://scholar.google.com/citations?user=smG2TWsAAAAJ&hl=en",
-    "affiliation": "University of SkÃ¶vde, Sweden",
+    "affiliation": "University of Skövde, Sweden",
     "stats": {
       "citations": [
         "1520",
@@ -12123,7 +12123,7 @@ var data = [
   {
     "name": "Gunnar Hartvigsen",
     "url": "http://scholar.google.com/citations?user=N43ylaEAAAAJ&hl=en",
-    "affiliation": "Professor, medical informatics & telemedicine, University of TromsÃ¸ - The Arctic University of",
+    "affiliation": "Professor, medical informatics & telemedicine, University of Tromsø - The Arctic University of",
     "stats": {
       "citations": [
         "2851",
@@ -12143,7 +12143,7 @@ var data = [
   {
     "name": "Gunnar RÃƒÆ’Ã‚Â¤tsch",
     "url": "http://scholar.google.com/citations?user=tQuQ1FwAAAAJ&hl=en",
-    "affiliation": "Professor, ETH ZÃ¼rich",
+    "affiliation": "Professor, ETH Zürich",
     "stats": {
       "citations": [
         "32013",
@@ -12223,7 +12223,7 @@ var data = [
   {
     "name": "Gustavo HMB Motta",
     "url": "http://scholar.google.com/citations?user=K7bui-gAAAAJ&hl=en",
-    "affiliation": "Associate Lecturer and Researcher - Center of Informatics, Federal University of ParaÃ­ba",
+    "affiliation": "Associate Lecturer and Researcher - Center of Informatics, Federal University of Paraíba",
     "stats": {
       "citations": [
         "365",
@@ -12343,7 +12343,7 @@ var data = [
   {
     "name": "Hadi Banaee",
     "url": "http://scholar.google.com/citations?user=EdC3-sYAAAAJ&hl=en",
-    "affiliation": "Postdoc researcher at AASS, Ã–rebro University",
+    "affiliation": "Postdoc researcher at AASS, Örebro University",
     "stats": {
       "citations": [
         "362",
@@ -12803,7 +12803,7 @@ var data = [
   {
     "name": "Heimar F. Marin, FACMI, FIAHSI",
     "url": "http://scholar.google.com/citations?user=72ASiAgAAAAJ&hl=en",
-    "affiliation": "Universidade Federal de SÃ£o Paulo",
+    "affiliation": "Universidade Federal de São Paulo",
     "stats": {
       "citations": [
         "3102",
@@ -12823,7 +12823,7 @@ var data = [
   {
     "name": "Helena Lindgren",
     "url": "http://scholar.google.com/citations?user=osJbSJoAAAAJ&hl=en",
-    "affiliation": "Associate Professor, Department of Computing Science, UmeÃ¥ University, Sweden",
+    "affiliation": "Associate Professor, Department of Computing Science, Umeå University, Sweden",
     "stats": {
       "citations": [
         "621",
@@ -12843,7 +12843,7 @@ var data = [
   {
     "name": "Helena Schweigert",
     "url": "http://scholar.google.com/citations?user=izMZ7G4AAAAJ&hl=en",
-    "affiliation": "UnversitÃ¤tsmedizin GÃ¶ttingen, Institut fÃ¼r Medizinische Informatik",
+    "affiliation": "Unversitätsmedizin Göttingen, Institut für Medizinische Informatik",
     "stats": {
       "citations": [
         "10",
@@ -12943,7 +12943,7 @@ var data = [
   {
     "name": "Henning Lorenzen",
     "url": "http://scholar.google.com/citations?user=z0IetToAAAAJ&hl=en",
-    "affiliation": "Institut fÃ¼r Medizinische Biometrie, Informatik und Epidemiologie, Rheinische Friedrich-Wilhelms-UniversitÃ¤t Bonn",
+    "affiliation": "Institut für Medizinische Biometrie, Informatik und Epidemiologie, Rheinische Friedrich-Wilhelms-Universität Bonn",
     "stats": {
       "citations": [
         "239",
@@ -13123,7 +13123,7 @@ var data = [
   {
     "name": "Holly Witteman",
     "url": "http://scholar.google.com/citations?user=HNPjBg4AAAAJ&hl=en",
-    "affiliation": "Associate Professor of Medicine, UniversitÃ© Laval",
+    "affiliation": "Associate Professor of Medicine, Université Laval",
     "stats": {
       "citations": [
         "2099",
@@ -13523,7 +13523,7 @@ var data = [
   {
     "name": "HÃƒÆ’Ã‚Â¥kan ÃƒÆ’Ã¢â‚¬â€œrman",
     "url": "http://scholar.google.com/citations?user=nmdrA_0AAAAJ&hl=en",
-    "affiliation": "Department of Biomedical Engineering, LinkÃ¶ping University",
+    "affiliation": "Department of Biomedical Engineering, Linköping University",
     "stats": {
       "citations": [
         "275",
@@ -13543,7 +13543,7 @@ var data = [
   {
     "name": "Iade Gesso",
     "url": "http://scholar.google.com/citations?user=UYhTM2wAAAAJ&hl=en",
-    "affiliation": "UniversitÃ  degli Studi di Milano-Bicocca",
+    "affiliation": "Università degli Studi di Milano-Bicocca",
     "stats": {
       "citations": [
         "51",
@@ -13823,7 +13823,7 @@ var data = [
   {
     "name": "Inna Skarga-Bandurova",
     "url": "http://scholar.google.com/citations?user=Nzj08YEAAAAJ&hl=en",
-    "affiliation": "Volodymyr Dahl East Ukrainian National University; Ð¡ÐÐ£ Ñ–Ð¼. Ð’. Ð”Ð°Ð»Ñ",
+    "affiliation": "Volodymyr Dahl East Ukrainian National University; СНУ ім. В. Даля",
     "stats": {
       "citations": [
         "69",
@@ -15023,7 +15023,7 @@ var data = [
   {
     "name": "Jean-Philippe Jais",
     "url": "http://scholar.google.com/citations?user=ENrlRHYAAAAJ&hl=en",
-    "affiliation": "MCU-PH, Biostatistique et Informatique MÃ©dicale, UniversitÃ© Paris-Descartes",
+    "affiliation": "MCU-PH, Biostatistique et Informatique Médicale, Université Paris-Descartes",
     "stats": {
       "citations": [
         "11562",
@@ -16083,7 +16083,7 @@ var data = [
   {
     "name": "Joakim Ekberg",
     "url": "http://scholar.google.com/citations?user=CT8_o8cAAAAJ&hl=en",
-    "affiliation": "Region Ã–stergÃ¶tland",
+    "affiliation": "Region Östergötland",
     "stats": {
       "citations": [
         "911",
@@ -16223,7 +16223,7 @@ var data = [
   {
     "name": "Joaquim Cezar Felipe",
     "url": "http://scholar.google.com/citations?user=0ecd6GoAAAAJ&hl=en",
-    "affiliation": "Professor de InformÃ¡tica BiomÃ©dica, Universidade de SÃ£o Paulo",
+    "affiliation": "Professor de Informática Biomédica, Universidade de São Paulo",
     "stats": {
       "citations": [
         "512",
@@ -16383,7 +16383,7 @@ var data = [
   {
     "name": "Johan Karlsson",
     "url": "http://scholar.google.com/citations?user=hOor5J4AAAAJ&hl=en",
-    "affiliation": "Department of Computer Architecture, MÃ¡laga University",
+    "affiliation": "Department of Computer Architecture, Málaga University",
     "stats": {
       "citations": [
         "461",
@@ -19143,7 +19143,7 @@ var data = [
   {
     "name": "Knut Moeller",
     "url": "http://scholar.google.com/citations?user=YCcJkWwAAAAJ&hl=en",
-    "affiliation": "Professor fÃ¼r Medizinische Informatik, Furtwangen University",
+    "affiliation": "Professor für Medizinische Informatik, Furtwangen University",
     "stats": {
       "citations": [
         "2920",
@@ -20643,7 +20643,7 @@ var data = [
   {
     "name": "Luca Anselma",
     "url": "http://scholar.google.com/citations?user=puVIEU4AAAAJ&hl=en",
-    "affiliation": "UniversitÃ  di Torino, Dipartimento di Informatica",
+    "affiliation": "Università di Torino, Dipartimento di Informatica",
     "stats": {
       "citations": [
         "510",
@@ -21063,7 +21063,7 @@ var data = [
   {
     "name": "Malika SmaÃƒÂ¯l-Tabbone",
     "url": "https://scholar.google.com/citations?user=loFd8VEAAAAJ&hl=en",
-    "affiliation": "Associate professor in Computer Science, UniversitÃ© de Lorraine, France",
+    "affiliation": "Associate professor in Computer Science, Université de Lorraine, France",
     "stats": {
       "citations": [
         "725",
@@ -21323,7 +21323,7 @@ var data = [
   {
     "name": "Marcelo Nascimento Burattini",
     "url": "http://scholar.google.com/citations?user=-3QBoXEAAAAJ&hl=en",
-    "affiliation": "Professor Associado de InformÃ¡tica MÃ©dica da FMUSP & Professor Livre-Docente de Infectologia UNIFESP",
+    "affiliation": "Professor Associado de Informática Médica da FMUSP & Professor Livre-Docente de Infectologia UNIFESP",
     "stats": {
       "citations": [
         "4077",
@@ -21343,7 +21343,7 @@ var data = [
   {
     "name": "Marcia Ito",
     "url": "http://scholar.google.com/citations?user=uFm5ImAAAAAJ&hl=en",
-    "affiliation": "Faculdade de Tecnologia de SÃ£o Paulo",
+    "affiliation": "Faculdade de Tecnologia de São Paulo",
     "stats": {
       "citations": [
         "142",
@@ -21463,7 +21463,7 @@ var data = [
   {
     "name": "Marie Gustafsson Friberger",
     "url": "http://scholar.google.com/citations?user=T3wClZoAAAAJ&hl=en",
-    "affiliation": "Senior Lecturer, MalmÃ¶ University",
+    "affiliation": "Senior Lecturer, Malmö University",
     "stats": {
       "citations": [
         "262",
@@ -24343,7 +24343,7 @@ var data = [
   {
     "name": "Montserrat Robles",
     "url": "http://scholar.google.com/citations?user=5fc7rPQAAAAJ&hl=en",
-    "affiliation": "Profesora de FÃ­sica y de InformÃ¡tica MÃ©dica en la UPV. Instituto Universitario ITACA",
+    "affiliation": "Profesora de Física y de Informática Médica en la UPV. Instituto Universitario ITACA",
     "stats": {
       "citations": [
         "15221",
@@ -25083,7 +25083,7 @@ var data = [
   {
     "name": "Neli Ortega",
     "url": "http://scholar.google.com/citations?user=auY-mMoAAAAJ&hl=en",
-    "affiliation": "InformÃ¡tica MÃ©dica, Faculdade de Medicina, Universidade de SÃ£o Paulo",
+    "affiliation": "Informática Médica, Faculdade de Medicina, Universidade de São Paulo",
     "stats": {
       "citations": [
         "1236",
@@ -25143,7 +25143,7 @@ var data = [
   {
     "name": "Newton SpolaÃƒÆ’Ã‚Â´r",
     "url": "http://scholar.google.com/citations?user=bnNxLB4AAAAJ&hl=en",
-    "affiliation": "Western ParanÃ¡ State University",
+    "affiliation": "Western Paraná State University",
     "stats": {
       "citations": [
         "560",
@@ -26283,7 +26283,7 @@ var data = [
   {
     "name": "Pascal Staccini",
     "url": "http://scholar.google.com/citations?user=gcmGLGQAAAAJ&hl=en",
-    "affiliation": "UniversitÃ© Nice Sophia Antipolis - Centre Hospitalier Universitaire de Nice",
+    "affiliation": "Université Nice Sophia Antipolis - Centre Hospitalier Universitaire de Nice",
     "stats": {
       "citations": [
         "2470",
@@ -26763,7 +26763,7 @@ var data = [
   {
     "name": "Paulo Mazzoncini de Azevedo Marques",
     "url": "http://scholar.google.com/citations?user=fYnocfwAAAAJ&hl=en",
-    "affiliation": "Professor de InformÃ¡tica BiomÃ©dica, Universidade de SÃ£o Paulo",
+    "affiliation": "Professor de Informática Biomédica, Universidade de São Paulo",
     "stats": {
       "citations": [
         "2019",
@@ -26843,7 +26843,7 @@ var data = [
   {
     "name": "Pedro Gago",
     "url": "http://scholar.google.com/citations?user=XbbLvBAAAAAJ&hl=en",
-    "affiliation": "Instituto PolitÃ©cnico de Leiria",
+    "affiliation": "Instituto Politécnico de Leiria",
     "stats": {
       "citations": [
         "357",
@@ -27403,7 +27403,7 @@ var data = [
   {
     "name": "Pierre Zweigenbaum, FACMI",
     "url": "http://scholar.google.com/citations?user=0LjUNAsAAAAJ&hl=en",
-    "affiliation": "Senior Researcher, LIMSI, CNRS, UniversitÃ© Paris-Saclay, Orsay, France",
+    "affiliation": "Senior Researcher, LIMSI, CNRS, Université Paris-Saclay, Orsay, France",
     "stats": {
       "citations": [
         "5268",
@@ -28743,7 +28743,7 @@ var data = [
   {
     "name": "Richard Klasco",
     "url": "https://scholar.google.com/citations?user=QRUK9VQAAAAJ&hl=en",
-    "affiliation": "Beth Israel Deaconess Medical Center",
+    "affiliation": "University of Colorado",
     "stats": {
       "citations": [
         "483",
@@ -29663,7 +29663,7 @@ var data = [
   {
     "name": "Rose-Mharie ÃƒÆ’Ã¢â‚¬Â¦hlfeldt",
     "url": "http://scholar.google.com/citations?user=o7Lf2bcAAAAJ&hl=en",
-    "affiliation": "Associated Professor in Informatics, University of SkÃ¶vde",
+    "affiliation": "Associated Professor in Informatics, University of Skövde",
     "stats": {
       "citations": [
         "347",
@@ -30443,7 +30443,7 @@ var data = [
   {
     "name": "Samuel Goihman",
     "url": "http://scholar.google.com/citations?user=Iqs464wAAAAJ&hl=es",
-    "affiliation": "Depto InformÃ¡tica em SaÃºde/Escola Paulista de Medicina/ Universidade Federal de SÃ£o Paulo",
+    "affiliation": "Depto Informática em Saúde/Escola Paulista de Medicina/ Universidade Federal de São Paulo",
     "stats": {
       "citations": [
         "767",
@@ -30683,7 +30683,7 @@ var data = [
   {
     "name": "Sara C. Madeira",
     "url": "https://scholar.google.com/citations?user=rpaGL7AAAAAJ&hl=en",
-    "affiliation": "Associate Professor,LASIGE,Departamento de InformÃ¡tica,Faculdade de CiÃªncias,Universidade de Lisboa",
+    "affiliation": "Associate Professor,LASIGE,Departamento de Informática,Faculdade de Ciências,Universidade de Lisboa",
     "stats": {
       "citations": [
         "3783",
@@ -31063,7 +31063,7 @@ var data = [
   {
     "name": "Sebastian Kohler",
     "url": "https://scholar.google.com/citations?user=fqukiWoAAAAJ&hl=en",
-    "affiliation": "Juniorprofessor @ Berlin Institute of Health & Einstein Center Digital Future & CharitÃ©",
+    "affiliation": "Juniorprofessor @ Berlin Institute of Health & Einstein Center Digital Future & Charité",
     "stats": {
       "citations": [
         "4945",
@@ -31163,7 +31163,7 @@ var data = [
   {
     "name": "Serkan Turkeli",
     "url": "http://scholar.google.com/citations?user=z_zrPkwAAAAJ&hl=en",
-    "affiliation": "Bilgisayar MÃ¼hendisliÄŸ Dr,Ä°stanbul Teknik Ãœniversitesi",
+    "affiliation": "Bilgisayar Mühendisliğ Dr,İstanbul Teknik Üniversitesi",
     "stats": {
       "citations": [
         "20",
@@ -35363,7 +35363,7 @@ var data = [
   {
     "name": "Vitaliy Vishnevskey",
     "url": "http://scholar.google.com/citations?user=b0LUdfIAAAAJ&hl=en",
-    "affiliation": "Institute Mathematical Machines and Systems ( Ð˜ÐŸÐœÐœÐ¡ ÐÐÐ Ð£ÐºÑ€Ð°Ð¸Ð½Ñ‹)",
+    "affiliation": "Institute Mathematical Machines and Systems ( ИПММС НАН Украины)",
     "stats": {
       "citations": [
         "296",
