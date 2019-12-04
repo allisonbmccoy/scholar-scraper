@@ -56,6 +56,7 @@ function round(n) {
 
 var rank = 1;
 for (var i=0; i< data.length; i++) {
+	if (typeof data[i].stats === 'undefined') continue;
 	var row = $('<tr/>');
 	row.append($('<td/>').html(rank)); rank++;
 	var currentYear = new Date().getFullYear();
