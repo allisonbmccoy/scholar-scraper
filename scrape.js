@@ -14,7 +14,9 @@ var scrapeEntry = function(person, doneCallback) {
   request({ encoding: 'binary', method: "GET", uri: url}, function(err, resp, body) {
     var $ = cheerio.load(body);
 
-    try {
+    if (typeof $('#gsc_rsb_st')[0] !== 'undefined') {
+
+    //try {
       // We're output to stdout, so log to stderr
       console.error("Scraping " + person + "...");
 
@@ -51,10 +53,14 @@ var scrapeEntry = function(person, doneCallback) {
         'year' : rawYear[0].children[0].children[0].data
       };
 
-    } catch (ex) {
-      console.error(ex);
-      throw new Error(person);
+    } else {
+	console.error("Error with " + person + "...");
     }
+
+    //} catch (ex) {
+    //  console.error(ex);
+    //  throw new Error(person);
+    //}
 
     // Adding a timeout to regulate scraping speed.
     setTimeout(function() {
