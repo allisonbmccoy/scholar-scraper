@@ -74,7 +74,7 @@ for (var i=0; i< data.length; i++) {
   var userId = match[1];
 
   var row = $('<tr/>');
-  row.append($('<td>'));
+  row.append($('<td class="rankColumn" />'));
   var currentYear = new Date().getFullYear();
   var y = (data[i].year < currentYear) ? (currentYear - data[i].year) : 1;
   row.append($('<td style="text-align: left"/>').html('<a href="' + data[i].url + '">' + data[i].name + '</a><br />' + data[i].affiliation ));
@@ -100,6 +100,7 @@ $(document).ready(function() {
   table.bind("sortEnd",function() {
     var i = 1;
     table.find("tr:gt(0)").each(function() {
+      $(this).find("td:eq(0)").attr('name', i);
       $(this).find("td:eq(0)").text(i);
       i++;
     });
@@ -143,12 +144,23 @@ $(document).ready(function() {
 
     if (keywords == "") {
       $(".keywordfilterable tr:hidden").show(); // show all if we have no keywords selected
+	$("tr:visible .rankColumn").each(function() {
+		var r = $(this).attr('name');
+		$(this).text(r);
+	});
     } else {
       $(".keywordfilterable tr:visible").hide(); // hide them all first, then go back and show them if they have any of the keywords
       keywords.forEach(function(keyword) {      
         $(".keywordfilterable tr:hidden .keywordColumn:contains(', "  + keyword + "')").parent().show();
         $(".keywordfilterable tr:hidden .keywordColumn[name^='"  + keyword + "']").parent().show();
       });
+
+	var i = 1;
+	$("tr:visible .rankColumn").each(function() {
+		var r = $(this).attr('name');
+		$(this).html(r + "<br />(" + i + ")");
+		i++;
+	});
     }
   });
 });
