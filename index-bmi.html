@@ -17,7 +17,7 @@
 <p><b>Disicipline-specific lists:</b> [<a href="http://lintool.github.io/scholar-scraper/">Information Retrieval</a>] [<a href="http://lintool.github.io/scholar-scraper/index-hci.html">Human-Computer Interaction</a>]<br/>
 <b>See also:</b> [<a href="http://lintool.github.io/scholar-scraper/index-stratosphere.html">Overall Top CS Researchers</a>]</p>
 
-<div style="width:800px">
+<div>
 <p><b>Editorial note:</b> This list contains only researchers who have a Google Scholar profile; names were identified by snowball sampling and various other <i>ad hoc</i> techniques. Of course, scholarly achievement is only partially measured by citation counts, which are known to be flawed in many ways. Evaluations of scholars should include comprehensive examination of their research contributions.
 <p>If you wish to see a name added, please <a href="https://docs.google.com/forms/d/14G10JO2pHPp67S7BLWa66v7vBC6xkuVF77R3S-KHCwQ/viewform">submit a request</a>.
 <p>View more of our work at <a href="http://circleinformatics.org" title="CIRCLE: Clinical Informatics Research Collaborative Link">http://circleinformatics.org</a>.
@@ -31,20 +31,33 @@
 
 <p/>
 
-Find: <input size="35" type="text" id="FilterTextBox" name="FilterTextBox" placeholder="e.g., 'FACMI', 'Collen', name, affiliation" />
+Find: <input size="35" type="text" id="FilterTextBox" name="FilterTextBox" placeholder="e.g., 'FACMI', 'Collen', name, affiliation" /><br />
+Keywords: 
+<span title="clinical informatics, clinical information systems, health information technology, electronic health records, health informatics, nursing informatics, dental informatics">
+    <input type="checkbox" name="KeywordCheckBox" value="clinical" />Clinical Informatics&nbsp;&nbsp;</span>
+<span title="bioinformatics, biology, translational informatics, proteomics, genomics, precision medicine">
+    <input type="checkbox" name="KeywordCheckBox" value="bio" />Bioinformatics&nbsp;&nbsp;</span>
+<span title="clinical research informatics">
+    <input type="checkbox" name="KeywordCheckBox" value="research" />Clinical Research Informatics&nbsp;&nbsp;</span>
+<span title="consumer health informatics, personal health records">
+  <input type="checkbox" name="KeywordCheckBox" value="consumer" />Consumer Health Informatics&nbsp;&nbsp;</span>
+<span title="public health informatics">
+    <input type="checkbox" name="KeywordCheckBox" value="publichealth" />Public Health Informatics&nbsp;&nbsp;</span>
+<!--<input size="35" type="text" id="KeywordTextBox" name="KeywordTextBox" placeholder="e.g., 'Bioinformatics', 'Clinical Informatics'" />-->
 
-<table id="stats" border="0" class="tablesorter filterable" width="300">
+<table id="stats" border="0" class="tablesorter filterable keywordfilterable">
 <thead> 
 <tr>
-    <th>rank</th>	
-    <th>name/affiliation</th> 
-    <th>year</th> 
-    <th>citations</th> 
-    <th>/y</th> 
-    <th>h-index</th> 
-    <th>/y</th> 
-    <th>i10-index</th> 
-    <th>/y</th> 
+    <th width="55">Rank</th>  
+    <th width="200">Name/Affiliation</th> 
+    <th width="50">Year</th> 
+    <th width="90">Citations</th> 
+    <th width="30">/y</th> 
+    <th width="80">h-index</th> 
+    <th width="30">/y</th> 
+    <th width="85">i10-index</th> 
+    <th width="30">/y</th>
+    <th width="500" class="keywordColumn">Keywords</th>
 </tr> 
 </thead> 
 </table>
@@ -54,35 +67,44 @@ function round(n) {
   return Math.round(n*10)/10;
 }
 
-var rank = 1;
 for (var i=0; i< data.length; i++) {
-	if (typeof data[i].stats === 'undefined') continue;
-	var row = $('<tr/>');
-	row.append($('<td/>').html(rank)); rank++;
-	var currentYear = new Date().getFullYear();
-	var y = (data[i].year < currentYear) ? (currentYear - data[i].year) : 1;
-	row.append($('<td style="text-align: left"/>')
-		.html('<a href="' + data[i].url + '">' + data[i].name + '</a><br/>' + data[i].affiliation));
-	row.append($('<td/>').html(data[i].year));
-	row.append($('<td/>').html(data[i].stats.citations[0]));
-	row.append($('<td/>').html(Math.round(data[i].stats.citations[0]/y)));
-	row.append($('<td/>').html(data[i].stats.hindex[0]));
-	row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
-	row.append($('<td/>').html(data[i].stats.i10index[0]));
-	row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
-	$("#stats").append(row);
+  if (typeof data[i].stats === 'undefined') continue;
+
+  var regex = /user=([^&]+)/;
+  var match = regex.exec(data[i].url);
+  var userId = match[1];
+
+  var row = $('<tr/>');
+  row.append($('<td>'));
+  var currentYear = new Date().getFullYear();
+  var y = (data[i].year < currentYear) ? (currentYear - data[i].year) : 1;
+  row.append($('<td style="text-align: left"/>').html('<a href="' + data[i].url + '">' + data[i].name + '</a><br />' + data[i].affiliation ));
+  row.append($('<td/>').html(data[i].year));
+  row.append($('<td/>').html(data[i].stats.citations[0]));
+  row.append($('<td/>').html(Math.round(data[i].stats.citations[0]/y)));
+  row.append($('<td/>').html(data[i].stats.hindex[0]));
+  row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
+  row.append($('<td/>').html(data[i].stats.i10index[0]));
+  row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
+  row.append($('<td style="text-align: left" />').html(data[i].keywords.join(', ')));
+  row.append($('<td class="keywordColumn" hidden="true" />').html(data[i].keywords.join(' ').toLowerCase()));
+  $("#stats").append(row);
 }
 
 // http://tablesorter.com/docs/
 $(document).ready(function() { 
   $("#date").append("<br/><small>Last updated: " + date + "</small>");
-  $("#stats").tablesorter({sortList: [[5,1], [3,1]]});  $("#stats").bind("sortEnd", function() {
-	  var i = 1;
-	  $("#stats").find("tr:gt(0)").each(function(){
-		  $(this).find("td:eq(0)").text(i);
-		  i++;
-		  });
-	});
+  $("#stats").tablesorter({sortList: [[5,1], [3,1]]});  
+
+  // https://stackoverflow.com/questions/6549518/jquery-tablesorter-with-row-numbers
+  var table = $("#stats");
+  table.bind("sortEnd",function() {
+    var i = 1;
+    table.find("tr:gt(0)").each(function() {
+      $(this).find("td:eq(0)").text(i);
+      i++;
+    });
+  });
 
   //add index column with all content.
  $(".filterable tr:has(td)").each(function(){
@@ -99,8 +121,37 @@ $(document).ready(function() {
           + this + "'))").parent().hide();
    });//each
  });//key up.
-}); 
 
+        var keywordSynonyms = {
+                clinical: ["clinical informatics", "decision support", "electronic health record", "health information technology",
+                              "clinical information system", "health informatics, nursing, dental"],
+                bio: ["bioinformatics", "biology", "translational informatics", "proteomics", "genomics", "genetics", "precision medicine"],
+                research: ["research informatics"],
+                consumer: ["consumer", "personal health records"],
+                publichealth: ["public health", "population health", "health informatics"]};
+
+  $("input[name='KeywordCheckBox']").change(function(){
+    var keywords = [];
+
+    $("input[name='KeywordCheckBox']").each(function() {
+      if ($(this).is(":checked")) {
+              keywords.push("Keywords");
+              keywordSynonyms[$(this).val()].forEach(function(keyword) {
+                keywords.push(keyword);
+              });
+      }
+    });
+
+    if (keywords == "") {
+      $(".keywordfilterable tr:hidden").show(); // show all if we have no keywords selected
+    } else {
+      $(".keywordfilterable tr:visible").hide(); // hide them all first, then go back and show them if they have any of the keywords
+      keywords.forEach(function(keyword) {      
+        $(".keywordfilterable tr:hidden .keywordColumn:contains('"  + keyword + "')").parent().show();
+      });
+    }
+  });
+});
 
 </script>
 
@@ -118,3 +169,4 @@ $(document).ready(function() {
 
 </body>
 </html>
+

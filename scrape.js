@@ -15,20 +15,20 @@ var scrapeEntry = function(person, doneCallback) {
     var $ = cheerio.load(body);
 
     if (typeof $('#gsc_rsb_st')[0] !== 'undefined') {
-
     //try {
       // We're output to stdout, so log to stderr
       console.error("Scraping " + person + "...");
 
-      // var photo = $('#gsc_prf_pup-img')[0].attribs.src;
+      //var photo = $('#gsc_prf_pup-img')[0].attribs.src;
       var affiliation = $('.gsc_prf_il', '#gsc_prf_i').first().text();
 
-      // var keywords_root = $('#gsc_prf_int')[0].children;
-      // var keywords = [];
+      var keywords_root = $('#gsc_prf_int')[0].children;
+      var keywords = [];
 
-      // for (var i=0; i<keywords_root.length; i++) {
-      //  keywords.push(keywords_root[i].children[0].data);
-      //}
+      for (var i=0; i<keywords_root.length; i++) {
+	if (typeof keywords_root[i].children === 'undefined') continue;
+        keywords.push(keywords_root[i].children[0].data);
+      }
 
       var rawStats = $('#gsc_rsb_st');
 
@@ -48,18 +48,17 @@ var scrapeEntry = function(person, doneCallback) {
         'url': url,
         //'photo' : 'http://scholar.google.com' + photo,
         'affiliation' : affiliation,
-        //'keywords' : keywords,
+        'keywords' : keywords,
         'stats' : stats,
         'year' : rawYear[0].children[0].children[0].data
       };
 
-    } else {
-	console.error("Error with " + person + "...");
-    }
-
     //} catch (ex) {
+    } else {
     //  console.error(ex);
+	console.error("Error with " + person + "...");
     //  throw new Error(person);
+    }
     //}
 
     // Adding a timeout to regulate scraping speed.
