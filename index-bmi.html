@@ -33,7 +33,7 @@
 
 Find: <input size="35" type="text" id="FilterTextBox" name="FilterTextBox" placeholder="e.g., 'FACMI', 'Collen', name, affiliation" /><br />
 Keywords: 
-<span title="clinical informatics, clinical information systems, health information technology, electronic health records, health informatics, nursing informatics, dental informatics">
+<span title="clinical informatics, clinical information systems, health information technology, electronic health records, health informatics, medical informatics, nursing informatics, dental informatics">
     <input type="checkbox" name="KeywordCheckBox" value="clinical" />Clinical Informatics&nbsp;&nbsp;</span>
 <span title="bioinformatics, biology, translational informatics, proteomics, genomics, precision medicine">
     <input type="checkbox" name="KeywordCheckBox" value="bio" />Bioinformatics&nbsp;&nbsp;</span>
@@ -43,7 +43,6 @@ Keywords:
   <input type="checkbox" name="KeywordCheckBox" value="consumer" />Consumer Health Informatics&nbsp;&nbsp;</span>
 <span title="public health informatics">
     <input type="checkbox" name="KeywordCheckBox" value="publichealth" />Public Health Informatics&nbsp;&nbsp;</span>
-<!--<input size="35" type="text" id="KeywordTextBox" name="KeywordTextBox" placeholder="e.g., 'Bioinformatics', 'Clinical Informatics'" />-->
 
 <table id="stats" border="0" class="tablesorter filterable keywordfilterable">
 <thead> 
@@ -57,7 +56,7 @@ Keywords:
     <th width="30">/y</th> 
     <th width="85">i10-index</th> 
     <th width="30">/y</th>
-    <th width="500" class="keywordColumn">Keywords</th>
+    <th width="500" class="keywordColumn" name="Keywords">Keywords</th>
 </tr> 
 </thead> 
 </table>
@@ -87,7 +86,7 @@ for (var i=0; i< data.length; i++) {
   row.append($('<td/>').html(data[i].stats.i10index[0]));
   row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
   row.append($('<td style="text-align: left" />').html(data[i].keywords.join(', ')));
-  row.append($('<td class="keywordColumn" hidden="true" />').html(data[i].keywords.join(' ').toLowerCase()));
+  row.append($('<td class="keywordColumn" name="' + data[i].keywords.join(', ').toLowerCase() + '" hidden="true" />').html(data[i].keywords.join(', ').toLowerCase()));
   $("#stats").append(row);
 }
 
@@ -123,8 +122,8 @@ $(document).ready(function() {
  });//key up.
 
         var keywordSynonyms = {
-                clinical: ["clinical informatics", "decision support", "electronic health record", "health information technology",
-                              "clinical information system", "health informatics", "nursing", "dental"],
+                clinical: ["clinical informatics", "medical informatics", "decision support", "electronic health record", "health information technology",
+                              "clinical information system", "health informatics", "nursing informatics", "dental informatics"],
                 bio: ["bioinformatics", "biology", "translational informatics", "proteomics", "genomics", "genetics", "precision medicine"],
                 research: ["research informatics"],
                 consumer: ["consumer", "personal health records"],
@@ -147,7 +146,8 @@ $(document).ready(function() {
     } else {
       $(".keywordfilterable tr:visible").hide(); // hide them all first, then go back and show them if they have any of the keywords
       keywords.forEach(function(keyword) {      
-        $(".keywordfilterable tr:hidden .keywordColumn:contains('"  + keyword + "')").parent().show();
+        $(".keywordfilterable tr:hidden .keywordColumn:contains(', "  + keyword + "')").parent().show();
+        $(".keywordfilterable tr:hidden .keywordColumn[name^='"  + keyword + "']").parent().show();
       });
     }
   });
