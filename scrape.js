@@ -17,7 +17,7 @@ var scrapeEntry = function(person, doneCallback) {
     if (typeof $('#gsc_rsb_st')[0] !== 'undefined') {
     //try {
       // We're output to stdout, so log to stderr
-      console.error("Scraping " + person + "...");
+      //console.error("Scraping " + person + "...");
 
       //var photo = $('#gsc_prf_pup-img')[0].attribs.src;
       var affiliation = $('.gsc_prf_il', '#gsc_prf_i').first().text();
