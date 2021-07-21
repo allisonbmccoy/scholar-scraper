@@ -1,4 +1,4 @@
-var date = "Wed Jul 21 2021 14:29:28 GMT-0500 (Central Daylight Time)"
+var date = "Wed Jul 21 2021 15:36:44 GMT-0500 (Central Daylight Time)"
 var data = [
   {
     "name": "A.Karim Jabali",
@@ -7301,7 +7301,32 @@ var data = [
     },
     "year": "1991"
   },
-  {},
+  {
+    "name": "David Cornforth",
+    "url": "https://scholar.google.com/citations?user=MLDNUhUAAAAJ&hl=en",
+    "affiliation": "Independent Scholar",
+    "keywords": [
+      "Artificial Intelligence",
+      "Health Informatics",
+      "Data Mining",
+      "Therapeutic Games"
+    ],
+    "stats": {
+      "citations": [
+        "2909",
+        "1634"
+      ],
+      "hindex": [
+        "29",
+        "21"
+      ],
+      "i10index": [
+        "73",
+        "41"
+      ]
+    },
+    "year": "2004"
+  },
   {
     "name": "David Dorr, FACMI, FAMIA",
     "url": "http://scholar.google.com/citations?user=-8FDNSIAAAAJ&hl=en",
@@ -16975,7 +17000,27 @@ var data = [
     },
     "year": "1998"
   },
-  {},
+  {
+    "name": "Jon Duke",
+    "url": "https://scholar.google.com/citations?user=6WlU86IAAAAJ&hl=en",
+    "affiliation": "Georgia Tech",
+    "keywords": [],
+    "stats": {
+      "citations": [
+        "2297",
+        "1956"
+      ],
+      "hindex": [
+        "22",
+        "18"
+      ],
+      "i10index": [
+        "27",
+        "27"
+      ]
+    },
+    "year": "2011"
+  },
   {
     "name": "Jonathan Bates",
     "url": "https://scholar.google.com/citations?hl=en&user=WrAfupwAAAAJ",
@@ -29025,7 +29070,29 @@ var data = [
     },
     "year": "2004"
   },
-  {},
+  {
+    "name": "Richard Medlin",
+    "url": "https://scholar.google.com/citations?user=78_qp7MAAAAJ&hl=en",
+    "affiliation": "University Of Michigan",
+    "keywords": [
+      "Clinical Informatics"
+    ],
+    "stats": {
+      "citations": [
+        "141",
+        "107"
+      ],
+      "hindex": [
+        "6",
+        "6"
+      ],
+      "i10index": [
+        "5",
+        "4"
+      ]
+    },
+    "year": "2012"
+  },
   {
     "name": "Richard N. Shiffman, FACMI",
     "url": "http://scholar.google.com/citations?user=UxiABUwAAAAJ&hl=en&oi=ao",
@@ -30632,7 +30699,32 @@ var data = [
     },
     "year": "2002"
   },
-  {},
+  {
+    "name": "Sandra L. Kane-Gill ",
+    "url": "https://scholar.google.com/citations?user=FKd6FC4AAAAJ&hl=en",
+    "affiliation": "University of Pittsburgh",
+    "keywords": [
+      "Medication Safety",
+      "Acute Kidney Injury",
+      "Critical Care Medicine",
+      "Implementation Science"
+    ],
+    "stats": {
+      "citations": [
+        "7844",
+        "4785"
+      ],
+      "hindex": [
+        "49",
+        "36"
+      ],
+      "i10index": [
+        "131",
+        "114"
+      ]
+    },
+    "year": "2004"
+  },
   {
     "name": "Sanghee Oh",
     "url": "http://scholar.google.com/citations?user=7l9y1KQAAAAJ&hl=en",
