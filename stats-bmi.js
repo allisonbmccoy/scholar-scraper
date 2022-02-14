@@ -1,4 +1,4 @@
-var date = "Mon Feb 14 2022 09:40:28 GMT-0600 (Central Standard Time)"
+var date = "Mon Feb 14 2022 11:19:21 GMT-0600 (Central Standard Time)"
 var data = [
   {
     "name": "A.Karim Jabali",
@@ -12484,16 +12484,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6084",
-        "2084"
+        "6104",
+        "2104"
       ],
       "hindex": [
         "37",
         "23"
       ],
       "i10index": [
-        "69",
-        "44"
+        "70",
+        "45"
       ]
     },
     "year": "1998"
