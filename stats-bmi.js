@@ -1,4 +1,4 @@
-var date = "Mon Aug 15 2022 09:40:24 GMT-0500 (Central Daylight Time)"
+var date = "Mon Aug 15 2022 11:04:06 GMT-0500 (Central Daylight Time)"
 var data = [
   {
     "name": "A.Karim Jabali",
@@ -25939,7 +25939,33 @@ var data = [
     },
     "year": "2000"
   },
-  {},
+  {
+    "name": "Nematollah (Kayhan) Batmanghelich",
+    "url": "https://scholar.google.com/citations?user=PvHFAfIAAAAJ&hl=en",
+    "affiliation": "Assistant Professor, University of Pittsburgh",
+    "keywords": [
+      "Machine Learning",
+      "Medical Vision",
+      "Machine Learning for Healthcare",
+      "Probabilistic Graphical Model",
+      "Bioinformatics"
+    ],
+    "stats": {
+      "citations": [
+        "4329",
+        "3497"
+      ],
+      "hindex": [
+        "19",
+        "18"
+      ],
+      "i10index": [
+        "39",
+        "32"
+      ]
+    },
+    "year": "2008"
+  },
   {
     "name": "Nervo Xavier Verdezoto",
     "url": "http://scholar.google.com/citations?user=0jUyuFAAAAAJ&hl=en",
