@@ -1,4 +1,4 @@
-var date = "Mon Nov 20 2023 14:39:03 GMT-0600 (Central Standard Time)"
+var date = "Mon Nov 20 2023 16:56:25 GMT-0600 (Central Standard Time)"
 var data = [
   {
     "name": "A Jay Holmgren",
@@ -4509,6 +4509,29 @@ var data = [
     "year": "2016"
   },
   {
+    "name": "Bryant Thomas Karras, MD, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=lQshE9sAAAAJ",
+    "affiliation": "University of Washington, Wa State Department of Health",
+    "keywords": [
+      "public health informatics"
+    ],
+    "stats": {
+      "citations": [
+        "2393",
+        "522"
+      ],
+      "hindex": [
+        "16",
+        "8"
+      ],
+      "i10index": [
+        "20",
+        "8"
+      ]
+    },
+    "year": "1996"
+  },
+  {
     "name": "Bulent Yener",
     "url": "http://scholar.google.com/citations?user=0vWWXXUAAAAJ&hl=en",
     "affiliation": "Professor of Computer Science,  Director of Data Science Research Center RPI",
@@ -5486,7 +5509,7 @@ var data = [
     "year": "2002"
   },
   {
-    "name": "Chi-Ren Shyu, FAMIA",
+    "name": "Chi-Ren Shyu, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?hl=en&user=SVfTWwMAAAAJ",
     "affiliation": "Shumaker Professor of Engineering, Director of Institute for Data Science and Informatics",
     "keywords": [
@@ -6713,6 +6736,29 @@ var data = [
       ]
     },
     "year": "1996"
+  },
+  {
+    "name": "Dana C. Crawford, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=Bnnj5ScAAAAJ",
+    "affiliation": "Cleveland Institute for Computational Biology",
+    "keywords": [
+      "Genetic epidemiology"
+    ],
+    "stats": {
+      "citations": [
+        "24286",
+        "13360"
+      ],
+      "hindex": [
+        "67",
+        "44"
+      ],
+      "i10index": [
+        "180",
+        "142"
+      ]
+    },
+    "year": "2004"
   },
   {
     "name": "Dana Womack",
@@ -9495,6 +9541,33 @@ var data = [
     "year": "1987"
   },
   {
+    "name": "Ellon Wright Clayton, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=LM_QwbUAAAAJ",
+    "affiliation": "Professor, Vanderbilt University",
+    "keywords": [
+      "genetics",
+      "ethics",
+      "research",
+      "pediatrics",
+      "vaccine"
+    ],
+    "stats": {
+      "citations": [
+        "34352",
+        "9681"
+      ],
+      "hindex": [
+        "57",
+        "39"
+      ],
+      "i10index": [
+        "161",
+        "107"
+      ]
+    },
+    "year": "1996"
+  },
+  {
     "name": "Elmer Bernstam, FACMI, FAMIA",
     "url": "http://scholar.google.com/citations?user=ThrbzsgAAAAJ&hl=en",
     "affiliation": "The University of Texas Health Science Center at Houston",
@@ -11958,7 +12031,7 @@ var data = [
     "year": "1998"
   },
   {
-    "name": "Graciella Gonzalaz",
+    "name": "Graciella Gonzalaz, FACMI",
     "url": "http://scholar.google.com/citations?user=ER8VZlwAAAAJ&hl=en",
     "affiliation": "Dep. of Computational Biomedicine, Cedars-Sinai Medical Center",
     "keywords": [
@@ -15379,7 +15452,7 @@ var data = [
     "year": "2014"
   },
   {
-    "name": "Jenna Marquard",
+    "name": "Jenna Marquard, FACMI",
     "url": "https://scholar.google.com/citations?hl=en&user=K56cD70AAAAJ",
     "affiliation": "University of Minnesota",
     "keywords": [
@@ -17712,7 +17785,7 @@ var data = [
     "year": "2003"
   },
   {
-    "name": "Joseph Finkelstein, FAMIA",
+    "name": "Joseph Finkelstein, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?user=bkvx_BkAAAAJ&hl=en",
     "affiliation": "University of Utah",
     "keywords": [
@@ -19174,6 +19247,32 @@ var data = [
     "year": "2000"
   },
   {
+    "name": "Kenrick D Cato, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=T8lxLMsAAAAJ",
+    "affiliation": "Professor Informatics and Nurse Scientist for Pediatric Data and Analytics",
+    "keywords": [
+      "Clinical Decision Support",
+      "Healthcare Associated Infections",
+      "Nursing Informatics",
+      "Medical"
+    ],
+    "stats": {
+      "citations": [
+        "1822",
+        "1678"
+      ],
+      "hindex": [
+        "20",
+        "18"
+      ],
+      "i10index": [
+        "39",
+        "38"
+      ]
+    },
+    "year": "2014"
+  },
+  {
     "name": "Kensaku Kawamoto, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?user=V5Rw_pEAAAAJ&hl=en",
     "affiliation": "Professor of Biomedical Informatics and Associate Chief Medical Informatin Officer",
@@ -19480,7 +19579,7 @@ var data = [
     "year": "2011"
   },
   {
-    "name": "Kirk Roberts",
+    "name": "Kirk Roberts, FACMI",
     "url": "http://scholar.google.com/citations?user=ukBG4CUAAAAJ&hl=en",
     "affiliation": "McWilliams School of Biomedical Informatics, University of Texas Health Science Center",
     "keywords": [
@@ -20369,7 +20468,7 @@ var data = [
     "year": "2006"
   },
   {
-    "name": "Lena Mamykina",
+    "name": "Lena Mamykina, FACMI",
     "url": "http://scholar.google.com/citations?user=LT0qxKwAAAAJ&hl=en",
     "affiliation": "Associate Professor of Biomedical Informatics, Columbia University",
     "keywords": [
@@ -20799,7 +20898,7 @@ var data = [
     "year": "2007"
   },
   {
-    "name": "Lipika Samal, FAMIA",
+    "name": "Lipika Samal, FACMI, FAMIA",
     "url": "http://scholar.google.com/citations?user=Z0duzZ8AAAAJ&hl=en",
     "affiliation": "Harvard Medical School / Brigham and Women's Hospital",
     "keywords": [],
@@ -21830,7 +21929,7 @@ var data = [
     "year": "2003"
   },
   {
-    "name": "Maria Adela Grando, FAMIA",
+    "name": "Maria Adela Grando, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?hl=en&user=UI_GNRUAAAAJ",
     "affiliation": "Arizona State University",
     "keywords": [
@@ -23057,7 +23156,7 @@ var data = [
     "year": "1991"
   },
   {
-    "name": "Maxim Topaz",
+    "name": "Maxim Topaz, FACMI, FIAHSI",
     "url": "http://scholar.google.com/citations?user=7MxxJ2UAAAAJ&hl=en",
     "affiliation": "Columbia University, School of Nursing & Data Science Institute, VNS Health",
     "keywords": [
@@ -25671,7 +25770,7 @@ var data = [
     "year": "2005"
   },
   {
-    "name": "Neil R. Smalheiser, FAMIA",
+    "name": "Neil R. Smalheiser, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?hl=en&user=-yvrn1IAAAAJ",
     "affiliation": "Professor in Psychiatry, University of Illinois College of Medicine",
     "keywords": [
@@ -29946,6 +30045,32 @@ var data = [
     "year": "1986"
   },
   {
+    "name": "Robert Lucero, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=S6sEo04AAAAJ",
+    "affiliation": "UCLA School of Nursing",
+    "keywords": [
+      "Health Systems",
+      "AI",
+      "Computerized Self-management",
+      "DEI"
+    ],
+    "stats": {
+      "citations": [
+        "1482",
+        "948"
+      ],
+      "hindex": [
+        "17",
+        "16"
+      ],
+      "i10index": [
+        "28",
+        "24"
+      ]
+    },
+    "year": "2010"
+  },
+  {
     "name": "Robert McDougal",
     "url": "https://scholar.google.com/citations?hl=en&user=voD3OosAAAAJ",
     "affiliation": "Yale University",
@@ -32211,7 +32336,7 @@ var data = [
     "year": "2011"
   },
   {
-    "name": "Shyam Visweswaran, FAMIA",
+    "name": "Shyam Visweswaran, FACMI, FAMIA",
     "url": "http://scholar.google.com/citations?user=i4k8HmEAAAAJ&hl=en",
     "affiliation": "Professor of Biomedical Informatics, University of Pittsburgh",
     "keywords": [
@@ -33217,6 +33342,33 @@ var data = [
     "year": "2012"
   },
   {
+    "name": "Stephen T Wong, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=C2gJxXYAAAAJ",
+    "affiliation": "Houston Methodist Hospital and Weill Cornell Medicine",
+    "keywords": [
+      "Systems Medicine",
+      "Medical Imaging",
+      "Bioengineering",
+      "Cell-cell communication",
+      "Digital Health"
+    ],
+    "stats": {
+      "citations": [
+        "26724",
+        "12111"
+      ],
+      "hindex": [
+        "74",
+        "49"
+      ],
+      "i10index": [
+        "358",
+        "212"
+      ]
+    },
+    "year": "1996"
+  },
+  {
     "name": "Stephen Wu",
     "url": "https://scholar.google.com/citations?user=d1cYNcsAAAAJ&hl=en",
     "affiliation": "Associate Professor, UTHealth",
@@ -33855,7 +34007,7 @@ var data = [
     "year": "2007"
   },
   {
-    "name": "Suzanne Bakken, FACMI, FIAHSI",
+    "name": "Suzanne Bakken, FACMI, FIAHSI, Collen 2023",
     "url": "http://scholar.google.com/citations?user=zwr9wPEAAAAJ&hl=en",
     "affiliation": "Columbia University",
     "keywords": [
@@ -34319,7 +34471,7 @@ var data = [
     "year": "2015"
   },
   {
-    "name": "Thankam Thyvalikakath",
+    "name": "Thankam Thyvalikakath, FACMI",
     "url": "https://scholar.google.com/citations?user=q6pBywIAAAAJ&hl=en",
     "affiliation": "Professor & Director, Dental Informatics, Research Scientist, Regenstrief Institute",
     "keywords": [
@@ -37081,7 +37233,7 @@ var data = [
     "year": "2002"
   },
   {
-    "name": "Xiaoqian Jiang",
+    "name": "Xiaoqian Jiang, FACMI",
     "url": "https://scholar.google.com/citations?hl=en&user=DSmxHuMAAAAJ",
     "affiliation": "UTHealth",
     "keywords": [
@@ -37758,7 +37910,7 @@ var data = [
     "year": "2009"
   },
   {
-    "name": "You Chen, FAMIA",
+    "name": "You Chen, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?hl=en&user=c-pOkPEAAAAJ",
     "affiliation": "Vanderbilt University, Chinese Academy of Sciences",
     "keywords": [
@@ -37888,7 +38040,7 @@ var data = [
     "year": "2000"
   },
   {
-    "name": "Yuan Luo, FAMIA",
+    "name": "Yuan Luo, FACMI, FAMIA",
     "url": "https://scholar.google.com/citations?hl=en&user=txsHQx4AAAAJ",
     "affiliation": "Chief AI Officer, Northwestern University Feinberg School of Medicine",
     "keywords": [
@@ -37965,7 +38117,7 @@ var data = [
     "year": "2007"
   },
   {
-    "name": "Yunan Chen",
+    "name": "Yunan Chen, FACMI",
     "url": "http://scholar.google.com/citations?user=QjbgoY8AAAAJ&hl=en",
     "affiliation": "University of California Irvine",
     "keywords": [
