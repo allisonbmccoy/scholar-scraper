@@ -1243,7 +1243,7 @@ var data = [
     "year": "2012"
   },
   {
-    "name": "Allison B. McCoy, ACHIP, FAMIA",
+    "name": "Allison B. McCoy, ACHIP, FACMI, FAMIA",
     "url": "http://scholar.google.com/citations?user=8fR6ShUAAAAJ&hl=en",
     "affiliation": "Associate Professor of Biomedical Informatics, Vanderbilt University Medical Center",
     "keywords": [
