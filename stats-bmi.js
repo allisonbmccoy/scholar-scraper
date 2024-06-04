@@ -1,4 +1,4 @@
-var date = "Tue Jun 04 2024 11:22:38 GMT-0500 (Central Daylight Time)"
+var date = "Tue Jun 04 2024 12:52:05 GMT-0500 (Central Daylight Time)"
 var data = [
   {
     "name": "A Jay Holmgren",
@@ -1236,7 +1236,32 @@ var data = [
     },
     "year": "2016"
   },
-  {},
+  {
+    "name": "Alissa L. Russ-Jara",
+    "url": "https://scholar.google.com/citations?hl=en&user=V1q5hZMAAAAJ",
+    "affiliation": "Purdue University",
+    "keywords": [
+      "human factors engineering",
+      "healthcare",
+      "medication safety",
+      "informatics"
+    ],
+    "stats": {
+      "citations": [
+        "2451",
+        "1294"
+      ],
+      "hindex": [
+        "25",
+        "20"
+      ],
+      "i10index": [
+        "43",
+        "39"
+      ]
+    },
+    "year": "2009"
+  },
   {
     "name": "Allan F. Simpao",
     "url": "https://scholar.google.com/citations?user=TAK4_bIAAAAJ&hl=en",
@@ -4045,7 +4070,29 @@ var data = [
     },
     "year": "2012"
   },
-  {},
+  {
+    "name": "Boris Gala-Lopez",
+    "url": "https://scholar.google.com/citations?hl=en&user=nkGtmlgAAAAJ",
+    "affiliation": "Assistant Professor, Dalhousie University",
+    "keywords": [
+      "Hepatobiliary surgery and organ transplantation"
+    ],
+    "stats": {
+      "citations": [
+        "2319",
+        "1406"
+      ],
+      "hindex": [
+        "23",
+        "16"
+      ],
+      "i10index": [
+        "33",
+        "26"
+      ]
+    },
+    "year": "2012"
+  },
   {
     "name": "Brad Doebbeling",
     "url": "https://scholar.google.com/citations?user=RhHZnEAAAAAJ&hl=en",
@@ -4731,7 +4778,32 @@ var data = [
     },
     "year": "2002"
   },
-  {},
+  {
+    "name": "Călin Muntean",
+    "url": "https://scholar.google.com/citations?user=ZYs1oHcAAAAJ&hl=en",
+    "affiliation": "University of Medicine and Pharmacy Victor Babes Timisoara",
+    "keywords": [
+      "database",
+      "knowledge management",
+      "bio-statistics",
+      "medical informatics"
+    ],
+    "stats": {
+      "citations": [
+        "139",
+        "86"
+      ],
+      "hindex": [
+        "7",
+        "6"
+      ],
+      "i10index": [
+        "4",
+        "2"
+      ]
+    },
+    "year": "2006"
+  },
   {
     "name": "Carlo Combi",
     "url": "http://scholar.google.com/citations?user=NVu00dwAAAAJ&hl=en",
@@ -5791,7 +5863,31 @@ var data = [
     },
     "year": "1995"
   },
-  {},
+  {
+    "name": "Christian Nohr, FACMI, FIAHSI",
+    "url": "https://scholar.google.com/citations?user=IHTEG3UAAAAJ&hl=en",
+    "affiliation": "Professor, Aalborg University, Denmark",
+    "keywords": [
+      "\"Health Informatics\"",
+      "\"Health IT evaluation\"",
+      "\"Techno Anthropology\""
+    ],
+    "stats": {
+      "citations": [
+        "3408",
+        "1626"
+      ],
+      "hindex": [
+        "28",
+        "18"
+      ],
+      "i10index": [
+        "77",
+        "40"
+      ]
+    },
+    "year": "2001"
+  },
   {
     "name": "Christina Kendziorski",
     "url": "https://scholar.google.com/citations?hl=en&user=KRVBkHsAAAAJ",
@@ -6827,7 +6923,29 @@ var data = [
     },
     "year": "2013"
   },
-  {},
+  {
+    "name": "Daniel Byrne",
+    "url": "https://scholar.google.com/citations?hl=en&user=Q4kTU5YAAAAJ",
+    "affiliation": "AI in medicine consultant, Byrne Research",
+    "keywords": [
+      "AI in Medicine"
+    ],
+    "stats": {
+      "citations": [
+        "14341",
+        "5093"
+      ],
+      "hindex": [
+        "54",
+        "29"
+      ],
+      "i10index": [
+        "113",
+        "66"
+      ]
+    },
+    "year": "1996"
+  },
   {
     "name": "Daniel Capurro, MD, PhD, FAMIA",
     "url": "https://scholar.google.com/citations?user=4P0zi4IAAAAJ&hl=en",
@@ -8711,7 +8829,31 @@ var data = [
     },
     "year": "2000"
   },
-  {},
+  {
+    "name": "Dongwen Wang",
+    "url": "https://scholar.google.com/citations?user=JLxp4gUAAAAJ&hl=en",
+    "affiliation": "Arizona State University, University of Rochester, Columbia University",
+    "keywords": [
+      "Health Informatics",
+      "Biomedical Informatics",
+      "Medical Informatics"
+    ],
+    "stats": {
+      "citations": [
+        "3241",
+        "1244"
+      ],
+      "hindex": [
+        "22",
+        "12"
+      ],
+      "i10index": [
+        "30",
+        "14"
+      ]
+    },
+    "year": "2002"
+  },
   {
     "name": "Doug Hardin",
     "url": "https://scholar.google.com/citations?hl=en&user=JvTwH8oAAAAJ",
@@ -8865,7 +9007,7 @@ var data = [
     "year": "2010"
   },
   {
-    "name": "Dr Antonette Mendoza",
+    "name": "Antonette Mendoza",
     "url": "http://scholar.google.com/citations?user=Mi79FfQAAAAJ&hl=en",
     "affiliation": "Senior Academic Advisor, Computing and Information Systems, University of Melbourne",
     "keywords": [
@@ -8891,7 +9033,7 @@ var data = [
     "year": "2008"
   },
   {
-    "name": "Dr Habibollah Pirnejad",
+    "name": "Habibollah Pirnejad",
     "url": "http://scholar.google.com/citations?user=Hn0FkVgAAAAJ&hl=en",
     "affiliation": "UMSU, EUR, Visiting research fellow at UNSW & UWS",
     "keywords": [
@@ -8918,7 +9060,7 @@ var data = [
     "year": "2009"
   },
   {
-    "name": "Dr Shabbir Syed-Abdul",
+    "name": "Shabbir Syed-Abdul",
     "url": "https://scholar.google.com/citations?user=JoU7uogAAAAJ&hl=en",
     "affiliation": "Professor, Graduate Institute of Biomedical Informatics, Taipei Medical University",
     "keywords": [
@@ -8945,7 +9087,7 @@ var data = [
     "year": "2012"
   },
   {
-    "name": "Dr.  Saras Saraswathi",
+    "name": "Saras Saraswathi",
     "url": "http://scholar.google.com/citations?user=CSGIwLkAAAAJ&hl=en",
     "affiliation": "Consultant",
     "keywords": [
@@ -8969,7 +9111,7 @@ var data = [
     "year": "2010"
   },
   {
-    "name": "Dr. Basil Alzougool",
+    "name": "Basil Alzougool",
     "url": "http://scholar.google.com/citations?user=jxSAXcQAAAAJ&hl=en",
     "affiliation": "Arab Open University - Kuwait",
     "keywords": [
@@ -8995,7 +9137,7 @@ var data = [
     "year": "2009"
   },
   {
-    "name": "Dr. Colleen Schwarz, PhD",
+    "name": "Colleen Schwarz, PhD",
     "url": "http://scholar.google.com/citations?user=G5WqDWkAAAAJ&hl=en",
     "affiliation": "Professor, College of Business, University of Louisiana at Lafayette",
     "keywords": [
@@ -9022,7 +9164,7 @@ var data = [
     "year": "2009"
   },
   {
-    "name": "Dr. Mayadhar Barik",
+    "name": "Mayadhar Barik",
     "url": "http://scholar.google.com/citations?user=4jQueSYAAAAJ&hl=en",
     "affiliation": "AIIMS, New Delhi, India",
     "keywords": [
@@ -9049,7 +9191,7 @@ var data = [
     "year": "2012"
   },
   {
-    "name": "Dr. Rajesh Kumar Sinha",
+    "name": "Rajesh Kumar Sinha",
     "url": "http://scholar.google.com/citations?user=rYvkppAAAAAJ&hl=en",
     "affiliation": "Professor, Health Information Mangement & Head, Allied Health Sciences, Manipal Tata Medical College",
     "keywords": [
@@ -9072,7 +9214,7 @@ var data = [
     "year": "2012"
   },
   {
-    "name": "Dr. Sitalakshmi Venkatraman",
+    "name": "Sitalakshmi Venkatraman",
     "url": "http://scholar.google.com/citations?user=0k0FQqEAAAAJ&hl=en",
     "affiliation": "Melbourne Polytechnic",
     "keywords": [
@@ -9099,7 +9241,7 @@ var data = [
     "year": "2007"
   },
   {
-    "name": "Dr. Tony Sahama",
+    "name": "Tony Sahama",
     "url": "http://scholar.google.com/citations?user=K2FFv4EAAAAJ&hl=en",
     "affiliation": "Professor(Adj.), School of Health Information Science, UVic, BC, Canada",
     "keywords": [
@@ -9151,6 +9293,32 @@ var data = [
       ]
     },
     "year": "1998"
+  },
+  {
+    "name": "Drew Jeremy Wilimitis",
+    "url": "https://scholar.google.com/citations?hl=en&user=bKPZXPkAAAAJ",
+    "affiliation": "PhD Student, Biomedical Informatics at Vanderbilt University",
+    "keywords": [
+      "Clinical Data Science",
+      "Machine Learning",
+      "Mental Health Informatics",
+      "Unsupervised Learning"
+    ],
+    "stats": {
+      "citations": [
+        "42",
+        "42"
+      ],
+      "hindex": [
+        "3",
+        "3"
+      ],
+      "i10index": [
+        "2",
+        "2"
+      ]
+    },
+    "year": "2022"
   },
   {
     "name": "Duwayne Willett, FAMIA",
@@ -10608,7 +10776,32 @@ var data = [
     },
     "year": "2013"
   },
-  {},
+  {
+    "name": "Federico Cabitza",
+    "url": "https://scholar.google.com/citations?user=ouFj7GQAAAAJ&hl=en",
+    "affiliation": "University of Milano-Bicocca, IRCCS Ospedale Galeazzi - Sant'Ambrogio, Milan, Italy",
+    "keywords": [
+      "human_ai_interaction",
+      "decision_support",
+      "human_centered_AI",
+      "eXplainable_AI"
+    ],
+    "stats": {
+      "citations": [
+        "6001",
+        "4444"
+      ],
+      "hindex": [
+        "40",
+        "31"
+      ],
+      "i10index": [
+        "112",
+        "77"
+      ]
+    },
+    "year": "2006"
+  },
   {
     "name": "Fei Wang, FACMI, FAMIA, FIAHSI",
     "url": "https://scholar.google.com/citations?hl=en&user=FjCbjDYAAAAJ",
@@ -10817,7 +11010,27 @@ var data = [
     },
     "year": "2010"
   },
-  {},
+  {
+    "name": "Ferran Sanz",
+    "url": "https://scholar.google.com/citations?user=-Xx4uvIAAAAJ&hl=en",
+    "affiliation": "Research Programme on Biomedical Informatics (GRIB), IMIM, Universitat Pompeu Fabra",
+    "keywords": [],
+    "stats": {
+      "citations": [
+        "13762",
+        "7992"
+      ],
+      "hindex": [
+        "50",
+        "30"
+      ],
+      "i10index": [
+        "151",
+        "72"
+      ]
+    },
+    "year": "1993"
+  },
   {
     "name": "Finale Doshi",
     "url": "http://scholar.google.com/citations?user=hwQtFB0AAAAJ&hl=en",
@@ -13169,7 +13382,32 @@ var data = [
     },
     "year": "1990"
   },
-  {},
+  {
+    "name": "Heng Huang",
+    "url": "https://scholar.google.com/citations?user=4OqLaDwAAAAJ&hl=en",
+    "affiliation": "Brendan Iribe Endowed Professor in Computer Science, University Maryland College Park",
+    "keywords": [
+      "Machine Learning and Big Data Mining",
+      "Bioinformatics and Precision Medicine",
+      "Computer Vision and Medical Image Analysis",
+      "Neuroin"
+    ],
+    "stats": {
+      "citations": [
+        "27532",
+        "19520"
+      ],
+      "hindex": [
+        "79",
+        "65"
+      ],
+      "i10index": [
+        "373",
+        "315"
+      ]
+    },
+    "year": "2010"
+  },
   {
     "name": "Heng Li",
     "url": "https://scholar.google.com/citations?user=HQv0p0kAAAAJ&hl=en&oi=ao",
@@ -13777,6 +14015,31 @@ var data = [
       ]
     },
     "year": "2012"
+  },
+  {
+    "name": "Hyunjoon Lee",
+    "url": "https://scholar.google.com/citations?hl=en&user=iwC2qc4AAAAJ",
+    "affiliation": "PhD Student, Vanderbilt University Department of Biomedical Informatics",
+    "keywords": [
+      "Mental health informatics",
+      "clinical informatics",
+      "precision psychiatry"
+    ],
+    "stats": {
+      "citations": [
+        "74",
+        "74"
+      ],
+      "hindex": [
+        "5",
+        "5"
+      ],
+      "i10index": [
+        "3",
+        "3"
+      ]
+    },
+    "year": "2020"
   },
   {
     "name": "Håkan Örman",
@@ -14401,7 +14664,29 @@ var data = [
     },
     "year": "1995"
   },
-  {},
+  {
+    "name": "Isabelle Guyon, FACMI",
+    "url": "https://scholar.google.com/citations?hl=en&user=2PIkUqgAAAAJ",
+    "affiliation": "Director of Research, Google; Prof. UPSaclay; President ChaLearn",
+    "keywords": [
+      "Machine Learning"
+    ],
+    "stats": {
+      "citations": [
+        "85248",
+        "37663"
+      ],
+      "hindex": [
+        "83",
+        "62"
+      ],
+      "i10index": [
+        "227",
+        "169"
+      ]
+    },
+    "year": "1998"
+  },
   {
     "name": "Ita Richardson",
     "url": "https://scholar.google.com/citations?user=TIOqO4wAAAAJ&hl=en",
@@ -18512,7 +18797,32 @@ var data = [
     },
     "year": "2002"
   },
-  {},
+  {
+    "name": "Kalpana Chandrasekar",
+    "url": "https://scholar.google.com/citations?user=2UISbAMAAAAJ&hl=en",
+    "affiliation": "Deputy Librarian, University of Jaffna",
+    "keywords": [
+      "Library science",
+      "Information science",
+      "Health informatics",
+      "Biochemistry"
+    ],
+    "stats": {
+      "citations": [
+        "147",
+        "90"
+      ],
+      "hindex": [
+        "7",
+        "7"
+      ],
+      "i10index": [
+        "7",
+        "4"
+      ]
+    },
+    "year": "2013"
+  },
   {
     "name": "Kamran Sartipi",
     "url": "http://scholar.google.com/citations?user=UCEKTyQAAAAJ&hl=en",
@@ -20835,7 +21145,32 @@ var data = [
     },
     "year": "2008"
   },
-  {},
+  {
+    "name": "Licong Cui",
+    "url": "https://scholar.google.com/citations?hl=en&user=_klfUuIAAAAJ",
+    "affiliation": "Associate Professor, The University of Texas Health Science Center at Houston",
+    "keywords": [
+      "Biomedical Informatics",
+      "Data Science",
+      "Ontologies",
+      "Neuroinformatics"
+    ],
+    "stats": {
+      "citations": [
+        "2559",
+        "2118"
+      ],
+      "hindex": [
+        "19",
+        "17"
+      ],
+      "i10index": [
+        "43",
+        "33"
+      ]
+    },
+    "year": "2013"
+  },
   {
     "name": "Lijun Cheng",
     "url": "https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ",
@@ -21186,7 +21521,29 @@ var data = [
     },
     "year": "2011"
   },
-  {},
+  {
+    "name": "Lua Perimal-Lewis",
+    "url": "https://scholar.google.com/citations?user=qKwzkWcAAAAJ&hl=en",
+    "affiliation": "Senior Lecturer in Digital Health, Flinders University",
+    "keywords": [
+      "Digital Health"
+    ],
+    "stats": {
+      "citations": [
+        "376",
+        "285"
+      ],
+      "hindex": [
+        "9",
+        "8"
+      ],
+      "i10index": [
+        "9",
+        "8"
+      ]
+    },
+    "year": "2012"
+  },
   {
     "name": "Luay Nakhleh",
     "url": "https://scholar.google.com/citations?hl=en&user=46HLWf8AAAAJ",
@@ -21315,7 +21672,32 @@ var data = [
     },
     "year": "2000"
   },
-  {},
+  {
+    "name": "Luigi Gallo",
+    "url": "https://scholar.google.com/citations?user=lGf5230AAAAJ&hl=en",
+    "affiliation": "Senior Researcher at National Research Council of Italy, ICAR-CNR",
+    "keywords": [
+      "Virtual/Augmented Reality",
+      "Natural User Interfaces",
+      "Medical Informatics",
+      "Virtual Heritage"
+    ],
+    "stats": {
+      "citations": [
+        "2238",
+        "1247"
+      ],
+      "hindex": [
+        "24",
+        "16"
+      ],
+      "i10index": [
+        "44",
+        "29"
+      ]
+    },
+    "year": "2009"
+  },
   {
     "name": "Luis Fernandez Luque, FIAHSI",
     "url": "http://scholar.google.com/citations?user=N9Pdr2IAAAAJ&hl=en",
@@ -21940,6 +22322,33 @@ var data = [
       ]
     },
     "year": "2002"
+  },
+  {
+    "name": "Marco Barbero Mota",
+    "url": "https://scholar.google.com/citations?hl=en&user=GSsxif0AAAAJ",
+    "affiliation": "Vanderbilt University School of Medicine Department of Biomedical Informatics",
+    "keywords": [
+      "Biomedical Informatics",
+      "Machine learning",
+      "Causal Inference",
+      "EHR data",
+      "Computational phenotyping"
+    ],
+    "stats": {
+      "citations": [
+        "12",
+        "12"
+      ],
+      "hindex": [
+        "1",
+        "1"
+      ],
+      "i10index": [
+        "1",
+        "1"
+      ]
+    },
+    "year": "2023"
   },
   {
     "name": "Margarita Sordo, FAMIA",
@@ -23398,7 +23807,27 @@ var data = [
     },
     "year": "2010"
   },
-  {},
+  {
+    "name": "Melissa Baysari",
+    "url": "https://scholar.google.com/citations?hl=en&user=ffE5LNkAAAAJ",
+    "affiliation": "Professor of Human Factors, The Univeristy of Sydney",
+    "keywords": [],
+    "stats": {
+      "citations": [
+        "4452",
+        "3099"
+      ],
+      "hindex": [
+        "33",
+        "29"
+      ],
+      "i10index": [
+        "92",
+        "77"
+      ]
+    },
+    "year": "2009"
+  },
   {
     "name": "Melissa Haendel, FACMI",
     "url": "https://scholar.google.com/citations?user=Roxv_AoAAAAJ&hl=en",
@@ -24511,7 +24940,30 @@ var data = [
     },
     "year": "1998"
   },
-  {},
+  {
+    "name": "Ming-Yuan Chih, ACHIP, FAMIA",
+    "url": "https://scholar.google.com/citations?hl=en&user=ZEo8l_YAAAAJ",
+    "affiliation": "Associate Professor, University of Kentucky",
+    "keywords": [
+      "Health informatics",
+      "Industrial Engineering"
+    ],
+    "stats": {
+      "citations": [
+        "2265",
+        "1392"
+      ],
+      "hindex": [
+        "22",
+        "17"
+      ],
+      "i10index": [
+        "30",
+        "28"
+      ]
+    },
+    "year": "2012"
+  },
   {
     "name": "Mirela Prgomet",
     "url": "http://scholar.google.com/citations?user=lsQydmQAAAAJ&hl=en",
@@ -25140,7 +25592,32 @@ var data = [
     },
     "year": "2014"
   },
-  {},
+  {
+    "name": "Muhammad Afzal",
+    "url": "https://scholar.google.com/citations?user=NXglp24AAAAJ&hl=en",
+    "affiliation": "Computing and Data Science",
+    "keywords": [
+      "Data Science",
+      "AI",
+      "LLM",
+      "Health Informatics"
+    ],
+    "stats": {
+      "citations": [
+        "1463",
+        "933"
+      ],
+      "hindex": [
+        "23",
+        "17"
+      ],
+      "i10index": [
+        "41",
+        "28"
+      ]
+    },
+    "year": "2010"
+  },
   {
     "name": "Muhammad Walji",
     "url": "http://scholar.google.com/citations?user=I4zk98UAAAAJ&hl=en",
@@ -26265,7 +26742,32 @@ var data = [
     },
     "year": "2004"
   },
-  {},
+  {
+    "name": "Noorain Mohamad Yunus",
+    "url": "https://scholar.google.com/citations?user=-pOTDTUAAAAJ&hl=en",
+    "affiliation": "Faculty of Business and Management, Universiti Teknologi MARA, Puncak Alam Campus",
+    "keywords": [
+      "Population Ageing",
+      "Healthcare Management",
+      "Underserved Communities",
+      "Quality of Life"
+    ],
+    "stats": {
+      "citations": [
+        "437",
+        "315"
+      ],
+      "hindex": [
+        "7",
+        "7"
+      ],
+      "i10index": [
+        "7",
+        "6"
+      ]
+    },
+    "year": "2009"
+  },
   {
     "name": "Nophar Geifman",
     "url": "http://scholar.google.com/citations?user=kOWrypIAAAAJ&hl=en",
@@ -28074,7 +28576,31 @@ var data = [
     },
     "year": "2000"
   },
-  {},
+  {
+    "name": "Philip Hagedorn, FAMIA",
+    "url": "https://scholar.google.com/citations?hl=en&user=mz0rlOkAAAAJ",
+    "affiliation": "Chief Research Information Officer, Cincinnati Children's Hospital Medical Center",
+    "keywords": [
+      "Clinical Informatics",
+      "Research Informatics",
+      "Quality Improvement"
+    ],
+    "stats": {
+      "citations": [
+        "348",
+        "241"
+      ],
+      "hindex": [
+        "11",
+        "10"
+      ],
+      "i10index": [
+        "13",
+        "11"
+      ]
+    },
+    "year": "2006"
+  },
   {
     "name": "Philip Payne, FACMI, FAMIA, FIAHSI",
     "url": "http://scholar.google.com/citations?user=kYypRqUAAAAJ&hl=en",
@@ -28153,7 +28679,27 @@ var data = [
     },
     "year": "2012"
   },
-  {},
+  {
+    "name": "Pierangelo Veltri",
+    "url": "https://scholar.google.com/citations?user=dfx_8LwAAAAJ&hl=en",
+    "affiliation": "Professor of  Bioengineering and Medical Informatics, DIMES - University of Calabria",
+    "keywords": [],
+    "stats": {
+      "citations": [
+        "3788",
+        "2065"
+      ],
+      "hindex": [
+        "32",
+        "26"
+      ],
+      "i10index": [
+        "88",
+        "58"
+      ]
+    },
+    "year": "2001"
+  },
   {
     "name": "Pierre Zweigenbaum, FACMI, FIAHSI",
     "url": "http://scholar.google.com/citations?user=0LjUNAsAAAAJ&hl=en",
@@ -29939,6 +30485,32 @@ var data = [
     "year": "1999"
   },
   {
+    "name": "Robert A. Becker",
+    "url": "https://scholar.google.com/citations?hl=en&user=y48-0BUAAAAJ",
+    "affiliation": "PhD Candidate in Biomedical Informatics, Vanderbilt University",
+    "keywords": [
+      "electronic health record phenotyping",
+      "health inequities",
+      "transgender health",
+      "mental health"
+    ],
+    "stats": {
+      "citations": [
+        "11",
+        "11"
+      ],
+      "hindex": [
+        "1",
+        "1"
+      ],
+      "i10index": [
+        "1",
+        "1"
+      ]
+    },
+    "year": "2022"
+  },
+  {
     "name": "Robert Badgett",
     "url": "http://scholar.google.com/citations?user=Sr-8DPoAAAAJ&hl=en",
     "affiliation": "Professor of Medicine, Kansas University School of Medicine - Wichita",
@@ -31604,7 +32176,7 @@ var data = [
     "year": "2009"
   },
   {
-    "name": "Sarah Bland",
+    "name": "Harris T. Bland",
     "url": "https://scholar.google.com/citations?hl=en&user=yU3mctAAAAAJ",
     "affiliation": "Department of Biomedical Informatics, Vanderbilt University Medical Center",
     "keywords": [
@@ -35575,7 +36147,31 @@ var data = [
     },
     "year": "2007"
   },
-  {},
+  {
+    "name": "Patricia L. Whetzel",
+    "url": "https://scholar.google.com/citations?user=Vk08KpMAAAAJ&hl=en",
+    "affiliation": "Assistant Research Professor, University of Colorado",
+    "keywords": [
+      "ontology",
+      "medical informatics",
+      "knowledge representation"
+    ],
+    "stats": {
+      "citations": [
+        "12533",
+        "6842"
+      ],
+      "hindex": [
+        "26",
+        "17"
+      ],
+      "i10index": [
+        "38",
+        "24"
+      ]
+    },
+    "year": "2003"
+  },
   {
     "name": "Trupti Joshi",
     "url": "https://scholar.google.com/citations?hl=en&user=Pyt_mlAAAAAJ",
